@@ -1,0 +1,76 @@
+name: Extract Schedule Workflow
+
+on:
+  schedule:
+    - cron: "0 7,9,10,12,14,16 * * *"  # 07:30 UTC orario unificato
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+  pull-requests: write
+
+jobs:
+  extract-schedule:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # ===== SETUP INIZIALE =====
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      # ===== INSTALLAZIONE DIPENDENZE PER PLAYWRIGHT =====
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright beautifulsoup4 bs4 lxml
+          python -m playwright install --with-deps chromium
+
+      # ===== PULIZIA FILE JSON =====
+      - name: Clean existing JSON files
+        run: |
+          rm -f daddyliveSchedule.json
+         
+      # ===== ESTRAZIONE SCHEDULE =====
+      - name: "Extract Schedule from DaddyLive"
+        run: |
+          echo "=== Starting Schedule extraction ==="
+          python extract.py
+          echo "=== Schedule extraction completed ==="
+
+      # ===== COMMIT FINALE =====
+      - name: "Commit and push schedule changes"
+        run: |
+          echo "=== Committing schedule changes ==="
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Ignore Python bytecode files to avoid binary conflicts
+          echo "__pycache__/" >> .gitignore
+          echo "*.pyc" >> .gitignore
+          
+          # Stage all changes
+          git add .
+          
+          # Check if there are changes to commit
+          if [[ -n $(git status --porcelain) ]]; then
+            # Commit changes
+            git commit -m "Update DaddyLive Schedule $(date +%H:%M)"
+            
+            # Pull latest changes with rebase to avoid merge conflicts
+            git pull --rebase origin main
+            
+            # Push changes
+            git push
+            echo "=== Schedule changes pushed successfully ==="
+          else
+            echo "=== No schedule changes to commit ==="
+          fi
