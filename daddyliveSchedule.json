@@ -1,5 +1,37 @@
 {
     "Monday 01st September 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "19:00",
+                "event": "Labor Day Classic at Port Royal Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FLORacing",
+                        "channel_id": "5001"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "Boone Speedway",
+                "channels": [
+                    {
+                        "channel_name": "IMCA.TV",
+                        "channel_id": "5002"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "Thunder Mountain Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5003"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "17:00",
