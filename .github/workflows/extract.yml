@@ -38,14 +38,14 @@ jobs:
       - name: Clean existing JSON files
         run: |
           rm -f daddyliveSchedule.json
-          rm -f daddyliveSchedule_new.json
+          rm -f 247.html
          
       # ===== ESTRAZIONE SCHEDULE =====
-      - name: "Extract Schedule from DaddyLive"
-        run: |
-          echo "=== Starting Schedule extraction ==="
-          python extract.py
-          echo "=== Schedule extraction completed ==="
+#      - name: "Extract Schedule from DaddyLive"
+#        run: |
+#          echo "=== Starting Schedule extraction ==="
+#          python extract.py
+#          echo "=== Schedule extraction completed ==="
         # ===== ESTRAZIONE SCHEDULE_NEW =====
       - name: "Extract Schedule from DaddyLive"
         run: |
