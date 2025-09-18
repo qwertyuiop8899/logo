@@ -26,6 +26,13 @@ def html_to_json(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
     result = {}
 
+    # ATTENZIONE MANUTENZIONE:
+    # La prima versione di questo script aveva la regex dei link canale scritta come r'/watch\\.php\\?id=\\d+'.
+    # Essendo una raw string con backslash doppi, il pattern realizzato cercava letteralmente le sequenze "\\." e "\\?"
+    # e NON trovava i link reali "/watch.php?id=123" -> risultato: channels[] sempre vuoto.
+    # Ora il pattern corretto (usato più sotto) è r'/watch\.php\?id=\d+' (singolo livello di escape) così i channel_id vengono estratti.
+    # Se in futuro cambia la struttura degli href (es. query string diversa), aggiornare di conseguenza.
+
     schedule_div = soup.find('div', id='schedule')
     if not schedule_div:
         print("AVVISO: Contenitore 'schedule' non trovato nel contenuto HTML!")
@@ -62,9 +69,11 @@ def html_to_json(html_content):
                 }
                 channels_div = event_div.find('div', class_='schedule__channels')
                 if channels_div:
-                    for link in channels_div.find_all('a', href=re.compile(r'/watch\\.php\\?id=\\d+')):
+                    # NOTE: la regex precedente era doppiamente escape (r'/watch\\.php\\?id=\\d+') e non matchava l'href reale.
+                    # Corretto pattern: /watch\.php?id=123  (usando raw string singolo livello)
+                    for link in channels_div.find_all('a', href=re.compile(r'/watch\.php\?id=\d+')):
                         href = link.get('href', '')
-                        channel_id_match = re.search(r'id=(\\d+)', href)
+                        channel_id_match = re.search(r'id=(\d+)', href)
                         if channel_id_match:
                             channel_id = channel_id_match.group(1)
                             channel_name = link.text.strip()
