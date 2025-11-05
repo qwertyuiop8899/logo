@@ -1,5 +1,17 @@
 {
     "Wednesday 05th Nov 2025 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "20:30",
+                "event": "World of Outlaws World Finals Charlotte",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "161"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "16:00",
