@@ -4531,6 +4531,46 @@
                 ]
             }
         ],
+        "ATP - ATHENS": [
+            {
+                "time": "15:00",
+                "event": "ATP - ATHENS : Djokovic N. vs Musetti L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
+        "ATP - METZ": [
+            {
+                "time": "15:30",
+                "event": "ATP - METZ : Norrie C. vs Tien L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            }
+        ],
+        "WTA FINALS": [
+            {
+                "time": "16:00",
+                "event": "WTA FINALS : Sabalenka A. vs Rybakina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "15:00",
