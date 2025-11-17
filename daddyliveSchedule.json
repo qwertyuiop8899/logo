@@ -1,5 +1,17 @@
 {
     "Monday 17th Nov 2025 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "02:00",
+                "event": "World of Outlaws Pro Series Volusia",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "20"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "21:00",
@@ -1064,7 +1076,7 @@
                 ]
             },
             {
-                "time": "08:03",
+                "time": "21:12",
                 "event": "5:00 Mens Asia Cup Rising Stars 2025 - Sri Lanka A vs Hong Kong",
                 "channels": [
                     {
