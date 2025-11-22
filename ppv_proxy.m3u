@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c6dd9118e7e62405fdeb223b848cadbb-thumbnail.jpg" group-title="Basketball" tvg-id="LA Clippers vs. Charlotte Hornets" tvg-name="LA Clippers vs. Charlotte Hornets [2025-11-22 18:00]",LA Clippers vs. Charlotte Hornets [2025-11-22 18:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_charlottehornets%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/d33331780fe9b86319bf08daecdeb628-thumbnail.jpg" group-title="Basketball" tvg-id="New York Knicks vs. Orlando Magic" tvg-name="New York Knicks vs. Orlando Magic [2025-11-22 22:00]",New York Knicks vs. Orlando Magic [2025-11-22 22:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_orlandomagic%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/0f8caf87cf9984c353800bcb81c9a5cf-thumbnail.jpg" group-title="Basketball" tvg-id="Atlanta Hawks vs. New Orleans Pelicans" tvg-name="Atlanta Hawks vs. New Orleans Pelicans [2025-11-23 00:00]",Atlanta Hawks vs. New Orleans Pelicans [2025-11-23 00:00]
@@ -25,10 +23,6 @@ https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Foktago
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fcagewarriors%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/6c2a0406f4d0a6370fd66d6402505940-thumbnail.jpg" group-title="Combat Sports" tvg-id="Ring IV: Night Of Champions - Benavidez vs. Yarde" tvg-name="Ring IV: Night Of Champions - Benavidez vs. Yarde [2025-11-22 20:00]",Ring IV: Night Of Champions - Benavidez vs. Yarde [2025-11-22 20:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fdaznboxing%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/9fe9113fa1881b3ee5be45adbeac4ce9-thumbnail.jpg" group-title="Football" tvg-id="Rennes vs. AS Monaco" tvg-name="Rennes vs. AS Monaco [2025-11-22 18:00]",Rennes vs. AS Monaco [2025-11-22 18:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_ren%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/09d011df54ec6b105b6ea57b22422ebb-thumbnail.jpg" group-title="Football" tvg-id="Napoli vs. Atalanta" tvg-name="Napoli vs. Atalanta [2025-11-22 19:45]",Napoli vs. Atalanta [2025-11-22 19:45]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_nap%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/0fa61d84f5caf5880543ef0e668aff99-thumbnail.jpg" group-title="Football" tvg-id="Villarreal CF vs. RCD Mallorca" tvg-name="Villarreal CF vs. RCD Mallorca [2025-11-22 20:00]",Villarreal CF vs. RCD Mallorca [2025-11-22 20:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_vil%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/bf4cbec8a27250cc1738acf79f35b632-thumbnail.jpg" group-title="Football" tvg-id="PSG vs. Havre AC" tvg-name="PSG vs. Havre AC [2025-11-22 20:05]",PSG vs. Havre AC [2025-11-22 20:05]
