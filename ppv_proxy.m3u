@@ -1,32 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/d33331780fe9b86319bf08daecdeb628-thumbnail.jpg" group-title="Basketball" tvg-id="New York Knicks vs. Orlando Magic" tvg-name="New York Knicks vs. Orlando Magic [2025-11-22 22:00]",New York Knicks vs. Orlando Magic [2025-11-22 22:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_orlandomagic%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/0f8caf87cf9984c353800bcb81c9a5cf-thumbnail.jpg" group-title="Basketball" tvg-id="Atlanta Hawks vs. New Orleans Pelicans" tvg-name="Atlanta Hawks vs. New Orleans Pelicans [2025-11-23 00:00]",Atlanta Hawks vs. New Orleans Pelicans [2025-11-23 00:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_neworleanspelicans%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/f8bc1f32c16af2221a7adfbf0e13c9a0-thumbnail.jpg" group-title="Basketball" tvg-id="Washington Wizards vs. Chicago Bulls" tvg-name="Washington Wizards vs. Chicago Bulls [2025-11-23 01:00]",Washington Wizards vs. Chicago Bulls [2025-11-23 01:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_chicagobulls%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/dcdeb3148bbbd2809e15abc80211801b-thumbnail.jpg" group-title="Basketball" tvg-id="Detroit Pistons vs. Milwaukee Bucks" tvg-name="Detroit Pistons vs. Milwaukee Bucks [2025-11-23 01:00]",Detroit Pistons vs. Milwaukee Bucks [2025-11-23 01:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_milwaukeebucks%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/372a10d72dc23e0e10db6387d16d79c1-thumbnail.jpg" group-title="Basketball" tvg-id="Memphis Grizzlies vs. Dallas Mavericks" tvg-name="Memphis Grizzlies vs. Dallas Mavericks [2025-11-23 01:30]",Memphis Grizzlies vs. Dallas Mavericks [2025-11-23 01:30]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_dallasmavericks%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/6b543476fa4872380c932f71807a0acb-thumbnail.jpg" group-title="Basketball" tvg-id="Sacramento Kings vs. Denver Nuggets" tvg-name="Sacramento Kings vs. Denver Nuggets [2025-11-23 03:00]",Sacramento Kings vs. Denver Nuggets [2025-11-23 03:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_denvernuggets%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e8a3d67e0126edf93883f8f7c32558c5-thumbnail.jpg" group-title="Combat Sports" tvg-id="UFC Fight Night: Tsarukyan vs. Hooker" tvg-name="UFC Fight Night: Tsarukyan vs. Hooker [2025-11-22 15:00]",UFC Fight Night: Tsarukyan vs. Hooker [2025-11-22 15:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fufc%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/bb0da688400a63e2ec8b801cb3d37646-thumbnail.jpg" group-title="Combat Sports" tvg-id="OKTAGON 80 (English)" tvg-name="OKTAGON 80 (English) [2025-11-22 17:00]",OKTAGON 80 (English) [2025-11-22 17:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Foktagon-en%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/bb0da688400a63e2ec8b801cb3d37646-thumbnail.jpg" group-title="Combat Sports" tvg-id="OKTAGON 80 (German)" tvg-name="OKTAGON 80 (German) [2025-11-22 17:00]",OKTAGON 80 (German) [2025-11-22 17:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Foktagon-de%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/bb0da688400a63e2ec8b801cb3d37646-thumbnail.jpg" group-title="Combat Sports" tvg-id="OKTAGON 80 (Czech)" tvg-name="OKTAGON 80 (Czech) [2025-11-22 17:00]",OKTAGON 80 (Czech) [2025-11-22 17:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Foktagon-cz%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/7289590eeb6b57832a7079736640a23a-thumbnail.jpg" group-title="Combat Sports" tvg-id="Cage Warriors 198" tvg-name="Cage Warriors 198 [2025-11-22 18:30]",Cage Warriors 198 [2025-11-22 18:30]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fcagewarriors%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/6c2a0406f4d0a6370fd66d6402505940-thumbnail.jpg" group-title="Combat Sports" tvg-id="Ring IV: Night Of Champions - Benavidez vs. Yarde" tvg-name="Ring IV: Night Of Champions - Benavidez vs. Yarde [2025-11-22 20:00]",Ring IV: Night Of Champions - Benavidez vs. Yarde [2025-11-22 20:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fdaznboxing%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/0fa61d84f5caf5880543ef0e668aff99-thumbnail.jpg" group-title="Football" tvg-id="Villarreal CF vs. RCD Mallorca" tvg-name="Villarreal CF vs. RCD Mallorca [2025-11-22 20:00]",Villarreal CF vs. RCD Mallorca [2025-11-22 20:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_vil%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/bf4cbec8a27250cc1738acf79f35b632-thumbnail.jpg" group-title="Football" tvg-id="PSG vs. Havre AC" tvg-name="PSG vs. Havre AC [2025-11-22 20:05]",PSG vs. Havre AC [2025-11-22 20:05]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_psg%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/f015b6b70b59fac4849e79a6e0893b59-thumbnail.jpg" group-title="Basketball" tvg-id="Miami Heat vs. Philadelphia 76ers" tvg-name="Miami Heat vs. Philadelphia 76ers [2025-11-23 18:00]",Miami Heat vs. Philadelphia 76ers [2025-11-23 18:00]
+https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_philadelphia76ers%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/88bc06316d5a64126d060cbf84a18f44-thumbnail.jpg" group-title="Basketball" tvg-id="Charlotte Hornets vs. Atlanta Hawks" tvg-name="Charlotte Hornets vs. Atlanta Hawks [2025-11-23 23:00]",Charlotte Hornets vs. Atlanta Hawks [2025-11-23 23:00]
+https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_atlantahawks%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/0fdcd1e0836994c126fc27d5fcdc4fee-thumbnail.jpg" group-title="Basketball" tvg-id="Orlando Magic vs. Boston Celtics" tvg-name="Orlando Magic vs. Boston Celtics [2025-11-23 23:00]",Orlando Magic vs. Boston Celtics [2025-11-23 23:00]
+https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_bostonceltics%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/8b03de63720e21893428ea48aeba0e92-thumbnail.jpg" group-title="Basketball" tvg-id="LA Clippers vs. Cleveland Cavaliers" tvg-name="LA Clippers vs. Cleveland Cavaliers [2025-11-23 23:00]",LA Clippers vs. Cleveland Cavaliers [2025-11-23 23:00]
+https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_clevelandcavaliers%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/1e338a6cfb422a03d2c94240330c3dfc-thumbnail.jpg" group-title="Basketball" tvg-id="Brooklyn Nets vs. Toronto Raptors" tvg-name="Brooklyn Nets vs. Toronto Raptors [2025-11-23 23:00]",Brooklyn Nets vs. Toronto Raptors [2025-11-23 23:00]
+https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_torontoraptors%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b6eebf9f6513907285e7e6d5bb5878fc-thumbnail.jpg" group-title="Basketball" tvg-id="Portland Trail Blazers vs. Oklahoma City Thunder" tvg-name="Portland Trail Blazers vs. Oklahoma City Thunder [2025-11-24 00:00]",Portland Trail Blazers vs. Oklahoma City Thunder [2025-11-24 00:00]
+https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_oklahomacitythunder%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/24f8327df6314950536180e444f63c10-thumbnail.jpg" group-title="Basketball" tvg-id="San Antonio Spurs vs. Phoenix Suns" tvg-name="San Antonio Spurs vs. Phoenix Suns [2025-11-24 01:00]",San Antonio Spurs vs. Phoenix Suns [2025-11-24 01:00]
+https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_phoenixsuns%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/04490974b7d6e108d443031c1ef97346-thumbnail.jpg" group-title="Basketball" tvg-id="Los Angeles Lakers vs. Utah Jazz" tvg-name="Los Angeles Lakers vs. Utah Jazz [2025-11-24 01:00]",Los Angeles Lakers vs. Utah Jazz [2025-11-24 01:00]
+https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_utahjazz%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/abcd4bd11c80c04825172a39f9c585c6-thumbnail.jpg" group-title="Football" tvg-id="Hellas Verona vs. Parma" tvg-name="Hellas Verona vs. Parma [2025-11-23 11:30]",Hellas Verona vs. Parma [2025-11-23 11:30]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_ver%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e9cb7d85cd57e4ef7c9a3e07e2a2165e-thumbnail.jpg" group-title="Football" tvg-id="Real Oviedo vs. Rayo Vallecano" tvg-name="Real Oviedo vs. Rayo Vallecano [2025-11-23 13:00]",Real Oviedo vs. Rayo Vallecano [2025-11-23 13:00]
@@ -37,37 +25,5 @@ https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fepl_le
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_cre%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/95f857c07992f5237151f714f2603efa-thumbnail.jpg" group-title="Football" tvg-id="AJ Auxerre vs. OL" tvg-name="AJ Auxerre vs. OL [2025-11-23 14:00]",AJ Auxerre vs. OL [2025-11-23 14:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_aux%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/0f7c069ea6c2017940732697a08c014b-thumbnail.jpg" group-title="Football" tvg-id="RB Leipzig vs. Bremen" tvg-name="RB Leipzig vs. Bremen [2025-11-23 14:30]",RB Leipzig vs. Bremen [2025-11-23 14:30]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbundesliga_rbl%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/6fe4890fa1b25c3bbd4c906cd78f29bd-thumbnail.jpg" group-title="Football" tvg-id="Real Betis vs. Girona FC" tvg-name="Real Betis vs. Girona FC [2025-11-23 15:15]",Real Betis vs. Girona FC [2025-11-23 15:15]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_bet%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/1138b1da6318e664353a172c8895c917-thumbnail.jpg" group-title="Football" tvg-id="Brest vs. FC Metz" tvg-name="Brest vs. FC Metz [2025-11-23 16:15]",Brest vs. FC Metz [2025-11-23 16:15]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_brs%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/7319a7dedd236d51e837d32150461a17-thumbnail.jpg" group-title="Football" tvg-id="FC Nantes vs. FC Lorient" tvg-name="FC Nantes vs. FC Lorient [2025-11-23 16:15]",FC Nantes vs. FC Lorient [2025-11-23 16:15]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_nan%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/5307621f61129a79498bf592d9eb63ae-thumbnail.jpg" group-title="Football" tvg-id="Toulouse FC vs. Angers SCO" tvg-name="Toulouse FC vs. Angers SCO [2025-11-23 16:15]",Toulouse FC vs. Angers SCO [2025-11-23 16:15]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_tou%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/9a3a76dc0b2c5e97fb6f1c24db4304c2-thumbnail.jpg" group-title="Football" tvg-id="Arsenal vs. Tottenham Hotspur" tvg-name="Arsenal vs. Tottenham Hotspur [2025-11-23 16:30]",Arsenal vs. Tottenham Hotspur [2025-11-23 16:30]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fepl_ars%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/027cca1748bfbb17b0060090818b4f4e-thumbnail.jpg" group-title="Football" tvg-id="St. Pauli vs. Union Berlin" tvg-name="St. Pauli vs. Union Berlin [2025-11-23 16:30]",St. Pauli vs. Union Berlin [2025-11-23 16:30]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbundesliga_stp%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/dfa3e433e9e1e6bc98cc0f7fe11aa8a4-thumbnail.jpg" group-title="Football" tvg-id="Lazio vs. Lecce" tvg-name="Lazio vs. Lecce [2025-11-23 17:00]",Lazio vs. Lecce [2025-11-23 17:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_laz%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/acf3246be5da7a952d02307a50ef7a95-thumbnail.jpg" group-title="Football" tvg-id="Getafe CF vs. Atlético de Madrid" tvg-name="Getafe CF vs. Atlético de Madrid [2025-11-23 17:30]",Getafe CF vs. Atlético de Madrid [2025-11-23 17:30]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_get%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/78d350880c15f732ab988d90a62dc937-thumbnail.jpg" group-title="Football" tvg-id="Inter vs. Milan" tvg-name="Inter vs. Milan [2025-11-23 19:45]",Inter vs. Milan [2025-11-23 19:45]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_int%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b81ccb0f4ddb953f0c53eaee4706ea4b-thumbnail.jpg" group-title="Football" tvg-id="LOSC vs. Paris FC" tvg-name="LOSC vs. Paris FC [2025-11-23 19:45]",LOSC vs. Paris FC [2025-11-23 19:45]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_lil%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/bea53058dd03a6c07c85382256403fc6-thumbnail.jpg" group-title="Football" tvg-id="Elche CF vs. Real Madrid" tvg-name="Elche CF vs. Real Madrid [2025-11-23 20:00]",Elche CF vs. Real Madrid [2025-11-23 20:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_elc%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ca4f7a879c0fbe33f3973bd5b4af9a1a-thumbnail.jpg" group-title="Football" tvg-id="Torino vs. Como" tvg-name="Torino vs. Como [2025-11-24 17:30]",Torino vs. Como [2025-11-24 17:30]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_tor%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/f9b4acb968b89e16a096e152f14397c0-thumbnail.jpg" group-title="Football" tvg-id="Sassuolo vs. Pisa" tvg-name="Sassuolo vs. Pisa [2025-11-24 19:45]",Sassuolo vs. Pisa [2025-11-24 19:45]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_sas%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/a0375164be5a5ed1b5378901d95044d5-thumbnail.jpg" group-title="Football" tvg-id="Manchester United vs. Everton" tvg-name="Manchester United vs. Everton [2025-11-24 20:00]",Manchester United vs. Everton [2025-11-24 20:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fepl_mun%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b032f516364e5d704ebbe7cef6bc2d46-thumbnail.jpg" group-title="Football" tvg-id="RCD Espanyol de Barcelona vs. Sevilla FC" tvg-name="RCD Espanyol de Barcelona vs. Sevilla FC [2025-11-24 20:00]",RCD Espanyol de Barcelona vs. Sevilla FC [2025-11-24 20:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_esp%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ad652c26f1e7b8e8c36cf316f47f0d4b-thumbnail.jpg" group-title="Motorsports" tvg-id="Las Vegas Grand Prix - Race" tvg-name="Las Vegas Grand Prix - Race [2025-11-23 04:00]",Las Vegas Grand Prix - Race [2025-11-23 04:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ff1%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
