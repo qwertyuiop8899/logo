@@ -25,5 +25,7 @@ https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fepl_le
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_cre%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/95f857c07992f5237151f714f2603efa-thumbnail.jpg" group-title="Football" tvg-id="AJ Auxerre vs. OL" tvg-name="AJ Auxerre vs. OL [2025-11-23 14:00]",AJ Auxerre vs. OL [2025-11-23 14:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_aux%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/dfa3e433e9e1e6bc98cc0f7fe11aa8a4-thumbnail.jpg" group-title="Football" tvg-id="Lazio vs. Lecce" tvg-name="Lazio vs. Lecce [2025-11-23 17:00]",Lazio vs. Lecce [2025-11-23 17:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_laz%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/5307621f61129a79498bf592d9eb63ae-thumbnail.jpg" group-title="Football" tvg-id="Toulouse FC vs. Angers SCO" tvg-name="Toulouse FC vs. Angers SCO [2025-11-23 16:15]",Toulouse FC vs. Angers SCO [2025-11-23 16:15]
+https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_tou%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/bea53058dd03a6c07c85382256403fc6-thumbnail.jpg" group-title="Football" tvg-id="Elche CF vs. Real Madrid" tvg-name="Elche CF vs. Real Madrid [2025-11-23 20:00]",Elche CF vs. Real Madrid [2025-11-23 20:00]
+https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_elc%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
