@@ -15,8 +15,6 @@ https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_ok
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_phoenixsuns%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/04490974b7d6e108d443031c1ef97346-thumbnail.jpg" group-title="Basketball" tvg-id="Los Angeles Lakers vs. Utah Jazz" tvg-name="Los Angeles Lakers vs. Utah Jazz [2025-11-24 01:00]",Los Angeles Lakers vs. Utah Jazz [2025-11-24 01:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_utahjazz%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/abcd4bd11c80c04825172a39f9c585c6-thumbnail.jpg" group-title="Football" tvg-id="Hellas Verona vs. Parma" tvg-name="Hellas Verona vs. Parma [2025-11-23 11:30]",Hellas Verona vs. Parma [2025-11-23 11:30]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_ver%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e9cb7d85cd57e4ef7c9a3e07e2a2165e-thumbnail.jpg" group-title="Football" tvg-id="Real Oviedo vs. Rayo Vallecano" tvg-name="Real Oviedo vs. Rayo Vallecano [2025-11-23 13:00]",Real Oviedo vs. Rayo Vallecano [2025-11-23 13:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_ovi%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/a77ed6830fc422254e5cb1dc4eeb04be-thumbnail.jpg" group-title="Football" tvg-id="Leeds United vs. Aston Villa" tvg-name="Leeds United vs. Aston Villa [2025-11-23 14:00]",Leeds United vs. Aston Villa [2025-11-23 14:00]
@@ -25,7 +23,9 @@ https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fepl_le
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_cre%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/95f857c07992f5237151f714f2603efa-thumbnail.jpg" group-title="Football" tvg-id="AJ Auxerre vs. OL" tvg-name="AJ Auxerre vs. OL [2025-11-23 14:00]",AJ Auxerre vs. OL [2025-11-23 14:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_aux%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/5307621f61129a79498bf592d9eb63ae-thumbnail.jpg" group-title="Football" tvg-id="Toulouse FC vs. Angers SCO" tvg-name="Toulouse FC vs. Angers SCO [2025-11-23 16:15]",Toulouse FC vs. Angers SCO [2025-11-23 16:15]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_tou%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/bea53058dd03a6c07c85382256403fc6-thumbnail.jpg" group-title="Football" tvg-id="Elche CF vs. Real Madrid" tvg-name="Elche CF vs. Real Madrid [2025-11-23 20:00]",Elche CF vs. Real Madrid [2025-11-23 20:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_elc%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/0f7c069ea6c2017940732697a08c014b-thumbnail.jpg" group-title="Football" tvg-id="RB Leipzig vs. Bremen" tvg-name="RB Leipzig vs. Bremen [2025-11-23 14:30]",RB Leipzig vs. Bremen [2025-11-23 14:30]
+https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbundesliga_rbl%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/6fe4890fa1b25c3bbd4c906cd78f29bd-thumbnail.jpg" group-title="Football" tvg-id="Real Betis vs. Girona FC" tvg-name="Real Betis vs. Girona FC [2025-11-23 15:15]",Real Betis vs. Girona FC [2025-11-23 15:15]
+https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_bet%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/acf3246be5da7a952d02307a50ef7a95-thumbnail.jpg" group-title="Football" tvg-id="Getafe CF vs. Atlético de Madrid" tvg-name="Getafe CF vs. Atlético de Madrid [2025-11-23 17:30]",Getafe CF vs. Atlético de Madrid [2025-11-23 17:30]
+https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_get%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
