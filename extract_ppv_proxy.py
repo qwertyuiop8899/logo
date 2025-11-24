@@ -3,6 +3,7 @@ import base64
 import re
 import time
 import urllib3
+import random
 from urllib.parse import quote
 from datetime import datetime
 from requests.adapters import HTTPAdapter
@@ -109,10 +110,32 @@ def extract_ppv_proxy_links():
             try:
                 # Fetch iframe content using plain session to avoid cloudscraper SSL conflicts
                 # verify=False is already set on the session
-                iframe_resp = iframe_session.get(iframe_url, headers=headers, timeout=30)
                 
-                if iframe_resp.status_code != 200:
-                    print(f"    ❌ Failed to fetch iframe: Status {iframe_resp.status_code}")
+                # Simple retry logic for 429/403
+                max_retries = 3
+                iframe_resp = None
+                
+                for attempt in range(max_retries):
+                    iframe_resp = iframe_session.get(iframe_url, headers=headers, timeout=30)
+                    
+                    if iframe_resp.status_code == 429:
+                        wait_time = (attempt + 1) * 5
+                        print(f"    ⚠️ Rate limited (429). Waiting {wait_time}s...")
+                        time.sleep(wait_time)
+                        continue
+                    elif iframe_resp.status_code == 403:
+                        # If 403, maybe try cloudscraper as fallback?
+                        # For now just print error
+                        print(f"    ❌ 403 Forbidden on attempt {attempt+1}")
+                        break
+                    elif iframe_resp.status_code == 200:
+                        break
+                    else:
+                        print(f"    ❌ Status {iframe_resp.status_code} on attempt {attempt+1}")
+                        break
+                
+                if not iframe_resp or iframe_resp.status_code != 200:
+                    print(f"    ❌ Failed to fetch iframe after retries: Status {iframe_resp.status_code if iframe_resp else 'None'}")
                     continue
 
                 iframe_text = iframe_resp.text
@@ -159,8 +182,9 @@ def extract_ppv_proxy_links():
             except Exception as e:
                 print(f"    ⚠️ Error resolving {name}: {e}")
             
-            # Slight delay to be nice
-            time.sleep(0.5)
+            # Random delay to avoid rate limiting
+            sleep_time = random.uniform(1.5, 3.5)
+            time.sleep(sleep_time)
 
     # Save to file
     with open("ppv_proxy.m3u", "w", encoding="utf-8") as f:
