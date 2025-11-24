@@ -19,8 +19,6 @@ https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_ph
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_goldenstatewarriors%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/7d3eea86a73727c3afbe478692694f5a-thumbnail.jpg" group-title="Basketball" tvg-id="Minnesota Timberwolves vs. Sacramento Kings" tvg-name="[NOT LIVE] Minnesota Timberwolves vs. Sacramento Kings [2025-11-25 04:00]",[NOT LIVE] Minnesota Timberwolves vs. Sacramento Kings [2025-11-25 04:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_sacramentokings%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/f9b4acb968b89e16a096e152f14397c0-thumbnail.jpg" group-title="Football" tvg-id="Sassuolo vs. Pisa" tvg-name="[LIVE] Sassuolo vs. Pisa [2025-11-24 20:45]",[LIVE] Sassuolo vs. Pisa [2025-11-24 20:45]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_sas%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/a0375164be5a5ed1b5378901d95044d5-thumbnail.jpg" group-title="Football" tvg-id="Manchester United vs. Everton" tvg-name="[LIVE] Manchester United vs. Everton [2025-11-24 21:00]",[LIVE] Manchester United vs. Everton [2025-11-24 21:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fepl_mun%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b032f516364e5d704ebbe7cef6bc2d46-thumbnail.jpg" group-title="Football" tvg-id="RCD Espanyol de Barcelona vs. Sevilla FC" tvg-name="[LIVE] RCD Espanyol de Barcelona vs. Sevilla FC [2025-11-24 21:00]",[LIVE] RCD Espanyol de Barcelona vs. Sevilla FC [2025-11-24 21:00]
@@ -67,6 +65,8 @@ https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fucl_ol
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fuel_rom%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ba65b168a1e9922f9edfcecc73f7dc08-thumbnail.jpg" group-title="Football" tvg-id="Porto vs. Nice" tvg-name="[NOT LIVE] Porto vs. Nice [2025-11-27 18:45]",[NOT LIVE] Porto vs. Nice [2025-11-27 18:45]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fuel_por%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/5ffbcde3ab2622cd15d871c7423a4e85-thumbnail.jpg" group-title="Football" tvg-id="Feyenoord vs. Celtic" tvg-name="[NOT LIVE] Feyenoord vs. Celtic [2025-11-27 18:45]",[NOT LIVE] Feyenoord vs. Celtic [2025-11-27 18:45]
+https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fuel_fey%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/99354569bdd5473544d45aabf618d47f-thumbnail.jpg" group-title="Football" tvg-id="Lille vs. GNK Dinamo" tvg-name="[NOT LIVE] Lille vs. GNK Dinamo [2025-11-27 18:45]",[NOT LIVE] Lille vs. GNK Dinamo [2025-11-27 18:45]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fuel_lil%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/f29da0f1fda7770793e0a140411f2475-thumbnail.jpg" group-title="Football" tvg-id="Aston Villa vs. Young Boys" tvg-name="[NOT LIVE] Aston Villa vs. Young Boys [2025-11-27 18:45]",[NOT LIVE] Aston Villa vs. Young Boys [2025-11-27 18:45]
