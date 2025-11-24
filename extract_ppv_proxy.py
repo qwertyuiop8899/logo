@@ -2,10 +2,15 @@ import requests
 import base64
 import re
 import time
+import urllib3
 from urllib.parse import quote
 from datetime import datetime
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+import cloudscraper
+
+# Suppress SSL warnings
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 def format_timestamp(unix_timestamp):
     """Convert Unix timestamp to readable format"""
@@ -29,35 +34,21 @@ def extract_ppv_proxy_links():
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
         'Referer': 'https://ppv.to/',
         'Origin': 'https://ppv.to',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.9',
-        'Sec-Fetch-Dest': 'iframe',
-        'Sec-Fetch-Mode': 'navigate',
-        'Sec-Fetch-Site': 'cross-site',
-        'Upgrade-Insecure-Requests': '1'
     }
 
-    # Setup session with retries
-    session = requests.Session()
-    retry_strategy = Retry(
-        total=3,
-        backoff_factor=1,
-        status_forcelist=[429, 500, 502, 503, 504],
-        allowed_methods=["HEAD", "GET", "OPTIONS"]
+    # Setup cloudscraper instead of plain requests
+    # This handles Cloudflare/WAF challenges automatically
+    scraper = cloudscraper.create_scraper(
+        browser={
+            'browser': 'chrome',
+            'platform': 'windows',
+            'desktop': True
+        }
     )
-    adapter = HTTPAdapter(max_retries=retry_strategy)
-    session.mount("https://", adapter)
-    session.mount("http://", adapter)
 
     print(f"Fetching streams from {api_url}...")
     try:
-        # API call usually doesn't need the iframe headers, but UA is good
-        api_headers = headers.copy()
-        if 'Sec-Fetch-Dest' in api_headers: del api_headers['Sec-Fetch-Dest']
-        if 'Sec-Fetch-Mode' in api_headers: del api_headers['Sec-Fetch-Mode']
-        if 'Sec-Fetch-Site' in api_headers: del api_headers['Sec-Fetch-Site']
-        
-        resp = session.get(api_url, headers=api_headers, timeout=30)
+        resp = scraper.get(api_url, timeout=30)
         resp.raise_for_status()
         data = resp.json()
     except Exception as e:
@@ -89,13 +80,31 @@ def extract_ppv_proxy_links():
             
             if not iframe_url:
                 continue
+
+            # Adjust time by +1 hour (3600 seconds)
+            if starts_at:
+                starts_at += 3600
+            if ends_at:
+                ends_at += 3600
+
+            # Determine LIVE status
+            status_prefix = ""
+            if starts_at:
+                start_dt = datetime.fromtimestamp(starts_at)
+                now = datetime.now()
+                # If more than 30 mins (1800s) until start -> NOT LIVE
+                # Otherwise (within 30 mins or started) -> LIVE
+                if (start_dt - now).total_seconds() > 1800:
+                    status_prefix = "[NOT LIVE] "
+                else:
+                    status_prefix = "[LIVE] "
                 
             print(f"  Resolving {name}...")
             
             try:
-                # Fetch iframe content
-                # Use the full browser headers
-                iframe_resp = session.get(iframe_url, headers=headers, timeout=30)
+                # Fetch iframe content using cloudscraper
+                # verify=False to ignore SSL errors on embednow.top
+                iframe_resp = scraper.get(iframe_url, headers=headers, timeout=30, verify=False)
                 
                 if iframe_resp.status_code != 200:
                     print(f"    ❌ Failed to fetch iframe: Status {iframe_resp.status_code}")
@@ -121,8 +130,8 @@ def extract_ppv_proxy_links():
                         start_time = format_timestamp(starts_at)
                         end_time = format_timestamp(ends_at)
                         
-                        # Add time info to channel name
-                        channel_name = f"{name} [{start_time}]"
+                        # Add time info and status to channel name
+                        channel_name = f"{status_prefix}{name} [{start_time}]"
                         
                         # Add to M3U with extended info
                         entry = (
@@ -134,7 +143,7 @@ def extract_ppv_proxy_links():
                             f'{proxy_url}'
                         )
                         m3u_content.append(entry)
-                        print(f"    ✅ Created proxy link | Start: {start_time} | End: {end_time}")
+                        print(f"    ✅ Created proxy link | {status_prefix}| Start: {start_time}")
                     except Exception as decode_err:
                         print(f"    ❌ Error decoding base64: {decode_err}")
                 else:
