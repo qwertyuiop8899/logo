@@ -46,6 +46,11 @@ def extract_ppv_proxy_links():
         }
     )
 
+    # Setup a separate plain session for iframes (embednow.top)
+    # These often have bad SSL certs but might not require Cloudflare bypass
+    iframe_session = requests.Session()
+    iframe_session.verify = False
+
     print(f"Fetching streams from {api_url}...")
     try:
         resp = scraper.get(api_url, timeout=30)
@@ -102,9 +107,9 @@ def extract_ppv_proxy_links():
             print(f"  Resolving {name}...")
             
             try:
-                # Fetch iframe content using cloudscraper
-                # verify=False to ignore SSL errors on embednow.top
-                iframe_resp = scraper.get(iframe_url, headers=headers, timeout=30, verify=False)
+                # Fetch iframe content using plain session to avoid cloudscraper SSL conflicts
+                # verify=False is already set on the session
+                iframe_resp = iframe_session.get(iframe_url, headers=headers, timeout=30)
                 
                 if iframe_resp.status_code != 200:
                     print(f"    ❌ Failed to fetch iframe: Status {iframe_resp.status_code}")
