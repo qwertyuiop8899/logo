@@ -3863,10 +3863,10 @@
             },
             {
                 "time": "20:00",
-                "event": "Champions League Women : Volley Monza vs. Olympiacos",
+                "event": "Champions League Women : Volley Monza vs. Olympiacos Piraeus",
                 "channels": [
                     {
-                        "channel_name": "Piraeus Polsat Sport 3 Poland",
+                        "channel_name": "Polsat Sport 3 Poland",
                         "channel_id": "129"
                     },
                     {
