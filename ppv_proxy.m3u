@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/89d441b71809933302b7223a10415e42-thumbnail.jpg" group-title="Basketball" tvg-id="VCU Rams vs. Vanderbilt Commodores" tvg-name="[NOT LIVE] VCU Rams vs. Vanderbilt Commodores [2025-11-27 18:00]",[NOT LIVE] VCU Rams vs. Vanderbilt Commodores [2025-11-27 18:00]
+https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FESPN%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/3e3ae7d9bd3afef2f2990917694c4db4-thumbnail.jpg" group-title="Basketball" tvg-id="TCU Horned Frogs vs. Florida Gators" tvg-name="[NOT LIVE] TCU Horned Frogs vs. Florida Gators [2025-11-27 21:00]",[NOT LIVE] TCU Horned Frogs vs. Florida Gators [2025-11-27 21:00]
+https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FFS1%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/f08b0742593dbf7d9593a3ff9e48a1b9-thumbnail.jpg" group-title="Basketball" tvg-id="North Carolina Tar Heels vs. Michigan State Spartans" tvg-name="[NOT LIVE] North Carolina Tar Heels vs. Michigan State Spartans [2025-11-27 22:30]",[NOT LIVE] North Carolina Tar Heels vs. Michigan State Spartans [2025-11-27 22:30]
+https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FFOX%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/6ada2ba9507bd9a2be4860259f672e58-thumbnail.jpg" group-title="Basketball" tvg-id="BYU Cougars vs. Miami Hurricanes" tvg-name="[NOT LIVE] BYU Cougars vs. Miami Hurricanes [2025-11-27 23:00]",[NOT LIVE] BYU Cougars vs. Miami Hurricanes [2025-11-27 23:00]
+https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FESPN%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/2fa0ddd0d735d6d2071e9a76d1145126-thumbnail.jpg" group-title="Basketball" tvg-id="Duke Blue Devils vs. Arkansas Razorbacks" tvg-name="[NOT LIVE] Duke Blue Devils vs. Arkansas Razorbacks [2025-11-28 02:00]",[NOT LIVE] Duke Blue Devils vs. Arkansas Razorbacks [2025-11-28 02:00]
+https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FCBS%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/a4d0c4ccfce27de01da30f51df44fac4-thumbnail.jpg" group-title="Football" tvg-id="Roma vs. Midtjylland" tvg-name="[NOT LIVE] Roma vs. Midtjylland [2025-11-27 18:45]",[NOT LIVE] Roma vs. Midtjylland [2025-11-27 18:45]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fuel_rom%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ba65b168a1e9922f9edfcecc73f7dc08-thumbnail.jpg" group-title="Football" tvg-id="Porto vs. Nice" tvg-name="[NOT LIVE] Porto vs. Nice [2025-11-27 18:45]",[NOT LIVE] Porto vs. Nice [2025-11-27 18:45]
@@ -45,6 +55,8 @@ https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fuel_zv
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fuel_mta%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/63720f1f418c403e2551841b0dc3eb98-thumbnail.jpg" group-title="Football" tvg-id="Nott'm Forest vs. Malmö" tvg-name="[NOT LIVE] Nott'm Forest vs. Malmö [2025-11-27 21:00]",[NOT LIVE] Nott'm Forest vs. Malmö [2025-11-27 21:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fuel_nfo%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ef13fea7ec1684b689eb6f3aa04ad807-thumbnail.jpg" group-title="Football" tvg-id="Bologna vs. Salzburg" tvg-name="[NOT LIVE] Bologna vs. Salzburg [2025-11-27 21:00]",[NOT LIVE] Bologna vs. Salzburg [2025-11-27 21:00]
+https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fuel_bol%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/95501f28387e791138875fb941c9e366-thumbnail.jpg" group-title="Football" tvg-id="Panathinaikos vs. Sturm Graz" tvg-name="[NOT LIVE] Panathinaikos vs. Sturm Graz [2025-11-27 21:00]",[NOT LIVE] Panathinaikos vs. Sturm Graz [2025-11-27 21:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fuel_pan%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/212bcc81525230fbb58c39a74d5dc4f4-thumbnail.jpg" group-title="Football" tvg-id="Go Ahead Eagles vs. Stuttgart" tvg-name="[NOT LIVE] Go Ahead Eagles vs. Stuttgart [2025-11-27 21:00]",[NOT LIVE] Go Ahead Eagles vs. Stuttgart [2025-11-27 21:00]
