@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/f546d7a5500674b2b564464b70f0625f-thumbnail.jpg" group-title="Basketball" tvg-id="Eastern Illinois Panthers vs. Purdue Boilermakers" tvg-name="[LIVE] Eastern Illinois Panthers vs. Purdue Boilermakers [2025-11-28 18:00]",[LIVE] Eastern Illinois Panthers vs. Purdue Boilermakers [2025-11-28 18:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FBTN%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/31afd1050a539e0273ddf03b9cd0ee3e-thumbnail.jpg" group-title="Basketball" tvg-id="Illinois Fighting Illini vs. UConn Huskies" tvg-name="[LIVE] Illinois Fighting Illini vs. UConn Huskies [2025-11-28 18:30]",[LIVE] Illinois Fighting Illini vs. UConn Huskies [2025-11-28 18:30]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FFOX%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/40d6707d9582cdfee45bebb01c627390-thumbnail.jpg" group-title="Basketball" tvg-id="Saint Mary's Gaels vs. Vanderbilt Commodores" tvg-name="[LIVE] Saint Mary's Gaels vs. Vanderbilt Commodores [2025-11-28 19:00]",[LIVE] Saint Mary's Gaels vs. Vanderbilt Commodores [2025-11-28 19:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FESPN2%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/a9664cdb68ae3b3db2d6a02fdb0d7c73-thumbnail.jpg" group-title="Basketball" tvg-id="Providence Friars vs. Florida Gators" tvg-name="[NOT LIVE] Providence Friars vs. Florida Gators [2025-11-28 21:00]",[NOT LIVE] Providence Friars vs. Florida Gators [2025-11-28 21:00]
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/a9664cdb68ae3b3db2d6a02fdb0d7c73-thumbnail.jpg" group-title="Basketball" tvg-id="Providence Friars vs. Florida Gators" tvg-name="[LIVE] Providence Friars vs. Florida Gators [2025-11-28 21:00]",[LIVE] Providence Friars vs. Florida Gators [2025-11-28 21:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FFOX%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/16931354a113fb8b800af9e092c29f94-thumbnail.jpg" group-title="Basketball" tvg-id="Cleveland Cavaliers vs. Atlanta Hawks (East Group A)" tvg-name="[NOT LIVE] Cleveland Cavaliers vs. Atlanta Hawks (East Group A) [2025-11-29 01:30]",[NOT LIVE] Cleveland Cavaliers vs. Atlanta Hawks (East Group A) [2025-11-29 01:30]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_atlantahawks%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
@@ -37,13 +31,7 @@ https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fufc%2F
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fufc%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/dfe08bb48f4502d771b895d499d8ca10-thumbnail.jpg" group-title="Combat Sports" tvg-id="UFC 324: Gaethje vs. Pimblett" tvg-name="[NOT LIVE] UFC 324: Gaethje vs. Pimblett [2026-01-25 03:00]",[NOT LIVE] UFC 324: Gaethje vs. Pimblett [2026-01-25 03:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fufc%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/023a790d6578107f9a340751320e69d4-thumbnail.jpg" group-title="Football" tvg-id="Gladbach vs. RB Leipzig" tvg-name="[LIVE] Gladbach vs. RB Leipzig [2025-11-28 20:30]",[LIVE] Gladbach vs. RB Leipzig [2025-11-28 20:30]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbundesliga_bmg%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/55401ac2aad0825bddd57a9aeb1df35a-thumbnail.jpg" group-title="Football" tvg-id="Como vs. Sassuolo" tvg-name="[LIVE] Como vs. Sassuolo [2025-11-28 20:45]",[LIVE] Como vs. Sassuolo [2025-11-28 20:45]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_com%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/30820a39dbdc363ae35845aeea09919b-thumbnail.jpg" group-title="Football" tvg-id="FC Metz vs. Rennes" tvg-name="[LIVE] FC Metz vs. Rennes [2025-11-28 20:45]",[LIVE] FC Metz vs. Rennes [2025-11-28 20:45]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_met%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/8b26b67f5b87dd59c65be1d8fc982c45-thumbnail.jpg" group-title="Football" tvg-id="Getafe CF vs. Elche CF" tvg-name="[NOT LIVE] Getafe CF vs. Elche CF [2025-11-28 21:00]",[NOT LIVE] Getafe CF vs. Elche CF [2025-11-28 21:00]
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/8b26b67f5b87dd59c65be1d8fc982c45-thumbnail.jpg" group-title="Football" tvg-id="Getafe CF vs. Elche CF" tvg-name="[LIVE] Getafe CF vs. Elche CF [2025-11-28 21:00]",[LIVE] Getafe CF vs. Elche CF [2025-11-28 21:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_get%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/78753432b4a43bdb78d99c6a00e322c9-thumbnail.jpg" group-title="Football" tvg-id="RCD Mallorca vs. CA Osasuna" tvg-name="[NOT LIVE] RCD Mallorca vs. CA Osasuna [2025-11-29 14:00]",[NOT LIVE] RCD Mallorca vs. CA Osasuna [2025-11-29 14:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_mll%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
