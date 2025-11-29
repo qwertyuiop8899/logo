@@ -27,6 +27,8 @@ https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_mll
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_gen%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/1d485895fae1410dc708a9e85102af16-thumbnail.jpg" group-title="Football" tvg-id="Parma vs. Udinese" tvg-name="[NOT LIVE] Parma vs. Udinese [2025-11-29 15:00]",[NOT LIVE] Parma vs. Udinese [2025-11-29 15:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_par%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/dd9a64549d7fa6bd306566b0093c32ba-thumbnail.jpg" group-title="Football" tvg-id="Goal Arena" tvg-name="[NOT LIVE] Goal Arena [2025-11-29 15:30]",[NOT LIVE] Goal Arena [2025-11-29 15:30]
+https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbundesliga_goalarena%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/7b5c99b786bcec44b30949d5cae0ba5e-thumbnail.jpg" group-title="Football" tvg-id="Union Berlin vs. Heidenheim" tvg-name="[NOT LIVE] Union Berlin vs. Heidenheim [2025-11-29 15:30]",[NOT LIVE] Union Berlin vs. Heidenheim [2025-11-29 15:30]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbundesliga_fcu%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/3bf1111d678c97e060e2fbb460a0fd97-thumbnail.jpg" group-title="Football" tvg-id="Bayern vs. St. Pauli" tvg-name="[NOT LIVE] Bayern vs. St. Pauli [2025-11-29 15:30]",[NOT LIVE] Bayern vs. St. Pauli [2025-11-29 15:30]
