@@ -23,17 +23,9 @@ https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fufc%2F
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fufc%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/dfe08bb48f4502d771b895d499d8ca10-thumbnail.jpg" group-title="Combat Sports" tvg-id="UFC 324: Gaethje vs. Pimblett" tvg-name="[NOT LIVE] UFC 324: Gaethje vs. Pimblett [2026-01-25 03:00]",[NOT LIVE] UFC 324: Gaethje vs. Pimblett [2026-01-25 03:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fufc%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e1b4c81c443ec470f685fe6e743c1a0f-thumbnail.jpg" group-title="Football" tvg-id="Juventus vs. Cagliari" tvg-name="[LIVE] Juventus vs. Cagliari [2025-11-29 18:00]",[LIVE] Juventus vs. Cagliari [2025-11-29 18:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_juv%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/06b90c7be028bea3b17d9428cdb4eaf1-thumbnail.jpg" group-title="Football" tvg-id="Everton vs. Newcastle United" tvg-name="[LIVE] Everton vs. Newcastle United [2025-11-29 18:30]",[LIVE] Everton vs. Newcastle United [2025-11-29 18:30]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fepl_eve%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/812137bd71af9b691c616f5ec3077fb7-thumbnail.jpg" group-title="Football" tvg-id="Leverkusen vs. Dortmund" tvg-name="[LIVE] Leverkusen vs. Dortmund [2025-11-29 18:30]",[LIVE] Leverkusen vs. Dortmund [2025-11-29 18:30]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbundesliga_b04%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/5a54a4b329385b8b72e158c90cffbcde-thumbnail.jpg" group-title="Football" tvg-id="Levante UD vs. Athletic Club" tvg-name="[LIVE] Levante UD vs. Athletic Club [2025-11-29 18:30]",[LIVE] Levante UD vs. Athletic Club [2025-11-29 18:30]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_lev%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/5dea2507af3cb3dfac2f76281c516c8a-thumbnail.jpg" group-title="Football" tvg-id="Paris FC vs. AJ Auxerre" tvg-name="[LIVE] Paris FC vs. AJ Auxerre [2025-11-29 19:00]",[LIVE] Paris FC vs. AJ Auxerre [2025-11-29 19:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_pfc%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e11d6414013fb2f7deffff9a6d5628fe-thumbnail.jpg" group-title="Football" tvg-id="Milan vs. Lazio" tvg-name="[NOT LIVE] Milan vs. Lazio [2025-11-29 20:45]",[NOT LIVE] Milan vs. Lazio [2025-11-29 20:45]
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e11d6414013fb2f7deffff9a6d5628fe-thumbnail.jpg" group-title="Football" tvg-id="Milan vs. Lazio" tvg-name="[LIVE] Milan vs. Lazio [2025-11-29 20:45]",[LIVE] Milan vs. Lazio [2025-11-29 20:45]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_mil%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e975867a8109f72dfc522c2e9cdce86c-thumbnail.jpg" group-title="Football" tvg-id="Tottenham Hotspur vs. Fulham" tvg-name="[NOT LIVE] Tottenham Hotspur vs. Fulham [2025-11-29 21:00]",[NOT LIVE] Tottenham Hotspur vs. Fulham [2025-11-29 21:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fepl_tot%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
@@ -87,7 +79,5 @@ https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_gir
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_bol%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/fafbb265ea3402b14e79a669eb9407a2-thumbnail.jpg" group-title="Football" tvg-id="Rayo Vallecano vs. Valencia CF" tvg-name="[NOT LIVE] Rayo Vallecano vs. Valencia CF [2025-12-01 21:00]",[NOT LIVE] Rayo Vallecano vs. Valencia CF [2025-12-01 21:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_ray%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b9c007ff22ab6f8625188a61dcadf712-thumbnail.jpg" group-title="Motorsports" tvg-id="Qatar Grand Prix - Qualifying" tvg-name="[LIVE] Qatar Grand Prix - Qualifying [2025-11-29 19:00]",[LIVE] Qatar Grand Prix - Qualifying [2025-11-29 19:00]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ff1%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/25fcfc6e44ab81e3872f319f0bad17d5-thumbnail.jpg" group-title="Motorsports" tvg-id="Qatar Grand Prix - Race" tvg-name="[NOT LIVE] Qatar Grand Prix - Race [2025-11-30 17:00]",[NOT LIVE] Qatar Grand Prix - Race [2025-11-30 17:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ff1%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
