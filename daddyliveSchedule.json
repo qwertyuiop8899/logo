@@ -5824,10 +5824,10 @@
             },
             {
                 "time": "18:00",
-                "event": "DEL : Dresdner Eislowen vs Red Bull",
+                "event": "DEL : Dresdner Eislowen vs Red Bull M\u00fcnchen",
                 "channels": [
                     {
-                        "channel_name": "M\u00fcnchen Magenta Sport 302",
+                        "channel_name": "Magenta Sport 302",
                         "channel_id": "158"
                     }
                 ]
