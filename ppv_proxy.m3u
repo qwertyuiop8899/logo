@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e9bbb6f5591d2ecd85b0b58ee7ab6e3a-thumbnail.jpg" group-title="Basketball" tvg-id="Houston Rockets vs. Utah Jazz" tvg-name="[NOT LIVE] Houston Rockets vs. Utah Jazz [2025-11-30 21:00]",[NOT LIVE] Houston Rockets vs. Utah Jazz [2025-11-30 21:00]
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e9bbb6f5591d2ecd85b0b58ee7ab6e3a-thumbnail.jpg" group-title="Basketball" tvg-id="Houston Rockets vs. Utah Jazz" tvg-name="[LIVE] Houston Rockets vs. Utah Jazz [2025-11-30 21:00]",[LIVE] Houston Rockets vs. Utah Jazz [2025-11-30 21:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_utahjazz%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c27ae37f5d93775161967cd4a2454daf-thumbnail.jpg" group-title="Basketball" tvg-id="Boston Celtics vs. Cleveland Cavaliers" tvg-name="[NOT LIVE] Boston Celtics vs. Cleveland Cavaliers [2025-12-01 00:00]",[NOT LIVE] Boston Celtics vs. Cleveland Cavaliers [2025-12-01 00:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_clevelandcavaliers%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
@@ -21,13 +21,7 @@ https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fufc%2F
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fufc%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/dfe08bb48f4502d771b895d499d8ca10-thumbnail.jpg" group-title="Combat Sports" tvg-id="UFC 324: Gaethje vs. Pimblett" tvg-name="[NOT LIVE] UFC 324: Gaethje vs. Pimblett [2026-01-25 03:00]",[NOT LIVE] UFC 324: Gaethje vs. Pimblett [2026-01-25 03:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fufc%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/0fb3be3aa77a99874386128dbe28a5fb-thumbnail.jpg" group-title="Football" tvg-id="Freiburg vs. Mainz" tvg-name="[LIVE] Freiburg vs. Mainz [2025-11-30 19:30]",[LIVE] Freiburg vs. Mainz [2025-11-30 19:30]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbundesliga_scf%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/5c67947a03fbfaac9b424f5b115b20d3-thumbnail.jpg" group-title="Football" tvg-id="Roma vs. Napoli" tvg-name="[LIVE] Roma vs. Napoli [2025-11-30 20:45]",[LIVE] Roma vs. Napoli [2025-11-30 20:45]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_rom%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/1df2cc5e91d86f622c1df186d25f804e-thumbnail.jpg" group-title="Football" tvg-id="OL vs. FC Nantes" tvg-name="[LIVE] OL vs. FC Nantes [2025-11-30 20:45]",[LIVE] OL vs. FC Nantes [2025-11-30 20:45]
-https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_lyn%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/07b6052b9c0e7c323c46cad950fd27bd-thumbnail.jpg" group-title="Football" tvg-id="Girona FC vs. Real Madrid" tvg-name="[NOT LIVE] Girona FC vs. Real Madrid [2025-11-30 21:00]",[NOT LIVE] Girona FC vs. Real Madrid [2025-11-30 21:00]
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/07b6052b9c0e7c323c46cad950fd27bd-thumbnail.jpg" group-title="Football" tvg-id="Girona FC vs. Real Madrid" tvg-name="[LIVE] Girona FC vs. Real Madrid [2025-11-30 21:00]",[LIVE] Girona FC vs. Real Madrid [2025-11-30 21:00]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_gir%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c3da8a232eb9f915c0e9ebfc30d92da3-thumbnail.jpg" group-title="Football" tvg-id="Bologna vs. Cremonese" tvg-name="[NOT LIVE] Bologna vs. Cremonese [2025-12-01 20:45]",[NOT LIVE] Bologna vs. Cremonese [2025-12-01 20:45]
 https://addon3.gstream.stream/proxy/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_bol%2Findex.m3u8&ref=https%3A%2F%2Fppv.to%2F&rw=1
