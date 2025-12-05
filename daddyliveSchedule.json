@@ -1555,7 +1555,7 @@
         "MMA": [
             {
                 "time": "16:00",
-                "event": "Professional Fighters League : Mohammad Alaqraa vs Badreddine Diani",
+                "event": "Professional Fighters League (PFL) : Mohammad Alaqraa vs Badreddine Diani",
                 "channels": [
                     {
                         "channel_name": "PPV Feed",
@@ -1620,7 +1620,7 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (SmackDown)": [
             {
                 "time": "01:00",
                 "event": "WWE Friday Night SmackDown",
@@ -1934,7 +1934,7 @@
                 "event": "World Sevens Football : Tigres UANL vs. AFC Toronto",
                 "channels": [
                     {
-                        "channel_name": "Trutv USA",
+                        "channel_name": "truTV USA",
                         "channel_id": "341"
                     }
                 ]
@@ -2346,7 +2346,9 @@
                         "channel_id": "590"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "00:00",
                 "event": "NBA : Boston Celtics vs Los Angeles Lakers",
@@ -2842,6 +2844,16 @@
         ],
         "Ice Hockey": [
             {
+                "time": "14:30",
+                "event": "KHL : Barys Astana vs Spartak Moscow",
+                "channels": [
+                    {
+                        "channel_name": "Arena Sport 1 Serbia",
+                        "channel_id": "429"
+                    }
+                ]
+            },
+            {
                 "time": "16:30",
                 "event": "Slovakia, Extraliga : Dukla Michalovce vs. HC Kosice",
                 "channels": [
@@ -2852,12 +2864,122 @@
                 ]
             },
             {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Vimmerby vs Modo",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 1 Sweden",
+                        "channel_id": "703"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Sodertalje vs Troja/Ljungby",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 2 Sweden",
+                        "channel_id": "704"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Oskarshamn vs IF Bjorkloven",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Hockey Sweden",
+                        "channel_id": "700"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Nybro vs Kalmar",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sportkanalen Sweden",
+                        "channel_id": "707"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Mora vs BIK Karlskoga",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 4 Sweden",
+                        "channel_id": "706"
+                    }
+                ]
+            },
+            {
                 "time": "18:15",
                 "event": "Austria ICE Hockey League : HK Olimpija vs EC VSV",
                 "channels": [
                     {
                         "channel_name": "STV 1 Slovenia",
                         "channel_id": "76"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Grizzly Wolfsburg vs Frankfurt Lowen",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 307",
+                        "channel_id": "18"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Schwenninger vs Bremerhaven",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 304",
+                        "channel_id": "19"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Red Bull M\u00fcnchen vs ERC Ingolstadt",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 306",
+                        "channel_id": "20"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Kolner vs Nurnberg Ice Tigers",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 308",
+                        "channel_id": "21"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Eisbaren Berlin vs Iserlohn Roosters",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 305",
+                        "channel_id": "23"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Straubing Tigers vs Adler Mannheim",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 303",
+                        "channel_id": "24"
                     }
                 ]
             },
@@ -2893,14 +3015,16 @@
             },
             {
                 "time": "01:30",
-                "event": "College Hockey : Michigan at Michigan State",
+                "event": "College Hockey : Michigan vs Michigan State",
                 "channels": [
                     {
                         "channel_name": "Big Ten Network",
                         "channel_id": "397"
                     }
                 ]
-            },
+            }
+        ],
+        "NHL": [
             {
                 "time": "00:00",
                 "event": "NHL : Vegas Golden Knights vs New Jersey Devils",
@@ -3048,126 +3172,6 @@
                     {
                         "channel_name": "V Sport Vinter",
                         "channel_id": "18"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Grizzly Wolfsburg vs Frankfurt Lowen",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 307",
-                        "channel_id": "18"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Schwenninger vs Bremerhaven",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 304",
-                        "channel_id": "19"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Red Bull M\u00fcnchen vs ERC Ingolstadt",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 306",
-                        "channel_id": "20"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Kolner vs Nurnberg Ice Tigers",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 308",
-                        "channel_id": "21"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Eisbaren Berlin vs Iserlohn Roosters",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 305",
-                        "channel_id": "23"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Straubing Tigers vs Adler Mannheim",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 303",
-                        "channel_id": "24"
-                    }
-                ]
-            },
-            {
-                "time": "14:30",
-                "event": "KHL : Barys Astana vs Spartak Moscow",
-                "channels": [
-                    {
-                        "channel_name": "Arena Sport 1 Serbia",
-                        "channel_id": "429"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Vimmerby vs Modo",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 1 Sweden",
-                        "channel_id": "703"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Sodertalje vs Troja/Ljungby",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 2 Sweden",
-                        "channel_id": "704"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Oskarshamn vs IF Bjorkloven",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey Sweden",
-                        "channel_id": "700"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Nybro vs Kalmar",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sportkanalen Sweden",
-                        "channel_id": "707"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Mora vs BIK Karlskoga",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 4 Sweden",
-                        "channel_id": "706"
                     }
                 ]
             }
