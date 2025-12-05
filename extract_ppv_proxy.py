@@ -1,196 +1,166 @@
 import requests
-import base64
-import re
+import json
 import time
-import urllib3
-import random
-from urllib.parse import quote
 from datetime import datetime
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
-import cloudscraper
+import urllib.parse
 
-# Suppress SSL warnings
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+# Configuration
+ADDON_BASE_URL = "https://addon3.gstream.stream"
+CATALOG_URL = f"{ADDON_BASE_URL}/catalog/StreamsPPV/ppv-PPV.json"
+META_BASE_URL = f"{ADDON_BASE_URL}/meta/StreamsPPV"
+OUTPUT_FILE = "ppv_proxy.m3u"
 
-def format_timestamp(unix_timestamp):
-    """Convert Unix timestamp to readable format"""
-    if not unix_timestamp:
-        return "Unknown"
-    dt = datetime.fromtimestamp(unix_timestamp)
-    return dt.strftime("%Y-%m-%d %H:%M")
+# Categories to include (matching the addon's genres)
+WANTED_CATEGORIES = ["Basketball", "Football", "Motorsports", "Combat Sports", "Wrestling", "Cricket", "Rugby", "Golf", "Darts"]
 
-def extract_ppv_proxy_links():
-    api_url = "https://ppv.to/api/streams"
-    
-    # Categories to include
-    wanted_categories = ["Basketball", "Football", "Motorsports", "Combat Sports"]
-    
-    # Proxy base URL
-    proxy_base = "https://addon3.gstream.stream/proxy/m3u8"
-    referer = "https://ppv.to/"
-    
-    # Headers mimicking a real browser
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-        'Referer': 'https://ppv.to/',
-        'Origin': 'https://ppv.to',
-    }
-
-    # Setup cloudscraper instead of plain requests
-    # This handles Cloudflare/WAF challenges automatically
-    scraper = cloudscraper.create_scraper(
-        browser={
-            'browser': 'chrome',
-            'platform': 'windows',
-            'desktop': True
-        }
-    )
-
-    # Setup a separate plain session for iframes (embednow.top)
-    # These often have bad SSL certs but might not require Cloudflare bypass
-    iframe_session = requests.Session()
-    iframe_session.verify = False
-
-    print(f"Fetching streams from {api_url}...")
+def fetch_catalog():
+    print(f"Fetching catalog from {CATALOG_URL}...")
     try:
-        resp = scraper.get(api_url, timeout=30)
+        resp = requests.get(CATALOG_URL, timeout=30)
         resp.raise_for_status()
         data = resp.json()
+        return data.get("metas", [])
     except Exception as e:
-        print(f"Error fetching API: {e}")
-        return
+        print(f"Error fetching catalog: {e}")
+        return []
 
-    streams_data = data.get("streams", [])
-    print(f"Found {len(streams_data)} categories.")
+def fetch_meta(item_id):
+    url = f"{META_BASE_URL}/{item_id}.json"
+    # print(f"  Fetching meta for {item_id}...")
+    try:
+        resp = requests.get(url, timeout=10)
+        if resp.status_code == 200:
+            return resp.json().get("meta", {})
+        else:
+            # print(f"  ❌ Meta fetch failed: {resp.status_code}")
+            return None
+    except Exception as e:
+        print(f"  ⚠️ Error fetching meta: {e}")
+        return None
 
-    m3u_content = ["#EXTM3U"]
+def extract_stream_url(meta):
+    if not meta:
+        return None
+    
+    videos = meta.get("videos", [])
+    if not videos:
+        return None
+    
+    # Usually the first video/stream is what we want
+    video = videos[0]
+    streams = video.get("streams", [])
+    
+    if not streams:
+        return None
+    
+    # The URL is usually in the first stream object
+    # Format: https://addon3.gstream.stream/poo/m3u8?u=...
+    raw_url = streams[0].get("url")
+    return raw_url
 
-    for category in streams_data:
-        cat_name = category.get("category", "Unknown")
+def format_timestamp(iso_date_str):
+    if not iso_date_str:
+        return ""
+    try:
+        # Parse ISO format (e.g. 2025-12-05T04:00:00.000Z)
+        dt = datetime.fromisoformat(iso_date_str.replace('Z', '+00:00'))
+        return dt.strftime("%Y-%m-%d %H:%M")
+    except:
+        return iso_date_str
+
+def main():
+    items = fetch_catalog()
+    print(f"Found {len(items)} items in catalog.")
+    
+    m3u_lines = ["#EXTM3U"]
+    
+    count = 0
+    
+    for item in items:
+        item_id = item.get("id")
+        name = item.get("name")
+        genres = item.get("genres", [])
+        poster = item.get("poster", "")
+        release_info = item.get("releaseInfo", "") # e.g. "🔴 Live" or "⏳ Upcoming ..."
         
-        # Filter categories
-        if cat_name not in wanted_categories:
-            print(f"Skipping category: {cat_name}")
-            continue
+        # Filter by category
+        category = "Unknown"
+        if genres:
+            category = genres[0]
             
-        cat_streams = category.get("streams", [])
-        print(f"\nProcessing Category: {cat_name} ({len(cat_streams)} streams)")
+        if category not in WANTED_CATEGORIES and "Channels" not in genres and "24/7 Streams" not in genres:
+             # Optional: include everything or filter strictly
+             # For now, let's be permissive but prioritize wanted ones for grouping
+             pass
+
+        print(f"Processing: {name} ({category}) - {release_info}")
         
-        for s in cat_streams:
-            name = s.get("name", "Unknown")
-            iframe_url = s.get("iframe")
-            poster = s.get("poster", "")
-            starts_at = s.get("starts_at")
-            ends_at = s.get("ends_at")
-            
-            if not iframe_url:
-                continue
-
-            # Adjust time by +1 hour (3600 seconds)
-            if starts_at:
-                starts_at += 3600
-            if ends_at:
-                ends_at += 3600
-
-            # Determine LIVE status
+        # Fetch detailed metadata to get the stream URL
+        meta = fetch_meta(item_id)
+        stream_url = extract_stream_url(meta)
+        
+        if stream_url:
+            # Determine status prefix
             status_prefix = ""
-            if starts_at:
-                start_dt = datetime.fromtimestamp(starts_at)
-                now = datetime.now()
-                # If more than 30 mins (1800s) until start -> NOT LIVE
-                # Otherwise (within 30 mins or started) -> LIVE
-                if (start_dt - now).total_seconds() > 1800:
-                    status_prefix = "[NOT LIVE] "
-                else:
-                    status_prefix = "[LIVE] "
-                
-            print(f"  Resolving {name}...")
+            if "Live" in release_info:
+                status_prefix = "[LIVE] "
+            elif "Upcoming" in release_info:
+                status_prefix = "[NOT LIVE] "
             
-            try:
-                # Fetch iframe content using plain session to avoid cloudscraper SSL conflicts
-                # verify=False is already set on the session
-                
-                # Simple retry logic for 429/403
-                max_retries = 3
-                iframe_resp = None
-                
-                for attempt in range(max_retries):
-                    iframe_resp = iframe_session.get(iframe_url, headers=headers, timeout=30)
+            # Try to extract date from meta if available
+            date_str = ""
+            if meta and meta.get("videos"):
+                released = meta["videos"][0].get("released")
+                if released:
+                    formatted_date = format_timestamp(released)
+                    date_str = f" [{formatted_date}]"
+            
+            final_name = f"{status_prefix}{name}{date_str}"
+            
+            # Construct M3U entry
+            # We need to convert the addon URL to the specific proxy format expected by ppv_streams.py
+            # Addon URL: https://addon3.gstream.stream/poo/m3u8?u=REAL_URL
+            # Target URL: https://addon3.gstream.stream/proxy/m3u8?u=REAL_URL&ref=https://ppv.to/&rw=1
+            
+            final_stream_url = stream_url # Fallback
+            
+            if "u=" in stream_url:
+                try:
+                    parsed = urllib.parse.urlparse(stream_url)
+                    qs = urllib.parse.parse_qs(parsed.query)
+                    real_url = qs.get('u', [None])[0]
                     
-                    if iframe_resp.status_code == 429:
-                        wait_time = (attempt + 1) * 5
-                        print(f"    ⚠️ Rate limited (429). Waiting {wait_time}s...")
-                        time.sleep(wait_time)
-                        continue
-                    elif iframe_resp.status_code == 403:
-                        # If 403, maybe try cloudscraper as fallback?
-                        # For now just print error
-                        print(f"    ❌ 403 Forbidden on attempt {attempt+1}")
-                        break
-                    elif iframe_resp.status_code == 200:
-                        break
-                    else:
-                        print(f"    ❌ Status {iframe_resp.status_code} on attempt {attempt+1}")
-                        break
-                
-                if not iframe_resp or iframe_resp.status_code != 200:
-                    print(f"    ❌ Failed to fetch iframe after retries: Status {iframe_resp.status_code if iframe_resp else 'None'}")
-                    continue
+                    if real_url:
+                        # Construct the specific URL format with Referer
+                        encoded_real_url = urllib.parse.quote(real_url, safe='')
+                        encoded_referer = urllib.parse.quote("https://ppv.to/", safe='')
+                        
+                        final_stream_url = f"https://addon3.gstream.stream/proxy/m3u8?u={encoded_real_url}&ref={encoded_referer}"
+                except Exception as e:
+                    print(f"  ⚠️ Error parsing URL: {e}")
 
-                iframe_text = iframe_resp.text
-                
-                # Extract base64 encoded URL - improved regex for single/double quotes and spaces
-                match = re.search(r'atob\s*\(\s*["\'](.*?)["\']\s*\)', iframe_text)
-                
-                if match:
-                    encoded = match.group(1)
-                    try:
-                        decoded_bytes = base64.b64decode(encoded)
-                        stream_url = decoded_bytes.decode('utf-8')
-                        
-                        # Build proxy URL
-                        encoded_stream_url = quote(stream_url, safe='')
-                        encoded_referer = quote(referer, safe='')
-                        proxy_url = f"{proxy_base}?u={encoded_stream_url}&ref={encoded_referer}&rw=1"
-                        
-                        # Format event times
-                        start_time = format_timestamp(starts_at)
-                        end_time = format_timestamp(ends_at)
-                        
-                        # Add time info and status to channel name
-                        channel_name = f"{status_prefix}{name} [{start_time}]"
-                        
-                        # Add to M3U with extended info
-                        entry = (
-                            f'#EXTINF:-1 tvg-logo="{poster}" '
-                            f'group-title="{cat_name}" '
-                            f'tvg-id="{name}" '
-                            f'tvg-name="{channel_name}",'
-                            f'{channel_name}\n'
-                            f'{proxy_url}'
-                        )
-                        m3u_content.append(entry)
-                        print(f"    ✅ Created proxy link | {status_prefix}| Start: {start_time}")
-                    except Exception as decode_err:
-                        print(f"    ❌ Error decoding base64: {decode_err}")
-                else:
-                    # Debug: print a bit of the response if failed
-                    snippet = iframe_text[:100].replace('\n', ' ')
-                    print(f"    ❌ Could not find encoded URL in iframe. Snippet: {snippet}...")
-                    
-            except Exception as e:
-                print(f"    ⚠️ Error resolving {name}: {e}")
-            
-            # Random delay to avoid rate limiting
-            sleep_time = random.uniform(1.5, 3.5)
-            time.sleep(sleep_time)
+            entry = (
+                f'#EXTINF:-1 tvg-logo="{poster}" '
+                f'group-title="{category}" '
+                f'tvg-id="{name}" '
+                f'tvg-name="{final_name}",'
+                f'{final_name}\n'
+                f'{final_stream_url}'
+            )
+            m3u_lines.append(entry)
+            count += 1
+            print(f"  ✅ Added stream")
+        else:
+            print(f"  ❌ No stream found")
+        
+        # Be nice to the server
+        time.sleep(0.2)
 
     # Save to file
-    with open("ppv_proxy.m3u", "w", encoding="utf-8") as f:
-        f.write("\n".join(m3u_content))
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.write("\n".join(m3u_lines))
     
-    print(f"\n✅ Saved {len(m3u_content)-1} streams to ppv_proxy.m3u")
+    print(f"\n✅ Saved {count} streams to {OUTPUT_FILE}")
 
 if __name__ == "__main__":
-    extract_ppv_proxy_links()
+    main()
