@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/1413d2759f17d798cc6e8026acb33d5d-thumbnail.jpg" group-title="Football" tvg-id="LOSC vs. OM" tvg-name="[LIVE] LOSC vs. OM [2025-12-05 20:00]",[LIVE] LOSC vs. OM [2025-12-05 20:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_lil%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/f6a585129153f4125a428a81af52b456-thumbnail.jpg" group-title="Football" tvg-id="Mainz vs. Gladbach" tvg-name="[LIVE] Mainz vs. Gladbach [2025-12-05 19:30]",[LIVE] Mainz vs. Gladbach [2025-12-05 19:30]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbundesliga_m05%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/caa8d416a236a3dcb3059952bd5d9b0d-thumbnail.jpg" group-title="Football" tvg-id="Real Oviedo vs. RCD Mallorca" tvg-name="[LIVE] Real Oviedo vs. RCD Mallorca [2025-12-05 20:00]",[LIVE] Real Oviedo vs. RCD Mallorca [2025-12-05 20:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_ovi%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/45b9ae6a9e873a00a8da6baeace0f2c7-thumbnail.jpg" group-title="Ice Hockey" tvg-id="Buffalo Sabres vs. Winnipeg Jets" tvg-name="[NOT LIVE] Buffalo Sabres vs. Winnipeg Jets [2025-12-06 00:00]",[NOT LIVE] Buffalo Sabres vs. Winnipeg Jets [2025-12-06 00:00]
