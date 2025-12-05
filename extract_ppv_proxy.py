@@ -133,9 +133,8 @@ def main():
                     if real_url:
                         # Construct the specific URL format with Referer
                         encoded_real_url = urllib.parse.quote(real_url, safe='')
-                        encoded_referer = urllib.parse.quote("https://ppv.to/", safe='')
                         
-                        final_stream_url = f"https://addon3.gstream.stream/proxy/m3u8?u={encoded_real_url}&ref={encoded_referer}"
+                        final_stream_url = f"https://addon3.gstream.stream/poo/m3u8?u={encoded_real_url}"
                 except Exception as e:
                     print(f"  ⚠️ Error parsing URL: {e}")
 
