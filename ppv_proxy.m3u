@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/872fb7fd7bc18d07bc42ed7eee3290f5-thumbnail.jpg" group-title="Motorsports" tvg-id="Abu Dhabi Grand Prix - FP1" tvg-name="[LIVE] Abu Dhabi Grand Prix - FP1 [2025-12-05 09:30]",[LIVE] Abu Dhabi Grand Prix - FP1 [2025-12-05 09:30]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ff1%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/4de443b4bf25d8cd895f9892ed00451d-thumbnail.jpg" group-title="Cricket" tvg-id="Australia vs. England" tvg-name="[LIVE] Australia vs. England [2025-12-05 04:00]",[LIVE] Australia vs. England [2025-12-05 04:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fcricket%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/dcba7ff5908d374016964a7369ce3168-thumbnail.jpg" group-title="Motorsports" tvg-id="Abu Dhabi Grand Prix - FP2" tvg-name="[NOT LIVE] Abu Dhabi Grand Prix - FP2 [2025-12-05 13:00]",[NOT LIVE] Abu Dhabi Grand Prix - FP2 [2025-12-05 13:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ff1%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/da3a18d1270ec1926f28fe1b64a64a5f-thumbnail.jpg" group-title="Football" tvg-id="Brest vs. AS Monaco" tvg-name="[NOT LIVE] Brest vs. AS Monaco [2025-12-05 18:00]",[NOT LIVE] Brest vs. AS Monaco [2025-12-05 18:00]
@@ -13,8 +9,34 @@ https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbundesli
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_lil%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/caa8d416a236a3dcb3059952bd5d9b0d-thumbnail.jpg" group-title="Football" tvg-id="Real Oviedo vs. RCD Mallorca" tvg-name="[NOT LIVE] Real Oviedo vs. RCD Mallorca [2025-12-05 20:00]",[NOT LIVE] Real Oviedo vs. RCD Mallorca [2025-12-05 20:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_ovi%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/56ac56a06b1b37439c73d8ce299b951c-thumbnail.jpg" group-title="Basketball" tvg-id="Los Angeles Lakers vs. Boston Celtics" tvg-name="[NOT LIVE] Los Angeles Lakers vs. Boston Celtics [2025-12-06 00:00]",[NOT LIVE] Los Angeles Lakers vs. Boston Celtics [2025-12-06 00:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_bostonceltics%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/b4a80f2cfa34c9870cc8104a7214820c-thumbnail.jpg" group-title="Basketball" tvg-id="Miami Heat vs. Orlando Magic" tvg-name="[NOT LIVE] Miami Heat vs. Orlando Magic [2025-12-06 00:00]",[NOT LIVE] Miami Heat vs. Orlando Magic [2025-12-06 00:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_orlandomagic%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/99db37e322f63b249487e13379b8182c-thumbnail.jpg" group-title="Basketball" tvg-id="Charlotte Hornets vs. Toronto Raptors" tvg-name="[NOT LIVE] Charlotte Hornets vs. Toronto Raptors [2025-12-06 00:30]",[NOT LIVE] Charlotte Hornets vs. Toronto Raptors [2025-12-06 00:30]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_torontoraptors%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/2630d8c71b3a1238b1d80374282b55aa-thumbnail.jpg" group-title="Basketball" tvg-id="Denver Nuggets vs. Atlanta Hawks" tvg-name="[NOT LIVE] Denver Nuggets vs. Atlanta Hawks [2025-12-06 00:30]",[NOT LIVE] Denver Nuggets vs. Atlanta Hawks [2025-12-06 00:30]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_atlantahawks%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/bd26aa5d46620b00b8faed9f69a4d222-thumbnail.jpg" group-title="Basketball" tvg-id="Portland Trail Blazers vs. Detroit Pistons" tvg-name="[NOT LIVE] Portland Trail Blazers vs. Detroit Pistons [2025-12-06 00:30]",[NOT LIVE] Portland Trail Blazers vs. Detroit Pistons [2025-12-06 00:30]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_detroitpistons%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/155d366ff8898fd4cfa5c0fe8aab5839-thumbnail.jpg" group-title="Basketball" tvg-id="San Antonio Spurs vs. Cleveland Cavaliers" tvg-name="[NOT LIVE] San Antonio Spurs vs. Cleveland Cavaliers [2025-12-06 00:30]",[NOT LIVE] San Antonio Spurs vs. Cleveland Cavaliers [2025-12-06 00:30]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_clevelandcavaliers%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/1fdd4b4f45f7f5aae9589e2e28e225fa-thumbnail.jpg" group-title="Basketball" tvg-id="Utah Jazz vs. New York Knicks" tvg-name="[NOT LIVE] Utah Jazz vs. New York Knicks [2025-12-06 00:30]",[NOT LIVE] Utah Jazz vs. New York Knicks [2025-12-06 00:30]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_newyorkknicks%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/44ebad0174a8885f7714c8c2311dbfa2-thumbnail.jpg" group-title="Basketball" tvg-id="Indiana Pacers vs. Chicago Bulls" tvg-name="[NOT LIVE] Indiana Pacers vs. Chicago Bulls [2025-12-06 01:00]",[NOT LIVE] Indiana Pacers vs. Chicago Bulls [2025-12-06 01:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_chicagobulls%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/4a80792d506cba8ef201462317e95eab-thumbnail.jpg" group-title="Basketball" tvg-id="LA Clippers vs. Memphis Grizzlies" tvg-name="[NOT LIVE] LA Clippers vs. Memphis Grizzlies [2025-12-06 01:00]",[NOT LIVE] LA Clippers vs. Memphis Grizzlies [2025-12-06 01:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_memphisgrizzlies%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/25acf6e6e4f0898a888148f6c366d23b-thumbnail.jpg" group-title="Basketball" tvg-id="Philadelphia 76ers vs. Milwaukee Bucks" tvg-name="[NOT LIVE] Philadelphia 76ers vs. Milwaukee Bucks [2025-12-06 01:00]",[NOT LIVE] Philadelphia 76ers vs. Milwaukee Bucks [2025-12-06 01:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_milwaukeebucks%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/aca05a12f638f14dfdb0eb414de15f29-thumbnail.jpg" group-title="Basketball" tvg-id="Phoenix Suns vs. Houston Rockets" tvg-name="[NOT LIVE] Phoenix Suns vs. Houston Rockets [2025-12-06 01:00]",[NOT LIVE] Phoenix Suns vs. Houston Rockets [2025-12-06 01:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_houstonrockets%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling" tvg-id="WWE: Friday Night Smackdown" tvg-name="[NOT LIVE] WWE: Friday Night Smackdown [2025-12-06 01:00]",[NOT LIVE] WWE: Friday Night Smackdown [2025-12-06 01:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fwrestling%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/d042645a68d01af1123a428778f44626-thumbnail.jpg" group-title="Basketball" tvg-id="Dallas Mavericks vs. Oklahoma City Thunder" tvg-name="[NOT LIVE] Dallas Mavericks vs. Oklahoma City Thunder [2025-12-06 02:30]",[NOT LIVE] Dallas Mavericks vs. Oklahoma City Thunder [2025-12-06 02:30]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnba_oklahomacitythunder%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/4de443b4bf25d8cd895f9892ed00451d-thumbnail.jpg" group-title="Cricket" tvg-id="Australia vs. England" tvg-name="[NOT LIVE] Australia vs. England [2025-12-06 04:00]",[NOT LIVE] Australia vs. England [2025-12-06 04:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fcricket%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/e691fdcd52c74ad7a1f499ce87247c61-thumbnail.jpg" group-title="Motorsports" tvg-id="Abu Dhabi Grand Prix - FP3" tvg-name="[NOT LIVE] Abu Dhabi Grand Prix - FP3 [2025-12-06 10:30]",[NOT LIVE] Abu Dhabi Grand Prix - FP3 [2025-12-06 10:30]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ff1%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/5669eb4d695b129543260e546460c3d9-thumbnail.jpg" group-title="Football" tvg-id="Aston Villa vs. Arsenal" tvg-name="[NOT LIVE] Aston Villa vs. Arsenal [2025-12-06 12:30]",[NOT LIVE] Aston Villa vs. Arsenal [2025-12-06 12:30]
