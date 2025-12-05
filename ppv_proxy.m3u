@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/dcba7ff5908d374016964a7369ce3168-thumbnail.jpg" group-title="Motorsports" tvg-id="Abu Dhabi Grand Prix - FP2" tvg-name="[LIVE] Abu Dhabi Grand Prix - FP2 [2025-12-05 13:00]",[LIVE] Abu Dhabi Grand Prix - FP2 [2025-12-05 13:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ff1%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/da3a18d1270ec1926f28fe1b64a64a5f-thumbnail.jpg" group-title="Football" tvg-id="Brest vs. AS Monaco" tvg-name="[NOT LIVE] Brest vs. AS Monaco [2025-12-05 18:00]",[NOT LIVE] Brest vs. AS Monaco [2025-12-05 18:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_brs%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/f6a585129153f4125a428a81af52b456-thumbnail.jpg" group-title="Football" tvg-id="Mainz vs. Gladbach" tvg-name="[NOT LIVE] Mainz vs. Gladbach [2025-12-05 19:30]",[NOT LIVE] Mainz vs. Gladbach [2025-12-05 19:30]
