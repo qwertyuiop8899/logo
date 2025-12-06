@@ -1,28 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/6207097a5fed441ce86325220f11d371-thumbnail.jpg" group-title="Football" tvg-id="Athletic Club vs. Atlético de Madrid" tvg-name="[LIVE] Athletic Club vs. Atlético de Madrid [2025-12-06 20:00]",[LIVE] Athletic Club vs. Atlético de Madrid [2025-12-06 20:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_ath%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/0b554946e401035aed44cfcbe5e95102-thumbnail.jpg" group-title="American Football" tvg-id="BYU Cougars vs. Texas Tech Red Raiders" tvg-name="[LIVE] BYU Cougars vs. Texas Tech Red Raiders [2025-12-06 17:00]",[LIVE] BYU Cougars vs. Texas Tech Red Raiders [2025-12-06 17:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FABC%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/7f0c1a7776692bbd4c5e945789b34892-thumbnail.jpg" group-title="Ice Hockey" tvg-id="Colorado Avalanche vs. New York Rangers" tvg-name="[LIVE] Colorado Avalanche vs. New York Rangers [2025-12-06 17:30]",[LIVE] Colorado Avalanche vs. New York Rangers [2025-12-06 17:30]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnewyorkrangers%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/c382980db064f24f98aadf3dd404c9f5-thumbnail.jpg" group-title="Ice Hockey" tvg-id="Colorado Avalanche vs. New York Rangers" tvg-name="[LIVE] Colorado Avalanche vs. New York Rangers [2025-12-06 17:30]",[LIVE] Colorado Avalanche vs. New York Rangers [2025-12-06 17:30]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnewyorkrangers%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/3dfc043e7e5f4e097520a98c631071ce-thumbnail.jpg" group-title="Football" tvg-id="Inter vs. Como" tvg-name="[LIVE] Inter vs. Como [2025-12-06 17:00]",[LIVE] Inter vs. Como [2025-12-06 17:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_int%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/29b31ab38297ee24816f570595f73271-thumbnail.jpg" group-title="Football" tvg-id="Leeds United vs. Liverpool" tvg-name="[LIVE] Leeds United vs. Liverpool [2025-12-06 17:30]",[LIVE] Leeds United vs. Liverpool [2025-12-06 17:30]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fepl_lee%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/ac4357174c8f739bea6359d82e8e2e86-thumbnail.jpg" group-title="Football" tvg-id="RB Leipzig vs. Frankfurt" tvg-name="[LIVE] RB Leipzig vs. Frankfurt [2025-12-06 17:30]",[LIVE] RB Leipzig vs. Frankfurt [2025-12-06 17:30]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbundesliga_rbl%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/06a62ae2e0572f19807e7d8b9bf90295-thumbnail.jpg" group-title="Football" tvg-id="Real Betis vs. FC Barcelona" tvg-name="[LIVE] Real Betis vs. FC Barcelona [2025-12-06 17:30]",[LIVE] Real Betis vs. FC Barcelona [2025-12-06 17:30]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_bet%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/577c8321d773adeb49313409f28490d1-thumbnail.jpg" group-title="Football" tvg-id="Hellas Verona vs. Atalanta" tvg-name="[LIVE] Hellas Verona vs. Atalanta [2025-12-06 19:45]",[LIVE] Hellas Verona vs. Atalanta [2025-12-06 19:45]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_ver%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/57910f21e35c5297c74118d13f835c74-thumbnail.jpg" group-title="Football" tvg-id="PSG vs. Rennes" tvg-name="[LIVE] PSG vs. Rennes [2025-12-06 20:05]",[LIVE] PSG vs. Rennes [2025-12-06 20:05]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_psg%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/eec214b8ea4c56c5ca2f6ec182a0def1-thumbnail.jpg" group-title="Combat Sports" tvg-id="Shabaz Masoud vs. Peter McGrail" tvg-name="[LIVE] Shabaz Masoud vs. Peter McGrail [2025-12-06 18:00]",[LIVE] Shabaz Masoud vs. Peter McGrail [2025-12-06 18:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fboxing%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/3c71d4bcc20a3443d471d2cbe82ec70c-thumbnail.jpg" group-title="Football" tvg-id="Toulouse FC vs. Strasbourg" tvg-name="[LIVE] Toulouse FC vs. Strasbourg [2025-12-06 18:00]",[LIVE] Toulouse FC vs. Strasbourg [2025-12-06 18:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_tou%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/577c8321d773adeb49313409f28490d1-thumbnail.jpg" group-title="Football" tvg-id="Hellas Verona vs. Atalanta" tvg-name="[NOT LIVE] Hellas Verona vs. Atalanta [2025-12-06 19:45]",[NOT LIVE] Hellas Verona vs. Atalanta [2025-12-06 19:45]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_ver%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/6207097a5fed441ce86325220f11d371-thumbnail.jpg" group-title="Football" tvg-id="Athletic Club vs. Atlético de Madrid" tvg-name="[NOT LIVE] Athletic Club vs. Atlético de Madrid [2025-12-06 20:00]",[NOT LIVE] Athletic Club vs. Atlético de Madrid [2025-12-06 20:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_ath%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/57910f21e35c5297c74118d13f835c74-thumbnail.jpg" group-title="Football" tvg-id="PSG vs. Rennes" tvg-name="[NOT LIVE] PSG vs. Rennes [2025-12-06 20:05]",[NOT LIVE] PSG vs. Rennes [2025-12-06 20:05]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_psg%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/ffe2b26662f5211b2baacf6c952c2d30-thumbnail.jpg" group-title="Ice Hockey" tvg-id="Columbus Blue Jackets vs. Florida Panthers" tvg-name="[NOT LIVE] Columbus Blue Jackets vs. Florida Panthers [2025-12-06 20:30]",[NOT LIVE] Columbus Blue Jackets vs. Florida Panthers [2025-12-06 20:30]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ffloridapanthers%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/bc3ebbc864efdb568abcd8e9ae030c70-thumbnail.jpg" group-title="Ice Hockey" tvg-id="Columbus Blue Jackets vs. Florida Panthers" tvg-name="[NOT LIVE] Columbus Blue Jackets vs. Florida Panthers [2025-12-06 20:30]",[NOT LIVE] Columbus Blue Jackets vs. Florida Panthers [2025-12-06 20:30]
