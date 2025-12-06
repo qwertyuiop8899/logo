@@ -1,5 +1,87 @@
 {
     "Saturday 06th Dec 2025 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "17:00",
+                "event": "SENSHI 29",
+                "channels": [
+                    {
+                        "channel_name": "Triler Tv",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Millbridge Sprints Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "2025 Kubota Gateway Dirt Nationals",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "2025 Snowball Derby at Five Flags Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Stateline Rumble #5",
+                "channels": [
+                    {
+                        "channel_name": "Triler Tv",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "King's Promotions : Ring Wars XX Philadelphia",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "WWE NXT Deadline 2025",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "GCW: Highest in the Room 4",
+                "channels": [
+                    {
+                        "channel_name": "Triler Tv",
+                        "channel_id": "159"
+                    }
+                ]
+            }
+        ],
         "England - Championship/League One/League Two": [
             {
                 "time": "12:30",
