@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/d2ceab95f93fb99dee613dd2cc79b72c-thumbnail.jpg" group-title="Football" tvg-id="Cremonese vs. Lecce" tvg-name="[LIVE] Cremonese vs. Lecce [2025-12-07 11:30]",[LIVE] Cremonese vs. Lecce [2025-12-07 11:30]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_cre%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/d890eca4149c3753348ba502a664b75c-thumbnail.jpg" group-title="Motorsports" tvg-id="Abu Dhabi Grand Prix - Race" tvg-name="[NOT LIVE] Abu Dhabi Grand Prix - Race [2025-12-07 13:00]",[NOT LIVE] Abu Dhabi Grand Prix - Race [2025-12-07 13:00]
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/d890eca4149c3753348ba502a664b75c-thumbnail.jpg" group-title="Motorsports" tvg-id="Abu Dhabi Grand Prix - Race" tvg-name="[LIVE] Abu Dhabi Grand Prix - Race [2025-12-07 13:00]",[LIVE] Abu Dhabi Grand Prix - Race [2025-12-07 13:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ff1%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/f9cec717117b53c26bd33b56c573859b-thumbnail.jpg" group-title="Football" tvg-id="Elche CF vs. Girona FC" tvg-name="[NOT LIVE] Elche CF vs. Girona FC [2025-12-07 13:00]",[NOT LIVE] Elche CF vs. Girona FC [2025-12-07 13:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_elc%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/f937c2f0a5397752dcbe10b47d3f2592-thumbnail.jpg" group-title="Football" tvg-id="Brighton and Hove Albion vs. West Ham United" tvg-name="[NOT LIVE] Brighton and Hove Albion vs. West Ham United [2025-12-07 14:00]",[NOT LIVE] Brighton and Hove Albion vs. West Ham United [2025-12-07 14:00]
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/f937c2f0a5397752dcbe10b47d3f2592-thumbnail.jpg" group-title="Football" tvg-id="Brighton and Hove Albion vs. West Ham United" tvg-name="[LIVE] Brighton and Hove Albion vs. West Ham United [2025-12-07 14:00]",[LIVE] Brighton and Hove Albion vs. West Ham United [2025-12-07 14:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fepl_bha%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/d3b12f0eba7712364e946cd36cd411dd-thumbnail.jpg" group-title="Football" tvg-id="Cagliari vs. Roma" tvg-name="[NOT LIVE] Cagliari vs. Roma [2025-12-07 14:00]",[NOT LIVE] Cagliari vs. Roma [2025-12-07 14:00]
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/d3b12f0eba7712364e946cd36cd411dd-thumbnail.jpg" group-title="Football" tvg-id="Cagliari vs. Roma" tvg-name="[LIVE] Cagliari vs. Roma [2025-12-07 14:00]",[LIVE] Cagliari vs. Roma [2025-12-07 14:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_cag%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/3610909c3db9fc013e364de921e0a18c-thumbnail.jpg" group-title="Football" tvg-id="OGC Nice vs. Angers SCO" tvg-name="[NOT LIVE] OGC Nice vs. Angers SCO [2025-12-07 14:00]",[NOT LIVE] OGC Nice vs. Angers SCO [2025-12-07 14:00]
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/f9cec717117b53c26bd33b56c573859b-thumbnail.jpg" group-title="Football" tvg-id="Elche CF vs. Girona FC" tvg-name="[LIVE] Elche CF vs. Girona FC [2025-12-07 13:00]",[LIVE] Elche CF vs. Girona FC [2025-12-07 13:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_elc%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/3610909c3db9fc013e364de921e0a18c-thumbnail.jpg" group-title="Football" tvg-id="OGC Nice vs. Angers SCO" tvg-name="[LIVE] OGC Nice vs. Angers SCO [2025-12-07 14:00]",[LIVE] OGC Nice vs. Angers SCO [2025-12-07 14:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_nic%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/44829ee3ffe2fedce3c5a6c46f5ceaa1-thumbnail.jpg" group-title="Football" tvg-id="Hamburg vs. Bremen" tvg-name="[NOT LIVE] Hamburg vs. Bremen [2025-12-07 14:30]",[NOT LIVE] Hamburg vs. Bremen [2025-12-07 14:30]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbundesliga_hsv%2Findex.m3u8
