@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/b42268396da7f5d1a63ebe28b41385ee-thumbnail.jpg" group-title="Football" tvg-id="CA Osasuna vs. Levante UD" tvg-name="[LIVE] CA Osasuna vs. Levante UD [2025-12-08 20:00]",[LIVE] CA Osasuna vs. Levante UD [2025-12-08 20:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_osa%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/3b54cae89856104933a92072d50fd292-thumbnail.jpg" group-title="Football" tvg-id="Torino vs. Milan" tvg-name="[LIVE] Torino vs. Milan [2025-12-08 19:45]",[LIVE] Torino vs. Milan [2025-12-08 19:45]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_tor%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/a8ea9ec9d74a54fef1834fddfec25473-thumbnail.jpg" group-title="Football" tvg-id="Wolverhampton Wanderers vs. Manchester United" tvg-name="[LIVE] Wolverhampton Wanderers vs. Manchester United [2025-12-08 20:00]",[LIVE] Wolverhampton Wanderers vs. Manchester United [2025-12-08 20:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fepl_wol%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/e1c70959d92ec320c91b3e600d669633-thumbnail.jpg" group-title="Basketball" tvg-id="Sacramento Kings vs. Indiana Pacers" tvg-name="[NOT LIVE] Sacramento Kings vs. Indiana Pacers [2025-12-09 00:00]",[NOT LIVE] Sacramento Kings vs. Indiana Pacers [2025-12-09 00:00]
