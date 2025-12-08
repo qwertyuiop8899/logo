@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/09b85654a26095331c96fa40460bbaa2-thumbnail.jpg" group-title="Football" tvg-id="Udinese vs. Genoa" tvg-name="[NOT LIVE] Udinese vs. Genoa [2025-12-08 17:00]",[NOT LIVE] Udinese vs. Genoa [2025-12-08 17:00]
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/09b85654a26095331c96fa40460bbaa2-thumbnail.jpg" group-title="Football" tvg-id="Udinese vs. Genoa" tvg-name="[LIVE] Udinese vs. Genoa [2025-12-08 17:00]",[LIVE] Udinese vs. Genoa [2025-12-08 17:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_udi%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/3b54cae89856104933a92072d50fd292-thumbnail.jpg" group-title="Football" tvg-id="Torino vs. Milan" tvg-name="[NOT LIVE] Torino vs. Milan [2025-12-08 19:45]",[NOT LIVE] Torino vs. Milan [2025-12-08 19:45]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_tor%2Findex.m3u8
