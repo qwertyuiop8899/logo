@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/b42268396da7f5d1a63ebe28b41385ee-thumbnail.jpg" group-title="Football" tvg-id="CA Osasuna vs. Levante UD" tvg-name="[LIVE] CA Osasuna vs. Levante UD [2025-12-08 20:00]",[LIVE] CA Osasuna vs. Levante UD [2025-12-08 20:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_osa%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/a8ea9ec9d74a54fef1834fddfec25473-thumbnail.jpg" group-title="Football" tvg-id="Wolverhampton Wanderers vs. Manchester United" tvg-name="[LIVE] Wolverhampton Wanderers vs. Manchester United [2025-12-08 20:00]",[LIVE] Wolverhampton Wanderers vs. Manchester United [2025-12-08 20:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fepl_wol%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/e1c70959d92ec320c91b3e600d669633-thumbnail.jpg" group-title="Basketball" tvg-id="Sacramento Kings vs. Indiana Pacers" tvg-name="[NOT LIVE] Sacramento Kings vs. Indiana Pacers [2025-12-09 00:00]",[NOT LIVE] Sacramento Kings vs. Indiana Pacers [2025-12-09 00:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Findianapacers%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/8a39a0a06f30a7e22cd0b5bec912a856-thumbnail.jpg" group-title="Basketball" tvg-id="Phoenix Suns vs. Minnesota Timberwolves" tvg-name="[NOT LIVE] Phoenix Suns vs. Minnesota Timberwolves [2025-12-09 00:30]",[NOT LIVE] Phoenix Suns vs. Minnesota Timberwolves [2025-12-09 00:30]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fminnesotatimberwolves%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/06370353b23d4132068c5f7c7504a3c3-thumbnail.jpg" group-title="Ice Hockey" tvg-id="Tampa Bay Lightning vs. Toronto Maple Leafs" tvg-name="[NOT LIVE] Tampa Bay Lightning vs. Toronto Maple Leafs [2025-12-09 00:30]",[NOT LIVE] Tampa Bay Lightning vs. Toronto Maple Leafs [2025-12-09 00:30]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ftorontomapleleafs%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/257243ae514b4d875083e20c45b1512d-thumbnail.jpg" group-title="Basketball" tvg-id="San Antonio Spurs vs. New Orleans Pelicans" tvg-name="[NOT LIVE] San Antonio Spurs vs. New Orleans Pelicans [2025-12-09 01:00]",[NOT LIVE] San Antonio Spurs vs. New Orleans Pelicans [2025-12-09 01:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fneworleanspelicans%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="Wrestling" tvg-id="WWE: Monday Night RAW" tvg-name="[NOT LIVE] WWE: Monday Night RAW [2025-12-09 01:00]",[NOT LIVE] WWE: Monday Night RAW [2025-12-09 01:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fwrestling%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/6592fcf8404fe8ce74eac5a2e07b7bcb-thumbnail.jpg" group-title="American Football" tvg-id="Philadelphia Eagles vs. Los Angeles Chargers" tvg-name="[NOT LIVE] Philadelphia Eagles vs. Los Angeles Chargers [2025-12-09 01:15]",[NOT LIVE] Philadelphia Eagles vs. Los Angeles Chargers [2025-12-09 01:15]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Flosangeleschargers%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/14a62e2af7b0f0f88609936ecaae24f0-thumbnail.jpg" group-title="Ice Hockey" tvg-id="Buffalo Sabres vs. Calgary Flames" tvg-name="[NOT LIVE] Buffalo Sabres vs. Calgary Flames [2025-12-09 02:00]",[NOT LIVE] Buffalo Sabres vs. Calgary Flames [2025-12-09 02:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fcalgaryflames%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/c2ee241fde184e5569ea8ef9db3fed24-thumbnail.jpg" group-title="Ice Hockey" tvg-id="Los Angeles Kings vs. Utah Mammoth" tvg-name="[NOT LIVE] Los Angeles Kings vs. Utah Mammoth [2025-12-09 02:00]",[NOT LIVE] Los Angeles Kings vs. Utah Mammoth [2025-12-09 02:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Futahmammoth%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/14986035e94a6f542df562d5e3fb5de7-thumbnail.jpg" group-title="Ice Hockey" tvg-id="Detroit Red Wings vs. Vancouver Canucks" tvg-name="[NOT LIVE] Detroit Red Wings vs. Vancouver Canucks [2025-12-09 03:00]",[NOT LIVE] Detroit Red Wings vs. Vancouver Canucks [2025-12-09 03:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fvancouvercanucks%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/52a72df231114e96c43ed385db8fc0c2-thumbnail.jpg" group-title="Ice Hockey" tvg-id="Minnesota Wild vs. Seattle Kraken" tvg-name="[NOT LIVE] Minnesota Wild vs. Seattle Kraken [2025-12-09 03:00]",[NOT LIVE] Minnesota Wild vs. Seattle Kraken [2025-12-09 03:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseattlekraken%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/17201132dc25834d60e71099ee796945-thumbnail.jpg" group-title="Football" tvg-id="Kairat Almaty vs. Olympiacos" tvg-name="[NOT LIVE] Kairat Almaty vs. Olympiacos [2025-12-09 15:30]",[NOT LIVE] Kairat Almaty vs. Olympiacos [2025-12-09 15:30]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fucl_kai%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/5ecdaabd8f240cbaff18cc4c25152ca9-thumbnail.jpg" group-title="Football" tvg-id="Bayern München vs. Sporting CP" tvg-name="[NOT LIVE] Bayern München vs. Sporting CP [2025-12-09 17:45]",[NOT LIVE] Bayern München vs. Sporting CP [2025-12-09 17:45]
@@ -41,8 +17,32 @@ https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fucl_psv%
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fucl_tot%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/ce4666f276efd973acdf2b2586e750e5-thumbnail.jpg" group-title="Football" tvg-id="Union SG vs. Marseille" tvg-name="[NOT LIVE] Union SG vs. Marseille [2025-12-09 20:00]",[NOT LIVE] Union SG vs. Marseille [2025-12-09 20:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fucl_usg%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/bb9b86f3eb0384ce89eb8293a227abe8-thumbnail.jpg" group-title="Basketball" tvg-id="Miami Heat vs. Orlando Magic" tvg-name="[NOT LIVE] Miami Heat vs. Orlando Magic [2025-12-09 23:00]",[NOT LIVE] Miami Heat vs. Orlando Magic [2025-12-09 23:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Forlandomagic%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/bbbdd3b5d37e2ed4d439ef2e4ffe75f4-thumbnail.jpg" group-title="Ice Hockey" tvg-id="Anaheim Ducks vs. Pittsburgh Penguins" tvg-name="[NOT LIVE] Anaheim Ducks vs. Pittsburgh Penguins [2025-12-10 00:00]",[NOT LIVE] Anaheim Ducks vs. Pittsburgh Penguins [2025-12-10 00:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fpittsburghpenguins%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/31c6c8f98895218b182f5e2977301133-thumbnail.jpg" group-title="Ice Hockey" tvg-id="New Jersey Devils vs. Ottawa Senators" tvg-name="[NOT LIVE] New Jersey Devils vs. Ottawa Senators [2025-12-10 00:00]",[NOT LIVE] New Jersey Devils vs. Ottawa Senators [2025-12-10 00:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fottawasenators%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/ce916705c1b4508d78f11c68f057d8ec-thumbnail.jpg" group-title="Ice Hockey" tvg-id="San Jose Sharks vs. Philadelphia Flyers" tvg-name="[NOT LIVE] San Jose Sharks vs. Philadelphia Flyers [2025-12-10 00:00]",[NOT LIVE] San Jose Sharks vs. Philadelphia Flyers [2025-12-10 00:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fphiladelphiaflyers%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/44abd5b84583e37e0de9e437ee6617d2-thumbnail.jpg" group-title="Ice Hockey" tvg-id="Tampa Bay Lightning vs. Montreal Canadiens" tvg-name="[NOT LIVE] Tampa Bay Lightning vs. Montreal Canadiens [2025-12-10 00:00]",[NOT LIVE] Tampa Bay Lightning vs. Montreal Canadiens [2025-12-10 00:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fmontrealcanadiens%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/9660faf10cbea9aaf128f6174b00b213-thumbnail.jpg" group-title="Ice Hockey" tvg-id="Vegas Golden Knights vs. New York Islanders" tvg-name="[NOT LIVE] Vegas Golden Knights vs. New York Islanders [2025-12-10 00:00]",[NOT LIVE] Vegas Golden Knights vs. New York Islanders [2025-12-10 00:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnewyorkislanders%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/b204406ecbda6e8916e9ebbc597b36d6-thumbnail.jpg" group-title="Ice Hockey" tvg-id="Columbus Blue Jackets vs. Carolina Hurricanes" tvg-name="[NOT LIVE] Columbus Blue Jackets vs. Carolina Hurricanes [2025-12-10 00:30]",[NOT LIVE] Columbus Blue Jackets vs. Carolina Hurricanes [2025-12-10 00:30]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fcarolinahurricanes%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/cae91275aacc1a2f768b4fb3db9d384c-thumbnail.jpg" group-title="Ice Hockey" tvg-id="Boston Bruins vs. St. Louis Blues" tvg-name="[NOT LIVE] Boston Bruins vs. St. Louis Blues [2025-12-10 01:00]",[NOT LIVE] Boston Bruins vs. St. Louis Blues [2025-12-10 01:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fst.louisblues%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/ec8538a36e1288dd23e4b3586bdc1ea8-thumbnail.jpg" group-title="Ice Hockey" tvg-id="Dallas Stars vs. Winnipeg Jets" tvg-name="[NOT LIVE] Dallas Stars vs. Winnipeg Jets [2025-12-10 01:00]",[NOT LIVE] Dallas Stars vs. Winnipeg Jets [2025-12-10 01:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fwinnipegjets%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling" tvg-id="WWE: NXT" tvg-name="[NOT LIVE] WWE: NXT [2025-12-10 01:00]",[NOT LIVE] WWE: NXT [2025-12-10 01:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fwrestling%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/b5b97f7ee7f682aead17045c7c6d6b51-thumbnail.jpg" group-title="Basketball" tvg-id="New York Knicks vs. Toronto Raptors" tvg-name="[NOT LIVE] New York Knicks vs. Toronto Raptors [2025-12-10 01:30]",[NOT LIVE] New York Knicks vs. Toronto Raptors [2025-12-10 01:30]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ftorontoraptors%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/2e3575d1c32635b2b8ca8818b8eed6e6-thumbnail.jpg" group-title="Ice Hockey" tvg-id="Buffalo Sabres vs. Edmonton Oilers" tvg-name="[NOT LIVE] Buffalo Sabres vs. Edmonton Oilers [2025-12-10 02:00]",[NOT LIVE] Buffalo Sabres vs. Edmonton Oilers [2025-12-10 02:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fedmontonoilers%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/b80547dc393563ca22e9543eb4d38d62-thumbnail.jpg" group-title="Ice Hockey" tvg-id="Colorado Avalanche vs. Nashville Predators" tvg-name="[NOT LIVE] Colorado Avalanche vs. Nashville Predators [2025-12-10 02:30]",[NOT LIVE] Colorado Avalanche vs. Nashville Predators [2025-12-10 02:30]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnashvillepredators%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/9d57c4edeadda4e353bafb0eaa558dd4-thumbnail.jpg" group-title="Football" tvg-id="Qarabağ vs. Ajax" tvg-name="[NOT LIVE] Qarabağ vs. Ajax [2025-12-10 17:45]",[NOT LIVE] Qarabağ vs. Ajax [2025-12-10 17:45]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fucl_qar%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/dda813786436b86bcc5290a8be583411-thumbnail.jpg" group-title="Football" tvg-id="Villarreal vs. Copenhagen" tvg-name="[NOT LIVE] Villarreal vs. Copenhagen [2025-12-10 17:45]",[NOT LIVE] Villarreal vs. Copenhagen [2025-12-10 17:45]
@@ -137,6 +137,8 @@ https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fuecl_shl
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fuecl_rap%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling" tvg-id="TNA: Impact" tvg-name="[NOT LIVE] TNA: Impact [2025-12-12 01:00]",[NOT LIVE] TNA: Impact [2025-12-12 01:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fwrestling%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/2b040ac97dda46b94e93b98c33726112-thumbnail.jpg" group-title="American Football" tvg-id="Atlanta Falcons vs. Tampa Bay Buccaneers" tvg-name="[NOT LIVE] Atlanta Falcons vs. Tampa Bay Buccaneers [2025-12-12 01:15]",[NOT LIVE] Atlanta Falcons vs. Tampa Bay Buccaneers [2025-12-12 01:15]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ftampabaybuccaneers%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/a7706495cec5fe36aed593de080a0609-thumbnail.jpg" group-title="Football" tvg-id="Union Berlin vs. RB Leipzig" tvg-name="[NOT LIVE] Union Berlin vs. RB Leipzig [2025-12-12 19:30]",[NOT LIVE] Union Berlin vs. RB Leipzig [2025-12-12 19:30]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbundesliga_fcu%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/bc843c4c599d9f93d0ded1beb6b81b07-thumbnail.jpg" group-title="Football" tvg-id="Angers SCO vs. FC Nantes" tvg-name="[NOT LIVE] Angers SCO vs. FC Nantes [2025-12-12 19:45]",[NOT LIVE] Angers SCO vs. FC Nantes [2025-12-12 19:45]
@@ -209,16 +211,46 @@ https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbundesli
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fepl_bre%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/c2be6b8d212e7e04a16ee1ae6a61b969-thumbnail.jpg" group-title="Football" tvg-id="Genoa vs. Inter" tvg-name="[NOT LIVE] Genoa vs. Inter [2025-12-14 17:00]",[NOT LIVE] Genoa vs. Inter [2025-12-14 17:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_gen%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/bbb2b9347436cda3f7026ffdeee4d2e7-thumbnail.jpg" group-title="American Football" tvg-id="Arizona Cardinals vs. Houston Texans" tvg-name="[NOT LIVE] Arizona Cardinals vs. Houston Texans [2025-12-14 18:00]",[NOT LIVE] Arizona Cardinals vs. Houston Texans [2025-12-14 18:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fhoustontexans%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/7f0d7358d43fed43500c9376a6ba8d27-thumbnail.jpg" group-title="American Football" tvg-id="Baltimore Ravens vs. Cincinnati Bengals" tvg-name="[NOT LIVE] Baltimore Ravens vs. Cincinnati Bengals [2025-12-14 18:00]",[NOT LIVE] Baltimore Ravens vs. Cincinnati Bengals [2025-12-14 18:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fcincinnatibengals%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/c4d92bee4575f1a1cc0916f4ad8d806a-thumbnail.jpg" group-title="American Football" tvg-id="Buffalo Bills vs. New England Patriots" tvg-name="[NOT LIVE] Buffalo Bills vs. New England Patriots [2025-12-14 18:00]",[NOT LIVE] Buffalo Bills vs. New England Patriots [2025-12-14 18:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnewenglandpatriots%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/331f55b0ccf9ea1f6b5d3882f51e3cc4-thumbnail.jpg" group-title="American Football" tvg-id="Cleveland Browns vs. Chicago Bears" tvg-name="[NOT LIVE] Cleveland Browns vs. Chicago Bears [2025-12-14 18:00]",[NOT LIVE] Cleveland Browns vs. Chicago Bears [2025-12-14 18:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fchicagobears%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/31461c4c3b05f1569c99449b064dc6f9-thumbnail.jpg" group-title="American Football" tvg-id="Las Vegas Raiders vs. Philadelphia Eagles" tvg-name="[NOT LIVE] Las Vegas Raiders vs. Philadelphia Eagles [2025-12-14 18:00]",[NOT LIVE] Las Vegas Raiders vs. Philadelphia Eagles [2025-12-14 18:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fphiladelphiaeagles%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/9aa6db2cb34f30f03ff2ca403f557a97-thumbnail.jpg" group-title="American Football" tvg-id="Los Angeles Chargers vs. Kansas City Chiefs" tvg-name="[NOT LIVE] Los Angeles Chargers vs. Kansas City Chiefs [2025-12-14 18:00]",[NOT LIVE] Los Angeles Chargers vs. Kansas City Chiefs [2025-12-14 18:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fkansascitychiefs%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/da4df743e8a95551903223a7d202980a-thumbnail.jpg" group-title="American Football" tvg-id="New York Jets vs. Jacksonville Jaguars" tvg-name="[NOT LIVE] New York Jets vs. Jacksonville Jaguars [2025-12-14 18:00]",[NOT LIVE] New York Jets vs. Jacksonville Jaguars [2025-12-14 18:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fjacksonvillejaguars%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/d3bed08ae847621c6fa87081347b2491-thumbnail.jpg" group-title="American Football" tvg-id="Washington Commanders vs. New York Giants" tvg-name="[NOT LIVE] Washington Commanders vs. New York Giants [2025-12-14 18:00]",[NOT LIVE] Washington Commanders vs. New York Giants [2025-12-14 18:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnewyorkgiants%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/efe0eb034022f59c142354637ba9276d-thumbnail.jpg" group-title="Football" tvg-id="Bremen vs. Stuttgart" tvg-name="[NOT LIVE] Bremen vs. Stuttgart [2025-12-14 18:30]",[NOT LIVE] Bremen vs. Stuttgart [2025-12-14 18:30]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbundesliga_svw%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/624e990e4bc28ab10eb9c0d0897f06b7-thumbnail.jpg" group-title="Football" tvg-id="Bologna vs. Juventus" tvg-name="[NOT LIVE] Bologna vs. Juventus [2025-12-14 19:45]",[NOT LIVE] Bologna vs. Juventus [2025-12-14 19:45]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_bol%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/07b98ab02d39db96099b99b4873d855b-thumbnail.jpg" group-title="Football" tvg-id="OM vs. AS Monaco" tvg-name="[NOT LIVE] OM vs. AS Monaco [2025-12-14 19:45]",[NOT LIVE] OM vs. AS Monaco [2025-12-14 19:45]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_mar%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/f1930686581ec8e7a7d2163e7a3b1e7c-thumbnail.jpg" group-title="American Football" tvg-id="Carolina Panthers vs. New Orleans Saints" tvg-name="[NOT LIVE] Carolina Panthers vs. New Orleans Saints [2025-12-14 21:25]",[NOT LIVE] Carolina Panthers vs. New Orleans Saints [2025-12-14 21:25]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fneworleanssaints%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/9536c781f6f7e11e714f6bc73ad6f200-thumbnail.jpg" group-title="American Football" tvg-id="Detroit Lions vs. Los Angeles Rams" tvg-name="[NOT LIVE] Detroit Lions vs. Los Angeles Rams [2025-12-14 21:25]",[NOT LIVE] Detroit Lions vs. Los Angeles Rams [2025-12-14 21:25]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Flosangelesrams%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/07b7d9c85bb6b8143b5433284b87773d-thumbnail.jpg" group-title="American Football" tvg-id="Green Bay Packers vs. Denver Broncos" tvg-name="[NOT LIVE] Green Bay Packers vs. Denver Broncos [2025-12-14 21:25]",[NOT LIVE] Green Bay Packers vs. Denver Broncos [2025-12-14 21:25]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fdenverbroncos%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/a2899e2337c5eba3b0fdea82da05f59c-thumbnail.jpg" group-title="American Football" tvg-id="Indianapolis Colts vs. Seattle Seahawks" tvg-name="[NOT LIVE] Indianapolis Colts vs. Seattle Seahawks [2025-12-14 21:25]",[NOT LIVE] Indianapolis Colts vs. Seattle Seahawks [2025-12-14 21:25]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseattleseahawks%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/953150737af19a8b41930f7e948b2f0c-thumbnail.jpg" group-title="American Football" tvg-id="Tennessee Titans vs. San Francisco 49ers" tvg-name="[NOT LIVE] Tennessee Titans vs. San Francisco 49ers [2025-12-14 21:25]",[NOT LIVE] Tennessee Titans vs. San Francisco 49ers [2025-12-14 21:25]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fsanfrancisco49ers%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/f2eb28e7e738bbae8dfff77cb5bbd1e7-thumbnail.jpg" group-title="American Football" tvg-id="Minnesota Vikings vs. Dallas Cowboys" tvg-name="[NOT LIVE] Minnesota Vikings vs. Dallas Cowboys [2025-12-15 01:20]",[NOT LIVE] Minnesota Vikings vs. Dallas Cowboys [2025-12-15 01:20]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fdallascowboys%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/2e5d69d367d0235204da751521d5518a-thumbnail.jpg" group-title="Football" tvg-id="Roma vs. Como" tvg-name="[NOT LIVE] Roma vs. Como [2025-12-15 19:45]",[NOT LIVE] Roma vs. Como [2025-12-15 19:45]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_rom%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/26de76502695f04ee7970475329dfd5d-thumbnail.jpg" group-title="Football" tvg-id="Manchester United vs. Bournemouth" tvg-name="[NOT LIVE] Manchester United vs. Bournemouth [2025-12-15 20:00]",[NOT LIVE] Manchester United vs. Bournemouth [2025-12-15 20:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fepl_mun%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/fe25ffce3016f007f0c72f24acf143ca-thumbnail.jpg" group-title="American Football" tvg-id="Miami Dolphins vs. Pittsburgh Steelers" tvg-name="[NOT LIVE] Miami Dolphins vs. Pittsburgh Steelers [2025-12-16 01:15]",[NOT LIVE] Miami Dolphins vs. Pittsburgh Steelers [2025-12-16 01:15]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fpittsburghsteelers%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/dfe08bb48f4502d771b895d499d8ca10-thumbnail.jpg" group-title="Combat Sports" tvg-id="UFC 324: Gaethje vs. Pimblett" tvg-name="[NOT LIVE] UFC 324: Gaethje vs. Pimblett [2026-01-25 02:00]",[NOT LIVE] UFC 324: Gaethje vs. Pimblett [2026-01-25 02:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fufc%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://img.logo.dev/espn.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=false&format=png&theme=dark" group-title="Channels" tvg-id="ESPN" tvg-name="[LIVE] ESPN",[LIVE] ESPN
