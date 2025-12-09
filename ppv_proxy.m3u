@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/17201132dc25834d60e71099ee796945-thumbnail.jpg" group-title="Football" tvg-id="Kairat Almaty vs. Olympiacos" tvg-name="[LIVE] Kairat Almaty vs. Olympiacos [2025-12-09 15:30]",[LIVE] Kairat Almaty vs. Olympiacos [2025-12-09 15:30]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fucl_kai%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/5ecdaabd8f240cbaff18cc4c25152ca9-thumbnail.jpg" group-title="Football" tvg-id="Bayern München vs. Sporting CP" tvg-name="[NOT LIVE] Bayern München vs. Sporting CP [2025-12-09 17:45]",[NOT LIVE] Bayern München vs. Sporting CP [2025-12-09 17:45]
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/5ecdaabd8f240cbaff18cc4c25152ca9-thumbnail.jpg" group-title="Football" tvg-id="Bayern München vs. Sporting CP" tvg-name="[LIVE] Bayern München vs. Sporting CP [2025-12-09 17:45]",[LIVE] Bayern München vs. Sporting CP [2025-12-09 17:45]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fucl_bay%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/aa60577a2c92ed024c37fa298b08756a-thumbnail.jpg" group-title="Football" tvg-id="Atalanta vs. Chelsea" tvg-name="[NOT LIVE] Atalanta vs. Chelsea [2025-12-09 20:00]",[NOT LIVE] Atalanta vs. Chelsea [2025-12-09 20:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fucl_ata%2Findex.m3u8
@@ -19,8 +17,6 @@ https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fucl_tot%
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fucl_usg%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/bb9b86f3eb0384ce89eb8293a227abe8-thumbnail.jpg" group-title="Basketball" tvg-id="Miami Heat vs. Orlando Magic" tvg-name="[NOT LIVE] Miami Heat vs. Orlando Magic [2025-12-09 23:00]",[NOT LIVE] Miami Heat vs. Orlando Magic [2025-12-09 23:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Forlandomagic%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/bbbdd3b5d37e2ed4d439ef2e4ffe75f4-thumbnail.jpg" group-title="Ice Hockey" tvg-id="Anaheim Ducks vs. Pittsburgh Penguins" tvg-name="[NOT LIVE] Anaheim Ducks vs. Pittsburgh Penguins [2025-12-10 00:00]",[NOT LIVE] Anaheim Ducks vs. Pittsburgh Penguins [2025-12-10 00:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fpittsburghpenguins%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/31c6c8f98895218b182f5e2977301133-thumbnail.jpg" group-title="Ice Hockey" tvg-id="New Jersey Devils vs. Ottawa Senators" tvg-name="[NOT LIVE] New Jersey Devils vs. Ottawa Senators [2025-12-10 00:00]",[NOT LIVE] New Jersey Devils vs. Ottawa Senators [2025-12-10 00:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fottawasenators%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/ce916705c1b4508d78f11c68f057d8ec-thumbnail.jpg" group-title="Ice Hockey" tvg-id="San Jose Sharks vs. Philadelphia Flyers" tvg-name="[NOT LIVE] San Jose Sharks vs. Philadelphia Flyers [2025-12-10 00:00]",[NOT LIVE] San Jose Sharks vs. Philadelphia Flyers [2025-12-10 00:00]
