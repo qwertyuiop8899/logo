@@ -1,38 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/c357a97d1f9a3b5811da38bc1daf0640-thumbnail.jpg" group-title="Football" tvg-id="Crystal Palace vs. Manchester City" tvg-name="[LIVE] Crystal Palace vs. Manchester City [2025-12-14 14:00]",[LIVE] Crystal Palace vs. Manchester City [2025-12-14 14:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fepl_cry%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/5933a0a125fe4a50dbfa8a27943b2668-thumbnail.jpg" group-title="Football" tvg-id="Fiorentina vs. Hellas Verona" tvg-name="[LIVE] Fiorentina vs. Hellas Verona [2025-12-14 14:00]",[LIVE] Fiorentina vs. Hellas Verona [2025-12-14 14:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_fio%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/8053ee46d14de16c3993fea458359cd8-thumbnail.jpg" group-title="Football" tvg-id="Goal Rush" tvg-name="[LIVE] Goal Rush [2025-12-14 14:00]",[LIVE] Goal Rush [2025-12-14 14:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fepl_goalrush%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/1fe4a906b51da4049de38fc11c7fec97-thumbnail.jpg" group-title="Football" tvg-id="Nottingham Forest vs. Tottenham Hotspur" tvg-name="[LIVE] Nottingham Forest vs. Tottenham Hotspur [2025-12-14 14:00]",[LIVE] Nottingham Forest vs. Tottenham Hotspur [2025-12-14 14:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fepl_nfo%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/d4cda4f296492b5b6b401cdd0655b4a4-thumbnail.jpg" group-title="Football" tvg-id="OL vs. Havre AC" tvg-name="[LIVE] OL vs. Havre AC [2025-12-14 14:00]",[LIVE] OL vs. Havre AC [2025-12-14 14:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_lyn%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/93a4b4658a0eff599be53b6aa5b641d3-thumbnail.jpg" group-title="Football" tvg-id="Sevilla FC vs. Real Oviedo" tvg-name="[LIVE] Sevilla FC vs. Real Oviedo [2025-12-14 13:00]",[LIVE] Sevilla FC vs. Real Oviedo [2025-12-14 13:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_sev%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/0226a34e5f02f802ef32ebe41755c53b-thumbnail.jpg" group-title="Football" tvg-id="Sunderland vs. Newcastle United" tvg-name="[LIVE] Sunderland vs. Newcastle United [2025-12-14 14:00]",[LIVE] Sunderland vs. Newcastle United [2025-12-14 14:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fepl_sun%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/76943305891882a3431cd0427bed4d99-thumbnail.jpg" group-title="Football" tvg-id="Udinese vs. Napoli" tvg-name="[LIVE] Udinese vs. Napoli [2025-12-14 14:00]",[LIVE] Udinese vs. Napoli [2025-12-14 14:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_udi%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/68b8c77998ec7d65fc402f67f4abbc80-thumbnail.jpg" group-title="Football" tvg-id="West Ham United vs. Aston Villa" tvg-name="[LIVE] West Ham United vs. Aston Villa [2025-12-14 14:00]",[LIVE] West Ham United vs. Aston Villa [2025-12-14 14:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fepl_whu%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/180459e998f8c92da13d1ce47e373b81-thumbnail.jpg" group-title="Football" tvg-id="AJ Auxerre vs. LOSC" tvg-name="[LIVE] AJ Auxerre vs. LOSC [2025-12-14 16:15]",[LIVE] AJ Auxerre vs. LOSC [2025-12-14 16:15]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_aux%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/d06d2cb98fb36a6dad2f9274cc0958ba-thumbnail.jpg" group-title="Football" tvg-id="Bayern vs. Mainz" tvg-name="[LIVE] Bayern vs. Mainz [2025-12-14 16:30]",[LIVE] Bayern vs. Mainz [2025-12-14 16:30]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbundesliga_mun%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/d1c37c57f2b29a7bc2dd543dac4bea5e-thumbnail.jpg" group-title="Football" tvg-id="Brentford vs. Leeds United" tvg-name="[LIVE] Brentford vs. Leeds United [2025-12-14 16:30]",[LIVE] Brentford vs. Leeds United [2025-12-14 16:30]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fepl_bre%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/79e7d13ee0293b7dc45f1b2580dec8c0-thumbnail.jpg" group-title="Football" tvg-id="Celta vs. Athletic Club" tvg-name="[LIVE] Celta vs. Athletic Club [2025-12-14 15:15]",[LIVE] Celta vs. Athletic Club [2025-12-14 15:15]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_cel%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/57462d93a7f032c339edc8001a87e478-thumbnail.jpg" group-title="Football" tvg-id="Freiburg vs. Dortmund" tvg-name="[LIVE] Freiburg vs. Dortmund [2025-12-14 14:30]",[LIVE] Freiburg vs. Dortmund [2025-12-14 14:30]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbundesliga_scf%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/ecb5b6df8d0987e38080327eb0783caf-thumbnail.jpg" group-title="Football" tvg-id="RC Lens vs. OGC Nice" tvg-name="[LIVE] RC Lens vs. OGC Nice [2025-12-14 16:15]",[LIVE] RC Lens vs. OGC Nice [2025-12-14 16:15]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_len%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/08901a168305529909c15815916696f9-thumbnail.jpg" group-title="Football" tvg-id="Strasbourg vs. FC Lorient" tvg-name="[LIVE] Strasbourg vs. FC Lorient [2025-12-14 16:15]",[LIVE] Strasbourg vs. FC Lorient [2025-12-14 16:15]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_sbg%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="Darts" tvg-id="World Darts Championship" tvg-name="[LIVE] World Darts Championship [2025-12-14 12:30]",[LIVE] World Darts Championship [2025-12-14 12:30]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fdarts%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/57462d93a7f032c339edc8001a87e478-thumbnail.jpg" group-title="Football" tvg-id="Freiburg vs. Dortmund" tvg-name="[NOT LIVE] Freiburg vs. Dortmund [2025-12-14 14:30]",[NOT LIVE] Freiburg vs. Dortmund [2025-12-14 14:30]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbundesliga_scf%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/79e7d13ee0293b7dc45f1b2580dec8c0-thumbnail.jpg" group-title="Football" tvg-id="Celta vs. Athletic Club" tvg-name="[NOT LIVE] Celta vs. Athletic Club [2025-12-14 15:15]",[NOT LIVE] Celta vs. Athletic Club [2025-12-14 15:15]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_cel%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/180459e998f8c92da13d1ce47e373b81-thumbnail.jpg" group-title="Football" tvg-id="AJ Auxerre vs. LOSC" tvg-name="[NOT LIVE] AJ Auxerre vs. LOSC [2025-12-14 16:15]",[NOT LIVE] AJ Auxerre vs. LOSC [2025-12-14 16:15]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_aux%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/ecb5b6df8d0987e38080327eb0783caf-thumbnail.jpg" group-title="Football" tvg-id="RC Lens vs. OGC Nice" tvg-name="[NOT LIVE] RC Lens vs. OGC Nice [2025-12-14 16:15]",[NOT LIVE] RC Lens vs. OGC Nice [2025-12-14 16:15]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_len%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/08901a168305529909c15815916696f9-thumbnail.jpg" group-title="Football" tvg-id="Strasbourg vs. FC Lorient" tvg-name="[NOT LIVE] Strasbourg vs. FC Lorient [2025-12-14 16:15]",[NOT LIVE] Strasbourg vs. FC Lorient [2025-12-14 16:15]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_sbg%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/d06d2cb98fb36a6dad2f9274cc0958ba-thumbnail.jpg" group-title="Football" tvg-id="Bayern vs. Mainz" tvg-name="[NOT LIVE] Bayern vs. Mainz [2025-12-14 16:30]",[NOT LIVE] Bayern vs. Mainz [2025-12-14 16:30]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbundesliga_mun%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/d1c37c57f2b29a7bc2dd543dac4bea5e-thumbnail.jpg" group-title="Football" tvg-id="Brentford vs. Leeds United" tvg-name="[NOT LIVE] Brentford vs. Leeds United [2025-12-14 16:30]",[NOT LIVE] Brentford vs. Leeds United [2025-12-14 16:30]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fepl_bre%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/c2be6b8d212e7e04a16ee1ae6a61b969-thumbnail.jpg" group-title="Football" tvg-id="Genoa vs. Inter" tvg-name="[NOT LIVE] Genoa vs. Inter [2025-12-14 17:00]",[NOT LIVE] Genoa vs. Inter [2025-12-14 17:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_gen%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/f0dd0e1b107be62875a44ea7f21b78bf-thumbnail.jpg" group-title="Football" tvg-id="Levante UD vs. Villarreal CF" tvg-name="[NOT LIVE] Levante UD vs. Villarreal CF [2025-12-14 17:30]",[NOT LIVE] Levante UD vs. Villarreal CF [2025-12-14 17:30]
@@ -53,6 +35,8 @@ https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fphiladel
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fkansascitychiefs%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/da4df743e8a95551903223a7d202980a-thumbnail.jpg" group-title="American Football" tvg-id="New York Jets vs. Jacksonville Jaguars" tvg-name="[NOT LIVE] New York Jets vs. Jacksonville Jaguars [2025-12-14 18:00]",[NOT LIVE] New York Jets vs. Jacksonville Jaguars [2025-12-14 18:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fjacksonvillejaguars%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/b81de749344645209b90492c795620e1-thumbnail.jpg" group-title="American Football" tvg-id="NFL RedZone" tvg-name="[NOT LIVE] NFL RedZone [2025-12-14 18:00]",[NOT LIVE] NFL RedZone [2025-12-14 18:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fredzone%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/d3bed08ae847621c6fa87081347b2491-thumbnail.jpg" group-title="American Football" tvg-id="Washington Commanders vs. New York Giants" tvg-name="[NOT LIVE] Washington Commanders vs. New York Giants [2025-12-14 18:00]",[NOT LIVE] Washington Commanders vs. New York Giants [2025-12-14 18:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnewyorkgiants%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/efe0eb034022f59c142354637ba9276d-thumbnail.jpg" group-title="Football" tvg-id="Bremen vs. Stuttgart" tvg-name="[NOT LIVE] Bremen vs. Stuttgart [2025-12-14 18:30]",[NOT LIVE] Bremen vs. Stuttgart [2025-12-14 18:30]
