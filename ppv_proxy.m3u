@@ -1,10 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/d6f700da808bd0fe67d6600a58b6bc96-thumbnail.jpg" group-title="Football" tvg-id="Paris Saint-Germain vs. CR Flamengo" tvg-name="[NOT LIVE] Paris Saint-Germain vs. CR Flamengo [2025-12-17 17:00]",[NOT LIVE] Paris Saint-Germain vs. CR Flamengo [2025-12-17 17:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ffifaplus%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="Darts" tvg-id="World Darts Championship" tvg-name="[NOT LIVE] World Darts Championship [2025-12-17 19:00]",[NOT LIVE] World Darts Championship [2025-12-17 19:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fdarts%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/182401495b0d7e0d91789945291f8e0f-thumbnail.jpg" group-title="Football" tvg-id="Manchester City vs. Brentford" tvg-name="[NOT LIVE] Manchester City vs. Brentford [2025-12-17 19:30]",[NOT LIVE] Manchester City vs. Brentford [2025-12-17 19:30]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fefl_mnc%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/522e1f99534c43869e3403cd10d401d3-thumbnail.jpg" group-title="Football" tvg-id="Talavera vs. Real Madrid" tvg-name="[NOT LIVE] Talavera vs. Real Madrid [2025-12-17 20:00]",[NOT LIVE] Talavera vs. Real Madrid [2025-12-17 20:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fcdr_talavera%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/8f1efcbb9c6ef90823f65e545abbff12-thumbnail.jpg" group-title="Football" tvg-id="Newcastle United vs. Fulham" tvg-name="[NOT LIVE] Newcastle United vs. Fulham [2025-12-17 20:15]",[NOT LIVE] Newcastle United vs. Fulham [2025-12-17 20:15]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fefl_new%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg" group-title="Cricket" tvg-id="Australia vs. England (AU Broadcast)" tvg-name="[NOT LIVE] Australia vs. England (AU Broadcast) [2025-12-17 23:30]",[NOT LIVE] Australia vs. England (AU Broadcast) [2025-12-17 23:30]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fashes_au%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg" group-title="Cricket" tvg-id="Australia vs. England (UK Broadcast)" tvg-name="[NOT LIVE] Australia vs. England (UK Broadcast) [2025-12-17 23:30]",[NOT LIVE] Australia vs. England (UK Broadcast) [2025-12-17 23:30]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fashes%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/b0023d5f12d1a01262179c927f4eb79b-thumbnail.jpg" group-title="Ice Hockey" tvg-id="Los Angeles Kings vs. Florida Panthers" tvg-name="[NOT LIVE] Los Angeles Kings vs. Florida Panthers [2025-12-18 00:00]",[NOT LIVE] Los Angeles Kings vs. Florida Panthers [2025-12-18 00:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ffloridapanthers%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/dcf00b9bfebfd8feb251efb40b828626-thumbnail.jpg" group-title="Ice Hockey" tvg-id="Utah Mammoth vs. Detroit Red Wings" tvg-name="[NOT LIVE] Utah Mammoth vs. Detroit Red Wings [2025-12-18 00:30]",[NOT LIVE] Utah Mammoth vs. Detroit Red Wings [2025-12-18 00:30]
@@ -101,6 +109,8 @@ https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_osa%2
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbl_rbl%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/c63b8a1c50e0c387356e092447ce2512-thumbnail.jpg" group-title="Football" tvg-id="Tottenham Hotspur vs. Liverpool" tvg-name="[NOT LIVE] Tottenham Hotspur vs. Liverpool [2025-12-20 17:30]",[NOT LIVE] Tottenham Hotspur vs. Liverpool [2025-12-20 17:30]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fpl_tot%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/db7c5404454254e907120a09a5b943b2-thumbnail.jpg" group-title="Combat Sports" tvg-id="Misfits Mania: Andrew Tate vs. Chase DeMoor" tvg-name="[NOT LIVE] Misfits Mania: Andrew Tate vs. Chase DeMoor [2025-12-20 19:00]",[NOT LIVE] Misfits Mania: Andrew Tate vs. Chase DeMoor [2025-12-20 19:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fmisfits%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/a2f760feac244fca2ee1e86241819cbc-thumbnail.jpg" group-title="Football" tvg-id="Juventus vs. AS Roma" tvg-name="[NOT LIVE] Juventus vs. AS Roma [2025-12-20 19:45]",[NOT LIVE] Juventus vs. AS Roma [2025-12-20 19:45]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fsa_juv%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/a8810d32c32583b47749b01f80ee0c39-thumbnail.jpg" group-title="Football" tvg-id="Everton vs. Arsenal" tvg-name="[NOT LIVE] Everton vs. Arsenal [2025-12-20 20:00]",[NOT LIVE] Everton vs. Arsenal [2025-12-20 20:00]
