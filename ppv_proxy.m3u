@@ -1,14 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/d6f700da808bd0fe67d6600a58b6bc96-thumbnail.jpg" group-title="Football" tvg-id="Paris Saint-Germain vs. CR Flamengo" tvg-name="[LIVE] Paris Saint-Germain vs. CR Flamengo [2025-12-17 17:00]",[LIVE] Paris Saint-Germain vs. CR Flamengo [2025-12-17 17:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ffifaplus%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="Darts" tvg-id="World Darts Championship" tvg-name="[NOT LIVE] World Darts Championship [2025-12-17 19:00]",[NOT LIVE] World Darts Championship [2025-12-17 19:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fdarts%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/182401495b0d7e0d91789945291f8e0f-thumbnail.jpg" group-title="Football" tvg-id="Manchester City vs. Brentford" tvg-name="[NOT LIVE] Manchester City vs. Brentford [2025-12-17 19:30]",[NOT LIVE] Manchester City vs. Brentford [2025-12-17 19:30]
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/182401495b0d7e0d91789945291f8e0f-thumbnail.jpg" group-title="Football" tvg-id="Manchester City vs. Brentford" tvg-name="[LIVE] Manchester City vs. Brentford [2025-12-17 19:30]",[LIVE] Manchester City vs. Brentford [2025-12-17 19:30]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fefl_mnc%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/522e1f99534c43869e3403cd10d401d3-thumbnail.jpg" group-title="Football" tvg-id="Talavera vs. Real Madrid" tvg-name="[NOT LIVE] Talavera vs. Real Madrid [2025-12-17 20:00]",[NOT LIVE] Talavera vs. Real Madrid [2025-12-17 20:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fcdr_talavera%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/8f1efcbb9c6ef90823f65e545abbff12-thumbnail.jpg" group-title="Football" tvg-id="Newcastle United vs. Fulham" tvg-name="[NOT LIVE] Newcastle United vs. Fulham [2025-12-17 20:15]",[NOT LIVE] Newcastle United vs. Fulham [2025-12-17 20:15]
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/8f1efcbb9c6ef90823f65e545abbff12-thumbnail.jpg" group-title="Football" tvg-id="Newcastle United vs. Fulham" tvg-name="[LIVE] Newcastle United vs. Fulham [2025-12-17 20:15]",[LIVE] Newcastle United vs. Fulham [2025-12-17 20:15]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fefl_new%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/522e1f99534c43869e3403cd10d401d3-thumbnail.jpg" group-title="Football" tvg-id="Talavera vs. Real Madrid" tvg-name="[LIVE] Talavera vs. Real Madrid [2025-12-17 20:00]",[LIVE] Talavera vs. Real Madrid [2025-12-17 20:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fcdr_talavera%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="Darts" tvg-id="World Darts Championship" tvg-name="[LIVE] World Darts Championship [2025-12-17 19:00]",[LIVE] World Darts Championship [2025-12-17 19:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fdarts%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg" group-title="Cricket" tvg-id="Australia vs. England (AU Broadcast)" tvg-name="[NOT LIVE] Australia vs. England (AU Broadcast) [2025-12-17 23:30]",[NOT LIVE] Australia vs. England (AU Broadcast) [2025-12-17 23:30]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fashes_au%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg" group-title="Cricket" tvg-id="Australia vs. England (UK Broadcast)" tvg-name="[NOT LIVE] Australia vs. England (UK Broadcast) [2025-12-17 23:30]",[NOT LIVE] Australia vs. England (UK Broadcast) [2025-12-17 23:30]
