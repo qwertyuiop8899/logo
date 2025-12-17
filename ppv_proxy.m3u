@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img.logo.dev/bigten.org?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=false&format=png&theme=dark" group-title="Channels" tvg-id="BTN" tvg-name="[LIVE] BTN",[LIVE] BTN
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FBTN%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Altitude_Sports_logo.svg" group-title="Channels" tvg-id="Altitude Sports" tvg-name="[LIVE] Altitude Sports",[LIVE] Altitude Sports
+https://a1xs.vip/40000048
+#EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_plain_55537aef6c.png&w=375&q=100" group-title="Channels" tvg-id="BeIN Sports XTRA" tvg-name="[LIVE] BeIN Sports XTRA",[LIVE] BeIN Sports XTRA
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60a53634126de9002e694bc4.m3u8
