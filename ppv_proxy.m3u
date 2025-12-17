@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/d6f700da808bd0fe67d6600a58b6bc96-thumbnail.jpg" group-title="Football" tvg-id="Paris Saint-Germain vs. CR Flamengo" tvg-name="[NOT LIVE] Paris Saint-Germain vs. CR Flamengo [2025-12-17 17:00]",[NOT LIVE] Paris Saint-Germain vs. CR Flamengo [2025-12-17 17:00]
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/d6f700da808bd0fe67d6600a58b6bc96-thumbnail.jpg" group-title="Football" tvg-id="Paris Saint-Germain vs. CR Flamengo" tvg-name="[LIVE] Paris Saint-Germain vs. CR Flamengo [2025-12-17 17:00]",[LIVE] Paris Saint-Germain vs. CR Flamengo [2025-12-17 17:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ffifaplus%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="Darts" tvg-id="World Darts Championship" tvg-name="[NOT LIVE] World Darts Championship [2025-12-17 19:00]",[NOT LIVE] World Darts Championship [2025-12-17 19:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fdarts%2Findex.m3u8
@@ -73,6 +73,8 @@ https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseattles
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbl_dor%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/7c30255a57262862b6f9b32ee7054f78-thumbnail.jpg" group-title="Football" tvg-id="Valencia vs. Mallorca" tvg-name="[NOT LIVE] Valencia vs. Mallorca [2025-12-19 20:00]",[NOT LIVE] Valencia vs. Mallorca [2025-12-19 20:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_val%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/77b3f7f092ac58125a60487f5073de40-thumbnail.jpg" group-title="Combat Sports" tvg-id="Jake Paul vs. Anthony Joshua" tvg-name="[NOT LIVE] Jake Paul vs. Anthony Joshua [2025-12-20 01:00]",[NOT LIVE] Jake Paul vs. Anthony Joshua [2025-12-20 01:00]
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fnetflix%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling" tvg-id="WWE: Friday Night Smackdown" tvg-name="[NOT LIVE] WWE: Friday Night Smackdown [2025-12-20 01:00]",[NOT LIVE] WWE: Friday Night Smackdown [2025-12-20 01:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fwrestling%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://old.ppv.to/assets/thumb/085a8bc8b6aec38062015ac75f39f57e-thumbnail.jpg" group-title="Football" tvg-id="Newcastle United vs. Chelsea" tvg-name="[NOT LIVE] Newcastle United vs. Chelsea [2025-12-20 12:30]",[NOT LIVE] Newcastle United vs. Chelsea [2025-12-20 12:30]
