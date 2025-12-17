@@ -1,7 +1,27 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img.logo.dev/espn.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=false&format=png&theme=dark" group-title="Channels" tvg-id="ESPN" tvg-name="[LIVE] ESPN",[LIVE] ESPN
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FESPN%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo.dev/espn.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=false&format=png&theme=dark" group-title="Channels" tvg-id="ESPN2" tvg-name="[LIVE] ESPN2",[LIVE] ESPN2
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FESPN2%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://img.logo.dev/bigten.org?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=false&format=png&theme=dark" group-title="Channels" tvg-id="BTN" tvg-name="[LIVE] BTN",[LIVE] BTN
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FBTN%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo.dev/abc.net.au?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=false&format=png&theme=dark" group-title="Channels" tvg-id="ABC" tvg-name="[LIVE] ABC",[LIVE] ABC
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FABC%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo.dev/foxsports.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=false&format=png&theme=dark" group-title="Channels" tvg-id="FOX" tvg-name="[LIVE] FOX",[LIVE] FOX
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FFOX%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo.dev/foxsports.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=false&format=png&theme=dark" group-title="Channels" tvg-id="FS1" tvg-name="[LIVE] FS1",[LIVE] FS1
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FFS1%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://secure.espncdn.com/promotions/bsa/2021/apps/getaccn/assets/img/ACCN_ESPN_CFIA_Stack_rev-gray_rgb.svg" group-title="Channels" tvg-id="ACC Network" tvg-name="[LIVE] ACC Network",[LIVE] ACC Network
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FACC%2520Network%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Altitude_Sports_logo.svg" group-title="Channels" tvg-id="Altitude Sports" tvg-name="[LIVE] Altitude Sports",[LIVE] Altitude Sports
 https://a1xs.vip/40000048
+#EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=03-06-2025?w=256&q=75" group-title="Channels" tvg-id="BeIN Sports" tvg-name="[LIVE] BeIN Sports",[LIVE] BeIN Sports
+https://maldivesn.net/hilaytv/beinsports
 #EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_plain_55537aef6c.png&w=375&q=100" group-title="Channels" tvg-id="BeIN Sports XTRA" tvg-name="[LIVE] BeIN Sports XTRA",[LIVE] BeIN Sports XTRA
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60a53634126de9002e694bc4.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo.dev/secnetwork.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=false&format=png&theme=dark" group-title="Channels" tvg-id="SEC Network" tvg-name="[LIVE] SEC Network",[LIVE] SEC Network
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FSEC%2520Network%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo.dev/nbcsports.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=false&format=png&theme=dark" group-title="Channels" tvg-id="NBC" tvg-name="[LIVE] NBC",[LIVE] NBC
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FNBC%2Findex.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo.dev/wwe.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=false&format=png&theme=dark" group-title="Channels" tvg-id="Wrestling" tvg-name="[LIVE] Wrestling",[LIVE] Wrestling
+https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fwrestling%2Findex.m3u8
