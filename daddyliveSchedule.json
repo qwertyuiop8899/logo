@@ -13,6 +13,16 @@
             },
             {
                 "time": "19:00",
+                "event": "Misfits Mania: The Fight Before Christmas : Andrew Tate vs. Chase DeMoor",
+                "channels": [
+                    {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
                 "event": "Torino Boxing Show : Alessio Lorusso vs. Gerardo Valenzuela",
                 "channels": [
                     {
