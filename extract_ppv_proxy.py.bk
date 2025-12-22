@@ -1,116 +1,165 @@
 import requests
-import base64
-import re
+import json
 import time
-from urllib.parse import quote
 from datetime import datetime
+import urllib.parse
 
-def format_timestamp(unix_timestamp):
-    """Convert Unix timestamp to readable format"""
-    if not unix_timestamp:
-        return "Unknown"
-    dt = datetime.fromtimestamp(unix_timestamp)
-    return dt.strftime("%Y-%m-%d %H:%M")
+# Configuration
+ADDON_BASE_URL = "https://addon3.gstream.stream"
+CATALOG_URL = f"{ADDON_BASE_URL}/catalog/StreamsPPV/ppv-PPV.json"
+META_BASE_URL = f"{ADDON_BASE_URL}/meta/StreamsPPV"
+OUTPUT_FILE = "ppv_proxy.m3u"
 
-def extract_ppv_proxy_links():
-    api_url = "https://ppv.to/api/streams"
-    
-    # Categories to include
-    wanted_categories = ["Basketball", "Football", "Motorsports", "Combat Sports"]
-    
-    # Proxy base URL
-    proxy_base = "https://addon3.gstream.stream/proxy/m3u8"
-    referer = "https://ppv.to/"
-    
-    headers = {}
+# Categories to include (matching the addon's genres)
+WANTED_CATEGORIES = ["Basketball", "Football", "Motorsports", "Combat Sports", "Wrestling", "Cricket", "Rugby", "Golf", "Darts"]
 
-    print(f"Fetching streams from {api_url}...")
+def fetch_catalog():
+    print(f"Fetching catalog from {CATALOG_URL}...")
     try:
-        resp = requests.get(api_url, headers=headers, timeout=30)
+        resp = requests.get(CATALOG_URL, timeout=30)
         resp.raise_for_status()
         data = resp.json()
+        return data.get("metas", [])
     except Exception as e:
-        print(f"Error fetching API: {e}")
-        return
+        print(f"Error fetching catalog: {e}")
+        return []
 
-    streams_data = data.get("streams", [])
-    print(f"Found {len(streams_data)} categories.")
+def fetch_meta(item_id):
+    url = f"{META_BASE_URL}/{item_id}.json"
+    # print(f"  Fetching meta for {item_id}...")
+    try:
+        resp = requests.get(url, timeout=10)
+        if resp.status_code == 200:
+            return resp.json().get("meta", {})
+        else:
+            # print(f"  ❌ Meta fetch failed: {resp.status_code}")
+            return None
+    except Exception as e:
+        print(f"  ⚠️ Error fetching meta: {e}")
+        return None
 
-    m3u_content = ["#EXTM3U"]
+def extract_stream_url(meta):
+    if not meta:
+        return None
+    
+    videos = meta.get("videos", [])
+    if not videos:
+        return None
+    
+    # Usually the first video/stream is what we want
+    video = videos[0]
+    streams = video.get("streams", [])
+    
+    if not streams:
+        return None
+    
+    # The URL is usually in the first stream object
+    # Format: https://addon3.gstream.stream/poo/m3u8?u=...
+    raw_url = streams[0].get("url")
+    return raw_url
 
-    for category in streams_data:
-        cat_name = category.get("category", "Unknown")
+def format_timestamp(iso_date_str):
+    if not iso_date_str:
+        return ""
+    try:
+        # Parse ISO format (e.g. 2025-12-05T04:00:00.000Z)
+        dt = datetime.fromisoformat(iso_date_str.replace('Z', '+00:00'))
+        return dt.strftime("%Y-%m-%d %H:%M")
+    except:
+        return iso_date_str
+
+def main():
+    items = fetch_catalog()
+    print(f"Found {len(items)} items in catalog.")
+    
+    m3u_lines = ["#EXTM3U"]
+    
+    count = 0
+    
+    for item in items:
+        item_id = item.get("id")
+        name = item.get("name")
+        genres = item.get("genres", [])
+        poster = item.get("poster", "")
+        release_info = item.get("releaseInfo", "") # e.g. "🔴 Live" or "⏳ Upcoming ..."
         
-        # Filter categories
-        if cat_name not in wanted_categories:
-            print(f"Skipping category: {cat_name}")
-            continue
+        # Filter by category
+        category = "Unknown"
+        if genres:
+            category = genres[0]
             
-        cat_streams = category.get("streams", [])
-        print(f"\nProcessing Category: {cat_name} ({len(cat_streams)} streams)")
+        if category not in WANTED_CATEGORIES and "Channels" not in genres and "24/7 Streams" not in genres:
+             # Optional: include everything or filter strictly
+             # For now, let's be permissive but prioritize wanted ones for grouping
+             pass
+
+        print(f"Processing: {name} ({category}) - {release_info}")
         
-        for s in cat_streams:
-            name = s.get("name", "Unknown")
-            iframe_url = s.get("iframe")
-            poster = s.get("poster", "")
-            starts_at = s.get("starts_at")
-            ends_at = s.get("ends_at")
+        # Fetch detailed metadata to get the stream URL
+        meta = fetch_meta(item_id)
+        stream_url = extract_stream_url(meta)
+        
+        if stream_url:
+            # Determine status prefix
+            status_prefix = ""
+            if "Live" in release_info:
+                status_prefix = "[LIVE] "
+            elif "Upcoming" in release_info:
+                status_prefix = "[NOT LIVE] "
             
-            if not iframe_url:
-                continue
-                
-            print(f"  Resolving {name}...")
+            # Try to extract date from meta if available
+            date_str = ""
+            if meta and meta.get("videos"):
+                released = meta["videos"][0].get("released")
+                if released:
+                    formatted_date = format_timestamp(released)
+                    date_str = f" [{formatted_date}]"
             
-            try:
-                # Fetch iframe content
-                iframe_resp = requests.get(iframe_url, headers=headers, timeout=30)
-                iframe_text = iframe_resp.text
-                
-                # Extract base64 encoded URL
-                match = re.search(r'atob\("(.*?)"\)', iframe_text)
-                
-                if match:
-                    encoded = match.group(1)
-                    decoded_bytes = base64.b64decode(encoded)
-                    stream_url = decoded_bytes.decode('utf-8')
-                    
-                    # Build proxy URL
-                    encoded_stream_url = quote(stream_url, safe='')
-                    encoded_referer = quote(referer, safe='')
-                    proxy_url = f"{proxy_base}?u={encoded_stream_url}&ref={encoded_referer}&rw=1"
-                    
-                    # Format event times
-                    start_time = format_timestamp(starts_at)
-                    end_time = format_timestamp(ends_at)
-                    
-                    # Add time info to channel name
-                    channel_name = f"{name} [{start_time}]"
-                    
-                    # Add to M3U with extended info
-                    # tvg-chno can be used for sorting by time
-                    entry = (
-                        f'#EXTINF:-1 tvg-logo="{poster}" '
-                        f'group-title="{cat_name}" '
-                        f'tvg-id="{name}" '
-                        f'tvg-name="{channel_name}",'
-                        f'{channel_name}\n'
-                        f'{proxy_url}'
-                    )
-                    m3u_content.append(entry)
-                    print(f"    ✅ Created proxy link | Start: {start_time} | End: {end_time}")
-                else:
-                    print(f"    ❌ Could not find encoded URL in iframe.")
-                    
-            except Exception as e:
-                print(f"    ⚠️ Error resolving {name}: {e}")
+            final_name = f"{status_prefix}{name}{date_str}"
             
-            time.sleep(0.2)
+            # Construct M3U entry
+            # We need to convert the addon URL to the specific proxy format expected by ppv_streams.py
+            # Addon URL: https://addon3.gstream.stream/poo/m3u8?u=REAL_URL
+            # Target URL: https://addon3.gstream.stream/proxy/m3u8?u=REAL_URL&ref=https://ppv.to/&rw=1
+            
+            final_stream_url = stream_url # Fallback
+            
+            if "u=" in stream_url:
+                try:
+                    parsed = urllib.parse.urlparse(stream_url)
+                    qs = urllib.parse.parse_qs(parsed.query)
+                    real_url = qs.get('u', [None])[0]
+                    
+                    if real_url:
+                        # Construct the specific URL format with Referer
+                        encoded_real_url = urllib.parse.quote(real_url, safe='')
+                        
+                        final_stream_url = f"https://addon3.gstream.stream/poo/m3u8?u={encoded_real_url}"
+                except Exception as e:
+                    print(f"  ⚠️ Error parsing URL: {e}")
+
+            entry = (
+                f'#EXTINF:-1 tvg-logo="{poster}" '
+                f'group-title="{category}" '
+                f'tvg-id="{name}" '
+                f'tvg-name="{final_name}",'
+                f'{final_name}\n'
+                f'{final_stream_url}'
+            )
+            m3u_lines.append(entry)
+            count += 1
+            print(f"  ✅ Added stream")
+        else:
+            print(f"  ❌ No stream found")
+        
+        # Be nice to the server
+        time.sleep(0.2)
 
     # Save to file
-    with open("ppv_proxy.m3u", "w", encoding="utf-8") as f:
-        f.write("\n".join(m3u_content))
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.write("\n".join(m3u_lines))
     
-    print(f"\n✅ Saved {len(m3u_content)-1} streams to ppv_proxy.m3u")
+    print(f"\n✅ Saved {count} streams to {OUTPUT_FILE}")
 
 if __name__ == "__main__":
-    extract_ppv_proxy_links()
+    main()
