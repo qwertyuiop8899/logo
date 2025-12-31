@@ -1828,6 +1828,30 @@
                 ]
             }
         ],
+        "Spengler Cup": [
+            {
+                "time": "11:05",
+                "event": "Spengler Cup : Collegiate Selects vs Davos",
+                "channels": [
+                    {
+                        "channel_name": "TSN4",
+                        "channel_id": "114"
+                    },
+                    {
+                        "channel_name": "TSN5",
+                        "channel_id": "115"
+                    },
+                    {
+                        "channel_name": "Polsat Sport 1 Poland",
+                        "channel_id": "47"
+                    },
+                    {
+                        "channel_name": "Sport 3 Israel",
+                        "channel_id": "142"
+                    }
+                ]
+            }
+        ],
         "PWHL": [
             {
                 "time": "18:00",
