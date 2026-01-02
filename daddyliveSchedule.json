@@ -883,6 +883,10 @@
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
                         "channel_id": "1515"
                     }
                 ]
@@ -891,6 +895,10 @@
                 "time": "03:30",
                 "event": "UNITED CUP : Bouzas Maneiro J. vs Sierra S.",
                 "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1515"
@@ -903,6 +911,10 @@
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
                         "channel_id": "1515"
                     }
                 ]
@@ -911,6 +923,10 @@
                 "time": "10:30",
                 "event": "UNITED CUP : Tsitsipas S. vs Mochizuki S.",
                 "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1515"
