@@ -1,5 +1,47 @@
 {
     "Saturday 03rd Jan 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "16:00",
+                "event": "2026 Tulsa Shootout",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "True Grit TV: The Road To The Rumble - Survival Series Match",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Awesome Championship Wrestling (ACW): Poughkeepsie Rumble 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "GCW: One Night Only 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "107"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "13:00",
@@ -1456,6 +1498,10 @@
                         "channel_id": "571"
                     },
                     {
+                        "channel_name": "beIN SPORTS MAX AR",
+                        "channel_id": "597"
+                    },
+                    {
                         "channel_name": "M+ Liga de Campeones",
                         "channel_id": "435"
                     },
@@ -2236,6 +2282,10 @@
                     {
                         "channel_name": "M+ #Vamos ES",
                         "channel_id": "521"
+                    },
+                    {
+                        "channel_name": "beIN SPORTS MAX AR",
+                        "channel_id": "597"
                     },
                     {
                         "channel_name": "Sportdigital FUSSBALL DE",
