@@ -1943,15 +1943,11 @@
         "IIHF U20": [
             {
                 "time": "21:30",
-                "event": "2026 IIHF World Junior Championship Bronze Medal Match: Teams TBA",
+                "event": "2026 IIHF World Junior Championship Bronze Medal : Canada U20 vs Finland U20",
                 "channels": [
                     {
                         "channel_name": "NHL Network USA",
                         "channel_id": "663"
-                    },
-                    {
-                        "channel_name": "RDS",
-                        "channel_id": "839"
                     },
                     {
                         "channel_name": "TSN1",
@@ -1960,20 +1956,24 @@
                     {
                         "channel_name": "TSN4",
                         "channel_id": "114"
+                    },
+                    {
+                        "channel_name": "RDS CA",
+                        "channel_id": "839"
+                    },
+                    {
+                        "channel_name": "Magenta Sport 318",
+                        "channel_id": "17"
                     }
                 ]
             },
             {
                 "time": "01:30",
-                "event": "2026 IIHF World Junior Championship Gold Medal Match Final: Teams TBA",
+                "event": "2026 IIHF World Junior Championship Gold Medal : Sweden U20 vs Czech Republic U20",
                 "channels": [
                     {
                         "channel_name": "NHL Network USA",
                         "channel_id": "663"
-                    },
-                    {
-                        "channel_name": "RDS",
-                        "channel_id": "839"
                     },
                     {
                         "channel_name": "TSN1",
@@ -1986,6 +1986,18 @@
                     {
                         "channel_name": "TSN4",
                         "channel_id": "114"
+                    },
+                    {
+                        "channel_name": "TSN5",
+                        "channel_id": "115"
+                    },
+                    {
+                        "channel_name": "RDS CA",
+                        "channel_id": "839"
+                    },
+                    {
+                        "channel_name": "Magenta Sport 318",
+                        "channel_id": "17"
                     }
                 ]
             }
