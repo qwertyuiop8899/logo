@@ -2688,7 +2688,11 @@
                         "channel_id": "400"
                     },
                     {
-                        "channel_name": "Prima Sport 1 Romania (CH-583) ESPN Mexico",
+                        "channel_name": "Prima Sport 1 Romania",
+                        "channel_id": "583"
+                    },
+                    {
+                        "channel_name": "ESPN Mexico",
                         "channel_id": "925"
                     },
                     {
