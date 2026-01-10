@@ -1,5 +1,57 @@
 {
     "Saturday 10th January 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "17:00",
+                "event": "2026 Snocross National at Canterbury Park",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "2026 Battle at the Barn XVIII",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Millbridge Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "AMA Supercross Championship Anaheim",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Real American Freestyle Wrestling",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "151"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "13:00",
