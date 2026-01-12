@@ -1621,6 +1621,14 @@
                 "channels": [
                     {
                         "channel_name": "Netflix PPV",
+                        "channel_id": "59"
+                    },
+                    {
+                        "channel_name": "Netflix PPV",
+                        "channel_id": "69"
+                    },
+                    {
+                        "channel_name": "Netflix PPV",
                         "channel_id": "1"
                     },
                     {
