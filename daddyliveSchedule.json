@@ -1,5 +1,17 @@
 {
     "Tuesday 13th Jan 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "21:00",
+                "event": "2026 Chili Bowl Nationals",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "153"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "20:00",
