@@ -1,5 +1,57 @@
 {
     "Friday 16th Jan 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "21:00",
+                "event": "Chili Bowl Nationals",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2026 Wild West Shootout",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "WV Toughman Contest",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "2026 Chilly Willy at Tucson Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "CMLL: International Weekend, January 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "173"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "16:00",
@@ -4390,8 +4442,8 @@
                 "event": "European Rugby Champions Cup : Bath vs Edinburgh",
                 "channels": [
                     {
-                        "channel_name": "Viaplay Sports 2 UK",
-                        "channel_id": "550"
+                        "channel_name": "Viaplay Sports 1 UK",
+                        "channel_id": "451"
                     },
                     {
                         "channel_name": "Sport TV5 Portugal",
