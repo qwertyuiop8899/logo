@@ -12,6 +12,16 @@
                 ]
             },
             {
+                "time": "17:00",
+                "event": "Mecum Auctions: Kissimmee 2026",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+",
+                        "channel_id": "210"
+                    }
+                ]
+            },
+            {
                 "time": "18:00",
                 "event": "AMA Supercross Championship San Diego",
                 "channels": [
@@ -4384,7 +4394,7 @@
                 ]
             },
             {
-                "time": "10:57",
+                "time": "17:30",
                 "event": "008:55 Super Smash : Otago Volts vs Northern Brave W",
                 "channels": [
                     {
