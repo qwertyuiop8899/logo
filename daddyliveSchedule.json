@@ -1,5 +1,107 @@
 {
     "Saturday 17th Jan 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "15:00",
+                "event": "2026 Chili Bowl Nationals",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "206"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "AMA Supercross Championship San Diego",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "207"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Gorilla Promotions : Luke Dyson vs LEE Chadwick",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "208"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2026 Wild West Shootout",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "197"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Ring Wars XXI : Dainier Pero vs. Mario Aguilar",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "WV Toughman Contest",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "2026 Chilly Willy at Tucson Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "TNA: Genesis 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "GCW: Code of the Streets 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "Boxing : Daniel Sanchez Bivieseca vs Gabriel Jimenez",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "159"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "13:00",
@@ -4282,7 +4384,7 @@
                 ]
             },
             {
-                "time": "07:31",
+                "time": "10:57",
                 "event": "008:55 Super Smash : Otago Volts vs Northern Brave W",
                 "channels": [
                     {
