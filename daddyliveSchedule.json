@@ -6118,12 +6118,26 @@
                 ]
             },
             {
+                "time": "19:30",
+                "event": "WCH U18 Women : Czech Republic U18 W vs Sweden U18 W",
+                "channels": [
+                    {
+                        "channel_name": "TSN4",
+                        "channel_id": "114"
+                    }
+                ]
+            },
+            {
                 "time": "23:30",
-                "event": "2026 IIHF U-18 Women's World Championship Gold Medal Game: Teams TBA",
+                "event": "WCH U18 Women Gold Medal Game : USA U18 W vs Canada U18 W",
                 "channels": [
                     {
                         "channel_name": "NHL Network USA",
                         "channel_id": "663"
+                    },
+                    {
+                        "channel_name": "TSN4",
+                        "channel_id": "114"
                     }
                 ]
             }
