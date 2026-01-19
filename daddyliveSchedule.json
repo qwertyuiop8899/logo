@@ -2205,6 +2205,14 @@
                 "channels": [
                     {
                         "channel_name": "Netflix PPV",
+                        "channel_id": "157"
+                    },
+                    {
+                        "channel_name": "Netflix PPV II",
+                        "channel_id": "158"
+                    },
+                    {
+                        "channel_name": "Netflix PPV",
                         "channel_id": "1"
                     },
                     {
