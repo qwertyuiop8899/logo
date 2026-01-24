@@ -1,5 +1,87 @@
 {
     "Saturday 24th Jan 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "14:00",
+                "event": "US Street Nationals Bradenton",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "206"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "2026 Snocross National at Canterbury",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "217"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "Volusia Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "228"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "CSE Combat: The Gauntlet Tournament",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "238"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Toughman PPV",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "239"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Skyscraper Live : No Ropes. No Fear",
+                "channels": [
+                    {
+                        "channel_name": "Netflix PPV",
+                        "channel_id": "229"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "WWE Saturday Nights Main Event",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "230"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "PBR: Unleash The Beast: Season 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "237"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "12:00",
