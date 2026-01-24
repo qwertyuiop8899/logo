@@ -22,6 +22,24 @@
                 ]
             },
             {
+                "time": "18:15",
+                "event": "MMA Fame 29: S-Class Tournament",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5020"
+                    },
+                    {
+                        "channel_name": "Event PPV II",
+                        "channel_id": "5021"
+                    },
+                    {
+                        "channel_name": "Event PPV III",
+                        "channel_id": "5022"
+                    }
+                ]
+            },
+            {
                 "time": "20:45",
                 "event": "Volusia Late Models",
                 "channels": [
@@ -6700,6 +6718,20 @@
         ],
         "NBA": [
             {
+                "time": "17:00",
+                "event": "NBA : Charlotte Hornets vs Washington Wizards",
+                "channels": [
+                    {
+                        "channel_name": "NBA League Pass",
+                        "channel_id": "239"
+                    },
+                    {
+                        "channel_name": "Monumental Sports Network",
+                        "channel_id": "778"
+                    }
+                ]
+            },
+            {
                 "time": "20:00",
                 "event": "NBA : Philadelphia 76ers vs New York Knicks",
                 "channels": [
@@ -6840,20 +6872,6 @@
                     {
                         "channel_name": "5Sport Israel",
                         "channel_id": "144"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "NBA : Charlotte Hornets vs Washington Wizards",
-                "channels": [
-                    {
-                        "channel_name": "NBA League Pass",
-                        "channel_id": "4"
-                    },
-                    {
-                        "channel_name": "Monumental Sports Network",
-                        "channel_id": "778"
                     }
                 ]
             },
