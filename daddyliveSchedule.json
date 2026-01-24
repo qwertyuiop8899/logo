@@ -895,7 +895,7 @@
                     },
                     {
                         "channel_name": "Hub Premier 1",
-                        "channel_id": "8"
+                        "channel_id": "9"
                     },
                     {
                         "channel_name": "Peacock Feed",
@@ -1975,7 +1975,7 @@
                 "channels": [
                     {
                         "channel_name": "Hub Premier 1",
-                        "channel_id": "8"
+                        "channel_id": "9"
                     },
                     {
                         "channel_name": "Peacock Feed",
@@ -2787,7 +2787,7 @@
                 "channels": [
                     {
                         "channel_name": "Hub Premier 1",
-                        "channel_id": "8"
+                        "channel_id": "9"
                     },
                     {
                         "channel_name": "Peacock Feed",
@@ -7224,6 +7224,10 @@
                     {
                         "channel_name": "Duna World Hungary",
                         "channel_id": "30"
+                    },
+                    {
+                        "channel_name": "Ziggo Sport 5 NL",
+                        "channel_id": "383"
                     },
                     {
                         "channel_name": "\u010cT Sport CZ",
