@@ -23,8 +23,12 @@
             },
             {
                 "time": "18:15",
-                "event": "MMA Fame 29: S-Class Tournament",
+                "event": "Fame MMA 29: S-Class Tournament",
                 "channels": [
+                    {
+                        "channel_name": "FamePPV",
+                        "channel_id": "24"
+                    },
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "5020"
@@ -32,10 +36,6 @@
                     {
                         "channel_name": "Event PPV II",
                         "channel_id": "5021"
-                    },
-                    {
-                        "channel_name": "Event PPV III",
-                        "channel_id": "5022"
                     }
                 ]
             },
