@@ -6030,7 +6030,9 @@
                         "channel_id": "385"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "20:00",
                 "event": "NBA : Detroit Pistons vs Sacramento Kings",
@@ -6788,12 +6790,94 @@
                 ]
             },
             {
+                "time": "17:00",
+                "event": "Hockey New York Rangers Alumni Classic Live",
+                "channels": [
+                    {
+                        "channel_name": "MSG USA",
+                        "channel_id": "765"
+                    }
+                ]
+            },
+            {
                 "time": "18:00",
                 "event": "DEL : Grizzly Wolfsburg vs Dresdner Eislowen",
                 "channels": [
                     {
                         "channel_name": "Magenta Sport 302",
                         "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "PWHL : Minnesota Golden Gophers W vs New York W",
+                "channels": [
+                    {
+                        "channel_name": "NESN USA",
+                        "channel_id": "762"
+                    },
+                    {
+                        "channel_name": "MSG USA",
+                        "channel_id": "765"
+                    },
+                    {
+                        "channel_name": "Sportsnet Ontario",
+                        "channel_id": "406"
+                    },
+                    {
+                        "channel_name": "Sportsnet East",
+                        "channel_id": "408"
+                    },
+                    {
+                        "channel_name": "Sportsnet One",
+                        "channel_id": "411"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Florida",
+                        "channel_id": "892"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Indiana",
+                        "channel_id": "894"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Kansas City",
+                        "channel_id": "895"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Oklahoma",
+                        "channel_id": "900"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network North",
+                        "channel_id": "898"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network SoCal",
+                        "channel_id": "902"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network South",
+                        "channel_id": "903"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Wisconsin",
+                        "channel_id": "907"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "PWHL : Seattle PWHL W vs Vancouver PWHL W",
+                "channels": [
+                    {
+                        "channel_name": "CBC CA",
+                        "channel_id": "832"
+                    },
+                    {
+                        "channel_name": "NESN USA",
+                        "channel_id": "762"
                     }
                 ]
             }
@@ -7008,88 +7092,6 @@
                     {
                         "channel_name": "5Star Israel",
                         "channel_id": "147"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "Hockey New York Rangers Alumni Classic Live",
-                "channels": [
-                    {
-                        "channel_name": "MSG USA",
-                        "channel_id": "765"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "PWHL : Minnesota Golden Gophers W vs New York W",
-                "channels": [
-                    {
-                        "channel_name": "NESN USA",
-                        "channel_id": "762"
-                    },
-                    {
-                        "channel_name": "MSG USA",
-                        "channel_id": "765"
-                    },
-                    {
-                        "channel_name": "Sportsnet Ontario",
-                        "channel_id": "406"
-                    },
-                    {
-                        "channel_name": "Sportsnet East",
-                        "channel_id": "408"
-                    },
-                    {
-                        "channel_name": "Sportsnet One",
-                        "channel_id": "411"
-                    },
-                    {
-                        "channel_name": "FanDuel Sports Network Florida",
-                        "channel_id": "892"
-                    },
-                    {
-                        "channel_name": "FanDuel Sports Network Indiana",
-                        "channel_id": "894"
-                    },
-                    {
-                        "channel_name": "FanDuel Sports Network Kansas City",
-                        "channel_id": "895"
-                    },
-                    {
-                        "channel_name": "FanDuel Sports Network Oklahoma",
-                        "channel_id": "900"
-                    },
-                    {
-                        "channel_name": "FanDuel Sports Network North",
-                        "channel_id": "898"
-                    },
-                    {
-                        "channel_name": "FanDuel Sports Network SoCal",
-                        "channel_id": "902"
-                    },
-                    {
-                        "channel_name": "FanDuel Sports Network South",
-                        "channel_id": "903"
-                    },
-                    {
-                        "channel_name": "FanDuel Sports Network Wisconsin",
-                        "channel_id": "907"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "PWHL : Seattle PWHL W vs Vancouver PWHL W",
-                "channels": [
-                    {
-                        "channel_name": "CBC CA",
-                        "channel_id": "832"
-                    },
-                    {
-                        "channel_name": "NESN USA",
-                        "channel_id": "762"
                     }
                 ]
             }
