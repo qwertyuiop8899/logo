@@ -1,5 +1,17 @@
 {
     "Sunday 25th Jan 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "14:00",
+                "event": "2026 US Street Nationals at Bradenton Motorsports Park",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "200"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "13:00",
