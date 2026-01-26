@@ -2380,7 +2380,21 @@
         ],
         "NBA": [
             {
-                "time": "00:00",
+                "time": "18:30",
+                "event": "NBA : Atlanta Hawks vs Indiana Pacers",
+                "channels": [
+                    {
+                        "channel_name": "NBA League Pass",
+                        "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Indiana",
+                        "channel_id": "894"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
                 "event": "NBA : Charlotte Hornets vs Philadelphia 76ers",
                 "channels": [
                     {
@@ -2452,20 +2466,6 @@
                     {
                         "channel_name": "beIN SPORTS MENA English 1",
                         "channel_id": "61"
-                    }
-                ]
-            },
-            {
-                "time": "00:30",
-                "event": "NBA : Atlanta Hawks vs Indiana Pacers",
-                "channels": [
-                    {
-                        "channel_name": "NBA League Pass",
-                        "channel_id": "4"
-                    },
-                    {
-                        "channel_name": "FanDuel Sports Network Indiana",
-                        "channel_id": "894"
                     }
                 ]
             },
