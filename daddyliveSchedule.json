@@ -1,5 +1,47 @@
 {
     "Saturday 31st Jan 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "19:00",
+                "event": "Boxxer : Francesca Hennessy vs. Ellie Bouttell",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "1157"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "TNT Extreme Wrestling: Merseyside Massacre 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "1158"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "American Sprint Car Series - Volusia Speedway Park",
+                "channels": [
+                    {
+                        "channel_name": "Dirtgvision",
+                        "channel_id": "1159"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "IWS: Praise the Violence 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "1160"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "22:30",
@@ -4738,6 +4780,14 @@
                     {
                         "channel_name": "DAZN PPV",
                         "channel_id": "76"
+                    },
+                    {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "1161"
+                    },
+                    {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "1162"
                     }
                 ]
             },
@@ -4841,6 +4891,10 @@
                 "time": "02:00",
                 "event": "BKB 50: Evolution Live",
                 "channels": [
+                    {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "1163"
+                    },
                     {
                         "channel_name": "VICE TV USA",
                         "channel_id": "659"
@@ -4994,6 +5048,22 @@
                     {
                         "channel_name": "WWE PPV",
                         "channel_id": "109"
+                    },
+                    {
+                        "channel_name": "WWE PPV",
+                        "channel_id": "1164"
+                    },
+                    {
+                        "channel_name": "WWE PPV",
+                        "channel_id": "1165"
+                    },
+                    {
+                        "channel_name": "WWE PPV",
+                        "channel_id": "1166"
+                    },
+                    {
+                        "channel_name": "WWE PPV",
+                        "channel_id": "1167"
                     }
                 ]
             }
