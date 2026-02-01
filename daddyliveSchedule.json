@@ -1872,6 +1872,10 @@
                 "event": "Germany - Bundesliga : Stuttgart vs Freiburg",
                 "channels": [
                     {
+                        "channel_name": "DAZN2 DE",
+                        "channel_id": "427"
+                    },
+                    {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "151"
                     },
