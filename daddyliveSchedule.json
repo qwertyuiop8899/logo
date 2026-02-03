@@ -1,5 +1,17 @@
 {
     "Tuesday 03rd Feb 2026 - Schedule Time UK GMT": {
+        "PPV Event": [
+            {
+                "time": "22:15",
+                "event": "DIRTcar Nationals Volusia Speedway Park",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "182"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "18:00",
@@ -2407,16 +2419,6 @@
                 ]
             },
             {
-                "time": "18:00",
-                "event": "NBA G-League : Oklahoma City Blue vs Santa Cruz Warriors",
-                "channels": [
-                    {
-                        "channel_name": "NBCS Bay Area USA",
-                        "channel_id": "753"
-                    }
-                ]
-            },
-            {
                 "time": "17:50",
                 "event": "Champions League : Wurzburg vs Joventut Badalona",
                 "channels": [
@@ -2620,6 +2622,16 @@
             }
         ],
         "NBA G League": [
+            {
+                "time": "18:00",
+                "event": "NBA G-League : Oklahoma City Blue vs Santa Cruz Warriors",
+                "channels": [
+                    {
+                        "channel_name": "NBCS Bay Area USA",
+                        "channel_id": "753"
+                    }
+                ]
+            },
             {
                 "time": "00:00",
                 "event": "NBA G-League : Motor City Cruise vs Memphis Hustle",
