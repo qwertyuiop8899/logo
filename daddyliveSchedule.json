@@ -1,5 +1,27 @@
 {
     "Wednesday 04th Feb 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "20:00",
+                "event": "International 500",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "27"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "World of Outlaws Sprint Cars Volusia Speedway Park",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "28"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "16:00",
