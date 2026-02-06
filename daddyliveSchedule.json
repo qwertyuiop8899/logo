@@ -5872,7 +5872,11 @@
                         "channel_id": "53"
                     },
                     {
-                        "channel_name": "USA Network (CH-343)TSN1",
+                        "channel_name": "USA Network",
+                        "channel_id": "343"
+                    },
+                    {
+                        "channel_name": "TSN1",
                         "channel_id": "111"
                     },
                     {
