@@ -1,5 +1,47 @@
 {
     "Friday 06th Feb 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:15",
+                "event": "World of Outlaws Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "19"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "WV Toughman Contest",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "20"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2026 World Series of Asphalt at New Smyrna Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "21"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "House of Glory: City of Angels 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "22"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "20:00",
@@ -610,10 +652,6 @@
                     {
                         "channel_name": "Sky Sport Bundesliga 2",
                         "channel_id": "2"
-                    },
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "616"
                     },
                     {
                         "channel_name": "Sky Sport Top Event DE",
