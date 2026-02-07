@@ -2,7 +2,7 @@
     "Saturday 07th Feb 2026 - Schedule Time UK GMT": {
         "Winter Olympics 2026": [
             {
-                "time": "10:52",
+                "time": "11:03",
                 "event": "Winter Olympics 2026 Live Stream",
                 "channels": [
                     {
@@ -124,6 +124,98 @@
                     {
                         "channel_name": "Eurosport 2 SE",
                         "channel_id": "232"
+                    }
+                ]
+            }
+        ],
+        "PPV Events": [
+            {
+                "time": "19:00",
+                "event": "Main Character Jiu Jitsu Side Quest 2",
+                "channels": [
+                    {
+                        "channel_name": "Flotv",
+                        "channel_id": "23"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "2026 LIJJN Team Series NYC",
+                "channels": [
+                    {
+                        "channel_name": "Flotv",
+                        "channel_id": "19"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "2026 Winter Freeze at Screven Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "21"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "World of Outlaws Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "20"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2026 World Series of Asphalt at New Smyrna Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "22"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "wXw: Back to the Roots 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "24"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "WV Toughman Contest",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Showdown in the Sunshine State",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "26"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Redneck Brawl 12",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "27"
                     }
                 ]
             }
