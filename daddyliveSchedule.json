@@ -2,7 +2,7 @@
     "Sunday 08th Feb 2026 - Schedule Time UK GMT": {
         "Winter Olympics 2026": [
             {
-                "time": "09:00",
+                "time": "11:55",
                 "event": "Winter Olympics 2026 Live Stream",
                 "channels": [
                     {
@@ -128,7 +128,7 @@
                 ]
             },
             {
-                "time": "09:00",
+                "time": "11:55",
                 "event": "Winter Olympics 2026",
                 "channels": [
                     {
@@ -4564,8 +4564,24 @@
                         "channel_id": "472"
                     },
                     {
-                        "channel_name": "Ziggo Sport 3 NL",
-                        "channel_id": "919"
+                        "channel_name": "Ziggo Sport 4 NL",
+                        "channel_id": "396"
+                    },
+                    {
+                        "channel_name": "Movistar Deportes Spain",
+                        "channel_id": "436"
+                    },
+                    {
+                        "channel_name": "Movistar Deportes 1 Spain",
+                        "channel_id": "438"
+                    },
+                    {
+                        "channel_name": "Movistar Deportes 3 Spain",
+                        "channel_id": "526"
+                    },
+                    {
+                        "channel_name": "Movistar Deportes 4 Spain",
+                        "channel_id": "527"
                     },
                     {
                         "channel_name": "Ziggo Sport 1 NL",
@@ -4578,6 +4594,10 @@
                     {
                         "channel_name": "beIN SPORTS Australia 2",
                         "channel_id": "492"
+                    },
+                    {
+                        "channel_name": "Sportklub 2 Croatia",
+                        "channel_id": "102"
                     },
                     {
                         "channel_name": "beIN Sports 2 Malaysia",
