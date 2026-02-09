@@ -2,7 +2,7 @@
     "Monday 09th Feb 2026 - Schedule Time UK GMT": {
         "Winter Olympics 2026": [
             {
-                "time": "08:17",
+                "time": "18:45",
                 "event": "Winter Olympics 2026 Live Stream",
                 "channels": [
                     {
@@ -2505,7 +2505,7 @@
                 "channels": [
                     {
                         "channel_name": "ESPN2 USA",
-                        "channel_id": "157"
+                        "channel_id": "45"
                     }
                 ]
             }
