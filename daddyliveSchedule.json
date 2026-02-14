@@ -2,7 +2,7 @@
     "Saturday 14th Feb 2026 - Schedule Time UK GMT": {
         "Winter Olympics 2026": [
             {
-                "time": "12:52",
+                "time": "18:37",
                 "event": "Winter Olympics 2026 Live Stream",
                 "channels": [
                     {
@@ -3224,7 +3224,11 @@
                         "channel_id": "356"
                     },
                     {
-                        "channel_name": "ESPN+ USA (CH-19) Sportsnet 360",
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "19"
+                    },
+                    {
+                        "channel_name": "Sportsnet 360",
                         "channel_id": "409"
                     },
                     {
