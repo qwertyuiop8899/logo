@@ -2,7 +2,7 @@
     "Sunday 15th Feb 2026 - Schedule Time UK GMT": {
         "Winter Olympics 2026": [
             {
-                "time": "08:51",
+                "time": "17:50",
                 "event": "Winter Olympics 2026 Live Stream",
                 "channels": [
                     {
@@ -124,6 +124,28 @@
                     {
                         "channel_name": "Eurosport 2 SE",
                         "channel_id": "232"
+                    }
+                ]
+            }
+        ],
+        "PPV Events": [
+            {
+                "time": "17:30",
+                "event": "Snocross Grand Prix De Valcourt",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "17"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "World Series of Snowmobile Racing",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "19"
                     }
                 ]
             }
