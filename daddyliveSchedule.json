@@ -2,7 +2,7 @@
     "Thursday 19th Feb 2026 - Schedule Time UK GMT": {
         "Winter Olympics 2026": [
             {
-                "time": "19:08",
+                "time": "20:23",
                 "event": "Winter Olympics 2026 Live Stream",
                 "channels": [
                     {
@@ -3522,32 +3522,6 @@
                     {
                         "channel_name": "Arena 5 Premium Serbia",
                         "channel_id": "28"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "Spanish Cup : Unicaja vs Real Madrid",
-                "channels": [
-                    {
-                        "channel_name": "Sportklub Poland",
-                        "channel_id": "29"
-                    },
-                    {
-                        "channel_name": "Arena 4 Premium Serbia",
-                        "channel_id": "15"
-                    },
-                    {
-                        "channel_name": "Sportklub 1 Croatia",
-                        "channel_id": "101"
-                    },
-                    {
-                        "channel_name": "Cosmote Sport 5 Greece",
-                        "channel_id": "626"
-                    },
-                    {
-                        "channel_name": "Sport 3 Israel",
-                        "channel_id": "142"
                     }
                 ]
             }
