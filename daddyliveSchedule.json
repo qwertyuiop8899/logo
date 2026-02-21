@@ -2,7 +2,7 @@
     "Saturday 21st Feb 2026 - Schedule Time UK GMT": {
         "Winter Olympics 2026": [
             {
-                "time": "16:37",
+                "time": "18:35",
                 "event": "Winter Olympics 2026 Live Stream",
                 "channels": [
                     {
@@ -156,6 +156,16 @@
                     {
                         "channel_name": "DAZN PPV",
                         "channel_id": "28"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "AMA Supercross : Arlington",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "692"
                     }
                 ]
             },
@@ -4870,6 +4880,16 @@
                 ]
             },
             {
+                "time": "18:00",
+                "event": "AMA Supercross | Gate Drop : Arlington",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "692"
+                    }
+                ]
+            },
+            {
                 "time": "18:30",
                 "event": "NASCAR Craftsman Truck Series Fr8 Racing 208",
                 "channels": [
@@ -4894,16 +4914,6 @@
                     {
                         "channel_name": "Ziggo Sport 3 NL",
                         "channel_id": "919"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "AMA Supercross | Gate Drop : Arlington",
-                "channels": [
-                    {
-                        "channel_name": "Peacock",
-                        "channel_id": "55"
                     }
                 ]
             },
@@ -7113,6 +7123,10 @@
                 "time": "17:00",
                 "event": "Spanish Cup Semi-final 1 : Valencia vs Real Madrid",
                 "channels": [
+                    {
+                        "channel_name": "DAZN Baloncesto",
+                        "channel_id": "19"
+                    },
                     {
                         "channel_name": "Arena 4 Premium Serbia",
                         "channel_id": "107"
