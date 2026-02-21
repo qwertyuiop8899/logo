@@ -2,7 +2,7 @@
     "Saturday 21st Feb 2026 - Schedule Time UK GMT": {
         "Winter Olympics 2026": [
             {
-                "time": "08:31",
+                "time": "10:35",
                 "event": "Winter Olympics 2026 Live Stream",
                 "channels": [
                     {
@@ -6895,7 +6895,7 @@
             },
             {
                 "time": "13:50",
-                "event": "Men's basketball: Pekao SA Polish Cup semi-final match",
+                "event": "Polish Cup : Trefl Sopot vs Gornik Walbrzych",
                 "channels": [
                     {
                         "channel_name": "Polsat Sport 2 Poland",
@@ -6979,11 +6979,29 @@
             },
             {
                 "time": "17:00",
-                "event": "Spanish Cup : Semi-final 1",
+                "event": "Spanish Cup Semi-final 1 : Valencia vs Real Madrid",
                 "channels": [
                     {
                         "channel_name": "Arena 4 Premium Serbia",
                         "channel_id": "107"
+                    },
+                    {
+                        "channel_name": "Cosmote Sport 5 Greece",
+                        "channel_id": "626"
+                    },
+                    {
+                        "channel_name": "DAZN Eleven 4 Portugal",
+                        "channel_id": "458"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "Italian Cup Semi-final 1 : Brescia vs Olimpia Milano",
+                "channels": [
+                    {
+                        "channel_name": "Arena 5 Premium 5 Serbia",
+                        "channel_id": "8"
                     }
                 ]
             },
@@ -7060,6 +7078,16 @@
                 ]
             },
             {
+                "time": "18:00",
+                "event": "Polish Cup : Slask Wroclaw vs Zielona Gora",
+                "channels": [
+                    {
+                        "channel_name": "Polsat Sport 3 Poland",
+                        "channel_id": "129"
+                    }
+                ]
+            },
+            {
                 "time": "19:00",
                 "event": "Super League : Hapoel Tel-Aviv vs Hapoel Holon",
                 "channels": [
@@ -7081,7 +7109,7 @@
             },
             {
                 "time": "19:30",
-                "event": "FINALE The Radivoje Korac Cup",
+                "event": "Korac cup FINALE : Crvena zvezda vs Mega Soccerbet",
                 "channels": [
                     {
                         "channel_name": "Arena 1 Premium Serbia",
@@ -7095,17 +7123,21 @@
             },
             {
                 "time": "19:45",
-                "event": "Italian Cup : Semi-final 2",
+                "event": "Italian Cup Semi-final 2 : Tortona vs Virtus Bologna",
                 "channels": [
                     {
-                        "channel_name": "Arena 5 Premium 5 Serbia",
+                        "channel_name": "Arena 5 Premium Serbia",
                         "channel_id": "8"
+                    },
+                    {
+                        "channel_name": "Cosmote Sport 7 Greece",
+                        "channel_id": "628"
                     }
                 ]
             },
             {
                 "time": "20:00",
-                "event": "Copa Del Rey Semi-Final 2",
+                "event": "Spanish Cup Semi-final 2 : Barcelona vs Baskonia",
                 "channels": [
                     {
                         "channel_name": "DAZN Baloncesto",
@@ -7154,9 +7186,7 @@
                         "channel_id": "141"
                     }
                 ]
-            }
-        ],
-        "Unrivaled Basketball": [
+            },
             {
                 "time": "01:00",
                 "event": "Unrivaled Basketball : Vinyl Basketball Club vs Breeze Basketball Club",
@@ -10503,8 +10533,12 @@
         "Olympic Ice Hockey": [
             {
                 "time": "19:10",
-                "event": "Olympic Games : Men | Bronze Medal Game",
+                "event": "Olympic Games : Men | Bronze Medal : Slovakia vs Finland",
                 "channels": [
+                    {
+                        "channel_name": "TNT Sports 2 UK",
+                        "channel_id": "32"
+                    },
                     {
                         "channel_name": "Sky Sport 9 NZ",
                         "channel_id": "596"
@@ -10522,8 +10556,16 @@
                         "channel_id": "727"
                     },
                     {
+                        "channel_name": "Sportsnet 360",
+                        "channel_id": "409"
+                    },
+                    {
                         "channel_name": "Rai Sport 1 IT",
                         "channel_id": "882"
+                    },
+                    {
+                        "channel_name": "DR 2 Denmark",
+                        "channel_id": "802"
                     },
                     {
                         "channel_name": "TVP Sport Poland",
@@ -10554,8 +10596,8 @@
                         "channel_id": "41"
                     },
                     {
-                        "channel_name": "Sport 5 Plus Israel",
-                        "channel_id": "145"
+                        "channel_name": "Sport 5 Gold Israel",
+                        "channel_id": "148"
                     }
                 ]
             }
@@ -12046,42 +12088,22 @@
         ],
         "GAA": [
             {
-                "time": "10:40",
-                "event": "GAA : ANTRIM vs CARLOW",
+                "time": "16:45",
+                "event": "GAA : TIPPERARY vs LIMERICK",
                 "channels": [
                     {
-                        "channel_name": "GAA",
-                        "channel_id": "151"
+                        "channel_name": "RTE 2",
+                        "channel_id": "365"
                     }
                 ]
             },
             {
-                "time": "11:00",
-                "event": "GAA : KILKENNY vs WATERFORD",
+                "time": "18:30",
+                "event": "GAA : DUBLIN vs KERRY",
                 "channels": [
                     {
                         "channel_name": "GAA",
-                        "channel_id": "152"
-                    }
-                ]
-            },
-            {
-                "time": "14:25",
-                "event": "GAA : MONAGHAN vs MAYO",
-                "channels": [
-                    {
-                        "channel_name": "GAA",
-                        "channel_id": "198"
-                    }
-                ]
-            },
-            {
-                "time": "15:15",
-                "event": "GAA : ARMAGH vs DONEGAL",
-                "channels": [
-                    {
-                        "channel_name": "GAA",
-                        "channel_id": "197"
+                        "channel_id": "20"
                     }
                 ]
             }
