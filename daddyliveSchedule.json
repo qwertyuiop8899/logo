@@ -2,7 +2,7 @@
     "Saturday 21st Feb 2026 - Schedule Time UK GMT": {
         "Winter Olympics 2026": [
             {
-                "time": "10:35",
+                "time": "11:01",
                 "event": "Winter Olympics 2026 Live Stream",
                 "channels": [
                     {
@@ -124,6 +124,108 @@
                     {
                         "channel_name": "Eurosport 2 SE",
                         "channel_id": "232"
+                    }
+                ]
+            }
+        ],
+        "PPV Events": [
+            {
+                "time": "10:30",
+                "event": "Eternal MMA 103",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "187"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "2026 Snocross National at Seneca Allegany Resort",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "29"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Boxing : Milans Volkovs vs Christian Fabi\u00e1n Luis",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "28"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "American Sprint Car Series",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "30"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2026 Lucas Oil Late Model Dirt Series at All-Tech Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "18"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "Barrios vs Garcia: The Ring: High Stakes",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "22"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "2026 USAC Avanti Western States Midgets at Kern Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "23"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World Outlaws Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "24"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Toughman Contest",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "21"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "Royal Combat: Muay Thai Series 28",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "26"
                     }
                 ]
             }
@@ -4284,6 +4386,16 @@
         ],
         "Major League Soccer (MLS)": [
             {
+                "time": "19:30",
+                "event": "Major League Soccer : St. Louis City vs Charlotte",
+                "channels": [
+                    {
+                        "channel_name": "MLS Season Pass",
+                        "channel_id": "22"
+                    }
+                ]
+            },
+            {
                 "time": "21:45",
                 "event": "Major League Soccer : Cincinnati vs Atlanta United",
                 "channels": [
@@ -4303,6 +4415,26 @@
             },
             {
                 "time": "00:30",
+                "event": "Major League Soccer : DC United vs Philadelphia Union",
+                "channels": [
+                    {
+                        "channel_name": "MLS Season Pass",
+                        "channel_id": "9"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Major League Soccer : Orlando City SC vs New York RB",
+                "channels": [
+                    {
+                        "channel_name": "MLS Season Pass",
+                        "channel_id": "10"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
                 "event": "Major League Soccer : Vancouver Whitecaps vs Real Salt Lake",
                 "channels": [
                     {
@@ -4312,6 +4444,66 @@
                     {
                         "channel_name": "TSN3",
                         "channel_id": "113"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "Major League Soccer : Austin vs Minnesota United",
+                "channels": [
+                    {
+                        "channel_name": "MLS Season Pass",
+                        "channel_id": "11"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "Major League Soccer : Dallas vs Toronto FC",
+                "channels": [
+                    {
+                        "channel_name": "MLS Season Pass",
+                        "channel_id": "12"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "Major League Soccer : Houston Dynamo vs Chicago Fire",
+                "channels": [
+                    {
+                        "channel_name": "MLS Season Pass",
+                        "channel_id": "13"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "Major League Soccer : Nashville SC vs New England",
+                "channels": [
+                    {
+                        "channel_name": "MLS Season Pass",
+                        "channel_id": "14"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "Major League Soccer : Los Angeles FC vs Inter Miami",
+                "channels": [
+                    {
+                        "channel_name": "MLS Season Pass",
+                        "channel_id": "15"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "Major League Soccer : Portland Timbers vs Columbus Crew",
+                "channels": [
+                    {
+                        "channel_name": "MLS Season Pass",
+                        "channel_id": "16"
                     }
                 ]
             },
@@ -4326,6 +4518,16 @@
                     {
                         "channel_name": "TSN3",
                         "channel_id": "113"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "Major League Soccer : SJ Earthquakes vs Sporting KC",
+                "channels": [
+                    {
+                        "channel_name": "MLS Season Pass",
+                        "channel_id": "17"
                     }
                 ]
             }
