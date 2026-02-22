@@ -2,7 +2,7 @@
     "Sunday 22nd Feb 2026 - Schedule Time UK GMT": {
         "Winter Olympics 2026": [
             {
-                "time": "08:38",
+                "time": "10:41",
                 "event": "Winter Olympics 2026 Live Stream",
                 "channels": [
                     {
@@ -6348,18 +6348,8 @@
                 ]
             },
             {
-                "time": "14:45",
-                "event": "Women's Basketball State Cup : Hapoel Lev Jerusalem vs Maccabi Haifa",
-                "channels": [
-                    {
-                        "channel_name": "Sport 5 Plus Israel",
-                        "channel_id": "145"
-                    }
-                ]
-            },
-            {
                 "time": "15:30",
-                "event": "German Basketball Cup: Final",
+                "event": "German Cup Final : Bamberg vs Alba Berlin",
                 "channels": [
                     {
                         "channel_name": "NBA TV USA",
@@ -6381,7 +6371,7 @@
             },
             {
                 "time": "16:00",
-                "event": "Italian Cup : FINALE",
+                "event": "Italian Cup FINALE : Olimpia Milano vs Tortona",
                 "channels": [
                     {
                         "channel_name": "Arena 4 Premium Serbia",
@@ -6415,7 +6405,7 @@
             },
             {
                 "time": "16:30",
-                "event": "Men's basketball: Pekao SA Polish Cup",
+                "event": "Polish Cup : Trefl Sopot vs Zielona Gora",
                 "channels": [
                     {
                         "channel_name": "Polsat Sport 3 Poland",
@@ -6445,17 +6435,17 @@
             },
             {
                 "time": "17:55",
-                "event": "French Basketball Cup: Final Sport",
+                "event": "French Basketball Cup: Final",
                 "channels": [
                     {
-                        "channel_name": "5 Stars Israel",
+                        "channel_name": "Sport 5 Stars Israel",
                         "channel_id": "147"
                     }
                 ]
             },
             {
                 "time": "17:55",
-                "event": "Spanish Basketball Cup Final",
+                "event": "Spanish Cup Final : Real Madrid vs Baskonia",
                 "channels": [
                     {
                         "channel_name": "DAZN Baloncesto",
@@ -6466,12 +6456,26 @@
                         "channel_id": "458"
                     },
                     {
+                        "channel_name": "Cosmote Sport 5 Greece",
+                        "channel_id": "626"
+                    },
+                    {
                         "channel_name": "Sport Klub 2 Croatia",
                         "channel_id": "102"
                     },
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Leaders Cup : Monaco vs Le Mans",
+                "channels": [
+                    {
+                        "channel_name": "Sport 5 Stars Israel",
+                        "channel_id": "147"
                     }
                 ]
             },
