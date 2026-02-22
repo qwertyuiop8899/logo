@@ -2,7 +2,7 @@
     "Sunday 22nd Feb 2026 - Schedule Time UK GMT": {
         "Winter Olympics 2026": [
             {
-                "time": "18:25",
+                "time": "20:15",
                 "event": "Winter Olympics 2026 Live Stream",
                 "channels": [
                     {
@@ -5062,16 +5062,6 @@
                 ]
             },
             {
-                "time": "16:30",
-                "event": "College Baseball : Louisville vs Auburn",
-                "channels": [
-                    {
-                        "channel_name": "FloSports",
-                        "channel_id": "241"
-                    }
-                ]
-            },
-            {
                 "time": "17:00",
                 "event": "College Baseball : Eastern Kentucky vs Dayton",
                 "channels": [
@@ -5422,16 +5412,6 @@
                 ]
             },
             {
-                "time": "18:00",
-                "event": "College Baseball : South Alabama vs College of Charleston",
-                "channels": [
-                    {
-                        "channel_name": "FloSports",
-                        "channel_id": "1085"
-                    }
-                ]
-            },
-            {
                 "time": "19:00",
                 "event": "College Baseball : Pennsylvania vs Texas A&amp;M",
                 "channels": [
@@ -5752,16 +5732,6 @@
                 ]
             },
             {
-                "time": "20:30",
-                "event": "College Baseball : Florida State vs Nebraska",
-                "channels": [
-                    {
-                        "channel_name": "FloSports",
-                        "channel_id": "251"
-                    }
-                ]
-            },
-            {
                 "time": "21:00",
                 "event": "College Baseball : TCU vs UCLA",
                 "channels": [
@@ -5852,16 +5822,6 @@
                 ]
             },
             {
-                "time": "21:00",
-                "event": "College Baseball : Pittsburgh vs Texas A&amp;M-CC",
-                "channels": [
-                    {
-                        "channel_name": "FloSports",
-                        "channel_id": "1069"
-                    }
-                ]
-            },
-            {
                 "time": "21:05",
                 "event": "College Baseball : CSU Fullerton vs Stanford",
                 "channels": [
@@ -5888,16 +5848,6 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "1072"
-                    }
-                ]
-            },
-            {
-                "time": "00:30",
-                "event": "College Baseball : Kansas State vs Michigan",
-                "channels": [
-                    {
-                        "channel_name": "FloSports",
-                        "channel_id": "1073"
                     }
                 ]
             }
@@ -6010,26 +5960,6 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "196"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "College Softball : Auburn vs California",
-                "channels": [
-                    {
-                        "channel_name": "FloSports",
-                        "channel_id": "197"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "College Softball : Texas Tech vs UC Riverside",
-                "channels": [
-                    {
-                        "channel_name": "FloSports",
-                        "channel_id": "198"
                     }
                 ]
             },
@@ -6190,26 +6120,6 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "194"
-                    }
-                ]
-            },
-            {
-                "time": "19:30",
-                "event": "College Softball : Nebraska vs California",
-                "channels": [
-                    {
-                        "channel_name": "FloSports",
-                        "channel_id": "195"
-                    }
-                ]
-            },
-            {
-                "time": "19:30",
-                "event": "College Softball : Loyola Marymount vs Washington",
-                "channels": [
-                    {
-                        "channel_name": "FloSports",
-                        "channel_id": "196"
                     }
                 ]
             },
