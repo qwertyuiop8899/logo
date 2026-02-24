@@ -1,5 +1,17 @@
 {
     "Tuesday 24th Feb 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:30",
+                "event": "2026 Lucas Oil Late Model Dirt Series at Ocala Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "18"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "20:00",
