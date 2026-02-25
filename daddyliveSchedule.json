@@ -1020,8 +1020,8 @@
                         "channel_id": "155"
                     },
                     {
-                        "channel_name": "Polsat Sport 2 Poland",
-                        "channel_id": "50"
+                        "channel_name": "Polsat Sport Premium 1 Poland",
+                        "channel_id": "991"
                     },
                     {
                         "channel_name": "Prima Sport 4 Romania",
@@ -5778,16 +5778,6 @@
             },
             {
                 "time": "17:00",
-                "event": "CEV Cup Women : Chieri '76 W vs Budowlani Lodz W",
-                "channels": [
-                    {
-                        "channel_name": "Polsat Sport 2 Poland",
-                        "channel_id": "50"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
                 "event": "Champions League Women : Scandicci W vs Novara W",
                 "channels": [
                     {
@@ -5829,6 +5819,16 @@
                     {
                         "channel_name": "SportKlub 7 Croatia",
                         "channel_id": "175"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "CEV Cup Women : Chieri '76 W vs Budowlani Lodz W",
+                "channels": [
+                    {
+                        "channel_name": "Polsat Sport 2 Poland",
+                        "channel_id": "50"
                     }
                 ]
             },
