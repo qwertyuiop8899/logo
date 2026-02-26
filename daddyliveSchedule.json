@@ -4273,7 +4273,7 @@
                 "event": "NCAAW : North Carolina vs Virginia",
                 "channels": [
                     {
-                        "channel_name": "ACCNX+ USA",
+                        "channel_name": "ACCNX USA",
                         "channel_id": "228"
                     }
                 ]
@@ -4283,7 +4283,7 @@
                 "event": "NCAAW : Syracuse vs Notre Dame",
                 "channels": [
                     {
-                        "channel_name": "ACCNX+ USA",
+                        "channel_name": "ACCNX USA",
                         "channel_id": "229"
                     }
                 ]
@@ -4343,7 +4343,7 @@
                 "event": "NCAAW : Wake Forest vs NC State",
                 "channels": [
                     {
-                        "channel_name": "ACCNX+ USA",
+                        "channel_name": "ACCNX USA",
                         "channel_id": "242"
                     }
                 ]
