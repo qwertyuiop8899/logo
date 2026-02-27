@@ -12,6 +12,16 @@
                 ]
             },
             {
+                "time": "19:30",
+                "event": "World Series of Pro Mod at Bradenton",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing PPV",
+                        "channel_id": "692"
+                    }
+                ]
+            },
+            {
                 "time": "22:00",
                 "event": "wXw: Dead End 2026",
                 "channels": [
