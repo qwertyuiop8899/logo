@@ -1,5 +1,67 @@
 {
     "Friday 27th Feb 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "19:10",
+                "event": "GROMDA 24: POLSKA SI\u0141A vs BLACK POWER",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5000"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "wXw: Dead End 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "18"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2026 Lucas Oil Late Model Dirt Series at Ocala Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "12"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "2026 SCDRA Sport Compact World Championship at Penton Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "13"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Thunder's Friday Night Fights (TFNF): Night of Champions VIII",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "14"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "CMLL: International Weekend",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "19"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "19:00",
@@ -2975,8 +3037,12 @@
             },
             {
                 "time": "01:00",
-                "event": "ProBox TV Contender Series : Rene Tellez vs. Luis Torres",
+                "event": "ProBox Fight Night : Edward Vazquez vs Grimardi Machuca",
                 "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "20"
+                    },
                     {
                         "channel_name": "NLSE USA",
                         "channel_id": "11"
