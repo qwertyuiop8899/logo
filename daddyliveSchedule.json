@@ -33,6 +33,16 @@
             },
             {
                 "time": "19:00",
+                "event": "East vs. West ArmWresting 22: Vienna",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5010"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
                 "event": "2026 SMART Modified Tour at Florence Motor Speedway",
                 "channels": [
                     {
@@ -5585,6 +5595,10 @@
                         "channel_id": "86"
                     },
                     {
+                        "channel_name": "UFC Fight Pass ii",
+                        "channel_id": "5011"
+                    },
+                    {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "31"
                     },
@@ -5605,6 +5619,10 @@
                     {
                         "channel_name": "UFC Fight Pass",
                         "channel_id": "86"
+                    },
+                    {
+                        "channel_name": "UFC Fight Pass ii",
+                        "channel_id": "5011"
                     },
                     {
                         "channel_name": "TNT Sports 1 UK",
