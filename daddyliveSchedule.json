@@ -1,5 +1,51 @@
 {
     "Sunday 01st March 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "18:30",
+                "event": "The Corn Thrasher Hartford Snocross",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "28"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "23"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "The MGM Slam 2026 by Capital One",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "24"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "American Sprint Car Series Volusia",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "25"
+                    },
+                    {
+                        "channel_name": "Event PPV 2",
+                        "channel_id": "5011"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "18:00",
@@ -4118,6 +4164,10 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "106"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5013"
                     }
                 ]
             },
