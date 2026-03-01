@@ -2806,6 +2806,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5012"
                     }
                 ]
             },
