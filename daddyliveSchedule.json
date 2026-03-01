@@ -4232,6 +4232,74 @@
                 ]
             }
         ],
+        "Tennis ATP - SANTIAGO": [
+            {
+                "time": "22:30",
+                "event": "ATP - SANTIAGO : Hanfmann Y. vs Darderi L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - MERIDA": [
+            {
+                "time": "23:00",
+                "event": "WTA - MERIDA : Bucsa C. vs Frech M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "WTA - MERIDA : Haverlag I./Lumsden M. vs Bucsa C./Jiang X.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - AUSTIN": [
+            {
+                "time": "18:00",
+                "event": "WTA - AUSTIN : Townsend T. vs Stearns P.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "WTA - AUSTIN : Hunter S./Townsend T. vs Chong E./Liang E. S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "13:00",
