@@ -15,7 +15,7 @@ OUTPUT_SCHEDULE_JSON = "daddyliveSchedule.json"
 RETRIES = int(os.getenv("DLHD_RETRIES", "3"))
 # FlareSolverr per bypassare Cloudflare
 FLARESOLVERR_URL = os.getenv("FLARESOLVERR_URL")
-
+# anna.mosene@gmail.com su huggingface
 # ==========================================
 # Parsing schedule -> JSON
 # ==========================================
