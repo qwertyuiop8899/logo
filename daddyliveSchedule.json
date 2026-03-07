@@ -40,6 +40,18 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "18:00",
+                "event": "Prime Show MMA 3: Street Fighter",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5025"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "13:30",
@@ -5172,6 +5184,16 @@
                     {
                         "channel_name": "Cosmote Sport 7 Greece",
                         "channel_id": "628"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "GCW : So Alive 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "77"
                     }
                 ]
             }
