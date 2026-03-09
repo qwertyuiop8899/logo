@@ -1506,6 +1506,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
                     }
                 ]
             },
@@ -1515,7 +1519,11 @@
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1511"
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
                     }
                 ]
             },
@@ -1536,6 +1544,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
                     }
                 ]
             },
@@ -1586,6 +1598,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
                     }
                 ]
             },
@@ -1596,6 +1612,112 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    }
+                ]
+            }
+        ],
+        "Tennis SD Stream": [
+            {
+                "time": "20:30",
+                "event": "Tennis : Rei Sakamoto vs Liam Draxl",
+                "channels": [
+                    {
+                        "channel_name": "SD-12283416",
+                        "channel_id": "12283416"
+                    }
+                ]
+            },
+            {
+                "time": "20:50",
+                "event": "Tennis : Maria Sakkari vs lga Swiatek",
+                "channels": [
+                    {
+                        "channel_name": "SD-12274774",
+                        "channel_id": "12274774"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "Tennis : Amador Salazar vs Pedro Boscardin Dias",
+                "channels": [
+                    {
+                        "channel_name": "SD-12274559",
+                        "channel_id": "12274559"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "Tennis : Simona Waltert vs Mccartney Kessler",
+                "channels": [
+                    {
+                        "channel_name": "SD-12283140",
+                        "channel_id": "12283140"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "Tennis : Ashton McLeod vs Dan Milburn",
+                "channels": [
+                    {
+                        "channel_name": "SD-12286231",
+                        "channel_id": "12286231"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "Tennis : Jason Kubler vs Luca Bland",
+                "channels": [
+                    {
+                        "channel_name": "SD-12286232",
+                        "channel_id": "12286232"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "Tennis : Colin Sinclair vs Josh Gilbert",
+                "channels": [
+                    {
+                        "channel_name": "SD-12286233",
+                        "channel_id": "12286233"
+                    }
+                ]
+            },
+            {
+                "time": "21:20",
+                "event": "Tennis : N.Djokovic/S.Tsitsipas vs M.Arevalo/M.Pavic",
+                "channels": [
+                    {
+                        "channel_name": "SD-12255677",
+                        "channel_id": "12255677"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "Tennis : Ashlyn Krueger vs Elina Svitolina",
+                "channels": [
+                    {
+                        "channel_name": "SD-12276991",
+                        "channel_id": "12276991"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Tennis : Renata Zarazua vs Anna Blinkova",
+                "channels": [
+                    {
+                        "channel_name": "SD-12283147",
+                        "channel_id": "12283147"
                     }
                 ]
             }
