@@ -1356,6 +1356,250 @@
                 ]
             }
         ],
+        "Tennis ATP - INDIAN WELLS": [
+            {
+                "time": "18:00",
+                "event": "ATP - INDIAN WELLS : Djokovic N. vs Kovacevic A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - INDIAN WELLS : Norrie C. vs De Minaur A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "ATP - INDIAN WELLS : Bublik A. vs Hijikata R.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "ATP - INDIAN WELLS : Cerundolo F. vs Draper J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "ATP - INDIAN WELLS : Granollers M./Zeballos H. vs Opelka R./Sinner J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "ATP - INDIAN WELLS : Melo M./Zverev A. vs Auger-Aliassime F./Korda S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "ATP - INDIAN WELLS : Michelsen A. vs Fritz T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "ATP - INDIAN WELLS : Vacherot V. vs Ruud C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "ATP - INDIAN WELLS : Nakashima B./Tiafoe F. vs Krawietz K./Puetz T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "ATP - INDIAN WELLS : Djokovic N./Tsitsipas S. vs Arevalo M./Pavic M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "ATP - INDIAN WELLS : Nys H./Roger-Vasselin E. vs Khachanov K./Rublev A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "ATP - INDIAN WELLS : Alcaraz C. vs Rinderknech A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "ATP - INDIAN WELLS : Medvedev D. vs Baez S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - INDIAN WELLS": [
+            {
+                "time": "18:00",
+                "event": "WTA - INDIAN WELLS : Muchova K. vs Ruzic A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - INDIAN WELLS : Pegula J. vs Ostapenko J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "WTA - INDIAN WELLS : Andreeva M. vs Siniakova K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "WTA - INDIAN WELLS : Mertens E. vs Bencic B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "WTA - INDIAN WELLS : Sakkari M. vs Swiatek I.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "WTA - INDIAN WELLS : Krueger A. vs Svitolina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "WTA - INDIAN WELLS : Errani S./Paolini J. vs Xu Y./Yang Z.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "WTA - INDIAN WELLS : Baptiste H./Ostapenko J. vs Andreeva M./Mboko V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "WTA - INDIAN WELLS : Neel I./Stearns P. vs Dabrowski G./Stefani L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "WTA - INDIAN WELLS : Keys M. vs Kartal S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "WTA - INDIAN WELLS : Kostyuk M. vs Rybakina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "03:00",
