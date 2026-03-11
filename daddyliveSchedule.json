@@ -2,6 +2,16 @@
     "Wednesday 11th March 2026 - Schedule Time UK GMT": {
         "Upcoming Events": [
             {
+                "time": "13:30",
+                "event": "Premier league of Darts: Night 6",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
                 "time": "18:30",
                 "event": "Fame MMA 30: Icons Saturday, March 21, 2026",
                 "channels": [
@@ -3490,6 +3500,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4065"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5010"
                     }
                 ]
             },
@@ -3508,6 +3522,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4066"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5011"
                     }
                 ]
             },
@@ -3526,6 +3544,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4067"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5012"
                     }
                 ]
             },
@@ -3544,6 +3566,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4069"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5013"
                     }
                 ]
             },
@@ -3622,6 +3648,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4068"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5014"
                     }
                 ]
             },
@@ -3648,6 +3678,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4070"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5015"
                     }
                 ]
             }
