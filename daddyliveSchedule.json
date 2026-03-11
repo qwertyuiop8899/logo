@@ -1002,6 +1002,14 @@
                     {
                         "channel_name": "5Sport Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000"
                     }
                 ]
             },
@@ -1222,6 +1230,18 @@
                     {
                         "channel_name": "5Sport Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -1356,6 +1376,14 @@
                     {
                         "channel_name": "Sport 5 Live Israel",
                         "channel_id": "146"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -1462,6 +1490,14 @@
                     {
                         "channel_name": "5Stars Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -1874,6 +1910,256 @@
                     {
                         "channel_name": "Sky Sport 5 NZ",
                         "channel_id": "592"
+                    }
+                ]
+            }
+        ],
+        "ATP - INDIAN WELLS": [
+            {
+                "time": "18:00",
+                "event": "ATP - INDIAN WELLS : Hijikata R. vs Norrie C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1558"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "ATP - INDIAN WELLS : Medvedev D. vs Michelsen A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1558"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "ATP - INDIAN WELLS : Alcaraz C. vs Ruud C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1557"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "ATP - INDIAN WELLS : Erler A./Vavassori A. vs Bhambri Y./Goransson A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1509"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1559"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "ATP - INDIAN WELLS : Djokovic N. vs Draper J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1557"
+                    },
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Sky Sports Tennis UK",
+                        "channel_id": "46"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "ATP - INDIAN WELLS : Khachanov K./Rublev A. vs Rinderknech A./Vacherot V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1560"
+                    }
+                ]
+            }
+        ],
+        "WTA - INDIAN WELLS": [
+            {
+                "time": "18:00",
+                "event": "WTA - INDIAN WELLS : Muchova K. vs Swiatek I.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis stream 2",
+                        "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis stream",
+                        "channel_id": "1524"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "WTA - INDIAN WELLS : Pegula J. vs Bencic B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Tennis stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis stream 2",
+                        "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1524"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "WTA - INDIAN WELLS : Danilina A./Krunic A. vs Andreeva M./Mboko V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis stream",
+                        "channel_id": "1552"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "WTA - INDIAN WELLS : Siniakova K. vs Svitolina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis stream",
+                        "channel_id": "1552"
+                    },
+                    {
+                        "channel_name": "Tennis stream",
+                        "channel_id": "1524"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "WTA - INDIAN WELLS : Kartal S. vs Rybakina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis stream 2",
+                        "channel_id": "1552"
+                    },
+                    {
+                        "channel_name": "Tennis stream",
+                        "channel_id": "1524"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "WTA - INDIAN WELLS : Errani S./Paolini J. vs Guo H./Mladenovic K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1551"
+                    }
+                ]
+            }
+        ],
+        "MIXED DOUBLES - INDIAN WELLS": [
+            {
+                "time": "20:00",
+                "event": "MIXED DOUBLES - INDIAN WELLS : King E./Ostapenko J. vs Bencic B./Cobolli F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1511"
+                    },
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1561"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "MIXED DOUBLES - INDIAN WELLS : Krawczyk D./Skupski N. vs Errani S./Vavassori A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1511"
+                    },
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1561"
                     }
                 ]
             }
@@ -3200,6 +3486,10 @@
                     {
                         "channel_name": "Sport 5 Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4065"
                     }
                 ]
             },
@@ -3214,6 +3504,10 @@
                     {
                         "channel_name": "Sportsnet One",
                         "channel_id": "411"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4066"
                     }
                 ]
             },
@@ -3228,6 +3522,10 @@
                     {
                         "channel_name": "MSG USA",
                         "channel_id": "765"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4067"
                     }
                 ]
             },
@@ -3242,6 +3540,10 @@
                     {
                         "channel_name": "NBCS California",
                         "channel_id": "755"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4069"
                     }
                 ]
             },
@@ -3316,6 +3618,10 @@
                     {
                         "channel_name": "Sport 5 Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4068"
                     }
                 ]
             },
@@ -3338,6 +3644,10 @@
                     {
                         "channel_name": "FanDuel Sports Network SoCal",
                         "channel_id": "902"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4070"
                     }
                 ]
             }
@@ -3668,6 +3978,10 @@
                     {
                         "channel_name": "V Sport Premium",
                         "channel_id": "13"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4050"
                     }
                 ]
             },
@@ -3710,6 +4024,10 @@
                     {
                         "channel_name": "Sport 5 Max Israel",
                         "channel_id": "158"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4051"
                     }
                 ]
             }
