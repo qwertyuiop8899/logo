@@ -2068,37 +2068,49 @@
         ],
         "Tennis ATP - INDIAN WELLS": [
             {
-                "time": "18:00",
+                "time": "19:42",
                 "event": "ATP - INDIAN WELLS : Fils A. vs Zverev A.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1558"
                     }
                 ]
             },
             {
-                "time": "18:00",
+                "time": "19:42",
                 "event": "ATP - INDIAN WELLS : Harrison C./Skupski N. vs Andreozzi G./Guinard M.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1509"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1559"
                     }
                 ]
             },
             {
-                "time": "19:30",
+                "time": "19:42",
                 "event": "ATP - INDIAN WELLS : Granollers M./Zeballos H. vs Frantzen C./Haase R.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1509"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1559"
                     }
                 ]
             },
             {
-                "time": "20:00",
+                "time": "19:42",
                 "event": "ATP - INDIAN WELLS : Tien L. vs Sinner J.",
                 "channels": [
                     {
@@ -2112,11 +2124,15 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
                     }
                 ]
             },
             {
-                "time": "00:00",
+                "time": "19:42",
                 "event": "ATP - INDIAN WELLS : Draper J. vs Medvedev D.",
                 "channels": [
                     {
@@ -2138,7 +2154,7 @@
                 ]
             },
             {
-                "time": "02:00",
+                "time": "19:42",
                 "event": "ATP - INDIAN WELLS : Alcaraz C. vs Norrie C.",
                 "channels": [
                     {
@@ -3383,8 +3399,12 @@
             },
             {
                 "time": "19:00",
-                "event": "NCAA : TBD vs Arizona",
+                "event": "NCAA : UCF vs Arizona",
                 "channels": [
+                    {
+                        "channel_name": "ESPN2 USA",
+                        "channel_id": "44"
+                    },
                     {
                         "channel_name": "ESPN2 USA",
                         "channel_id": "45"
