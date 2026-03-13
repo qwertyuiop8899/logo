@@ -2358,6 +2358,14 @@
                         "channel_id": "86"
                     },
                     {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "4080"
+                    },
+                    {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "5015"
+                    },
+                    {
                         "channel_name": "RMC Sport 1 France",
                         "channel_id": "119"
                     },
