@@ -1,5 +1,93 @@
 {
     "Friday 13th March 2026 - Schedule Time UK GMT": {
+        "Upcoming Events": [
+            {
+                "time": "18:30",
+                "event": "Fame MMA 30: Icons Saturday, March 21, 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "The Oscars 2026 - 98th Academy Awards - Sunday, March 15, 2026",
+                "channels": [
+                    {
+                        "channel_name": "ABC NY USA",
+                        "channel_id": "766"
+                    },
+                    {
+                        "channel_name": "ABC USA",
+                        "channel_id": "51"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "AEW Revolution 2026 , Top Championship Matches and Notable Returns March 15, 2026",
+                "channels": [
+                    {
+                        "channel_name": "WWE PPV",
+                        "channel_id": "5005"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "The 2026 Miami Open Tennis tournament - Monday, March 16 to March 29",
+                "channels": [
+                    {
+                        "channel_name": "Tennis channel USA",
+                        "channel_id": "40"
+                    }
+                ]
+            }
+        ],
+        "PPV Events": [
+            {
+                "time": "18:30",
+                "event": "Stream Snocross National at World Derby Complex",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "252"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "2026 Zenith Racing Series at Sonoma",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "253"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "2026 High Limit Racing Season Opener at Las Vegas Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "18"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "2026 USAC Avanti CRA/WS Midgets at Imperial Valley Raceway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "19"
+                    }
+                ]
+            }
+        ],
         "England - League Two": [
             {
                 "time": "19:45",
@@ -493,7 +581,7 @@
                 "channels": [
                     {
                         "channel_name": "Sky Sport Bundesliga 4",
-                        "channel_id": "4"
+                        "channel_id": "5"
                     },
                     {
                         "channel_name": "Nova Sport 5 CZ",
