@@ -98,12 +98,32 @@
                 ]
             },
             {
+                "time": "00:45",
+                "event": "World of Outlaws Late Models @ Smoky Mountain Speedway",
+                "channels": [
+                    {
+                        "channel_name": "PPV Events",
+                        "channel_id": "5011"
+                    }
+                ]
+            },
+            {
                 "time": "01:00",
                 "event": "2026 USAC Avanti CRA/WS Midgets at Imperial Valley Raceway",
                 "channels": [
                     {
                         "channel_name": "FloRacing",
                         "channel_id": "29"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "World of Outlaws Sprint Cars @ Kennedale Speedway Park",
+                "channels": [
+                    {
+                        "channel_name": "PPV Events",
+                        "channel_id": "5012"
                     }
                 ]
             }
@@ -3147,7 +3167,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "5003"
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -4870,6 +4890,10 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "164"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5013"
                     }
                 ]
             },
@@ -5058,6 +5082,114 @@
                     {
                         "channel_name": "SuperSport Grandstand",
                         "channel_id": "412"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - INDIAN WELLS": [
+            {
+                "time": "20:30",
+                "event": "ATP - INDIAN WELLS : Zverev A. vs Sinner J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1570"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1565"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "ATP - INDIAN WELLS : Alcaraz C. vs Medvedev D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1570"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1565"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "ATP - INDIAN WELLS : Andreozzi G./Guinard M. vs Rinderknech A./Vacherot V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1558"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1570"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - INDIAN WELLS": [
+            {
+                "time": "18:00",
+                "event": "WTA - INDIAN WELLS : Siniakova K./Townsend T. vs Danilina A./Krunic A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1570"
                     }
                 ]
             }
@@ -5532,6 +5664,10 @@
                         "channel_id": "157"
                     },
                     {
+                        "channel_name": "Canal+ Extra 2 Poland",
+                        "channel_id": "984"
+                    },
+                    {
                         "channel_name": "RMC Sport 1 France",
                         "channel_id": "119"
                     },
@@ -5542,6 +5678,10 @@
                     {
                         "channel_name": "Nova SPORT 2 CZ",
                         "channel_id": "1022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5010"
                     }
                 ]
             },
