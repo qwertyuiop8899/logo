@@ -46,6 +46,68 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "16:00",
+                "event": "Snocross National at World Derby Complex",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "1124"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "Zenith Racing Series Sonoma",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "28"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "World of Outlaws Sprint Cars Kennedale",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "8"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "World of Outlaws Late Models Volunteer",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "23"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "2026 High Limit Racing Season Opener at Las Vegas Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "27"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "2026 USAC Avanti CRA/WS Midgets at Imperial Valley Raceway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "29"
+                    }
+                ]
+            }
+        ],
         "England - League One/Two": [
             {
                 "time": "12:30",
@@ -2080,7 +2142,7 @@
                 "event": "Greece - Super League : OFI vs Olympiakos Piraeus",
                 "channels": [
                     {
-                        "channel_name": "osmote Sport 1 Greece",
+                        "channel_name": "Cosmote Sport 1 Greece",
                         "channel_id": "622"
                     },
                     {
@@ -7340,7 +7402,7 @@
                         "channel_id": "54"
                     },
                     {
-                        "channel_name": "FOxNY USA",
+                        "channel_name": "FOXNY USA",
                         "channel_id": "768"
                     }
                 ]
