@@ -4584,6 +4584,78 @@
                 ]
             }
         ],
+        "Tennis ATP - INDIAN WELLS": [
+            {
+                "time": "21:00",
+                "event": "ATP - INDIAN WELLS : Medvedev D. vs Sinner J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1570"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1565"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - INDIAN WELLS": [
+            {
+                "time": "18:00",
+                "event": "WTA - INDIAN WELLS : Sabalenka A. vs Rybakina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1570"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1565"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    }
+                ]
+            }
+        ],
         "College Tennis": [
             {
                 "time": "17:00",
@@ -6748,6 +6820,10 @@
                     {
                         "channel_name": "Sport 5 Plus Israel",
                         "channel_id": "145"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4066"
                     }
                 ]
             },
@@ -6766,6 +6842,10 @@
                     {
                         "channel_name": "Sport Klub 1 Croatia",
                         "channel_id": "101"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4068"
                     }
                 ]
             },
@@ -6788,6 +6868,10 @@
                     {
                         "channel_name": "Arena 3 Premium Serbia",
                         "channel_id": "139"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4067"
                     }
                 ]
             },
@@ -6806,6 +6890,10 @@
                     {
                         "channel_name": "Sport 5 Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4068"
                     }
                 ]
             },
@@ -6872,6 +6960,10 @@
                     {
                         "channel_name": "5Live Israel",
                         "channel_id": "146"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4070"
                     }
                 ]
             },
@@ -6886,6 +6978,10 @@
                     {
                         "channel_name": "NBCS California USA",
                         "channel_id": "755"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4071"
                     }
                 ]
             }
@@ -7478,6 +7574,10 @@
                     {
                         "channel_name": "beIN Sports 7 Max France",
                         "channel_id": "497"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4050"
                     }
                 ]
             },
@@ -7508,6 +7608,10 @@
                     {
                         "channel_name": "Viasat Vinter",
                         "channel_id": "16"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4051"
                     }
                 ]
             },
@@ -7530,6 +7634,10 @@
                     {
                         "channel_name": "V Sport Premium",
                         "channel_id": "28"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4052"
                     }
                 ]
             },
@@ -7552,6 +7660,10 @@
                     {
                         "channel_name": "Sportsnet Ontario",
                         "channel_id": "406"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4053"
                     }
                 ]
             },
@@ -7562,6 +7674,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "14"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4055"
                     }
                 ]
             },
@@ -7592,6 +7708,10 @@
                     {
                         "channel_name": "Viasat Vinter",
                         "channel_id": "16"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4054"
                     }
                 ]
             }
