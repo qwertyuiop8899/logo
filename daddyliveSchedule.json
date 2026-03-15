@@ -1577,6 +1577,16 @@
             },
             {
                 "time": "14:00",
+                "event": "England - Premier League : Goal Rush",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5003"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
                 "event": "England - Premier League : Simulcast",
                 "channels": [
                     {
@@ -1696,6 +1706,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -1774,6 +1788,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -1900,6 +1918,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000"
                     }
                 ]
             },
@@ -2522,6 +2544,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5004"
                     }
                 ]
             },
@@ -5074,6 +5100,10 @@
                     {
                         "channel_name": "Triller TV",
                         "channel_id": "86"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000"
                     }
                 ]
             },
