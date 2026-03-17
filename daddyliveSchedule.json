@@ -1172,6 +1172,10 @@
                 "event": "UEFA Champions League : Simulcast",
                 "channels": [
                     {
+                        "channel_name": "CBS Golazo Show",
+                        "channel_id": "200"
+                    },
+                    {
                         "channel_name": "Sky Sport Austria 1",
                         "channel_id": "559"
                     },
