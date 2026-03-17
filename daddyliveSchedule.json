@@ -1758,6 +1758,108 @@
                 ]
             }
         ],
+        "WTA - MIAMI": [
+            {
+                "time": "16:30",
+                "event": "WTA - MIAMI : Linette M. vs Gracheva V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - MIAMI : Vidmanova D. vs Jacquemot E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - MIAMI : Waltert S. vs Tomljanovic A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - MIAMI : Boulter K. vs Bouzas Maneiro J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - MIAMI : Kessler M. vs Frech M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - MIAMI : Siegemund L. vs Marcinko P.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "WTA - MIAMI : Kenin S. vs Blinkova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "WTA - MIAMI : Zhang S. vs Cirstea S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "WTA - MIAMI : Sonmez Z. vs Haddad Maia B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "WTA - MIAMI : Siniakova K. vs Osorio C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "15:00",
