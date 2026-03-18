@@ -4099,7 +4099,9 @@
                         "channel_id": "765"
                     }
                 ]
-            },
+            }
+        ],
+        "AHL": [
             {
                 "time": "17:30",
                 "event": "AHL Hockey : Coachella Valley Firebirds vs San Jose Barracuda",
