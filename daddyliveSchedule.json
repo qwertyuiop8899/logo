@@ -22,12 +22,34 @@
                 ]
             },
             {
+                "time": "18:00",
+                "event": "East vs West 23 arm wrestling in Germany on April 18, 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5016"
+                    }
+                ]
+            },
+            {
                 "time": "04:30",
                 "event": "The 2026 Miami Open Tennis tournament - Monday, March 16 to March 29",
                 "channels": [
                     {
                         "channel_name": "Tennis channel USA",
                         "channel_id": "40"
+                    }
+                ]
+            }
+        ],
+        "PPV Events": [
+            {
+                "time": "19:00",
+                "event": "TX2K26 presented by Summit Racing Equipment",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5010"
                     }
                 ]
             }
@@ -1337,6 +1359,10 @@
                 "time": "20:00",
                 "event": "Europe - UEFA Champions League : Simulcast",
                 "channels": [
+                    {
+                        "channel_name": "CBS Golazo Show",
+                        "channel_id": "5004"
+                    },
                     {
                         "channel_name": "Sky Sport Austria 1",
                         "channel_id": "559"
