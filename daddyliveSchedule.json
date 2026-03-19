@@ -3368,6 +3368,18 @@
                 ]
             }
         ],
+        "NCAA March Madness": [
+            {
+                "time": "16:00",
+                "event": "NCAA March Madness : Fast Break Live",
+                "channels": [
+                    {
+                        "channel_name": "Paramount+",
+                        "channel_id": "5005"
+                    }
+                ]
+            }
+        ],
         "NCAA Basketball": [
             {
                 "time": "15:15",
@@ -3624,6 +3636,10 @@
                     {
                         "channel_name": "FanDuel Sports Network Florida",
                         "channel_id": "892"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4065"
                     }
                 ]
             },
@@ -3638,6 +3654,10 @@
                     {
                         "channel_name": "Monumental Sports Network",
                         "channel_id": "778"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4066"
                     }
                 ]
             },
@@ -3656,6 +3676,10 @@
                     {
                         "channel_name": "Chicago Sports Network",
                         "channel_id": "776"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4068"
                     }
                 ]
             },
@@ -3698,6 +3722,10 @@
                     {
                         "channel_name": "Sport 5 Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4067"
                     }
                 ]
             },
@@ -3712,6 +3740,10 @@
                     {
                         "channel_name": "FanDuel Sports Network SoCal",
                         "channel_id": "902"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4069"
                     }
                 ]
             },
@@ -3726,6 +3758,10 @@
                     {
                         "channel_name": "Cosmote Sport 4 Greece",
                         "channel_id": "625"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4070"
                     }
                 ]
             },
@@ -3740,6 +3776,10 @@
                     {
                         "channel_name": "FanDuel Sports Network Wisconsin",
                         "channel_id": "907"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4071"
                     }
                 ]
             },
@@ -4134,6 +4174,10 @@
                     {
                         "channel_name": "RDS 2 CA",
                         "channel_id": "840"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4051"
                     }
                 ]
             },
@@ -4152,6 +4196,10 @@
                     {
                         "channel_name": "TSN3",
                         "channel_id": "113"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4059"
                     }
                 ]
             },
@@ -4174,6 +4222,10 @@
                     {
                         "channel_name": "Viasat Vinter",
                         "channel_id": "20"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4053"
                     }
                 ]
             },
@@ -4204,6 +4256,10 @@
                     {
                         "channel_name": "V Sport Premium",
                         "channel_id": "21"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4059"
                     }
                 ]
             },
@@ -4222,6 +4278,10 @@
                     {
                         "channel_name": "Sport 5 Stars Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4054"
                     }
                 ]
             },
@@ -4240,6 +4300,10 @@
                     {
                         "channel_name": "NBC USA",
                         "channel_id": "53"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4055"
                     }
                 ]
             },
@@ -4282,6 +4346,10 @@
                     {
                         "channel_name": "Sky Sport Mix DE",
                         "channel_id": "557"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4056"
                     }
                 ]
             },
@@ -4296,6 +4364,10 @@
                     {
                         "channel_name": "NBC Sports California",
                         "channel_id": "755"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4059"
                     }
                 ]
             },
@@ -4306,6 +4378,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "17"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4057"
                     }
                 ]
             },
@@ -4316,6 +4392,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "18"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4051"
                     }
                 ]
             },
@@ -4330,6 +4410,10 @@
                     {
                         "channel_name": "FanDuel Sports Network West",
                         "channel_id": "906"
+                    },
+                    {
+                        "channel_name": "NBC Sports Philadelphia",
+                        "channel_id": "777"
                     }
                 ]
             }
