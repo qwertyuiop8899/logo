@@ -5845,7 +5845,9 @@
                         "channel_id": "108"
                     }
                 ]
-            },
+            }
+        ],
+        "ECHL Ice Hockey": [
             {
                 "time": "23:00",
                 "event": "ECHL : Utah Grizzlies vs Indy Fuel",
