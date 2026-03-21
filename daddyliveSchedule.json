@@ -1,5 +1,147 @@
 {
     "Saturday 21th March 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "15:30",
+                "event": "Rising Stars : Daniel Lapin vs. Kristaps Bulmeistars",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "1091"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "2026 Opening Night at Port Royal Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "1092"
+                    }
+                ]
+            },
+            {
+                "time": "19:40",
+                "event": "2026 American Flat Track at Senoia Short Track",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "1093"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Volusia Sprint Cars - Volusia Speedway Park",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "24"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2026 March Madness at Cherokee Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "26"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2026 KKM Challenge Series at Southern Illinois Center",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "27"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2026 NASCAR Weekly Racing at Hickory Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "28"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Toughman Contest",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "29"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Armored MMA 2026: Medieval Cage Fighting Championship, Pittsburgh",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "249"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "MMA Mexico 7: Cuando Hierve la Sangre",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "250"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Late Models Magnolia",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "251"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Sprint Cars Creek County",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "252"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "HOG x BIG EVENT: Superclash 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "253"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "2026 High Limit Racing at Central Arizona Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "254"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "18:30",
@@ -5850,6 +5992,10 @@
                 "event": "IMSA 12 Hours of Sebring | 1",
                 "channels": [
                     {
+                        "channel_name": "Peacock",
+                        "channel_id": "1100"
+                    },
+                    {
                         "channel_name": "Sport TV4 Portugal",
                         "channel_id": "289"
                     },
@@ -6110,6 +6256,10 @@
                 "event": "IMSA Sportscar Championship 2025: 12 Hours of Sebring",
                 "channels": [
                     {
+                        "channel_name": "Peacock",
+                        "channel_id": "1100"
+                    },
+                    {
                         "channel_name": "Sport TV4 Portugal",
                         "channel_id": "289"
                     },
@@ -6177,6 +6327,10 @@
                 "time": "21:00",
                 "event": "IMSA 12 Hours of Sebring | 2",
                 "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "1100"
+                    },
                     {
                         "channel_name": "Sport TV4 Portugal",
                         "channel_id": "289"
@@ -6265,7 +6419,7 @@
             },
             {
                 "time": "19:00",
-                "event": "MMA Bushido: Vilnius, Lithuania",
+                "event": "Bushido Fighting Championship 101 : Mantas Stankis vs. Jahfaro Gezius",
                 "channels": [
                     {
                         "channel_name": "DAZN PPV",
