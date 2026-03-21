@@ -12,6 +12,16 @@
                 ]
             },
             {
+                "time": "18:00",
+                "event": "Fame MMA 30: Icons 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5020"
+                    }
+                ]
+            },
+            {
                 "time": "19:30",
                 "event": "2026 Opening Night at Port Royal Speedway",
                 "channels": [
@@ -143,16 +153,6 @@
             }
         ],
         "Upcoming Events": [
-            {
-                "time": "18:30",
-                "event": "Fame MMA 30: Icons Saturday, March 21, 2026",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "00"
-                    }
-                ]
-            },
             {
                 "time": "17:00",
                 "event": "UFC Fight Night : Movsar Evloev vs Lerone Murphy March 21, 2026",
@@ -5138,7 +5138,7 @@
                 ]
             }
         ],
-        "\u0391\u03a4\u03a1 - \u039c\u0399\u0391MI": [
+        "Tennis \u0391\u03a4\u03a1 - \u039c\u0399\u0391MI": [
             {
                 "time": "15:00",
                 "event": "\u0391\u03a4\u03a1 - \u039c\u0399\u0391MI : Bergs Z. vs Etcheverry T. M",
@@ -5400,7 +5400,7 @@
                 ]
             }
         ],
-        "WTA - \u039c\u0399\u0391MI": [
+        "Tennis WTA - \u039c\u0399\u0391MI": [
             {
                 "time": "15:00",
                 "event": "WTA - \u039c\u0399\u0391MI : Fernandez L. vs Selekhmeteva O.",
@@ -7381,7 +7381,7 @@
             },
             {
                 "time": "17:00",
-                "event": "College Softball : California - Florida State",
+                "event": "College Softball : California vs Florida State",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -7391,7 +7391,7 @@
             },
             {
                 "time": "17:00",
-                "event": "College Softball : Clemson - Notre Dame",
+                "event": "College Softball : Clemson vs Notre Dame",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -7401,7 +7401,7 @@
             },
             {
                 "time": "17:00",
-                "event": "College Softball : Stanford - North Carolina",
+                "event": "College Softball : Stanford vs North Carolina",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -7411,7 +7411,7 @@
             },
             {
                 "time": "17:00",
-                "event": "College Softball : Nebraska - Michigan State",
+                "event": "College Softball : Nebraska vs Michigan State",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
@@ -7471,7 +7471,7 @@
             },
             {
                 "time": "18:00",
-                "event": "College Softball : Mississippi State - University of Georgia",
+                "event": "College Softball : Mississippi State vs University of Georgia",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -7481,7 +7481,7 @@
             },
             {
                 "time": "18:00",
-                "event": "College Softball : NC State - Virginia Tech",
+                "event": "College Softball : NC State vs Virginia Tech",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -7491,7 +7491,7 @@
             },
             {
                 "time": "18:00",
-                "event": "College Softball : Northwestern - Illinois",
+                "event": "College Softball : Northwestern vs Illinois",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
@@ -7501,7 +7501,7 @@
             },
             {
                 "time": "18:00",
-                "event": "College Softball : Virginia - Syracuse",
+                "event": "College Softball : Virginia vs Syracuse",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -7511,7 +7511,7 @@
             },
             {
                 "time": "18:30",
-                "event": "College Softball : Louisville - Ohio State",
+                "event": "College Softball : Louisville vs Ohio State",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
@@ -7521,7 +7521,7 @@
             },
             {
                 "time": "19:00",
-                "event": "College Softball : Oklahoma - Mississippi",
+                "event": "College Softball : Oklahoma vs Mississippi",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -7531,7 +7531,7 @@
             },
             {
                 "time": "19:00",
-                "event": "College Softball : Alabama - Missouri",
+                "event": "College Softball : Alabama vs Missouri",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -7541,7 +7541,7 @@
             },
             {
                 "time": "19:00",
-                "event": "College Softball : Duke - Georgia Tech",
+                "event": "College Softball : Duke vs Georgia Tech",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -7551,7 +7551,7 @@
             },
             {
                 "time": "19:00",
-                "event": "College Softball : Boston College - Pittsburgh",
+                "event": "College Softball : Boston College vs Pittsburgh",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -7561,7 +7561,7 @@
             },
             {
                 "time": "19:00",
-                "event": "College Softball : LSU - South Carolina",
+                "event": "College Softball : LSU vs South Carolina",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -7571,7 +7571,7 @@
             },
             {
                 "time": "21:00",
-                "event": "College Softball : Campbell - Ohio State",
+                "event": "College Softball : Campbell vs Ohio State",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
@@ -7581,7 +7581,7 @@
             },
             {
                 "time": "21:00",
-                "event": "College Softball : UConn - Arkansas",
+                "event": "College Softball : UConn vs Arkansas",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -7591,7 +7591,7 @@
             },
             {
                 "time": "21:00",
-                "event": "College Softball : Kentucky - Texas A&amp;M",
+                "event": "College Softball : Kentucky vs Texas A&amp;M",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -7601,7 +7601,7 @@
             },
             {
                 "time": "22:00",
-                "event": "College Softball : UCLA - Rutgers",
+                "event": "College Softball : UCLA vs Rutgers",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
@@ -7946,6 +7946,10 @@
                     {
                         "channel_name": "CBS USA",
                         "channel_id": "52"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -7960,6 +7964,10 @@
                     {
                         "channel_name": "CBS USA",
                         "channel_id": "52"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -7974,6 +7982,10 @@
                     {
                         "channel_name": "CBS USA",
                         "channel_id": "52"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5003"
                     }
                 ]
             },
