@@ -2,6 +2,20 @@
     "Sunday 22th March 2026 - Schedule Time UK GMT": {
         "Upcoming Events": [
             {
+                "time": "17:00",
+                "event": "The 2026 Masters Golf Tournament, the 90th edition, April 6, 2026",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports Golf",
+                        "channel_id": "70"
+                    },
+                    {
+                        "channel_name": "Golf Channel USA",
+                        "channel_id": "318"
+                    }
+                ]
+            },
+            {
                 "time": "18:00",
                 "event": "East vs West 23 arm wrestling in Germany on April 18, 2026",
                 "channels": [
@@ -22,7 +36,63 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "18:00",
+                "event": "TX2K26 Day 3 From The Texas Motorplex",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "1100"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Gorilla 2: Birmingham",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "Williams Grove Sprint Cars Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "175"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "Short Track Super Series at Bridgeport",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "176"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
+            {
+                "time": "20:00",
+                "event": "PBA Bowling Indiana Classic Live",
+                "channels": [
+                    {
+                        "channel_name": "CW USA",
+                        "channel_id": "300"
+                    },
+                    {
+                        "channel_name": "CW PIX 11 USA",
+                        "channel_id": "280"
+                    }
+                ]
+            },
             {
                 "time": "00:00",
                 "event": "When Calls the Heart Season 13, Episode 12",
@@ -5317,7 +5387,7 @@
             },
             {
                 "time": "00:00",
-                "event": "ANTHONY PETTIS FC 22 : Emmanuel Sanchez vs James Pleasant",
+                "event": "APFC - ANTHONY PETTIS FC 22 : Emmanuel Sanchez vs James Pleasant",
                 "channels": [
                     {
                         "channel_name": "UFC Fight Pass",
@@ -5646,7 +5716,7 @@
                 ]
             }
         ],
-        "Aussie rules": [
+        "Aussie Rules": [
             {
                 "time": "04:15",
                 "event": "AFL : Port Adelaide Power vs Essendon Bombers",
@@ -5696,7 +5766,7 @@
                 ]
             }
         ],
-        "Baseball": [
+        "Baseball (MLB)": [
             {
                 "time": "16:05",
                 "event": "MLB : St. Louis Cardinals vs Houston Astros",
