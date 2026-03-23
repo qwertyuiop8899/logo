@@ -704,6 +704,294 @@
                 ]
             }
         ],
+        "\u0391\u03a4\u03a1 - \u039c\u0399AMI": [
+            {
+                "time": "15:00",
+                "event": "\u0391\u03a4\u03a1 - \u039c\u0399AMI : Shevchenko A. vs Humbert U.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1559"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u0391\u03a4\u03a1 - \u039c\u0399AMI : Cerundolo F. vs Medvedev D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\u0391\u03a4\u03a1 - \u039c\u0399AMI : Auger-Aliassime F. vs Atmane T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1558"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u0391\u03a4\u03a1 - \u039c\u0399AMI : Tiafoe F. vs Mensik J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1558"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "\u0391\u03a4\u03a1 - \u039c\u0399AMI : Cilic M. vs Zverev A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1558"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "\u0391\u03a4\u03a1 - \u039c\u0399AMI : Tabilo A. vs Michelsen A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1560"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\u0391\u03a4\u03a1 - \u039c\u0399AMI : Halys Q. vs Majchrzak K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1559"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\u0391\u03a4\u03a1 - \u039c\u0399AMI : Moutet C. vs Sinner J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
+                    },
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1570"
+                    }
+                ]
+            }
+        ],
+        "WTA - \u039c\u0399AMI": [
+            {
+                "time": "15:00",
+                "event": "WTA - \u039c\u0399AMI : Muchova K. vs Eala A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - \u039c\u0399AMI : Andreeva M. vs Mboko V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1553"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - \u039c\u0399AMI : Cirstea S. vs Gauff C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - \u039c\u0399AMI : Baptiste H. vs Ostapenko J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1553"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "WTA - \u039c\u0399AMI : Sabalenka A. vs Zheng Q.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "WTA - \u039c\u0399AMI : Cristian J. vs Pegula J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1553"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "WTA - \u039c\u0399AMI : Anisimova A. vs Bencic B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "WTA - \u039c\u0399AMI : Rybakina E. vs Gibson T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1570"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "15:00",
@@ -838,7 +1126,7 @@
         ],
         "Golf": [
             {
-                "time": "09:23",
+                "time": "18:06",
                 "event": "6:30 TGL '26: P/O 1 : Jupiter Links Golf Club - Los Angeles Golf Club",
                 "channels": [
                     {
@@ -1252,6 +1540,10 @@
                     {
                         "channel_name": "Sport Klub 1 Croatia",
                         "channel_id": "101"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4065"
                     }
                 ]
             },
@@ -1294,6 +1586,10 @@
                     {
                         "channel_name": "5Sport Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4068"
                     }
                 ]
             },
@@ -1316,6 +1612,10 @@
                     {
                         "channel_name": "FanDuel Sports Network Indiana",
                         "channel_id": "894"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4066"
                     }
                 ]
             },
@@ -1334,6 +1634,10 @@
                     {
                         "channel_name": "FanDuel Sports Network Oklahoma",
                         "channel_id": "900"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4067"
                     }
                 ]
             },
@@ -1344,6 +1648,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "6"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4069"
                     }
                 ]
             },
@@ -1362,6 +1670,10 @@
                     {
                         "channel_name": "Chicago Sports Network",
                         "channel_id": "776"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4070"
                     }
                 ]
             },
@@ -1376,6 +1688,10 @@
                     {
                         "channel_name": "Sportsnet One",
                         "channel_id": "411"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4071"
                     }
                 ]
             },
@@ -1434,6 +1750,10 @@
                     {
                         "channel_name": "beIN SPORTS MENA 8",
                         "channel_id": "98"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4072"
                     }
                 ]
             },
@@ -1452,6 +1772,10 @@
                     {
                         "channel_name": "5Sport Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4073"
                     }
                 ]
             },
@@ -1474,6 +1798,10 @@
                     {
                         "channel_name": "Cosmote Sport 4 Greece",
                         "channel_id": "625"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4074"
                     }
                 ]
             }
@@ -1660,6 +1988,10 @@
                     {
                         "channel_name": "5 Star Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4050"
                     }
                 ]
             }
