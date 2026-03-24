@@ -646,7 +646,7 @@
                 ]
             }
         ],
-        "\u0391\u03a4\u03a1 - \u039c\u0399\u0391MI": [
+        "Tennis \u0391\u03a4\u03a1 - \u039c\u0399\u0391MI": [
             {
                 "time": "15:00",
                 "event": "\u0391\u03a4\u03a1 - \u039c\u0399\u0391MI : Korda S. vs Landaluce M.",
@@ -784,7 +784,7 @@
                 ]
             }
         ],
-        "WTA - \u039c\u0399\u0391MI": [
+        "Tennis WTA - \u039c\u0399\u0391MI": [
             {
                 "time": "18:00",
                 "event": "WTA - MIAMI : Mboko V. vs Muchova K.",
@@ -1012,7 +1012,7 @@
                 ]
             }
         ],
-        "Wrestling": [
+        "WWE (NXT)": [
             {
                 "time": "20:30",
                 "event": "WWE NXT",
@@ -1039,7 +1039,7 @@
         "Golf": [
             {
                 "time": "23:00",
-                "event": "GL Golf : Los Angeles Golf Club vs Jupiter Links GC",
+                "event": "TGL Golf : Los Angeles Golf Club vs Jupiter Links GC",
                 "channels": [
                     {
                         "channel_name": "ESPN USA",
@@ -2116,7 +2116,7 @@
                 ]
             }
         ],
-        "NBA G League Basketball": [
+        "NBA G League": [
             {
                 "time": "23:00",
                 "event": "NBA G-League : Maine Celtics vs Cleveland Charge",
@@ -2500,7 +2500,7 @@
                 ]
             }
         ],
-        "Ice Hockey": [
+        "NHL": [
             {
                 "time": "23:00",
                 "event": "NHL : Columbus Blue Jackets vs Philadelphia Flyers",
@@ -2858,7 +2858,9 @@
                         "channel_id": "4064"
                     }
                 ]
-            },
+            }
+        ],
+        "Ice Hockey": [
             {
                 "time": "16:30",
                 "event": "Russia KHL : Lokomotiv Yaroslavl vs Spartak Moscow",
@@ -2904,16 +2906,6 @@
                 ]
             },
             {
-                "time": "19:00",
-                "event": "SwitzerlandNational League : Davos vs Zug",
-                "channels": [
-                    {
-                        "channel_name": "Sport 2 CZ",
-                        "channel_id": "20"
-                    }
-                ]
-            },
-            {
                 "time": "17:45",
                 "event": "DEL : EHC Red Bull M\u00fcnchen vs ERC Ingolstadt",
                 "channels": [
@@ -2952,6 +2944,16 @@
                         "channel_id": "704"
                     }
                 ]
+            },
+            {
+                "time": "19:00",
+                "event": "SwitzerlandNational League : Davos vs Zug",
+                "channels": [
+                    {
+                        "channel_name": "Sport 2 CZ",
+                        "channel_id": "20"
+                    }
+                ]
             }
         ],
         "AHL Ice Hockey": [
@@ -2981,7 +2983,7 @@
         "PWHL Ice Hockey": [
             {
                 "time": "23:00",
-                "event": "PWHL : Vancouver Goldeneyes - Boston",
+                "event": "PWHL : Vancouver Goldeneyes vs Boston",
                 "channels": [
                     {
                         "channel_name": "FanDuel Sports Network Florida",
