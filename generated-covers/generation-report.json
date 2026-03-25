@@ -1,0 +1,553 @@
+{
+  "generatedAt": "2026-03-24T17:53:11.069Z",
+  "input": "C:\\Users\\emanu\\Downloads\\VideoPlayer MPD_M3U8_IPTV_EPG_undefined\\data\\logo-map.js",
+  "output": "C:\\Users\\emanu\\Downloads\\VideoPlayer MPD_M3U8_IPTV_EPG_undefined\\generated-covers",
+  "presets": [
+    "portrait",
+    "landscape"
+  ],
+  "channelsProcessed": 338,
+  "coversGenerated": 39,
+  "failures": [
+    {
+      "channelName": "sky sport 251",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "sky sport 251",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "sky sport 252",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "sky sport 252",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "sky sport 253",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "sky sport 253",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "sky sport 254",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "sky sport 254",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "sky sport 255",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "sky sport 255",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "sky sport 256",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "sky sport 256",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "27 twenty seven",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "27 twenty seven",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "27 twentyseven",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "27 twentyseven",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "italia 2",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "italia 2",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "mediaset italia 2",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "mediaset italia 2",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "dazn2",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "dazn zona",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "motortrend",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "motortrend",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "sky sports golf",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/2560px-Sky_Sport_Golf_Logo_2022.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "sky sports golf",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/2560px-Sky_Sport_Golf_Logo_2022.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "rai italia",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "rai italia",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "warner tv",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Warner_TV_Italy.svg/1200px-Warner_TV_Italy.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "warner tv",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Warner_TV_Italy.svg/1200px-Warner_TV_Italy.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "animal planet",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "animal planet",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "boing plus",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "boing plus",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "tg com 24",
+      "presetName": "portrait",
+      "url": "https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj",
+      "error": "fetch failed"
+    },
+    {
+      "channelName": "tg com 24",
+      "presetName": "landscape",
+      "url": "https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj",
+      "error": "fetch failed"
+    },
+    {
+      "channelName": "tgcom 24",
+      "presetName": "portrait",
+      "url": "https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj",
+      "error": "fetch failed"
+    },
+    {
+      "channelName": "tgcom 24",
+      "presetName": "landscape",
+      "url": "https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj",
+      "error": "fetch failed"
+    },
+    {
+      "channelName": "super!",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "super!",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "catfish",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Catfish%2C_the_TV_Show_Logo.PNG",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "catfish",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Catfish%2C_the_TV_Show_Logo.PNG",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "disney+ film",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "tv7 news",
+      "presetName": "portrait",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStj45lIWvQ0KFzv6jyIP9vOZgPnWQirEl6dw&s",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "tv7 news",
+      "presetName": "landscape",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStj45lIWvQ0KFzv6jyIP9vOZgPnWQirEl6dw&s",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "disney+ film",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "classica",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/CLA_HD_Logo-CENT-300ppi_CMYK.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "iunior tv",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "classica",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/CLA_HD_Logo-CENT-300ppi_CMYK.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "iunior tv",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "telearena",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/TeleArena_logo.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "telearena",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/TeleArena_logo.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "reggio tv",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "reggio tv",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "videostar tv",
+      "presetName": "portrait",
+      "url": "https://www.videostartv.eu/images/videostar.png",
+      "error": "fetch failed"
+    },
+    {
+      "channelName": "canale 8",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "canale 8",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "videostar tv",
+      "presetName": "landscape",
+      "url": "https://www.videostartv.eu/images/videostar.png",
+      "error": "fetch failed"
+    },
+    {
+      "channelName": "juwelo italia",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Juwelo_TV.svg",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "juwelo italia",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Juwelo_TV.svg",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "tele abruzzo",
+      "presetName": "portrait",
+      "url": "https://www.abruzzi.tv/logo-abruzzi.png",
+      "error": "fetch failed"
+    },
+    {
+      "channelName": "top calcio 24",
+      "presetName": "portrait",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHW5VLQDGnNMVZszgWZRqnBSjPUTgAcUltQ&s",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "top calcio 24",
+      "presetName": "landscape",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHW5VLQDGnNMVZszgWZRqnBSjPUTgAcUltQ&s",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "tele abruzzo",
+      "presetName": "landscape",
+      "url": "https://www.abruzzi.tv/logo-abruzzi.png",
+      "error": "fetch failed"
+    },
+    {
+      "channelName": "prima tv",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "prima tv",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "esperia tv 18",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/ESPERIATV18_verde.png/260px-ESPERIATV18_verde.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "esperia tv 18",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/ESPERIATV18_verde.png/260px-ESPERIATV18_verde.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "umbria tv",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Umbria_TV_wordmark%2C_ca._2020.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "stereo 5 tv",
+      "presetName": "portrait",
+      "url": "https://www.stereo5.it/2022/wp-content/uploads/2023/02/LOGO-NUOVO-2023-2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "stereo 5 tv",
+      "presetName": "landscape",
+      "url": "https://www.stereo5.it/2022/wp-content/uploads/2023/02/LOGO-NUOVO-2023-2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "umbria tv",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Umbria_TV_wordmark%2C_ca._2020.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "vco azzurra tv",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_VCO_Azzurra_TV.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "peer tv alto adige",
+      "presetName": "portrait",
+      "url": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6e7dee025526c334b9280153c418e10e.webp",
+      "error": "HTTP 403"
+    },
+    {
+      "channelName": "peer tv alto adige",
+      "presetName": "landscape",
+      "url": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6e7dee025526c334b9280153c418e10e.webp",
+      "error": "HTTP 403"
+    },
+    {
+      "channelName": "vco azzurra tv",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_VCO_Azzurra_TV.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "uninettuno university tv",
+      "presetName": "portrait",
+      "url": "https://www.laureaonlinegiurisprudenza.it/wp-content/uploads/2019/09/Logo-Uninettuno.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "uninettuno university tv",
+      "presetName": "landscape",
+      "url": "https://www.laureaonlinegiurisprudenza.it/wp-content/uploads/2019/09/Logo-Uninettuno.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "rds social tv",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "rds social tv",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "rete tv italia",
+      "presetName": "landscape",
+      "url": "https://www.retetvitalia.it/news/wp-content/uploads/2019/07/cropped-RTI-L.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "rete tv italia",
+      "presetName": "portrait",
+      "url": "https://www.retetvitalia.it/news/wp-content/uploads/2019/07/cropped-RTI-L.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "telenord",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/it/a/a8/Telenord.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "telenord",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/it/a/a8/Telenord.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "rmc 101",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/LogoRMC101.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "rmc 101",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/LogoRMC101.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "telecitta",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Logo_Telecitt%C3%A0.svg/800px-Logo_Telecitt%C3%A0.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "telecitta",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Logo_Telecitt%C3%A0.svg/800px-Logo_Telecitt%C3%A0.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "rds social",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "rds social",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png",
+      "error": "HTTP 429"
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "generatedAt": "2026-03-24T17:57:55.047Z",
+  "input": "C:\\Users\\emanu\\Downloads\\VideoPlayer MPD_M3U8_IPTV_EPG_undefined\\world.json",
+  "output": "C:\\Users\\emanu\\Downloads\\VideoPlayer MPD_M3U8_IPTV_EPG_undefined\\generated-covers-world",
+  "presets": [
+    "portrait",
+    "landscape"
+  ],
+  "channelsProcessed": 3148,
+  "coversGenerated": 1195,
+  "failures": [
+    {
+      "channelName": "C STAR HITS FRANCE",
+      "presetName": "portrait",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c-star-hits-france-fr.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "CHERIE 25 HD",
+      "presetName": "landscape",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cherie-25-fr.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "CHERIE 25",
+      "presetName": "portrait",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cherie-25-fr.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "CHERIE 25",
+      "presetName": "landscape",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cherie-25-fr.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "CHERIE 25 HD",
+      "presetName": "portrait",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cherie-25-fr.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "C STAR HITS FRANCE",
+      "presetName": "landscape",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c-star-hits-france-fr.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "POLSAT SPORT PREMIUM 5 PPV",
+      "presetName": "landscape",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-premium-5-ppv-pl.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "POLSAT SPORT PREMIUM 3 PPV",
+      "presetName": "portrait",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-premium-3-ppv-pl.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "POLSAT SPORT PREMIUM 3 PPV",
+      "presetName": "landscape",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-premium-3-ppv-pl.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "POLSAT SPORT PREMIUM 4 PPV",
+      "presetName": "portrait",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-premium-4-ppv-pl.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "POLSAT SPORT PREMIUM 4 PPV",
+      "presetName": "landscape",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-premium-4-ppv-pl.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "POLSAT SPORT PREMIUM 5 PPV",
+      "presetName": "portrait",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-premium-5-ppv-pl.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "RED CARPET",
+      "presetName": "landscape",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/red-carpet-pl.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "RED CARPET",
+      "presetName": "portrait",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/red-carpet-pl.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "POLSAT SPORT PREMIUM 6 PPV",
+      "presetName": "landscape",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-premium-6-ppv-pl.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "RTP 3",
+      "presetName": "portrait",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-3-pt.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "RTP 3",
+      "presetName": "landscape",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-3-pt.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "POLSAT SPORT PREMIUM 6 PPV",
+      "presetName": "portrait",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-premium-6-ppv-pl.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "CRIME &amp; INVESTIGATION",
+      "presetName": "portrait",
+      "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/crime-and-investigation-uk.png",
+      "error": "Input buffer has corrupt header: glib: XML parse error: Error domain 1 code 76 on line 1299 column 15 of data: Opening and ending tag mismatch: div line 1150 and action-menu"
+    },
+    {
+      "channelName": "CRIME &amp; INVESTIGATION",
+      "presetName": "landscape",
+      "url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/crime-and-investigation-uk.png",
+      "error": "Input buffer has corrupt header: glib: XML parse error: Error domain 1 code 76 on line 1299 column 15 of data: Opening and ending tag mismatch: div line 1150 and action-menu"
+    },
+    {
+      "channelName": "LA 1 HD",
+      "presetName": "portrait",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-1-hd-es.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "LA 1 HD",
+      "presetName": "landscape",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-1-hd-es.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "LA LIGA TV BAR HD",
+      "presetName": "landscape",
+      "url": "https://i.postimg.cc/pTsPn7mx/laligatvbar.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "LA LIGA TV BAR HD",
+      "presetName": "portrait",
+      "url": "https://i.postimg.cc/pTsPn7mx/laligatvbar.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "LALIGA TV BAR",
+      "presetName": "portrait",
+      "url": "https://i.postimg.cc/pTsPn7mx/laligatvbar.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "LALIGA TV BAR",
+      "presetName": "landscape",
+      "url": "https://i.postimg.cc/pTsPn7mx/laligatvbar.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "LIGA TV BAR 3 HD",
+      "presetName": "portrait",
+      "url": "https://i.postimg.cc/gj5dgZyT/laligatvbar3.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "LIGA TV BAR 3 HD",
+      "presetName": "landscape",
+      "url": "https://i.postimg.cc/gj5dgZyT/laligatvbar3.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "LIGA TV BAR 4 HD",
+      "presetName": "portrait",
+      "url": "https://i.postimg.cc/xjF0fwr3/laligatvbar4.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "LIGA TV BAR 4 HD",
+      "presetName": "landscape",
+      "url": "https://i.postimg.cc/xjF0fwr3/laligatvbar4.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "LOGOS TV",
+      "presetName": "portrait",
+      "url": "https://i.postimg.cc/C1qWwQbm/logostv.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "LOGOS TV",
+      "presetName": "landscape",
+      "url": "https://i.postimg.cc/C1qWwQbm/logostv.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "Vin TV",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logo_de_VinTV.png/640px-Logo_de_VinTV.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "Vin TV",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logo_de_VinTV.png/640px-Logo_de_VinTV.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "MOVISTAR ESTRENOS HD",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/512px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "MOVISTAR ESTRENOS HD",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/512px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "TV CASTILLA LA MANCHA / CMM TV",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/276px-CMMedia.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "TV CASTILLA LA MANCHA / CMM TV",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/276px-CMMedia.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "TV3 CATALUNIA",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/300px-TV3.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "TV3 CATALUNIA",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/300px-TV3.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "TV3 CATALUNYA",
+      "presetName": "portrait",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/300px-TV3.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "TV3 CATALUNYA",
+      "presetName": "landscape",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/300px-TV3.svg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "channelName": "GREAT! MOVIES+1",
+      "presetName": "landscape",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-plus-uk.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "GREAT! MOVIES+1",
+      "presetName": "portrait",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-plus-uk.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "RTE 2",
+      "presetName": "portrait",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-uk.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "RTE 2",
+      "presetName": "landscape",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-uk.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "RTE JR",
+      "presetName": "portrait",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-jr-uk.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "RTE JR",
+      "presetName": "landscape",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-jr-uk.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "RTE NEWS NOW",
+      "presetName": "portrait",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-news-now-uk.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "RTE NEWS NOW",
+      "presetName": "landscape",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-news-now-uk.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "RTE ONE",
+      "presetName": "landscape",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-one-uk.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "RTE ONE",
+      "presetName": "portrait",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-one-uk.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "VIRGIN MEDIA THREE",
+      "presetName": "landscape",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-three-uk.png",
+      "error": "HTTP 404"
+    },
+    {
+      "channelName": "VIRGIN MEDIA THREE",
+      "presetName": "portrait",
+      "url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-three-uk.png",
+      "error": "HTTP 404"
+    }
+  ]
+}
