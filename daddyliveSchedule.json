@@ -378,6 +378,10 @@
                     {
                         "channel_name": "Sport 1 Israel",
                         "channel_id": "140"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5005"
                     }
                 ]
             },
@@ -450,6 +454,10 @@
                     {
                         "channel_name": "RAI 2 IT",
                         "channel_id": "851"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5011"
                     }
                 ]
             },
@@ -540,6 +548,10 @@
                     {
                         "channel_name": "beIN SPORTS MENA 4",
                         "channel_id": "94"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5015"
                     }
                 ]
             },
@@ -570,6 +582,10 @@
                     {
                         "channel_name": "beIN SPORTS MENA 8",
                         "channel_id": "98"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5014"
                     }
                 ]
             },
@@ -616,6 +632,10 @@
                     {
                         "channel_name": "beIN SPORTS MENA 3",
                         "channel_id": "93"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5013"
                     }
                 ]
             },
@@ -702,6 +722,10 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5012"
                     }
                 ]
             },
@@ -814,6 +838,10 @@
                     {
                         "channel_name": "beIN SPORTS MENA 2",
                         "channel_id": "92"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5016"
                     }
                 ]
             },
@@ -888,6 +916,10 @@
                     {
                         "channel_name": "beIN SPORTS MENA 5",
                         "channel_id": "95"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5010"
                     }
                 ]
             },
@@ -934,6 +966,10 @@
                     {
                         "channel_name": "Sport 4 Israel",
                         "channel_id": "143"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5017"
                     }
                 ]
             },
@@ -1174,6 +1210,114 @@
                     {
                         "channel_name": "Sky Sport 9 NZ",
                         "channel_id": "596"
+                    }
+                ]
+            }
+        ],
+        "ATP - MIAMI": [
+            {
+                "time": "17:00",
+                "event": "ATP - MIAMI : Tiafoe F. vs Sinner J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
+                    },
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "ATP - MIAMI : Cerundolo F. vs Zverev A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
+                    },
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    }
+                ]
+            }
+        ],
+        "WTA - MIAMI": [
+            {
+                "time": "19:00",
+                "event": "WTA - MIAMI : Gauff C. vs Muchova K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "WTA - MIAMI : Sabalenka A. vs Rybakina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
                     }
                 ]
             }
@@ -1634,6 +1778,10 @@
                     {
                         "channel_name": "Arena Sport 2 Croatia",
                         "channel_id": "433"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5006"
                     }
                 ]
             },
@@ -1652,6 +1800,10 @@
                     {
                         "channel_name": "Chicago Sports Network",
                         "channel_id": "776"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5007"
                     }
                 ]
             },
@@ -1662,6 +1814,10 @@
                     {
                         "channel_name": "Marquee Sports Network",
                         "channel_id": "770"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5008"
                     }
                 ]
             },
@@ -1672,6 +1828,10 @@
                     {
                         "channel_name": "MASN USA",
                         "channel_id": "829"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5009"
                     }
                 ]
             },
@@ -1682,6 +1842,10 @@
                     {
                         "channel_name": "MLB Network USA",
                         "channel_id": "399"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5020"
                     }
                 ]
             },
@@ -1700,6 +1864,10 @@
                     {
                         "channel_name": "Sportsnet One",
                         "channel_id": "411"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5021"
                     }
                 ]
             },
@@ -1718,6 +1886,20 @@
                     {
                         "channel_name": "FanDuel Sports Network West",
                         "channel_id": "896"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5019"
+                    }
+                ]
+            },
+            {
+                "time": "20:15",
+                "event": "MLB : Tampa Bay Rays vs St. Louis Cardinals",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5022"
                     }
                 ]
             },
@@ -1728,6 +1910,10 @@
                     {
                         "channel_name": "NBC Sports Philadelphia",
                         "channel_id": "777"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5023"
                     }
                 ]
             },
