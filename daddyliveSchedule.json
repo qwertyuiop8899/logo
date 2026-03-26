@@ -56,6 +56,38 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "20:00",
+                "event": "2026 PDRA Carolina Nationals",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "23"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "The Tank vs. Tyrese Verzuz : For The Ladies R&B",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "24"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "2026 KKM Challenge Series at Plaza Park Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "25"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "19:30",
@@ -552,6 +584,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5015"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4007"
                     }
                 ]
             },
@@ -586,6 +622,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5014"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -636,6 +676,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
                     }
                 ]
             },
@@ -726,6 +770,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4005"
                     }
                 ]
             },
@@ -780,6 +828,10 @@
                     {
                         "channel_name": "Sport 3 Israel",
                         "channel_id": "142"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4004"
                     }
                 ]
             },
@@ -842,6 +894,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5016"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
                     }
                 ]
             },
@@ -920,6 +976,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
                     }
                 ]
             },
