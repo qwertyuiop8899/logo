@@ -42,6 +42,10 @@
                     {
                         "channel_name": "UFC Fight Pass",
                         "channel_id": "5003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5016"
                     }
                 ]
             },
@@ -810,7 +814,7 @@
                 ]
             },
             {
-                "time": "06:44",
+                "time": "16:18",
                 "event": "World Legends Matches : Liverpool Legends vs Borussia Dortmund Legends",
                 "channels": [
                     {
@@ -2092,6 +2096,58 @@
                 ]
             }
         ],
+        "Tennis ATP - MIAMI": [
+            {
+                "time": "16:30",
+                "event": "ATP - MIAMI : Heliovaara H./Patten H. vs Bolelli S./Vavassori A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1558"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - MIAMI": [
+            {
+                "time": "19:00",
+                "event": "WTA - MIAMI : Sabalenka A. vs Gauff C",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1570"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "15:00",
@@ -3032,6 +3088,10 @@
                     {
                         "channel_name": "DAZN 3 ES",
                         "channel_id": "447"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5006"
                     }
                 ]
             },
@@ -3708,6 +3768,10 @@
                     {
                         "channel_name": "MLB league pass",
                         "channel_id": "24"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5007"
                     }
                 ]
             },
@@ -3734,6 +3798,10 @@
                     {
                         "channel_name": "Sport 5 Star Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5008"
                     }
                 ]
             },
@@ -3760,6 +3828,10 @@
                     {
                         "channel_name": "Sportsnet Ontario",
                         "channel_id": "406"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5009"
                     }
                 ]
             },
@@ -3782,6 +3854,10 @@
                     {
                         "channel_name": "Fox Deportes",
                         "channel_id": "643"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5010"
                     }
                 ]
             },
@@ -3792,6 +3868,10 @@
                     {
                         "channel_name": "MLB league pass",
                         "channel_id": "28"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5011"
                     }
                 ]
             },
@@ -3810,6 +3890,10 @@
                     {
                         "channel_name": "SPORT1+ DE",
                         "channel_id": "640"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5012"
                     }
                 ]
             },
@@ -3820,6 +3904,10 @@
                     {
                         "channel_name": "MLB league pass",
                         "channel_id": "30"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5013"
                     }
                 ]
             },
@@ -3838,6 +3926,10 @@
                     {
                         "channel_name": "SportsNet Pittsburgh",
                         "channel_id": "922"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5014"
                     }
                 ]
             },
@@ -4994,6 +5086,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "18"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5009"
                     }
                 ]
             },
@@ -5036,6 +5132,10 @@
                     {
                         "channel_name": "ESPN Brazil",
                         "channel_id": "81"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5017"
                     }
                 ]
             },
@@ -5086,6 +5186,10 @@
                     {
                         "channel_name": "Sportklub 1 Croatia",
                         "channel_id": "101"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5018"
                     }
                 ]
             },
