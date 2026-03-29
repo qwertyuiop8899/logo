@@ -3584,7 +3584,7 @@
                 ]
             },
             {
-                "time": "16:12",
+                "time": "17:41",
                 "event": "NCAA March Madness 2026",
                 "channels": [
                     {
@@ -4820,7 +4820,9 @@
                         "channel_id": "400"
                     }
                 ]
-            },
+            }
+        ],
+        "Lacrosse (NLL)": [
             {
                 "time": "17:00",
                 "event": "NLL : Toronto Rock vs Philadelphia Wings",
