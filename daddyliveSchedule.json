@@ -762,6 +762,222 @@
                 ]
             }
         ],
+        "Tennis ATP - HOUSTON": [
+            {
+                "time": "19:00",
+                "event": "ATP - HOUSTON : Vallejo D. vs Svajda Z.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "ATP - HOUSTON : Pinnington Jones J. vs Zhang Z.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "ATP - HOUSTON : Bolt A. vs Wu Y.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "ATP - HOUSTON : McDonald M. vs Brooksby J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "ATP - HOUSTON : Smith C. vs Tirante T. A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - CHARLESTON": [
+            {
+                "time": "15:00",
+                "event": "WTA - CHARLESTON : Lys E. vs Volynets K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - CHARLESTON : Putintseva Y. vs Sun L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - CHARLESTON : Zakharova A. vs Yastremska D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - CHARLESTON : Kalieva E. vs Kessler M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - CHARLESTON : Sierra S. vs Urhobo A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - CHARLESTON : Stephens S. vs Zarazua R.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - CHARLESTON : Tomova V. vs Brady J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - CHARLESTON : Vidmanova D. vs Bondar A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "WTA - CHARLESTON : Tomljanovic A. vs Vekic D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "WTA - CHARLESTON : Parks A. vs Stoiana M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - BOGOTA": [
+            {
+                "time": "15:30",
+                "event": "WTA - BOGOTA : Monnet C. vs Kawa K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "WTA - BOGOTA : Janicijevic S. vs Riera J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "WTA - BOGOTA : Mandlik E. vs Pareja J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "WTA - BOGOTA : Mediorreal A. V. vs Maria T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "WTA - BOGOTA : Tikhonova A. vs Papamichail D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "WTA - BOGOTA : Udvardy P. vs Torres Murcia M. C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "1504"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "15:00",
