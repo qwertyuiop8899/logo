@@ -410,6 +410,16 @@
         ],
         "Soccer": [
             {
+                "time": "13:00",
+                "event": "FIFA Series Final - Indonesia vs Bulgaria",
+                "channels": [
+                    {
+                        "channel_name": "Live Feed",
+                        "channel_id": "29"
+                    }
+                ]
+            },
+            {
                 "time": "13:30",
                 "event": "Israel - Liga Leumit : Maccabi Herzliya vs Hapoel Hadera",
                 "channels": [
