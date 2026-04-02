@@ -2708,6 +2708,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4065"
                     }
                 ]
             },
@@ -2718,6 +2722,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4066"
                     }
                 ]
             },
@@ -2740,6 +2748,10 @@
                     {
                         "channel_name": "ESPN 1 NL",
                         "channel_id": "379"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4067"
                     }
                 ]
             },
@@ -2762,6 +2774,10 @@
                     {
                         "channel_name": "NBC Sports Bay Area",
                         "channel_id": "753"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4068"
                     }
                 ]
             },
@@ -2780,6 +2796,10 @@
                     {
                         "channel_name": "Sport 5 Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4069"
                     }
                 ]
             },
@@ -2790,6 +2810,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "6"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4070"
                     }
                 ]
             }
@@ -3146,6 +3170,10 @@
                     {
                         "channel_name": "Sport 5 Stars Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4051"
                     }
                 ]
             },
@@ -3172,6 +3200,10 @@
                     {
                         "channel_name": "Sportsnet East",
                         "channel_id": "408"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4052"
                     }
                 ]
             },
@@ -3194,6 +3226,10 @@
                     {
                         "channel_name": "MSG USA",
                         "channel_id": "765"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4053"
                     }
                 ]
             },
@@ -3216,6 +3252,10 @@
                     {
                         "channel_name": "Viasat Vinter",
                         "channel_id": "24"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4050"
                     }
                 ]
             },
@@ -3234,6 +3274,10 @@
                     {
                         "channel_name": "V Sport Premium",
                         "channel_id": "23"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4054"
                     }
                 ]
             },
@@ -3252,6 +3296,10 @@
                     {
                         "channel_name": "FanDuel Sports Network South",
                         "channel_id": "903"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4055"
                     }
                 ]
             },
@@ -3262,6 +3310,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "13"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4056"
                     }
                 ]
             },
@@ -3280,6 +3332,10 @@
                     {
                         "channel_name": "FanDuel Sports Network Wisconsin",
                         "channel_id": "901"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4058"
                     }
                 ]
             },
@@ -3294,6 +3350,10 @@
                     {
                         "channel_name": "TSN3",
                         "channel_id": "113"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4057"
                     }
                 ]
             },
@@ -3332,6 +3392,10 @@
                     {
                         "channel_name": "Sky Sport Mix DE",
                         "channel_id": "557"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4059"
                     }
                 ]
             },
@@ -3346,6 +3410,10 @@
                     {
                         "channel_name": "Sport 5 Stars Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4062"
                     }
                 ]
             },
@@ -3364,6 +3432,10 @@
                     {
                         "channel_name": "TSN4",
                         "channel_id": "114"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4061"
                     }
                 ]
             },
@@ -3390,6 +3462,10 @@
                     {
                         "channel_name": "Viasat Vinter",
                         "channel_id": "24"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4060"
                     }
                 ]
             },
@@ -3412,6 +3488,10 @@
                     {
                         "channel_name": "V Sport Premium",
                         "channel_id": "23"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4063"
                     }
                 ]
             }
@@ -3459,7 +3539,7 @@
             },
             {
                 "time": "17:30",
-                "event": "DEL : Schwenninger Wild Wings vs Cologne Sharks",
+                "event": "DEL : Straubing Tigers vs Eisbaren Berlin",
                 "channels": [
                     {
                         "channel_name": "Magenta Sport 304",
