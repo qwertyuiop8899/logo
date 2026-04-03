@@ -66,6 +66,78 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "18:30",
+                "event": "ARES Fighting Championship 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "206"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "2026 Snocross National at Spirit Mountain",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "207"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2026 Spring Nationals at Wythe Raceway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "208"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Williams Grove Sprints Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "209"
+                    }
+                ]
+            },
+            {
+                "time": "23:10",
+                "event": "2026 USAC AMSOIL National Sprint Cars at Red Hill Raceway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "210"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Cage Fury Fighting Championships : CFFC: BJJ 17",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "211"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "GCW: Last Call 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "212"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "16:00",
