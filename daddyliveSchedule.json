@@ -5108,6 +5108,10 @@
                     {
                         "channel_name": "DAZN PPV",
                         "channel_id": "55"
+                    },
+                    {
+                        "channel_name": "DAZN PPV 2",
+                        "channel_id": "220"
                     }
                 ]
             },
