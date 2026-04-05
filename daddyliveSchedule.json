@@ -5371,6 +5371,14 @@
                 "event": "PDC Europe 2nd Round, German Darts Grand Prix, 2026, Munich",
                 "channels": [
                     {
+                        "channel_name": "Dart Feed",
+                        "channel_id": "185"
+                    },
+                    {
+                        "channel_name": "PDC TV",
+                        "channel_id": "43"
+                    },
+                    {
                         "channel_name": "Sport1 DE",
                         "channel_id": "641"
                     },
@@ -5384,6 +5392,14 @@
                 "time": "17:00",
                 "event": "PDC Europe 2nd Round, German Darts Grand Prix, 2026, Munich",
                 "channels": [
+                    {
+                        "channel_name": "Dart Feed",
+                        "channel_id": "185"
+                    },
+                    {
+                        "channel_name": "PDC TV",
+                        "channel_id": "43"
+                    },
                     {
                         "channel_name": "FanDuel Sports Network South",
                         "channel_id": "903"
