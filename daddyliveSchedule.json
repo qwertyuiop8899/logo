@@ -4438,6 +4438,10 @@
                 "event": "German Darts Grand Prix European Tour 2026 | Third Round",
                 "channels": [
                     {
+                        "channel_name": "PDC TV",
+                        "channel_id": "43"
+                    },
+                    {
                         "channel_name": "DAZN2 DE",
                         "channel_id": "427"
                     },
@@ -4459,6 +4463,10 @@
                 "time": "17:00",
                 "event": "German Darts Grand Prix European Tour 2026 | Quarterfinals, Semifinals &amp; Final",
                 "channels": [
+                    {
+                        "channel_name": "PDC TV",
+                        "channel_id": "43"
+                    },
                     {
                         "channel_name": "DAZN2 DE",
                         "channel_id": "427"
