@@ -2432,6 +2432,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -2556,6 +2560,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -2698,6 +2706,10 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5003"
                     }
                 ]
             },
