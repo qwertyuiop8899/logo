@@ -66,7 +66,19 @@
                 ]
             }
         ],
-        "Tv Shows": [
+        "PPV Events": [
+            {
+                "time": "23:30",
+                "event": "HYPE Brazil Sao Paulo: Silva vs. Vera",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5011"
+                    }
+                ]
+            }
+        ],
+        "TV Shows": [
             {
                 "time": "19:00",
                 "event": "The Kelly Clarkson Show Season 7, Episode 110",
