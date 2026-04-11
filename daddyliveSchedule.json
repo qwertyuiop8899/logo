@@ -20,6 +20,20 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4046"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5021"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "FNC 29: Batini\u0107 vs. Nedoh",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5000"
                     }
                 ]
             },
@@ -120,6 +134,10 @@
                     {
                         "channel_name": "TNA+",
                         "channel_id": "218"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5024"
                     }
                 ]
             },
@@ -550,6 +568,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "184"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5025"
                     }
                 ]
             },
@@ -6336,6 +6358,10 @@
                     {
                         "channel_name": "Sport 5 Live Israel",
                         "channel_id": "146"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5023"
                     }
                 ]
             }
@@ -9379,7 +9405,7 @@
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
-                        "channel_id": "223"
+                        "channel_id": "222"
                     }
                 ]
             },
