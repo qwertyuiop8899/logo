@@ -1,5 +1,165 @@
 {
     "Saturday 11th April 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "16:00",
+                "event": "GoldStar Promotions : Tyson Fury vs Arslanbek Makhmudov",
+                "channels": [
+                    {
+                        "channel_name": "Netflix PPV I",
+                        "channel_id": "227"
+                    },
+                    {
+                        "channel_name": "Netflix PPV II",
+                        "channel_id": "228"
+                    },
+                    {
+                        "channel_name": "Netflix PPV III",
+                        "channel_id": "229"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "2026 The Funny Car Chaos Classic",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "208"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "MAIN STAGE Live From Coachella Valley Music & Arts Festival 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "210"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "OUTDOOR THEATRE Live From Coachella Valley Music & Arts Festival 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "211"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "SONARA Live From Coachella Valley Music & Arts Festival 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "212"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "SAHARA Live From Coachella Valley Music & Arts Festival 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "213"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "MOJAVE Live From Coachella Valley Music & Arts Festival 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "214"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "GOBI Live From Coachella Valley Music & Arts Festival 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "215"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "PFI 18: The Road to the Belt",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "216"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "World of Outlaws Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "217"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Total Nonstop Action Wrestling : TNA Wrestling Rebellion 2026",
+                "channels": [
+                    {
+                        "channel_name": "TNA+",
+                        "channel_id": "218"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Cage of Honor 96",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "219"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "American Sprint Car Series",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "220"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "World of Outlaws Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "221"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "DMG Boxing : Night of Champions X - Chantel Navarro vs Perla Lomeli",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "222"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "15:00",
@@ -5821,6 +5981,10 @@
                 "time": "23:00",
                 "event": "Boxing : Vito Mielnicki Jr vs Omar Ulises Huerta",
                 "channels": [
+                    {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "224"
+                    },
                     {
                         "channel_name": "ESPN2 Brazil",
                         "channel_id": "82"
