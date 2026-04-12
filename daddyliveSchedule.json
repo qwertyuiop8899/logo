@@ -6718,7 +6718,7 @@
                 ]
             }
         ],
-        "Girls High School Basketball": [
+        "High School Basketball": [
             {
                 "time": "18:00",
                 "event": "High School Basketball : San Antonio Sports All-Star Game",
@@ -6738,7 +6738,9 @@
                         "channel_id": "69"
                     }
                 ]
-            },
+            }
+        ],
+        "Girls High School Basketball": [
             {
                 "time": "17:00",
                 "event": "Girls High School Basketball : San Antonio Sports All-Star Game",
