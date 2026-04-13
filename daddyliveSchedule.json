@@ -1076,6 +1076,14 @@
                     {
                         "channel_name": "SuperSport Football",
                         "channel_id": "56"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4009"
                     }
                 ]
             },
@@ -1228,6 +1236,14 @@
                     {
                         "channel_name": "beIN Sports MENA English 1",
                         "channel_id": "61"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
                     }
                 ]
             },
@@ -1338,6 +1354,14 @@
                     {
                         "channel_name": "beIN SPORTS MENA 3",
                         "channel_id": "93"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -1506,6 +1530,52 @@
                     {
                         "channel_name": "T Sports BD",
                         "channel_id": "270"
+                    }
+                ]
+            }
+        ],
+        "WTA - STUTTGART": [
+            {
+                "time": "16:30",
+                "event": "WTA - STUTTGART : Siegemund L. vs Tomova V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - STUTTGART : Ruzic A. vs Samsonova L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    }
+                ]
+            }
+        ],
+        "WTA - ROUEN": [
+            {
+                "time": "17:30",
+                "event": "WTA - ROUEN : Timofeeva M. vs Boulter K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1554"
                     }
                 ]
             }
