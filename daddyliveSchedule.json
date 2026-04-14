@@ -214,6 +214,18 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "22:00",
+                "event": "Millbridge Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5002"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "19:00",
@@ -1412,6 +1424,22 @@
                     {
                         "channel_name": "5Sport Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4010"
                     }
                 ]
             },
@@ -1530,6 +1558,18 @@
                     {
                         "channel_name": "5Plus Israel",
                         "channel_id": "145"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4011"
                     }
                 ]
             },
