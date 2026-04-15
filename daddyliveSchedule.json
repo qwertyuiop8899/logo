@@ -948,6 +948,10 @@
                 "event": "Europe - UEFA Champions League : Simulcast",
                 "channels": [
                     {
+                        "channel_name": "Paramount+",
+                        "channel_id": "200"
+                    },
+                    {
                         "channel_name": "Movistar Liga de Campeones 3",
                         "channel_id": "1"
                     },
@@ -962,6 +966,14 @@
                     {
                         "channel_name": "Canal+ Extra 3 Poland",
                         "channel_id": "985"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "5000"
+                    },
+                    {
+                        "channel_name": "Backup Stream PL",
+                        "channel_id": "5007"
                     }
                 ]
             },
@@ -1120,6 +1132,22 @@
                     {
                         "channel_name": "5Plus Israel",
                         "channel_id": "145"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "5001"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "5002"
+                    },
+                    {
+                        "channel_name": "Backup Stream PL",
+                        "channel_id": "5003"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "4001"
                     }
                 ]
             },
@@ -1274,6 +1302,22 @@
                     {
                         "channel_name": "5Sport Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "5004"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "5005"
+                    },
+                    {
+                        "channel_name": "Backup Stream PL",
+                        "channel_id": "5006"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "4002"
                     }
                 ]
             },
