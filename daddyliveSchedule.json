@@ -222,12 +222,22 @@
         ],
         "PPV Events": [
             {
+                "time": "17:00",
+                "event": "PDRA East Coast Nationals",
+                "channels": [
+                    {
+                        "channel_name": "FLORacing",
+                        "channel_id": "5020"
+                    }
+                ]
+            },
+            {
                 "time": "23:00",
                 "event": "Cedar Lake Speedway",
                 "channels": [
                     {
                         "channel_name": "PPV Events",
-                        "channel_id": "52"
+                        "channel_id": "5002"
                     }
                 ]
             }
