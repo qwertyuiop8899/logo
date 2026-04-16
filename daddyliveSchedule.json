@@ -220,6 +220,18 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "23:00",
+                "event": "Cedar Lake Speedway",
+                "channels": [
+                    {
+                        "channel_name": "PPV Events",
+                        "channel_id": "52"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "16:00",
@@ -850,6 +862,10 @@
                     {
                         "channel_name": "Sport 1 Israel",
                         "channel_id": "140"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4005"
                     }
                 ]
             },
@@ -952,6 +968,10 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4008"
                     }
                 ]
             },
@@ -1088,6 +1108,14 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000"
                     }
                 ]
             },
@@ -1198,6 +1226,10 @@
                     {
                         "channel_name": "beIN Sports MENA 8",
                         "channel_id": "98"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -1304,6 +1336,10 @@
                     {
                         "channel_name": "Sport 3 Israel",
                         "channel_id": "142"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
                     }
                 ]
             },
@@ -1390,6 +1426,14 @@
                     {
                         "channel_name": "Sport 4 Israel",
                         "channel_id": "143"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -1444,6 +1488,10 @@
                     {
                         "channel_name": "beIN Sports MENA 6",
                         "channel_id": "96"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4007"
                     }
                 ]
             },
@@ -1498,6 +1546,10 @@
                     {
                         "channel_name": "Arena 5 Premium Serbia",
                         "channel_id": "19"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4008"
                     }
                 ]
             },
@@ -1882,6 +1934,94 @@
                     {
                         "channel_name": "Sky Sports Main Event",
                         "channel_id": "38"
+                    }
+                ]
+            }
+        ],
+        "ATP - BARCELONA": [
+            {
+                "time": "17:30",
+                "event": "ATP - BARCELONA : Fils A. vs Nakashima B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
+                    }
+                ]
+            }
+        ],
+        "WTA - STUTTGART": [
+            {
+                "time": "16:30",
+                "event": "WTA - STUTTGART : Samsonova L. vs Gauff C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - STUTTGART : Fernandez L. vs Sonmez Z.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    }
+                ]
+            }
+        ],
+        "WTA - ROUEN": [
+            {
+                "time": "15:30",
+                "event": "WTA - ROUEN : Wang Xin. vs Cirstea S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1554"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "WTA - ROUEN : Bondar A. vs Oliynykova O.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
                     }
                 ]
             }
