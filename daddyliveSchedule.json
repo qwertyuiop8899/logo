@@ -2801,7 +2801,11 @@
                 "event": "Speedway PGE Ekstraliga : KRONO-PLAST W??kniarz Cz?stochowa - ORLEN OIL Motor Lublin",
                 "channels": [
                     {
-                        "channel_name": "Canal+ Sport 5 Poland (CH-75) Canal+ Sport Poland",
+                        "channel_name": "Canal+ Sport 5 Poland",
+                        "channel_id": "75"
+                    },
+                    {
+                        "channel_name": "Canal+ Sport Poland",
                         "channel_id": "48"
                     }
                 ]
@@ -4616,18 +4620,6 @@
                     {
                         "channel_name": "Canal 11 Portugal",
                         "channel_id": "540"
-                    }
-                ]
-            }
-        ],
-        "Women's College Gymnastics": [
-            {
-                "time": "00:00",
-                "event": "Women's College Gymnastics : NCAA Men's Gymnastics National Qualifier",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "160"
                     }
                 ]
             }
