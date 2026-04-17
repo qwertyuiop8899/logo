@@ -4872,8 +4872,8 @@
                 "event": "Sweden Hockey Allsvenskan : IF Bj\u00f6rkl\u00f6ven vs BIK Karlskoga",
                 "channels": [
                     {
-                        "channel_name": "TV4 Sport Live 2",
-                        "channel_id": "703"
+                        "channel_name": "TV4 Hockey",
+                        "channel_id": "700"
                     }
                 ]
             },
