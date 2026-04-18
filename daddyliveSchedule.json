@@ -16,8 +16,12 @@
                 "event": "KSW 117: Pawlak vs. Khalidov, April 18, 2026",
                 "channels": [
                     {
+                        "channel_name": "Event PPV",
+                        "channel_id": "27"
+                    },
+                    {
                         "channel_name": "KSWTV",
-                        "channel_id": "5004"
+                        "channel_id": "5026"
                     }
                 ]
             },
@@ -64,16 +68,6 @@
                     {
                         "channel_name": "Golf Channel USA",
                         "channel_id": "318"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "East vs West 23 arm wrestling in Germany on April 18, 2026",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "5016"
                     }
                 ]
             },
@@ -200,6 +194,16 @@
                     {
                         "channel_name": "Floracing",
                         "channel_id": "257"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "East vs West 23 arm wrestling in Germany",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5016"
                     }
                 ]
             },
@@ -6378,6 +6382,20 @@
                     {
                         "channel_name": "DAZN PPV",
                         "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "KSW 117: Pawlak vs. Chalidow",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "27"
+                    },
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "5026"
                     }
                 ]
             }
