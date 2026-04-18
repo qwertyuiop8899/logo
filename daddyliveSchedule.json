@@ -5100,6 +5100,112 @@
                 ]
             }
         ],
+        "ATP - MUNICH": [
+            {
+                "time": "11:30",
+                "event": "ATP - MUNICH : Zverev A. vs Cobolli F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1560"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "ATP - MUNICH : Molcan A. vs Shelton B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1560"
+                    }
+                ]
+            }
+        ],
+        "WTA - STUTTGART": [
+            {
+                "time": "12:00",
+                "event": "WTA - STUTTGART : Svitolina E. vs Muchova K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - STUTTGART : Rybakina E. vs Andreeva M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    }
+                ]
+            }
+        ],
+        "WTA - ROUEN": [
+            {
+                "time": "13:30",
+                "event": "WTA - ROUEN : Kostyuk M. vs Maria T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1554"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - ROUEN : Podrez V. vs Cirstea S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1554"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "09:00",
@@ -5204,100 +5310,6 @@
                     {
                         "channel_name": "beIN Sports 3 Malaysia",
                         "channel_id": "714"
-                    }
-                ]
-            }
-        ],
-        "ATP - BARCELONA": [
-            {
-                "time": "14:00",
-                "event": "ATP - BARCELONA : Rublev A. vs Medjedovic H.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream 1",
-                        "channel_id": "1507"
-                    },
-                    {
-                        "channel_name": "Tennis Stream 1",
-                        "channel_id": "1507"
-                    }
-                ]
-            },
-            {
-                "time": "14:00",
-                "event": "ATP - BARCELONA : Jodar R. vs Fils A.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream 1",
-                        "channel_id": "1507"
-                    },
-                    {
-                        "channel_name": "Tennis Stream 1",
-                        "channel_id": "1507"
-                    }
-                ]
-            }
-        ],
-        "ATP - MUNICH": [
-            {
-                "time": "13:00",
-                "event": "ATP - MUNICH : Molcan A. vs Shelton B.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream 1",
-                        "channel_id": "1501"
-                    }
-                ]
-            }
-        ],
-        "WTA - STUTTGART": [
-            {
-                "time": "12:00",
-                "event": "WTA - STUTTGART : Svitolina E. vs Muchova K.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream 1",
-                        "channel_id": "1501"
-                    },
-                    {
-                        "channel_name": "Tennis Stream 1",
-                        "channel_id": "1561"
-                    }
-                ]
-            },
-            {
-                "time": "14:00",
-                "event": "WTA - STUTTGART : Rybakina E. vs Andreeva M.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream 1",
-                        "channel_id": "1501"
-                    },
-                    {
-                        "channel_name": "Tennis Stream 1",
-                        "channel_id": "1561"
-                    }
-                ]
-            }
-        ],
-        "WTA - ROUEN": [
-            {
-                "time": "13:30",
-                "event": "WTA - ROUEN : Kostyuk M. vs Maria T.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream 1",
-                        "channel_id": "1554"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "WTA - ROUEN : Podrez V. vs Cirstea S.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream 1",
-                        "channel_id": "1554"
                     }
                 ]
             },
