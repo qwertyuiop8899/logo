@@ -192,6 +192,228 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "17:30",
+                "event": "2026 NASCAR Weekly Racing at South Boston Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "257"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "2026 Opening Night at Fonda Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "258"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "2026 Weekly Racing at Port Royal Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "193"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "NAPA All Star Sprints Atomic",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "194"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2026 Race of Champions Modifieds at Mahoning Valley Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "195"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Season Opener Eldora Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "196"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "World of Outlaws SPrint Cars Tri State",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "186"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2026 IMCA Season Opener at 141 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "187"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Millbridge Sprints Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "188"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "The Gauntlet at The Gap Finale Night",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "189"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2026 NASCAR Weekly Racing at Hickory Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "190"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2026 High Limit Racing at Lucas Oil Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "191"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "2026 NASCAR Season Opener at Bowman Gray Stadium",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "198"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "2026 NARC 410 Sprints at Thunderbowl Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "199"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "SD Fight Night : Jonny Mansour vs. William King",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "200"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Royal Combat: Muay Thai Series 30",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "201"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "MAIN STAGE Live From Coachella 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "202"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "OUTDOOR THEATRE Live From Coachella 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "203"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "SONARA Live From Coachella 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "204"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "SAHARA Live From Coachella 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "205"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "MOJAVE Live From Coachella 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "206"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "GOBI Live From Coachella 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "207"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "15:00",
