@@ -6340,6 +6340,10 @@
                     {
                         "channel_name": "ESPN 3 MX",
                         "channel_id": "927"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4047"
                     }
                 ]
             },
@@ -6490,6 +6494,10 @@
                     {
                         "channel_name": "Sport 5 Live Israel",
                         "channel_id": "146"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4048"
                     }
                 ]
             }
