@@ -59,11 +59,11 @@
             },
             {
                 "time": "19:30",
-                "event": "Prime Show MMA 16 takes place Saturday, April 25, 2026",
+                "event": "Prime Show MMA 16: KON-SE-KWEN-CJE",
                 "channels": [
                     {
                         "channel_name": "PRIMEMMATV",
-                        "channel_id": "00"
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -169,7 +169,7 @@
                 "channels": [
                     {
                         "channel_name": "Triller TV",
-                        "channel_id": "1072"
+                        "channel_id": "1080"
                     }
                 ]
             },
@@ -179,7 +179,17 @@
                 "channels": [
                     {
                         "channel_name": "Floracing",
-                        "channel_id": "1073"
+                        "channel_id": "1081"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "Prime Show MMA 16: KON-SE-KWEN-CJE",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -189,7 +199,7 @@
                 "channels": [
                     {
                         "channel_name": "Triller TV",
-                        "channel_id": "1074"
+                        "channel_id": "1082"
                     }
                 ]
             },
