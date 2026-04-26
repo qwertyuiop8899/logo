@@ -4541,6 +4541,170 @@
                         "channel_id": "714"
                     }
                 ]
+            }
+        ],
+        "ATP - MADRID": [
+            {
+                "time": "11:00",
+                "event": "ATP - MADRID : Ji\u0159\u00ed Lehe\u010dka vs Alex Michelsen",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - MADRID : Tallon Griekspoor vs Lorenzo Musetti",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - MADRID : Dino Prizmi\u0107 vs Tom\u00e1s Mart\u00edn Etcheverry",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "ATP - MADRID : Arthur Fils vs Emilio Nava",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "ATP - MADRID : Jannik Sinner vs Elmer M\u00f8ller",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "ATP - MADRID : Cameron Norrie vs Thiago Agust\u00edn Tirante",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "ATP - MADRID : V\u00edt Kop\u0159iva vs Arthur Rinderknech",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "ATP - MADRID : Jo\u00e3o Fonseca vs Rafael J\u00f3dar",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "WTA - MADRID": [
+            {
+                "time": "11:00",
+                "event": "WTA - MADRID : Sorana C\u00eerstea vs Coco Gauff",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "WTA - MADRID : Solana Sierra vs Zeynep S\u00f6nmez",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "WTA - MADRID : Kate\u0159ina Siniakov\u00e1 vs Catherine McNally",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - MADRID : Linda Noskov\u00e1 vs Liudmila Samsonova",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "WTA - MADRID : Elise Mertens vs Karol\u00edna Pl\u00ed\u0161kov\u00e1 L",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "WTA - MADRID : Jessica Pegula vs Marta Kostyuk",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "WTA - MADRID : Qinwen Zheng vs Elena Rybakina",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "WTA - MADRID : Anastasia Potapova vs Je\u013cena Ostapenko",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
             },
             {
                 "time": "11:00",
