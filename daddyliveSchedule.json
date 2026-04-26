@@ -180,6 +180,78 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "18:30",
+                "event": "NAPA Spring Sizzler Opening Weekend at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "PPV Events",
+                        "channel_id": "5000"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "CARS Tour at Caraway Speedway",
+                "channels": [
+                    {
+                        "channel_name": "PPV Events",
+                        "channel_id": "5003"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "NASCAR Cup Series: Jack Link\u2019s 500 at Talladega Superspeedway",
+                "channels": [
+                    {
+                        "channel_name": "PPV Events",
+                        "channel_id": "5004"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "ASA Midwest Tour 100 at Slinger Speedway",
+                "channels": [
+                    {
+                        "channel_name": "PPV Events",
+                        "channel_id": "5005"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Jim Normoyle Memorial at Utica-Rome Speedway",
+                "channels": [
+                    {
+                        "channel_name": "PPV Events",
+                        "channel_id": "5006"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Lucas Oil Late Model Dirt Series at Hagerstown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "PPV Events",
+                        "channel_id": "5007"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "USAC Kokomo Grand Prix at Kokomo Speedway",
+                "channels": [
+                    {
+                        "channel_name": "PPV Events",
+                        "channel_id": "5008"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "00:00",
