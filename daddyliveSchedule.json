@@ -3068,6 +3068,22 @@
                     {
                         "channel_name": "PDC TV",
                         "channel_id": "43"
+                    },
+                    {
+                        "channel_name": "PDC Board I",
+                        "channel_id": "25"
+                    },
+                    {
+                        "channel_name": "PDC Board II",
+                        "channel_id": "26"
+                    },
+                    {
+                        "channel_name": "PDC Board III",
+                        "channel_id": "27"
+                    },
+                    {
+                        "channel_name": "PDC Board IV",
+                        "channel_id": "28"
                     }
                 ]
             }
