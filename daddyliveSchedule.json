@@ -1420,6 +1420,98 @@
                         "channel_id": "714"
                     }
                 ]
+            }
+        ],
+        "ATP - MADRID": [
+            {
+                "time": "16:00",
+                "event": "\ud83c\uddee\ud83c\uddf9 Jannik Sinner vs \ud83c\uddea\ud83c\uddf8 Rafael Jodar",
+                "channels": [
+                    {
+                        "channel_name": "LINK 1",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "LINK 2",
+                        "channel_id": "1515"
+                    },
+                    {
+                        "channel_name": "LINK 3",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "LINK 4",
+                        "channel_id": "46"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\ud83c\uddeb\ud83c\uddf7 Arthur Fils vs \ud83c\udde8\ud83c\uddff Jiri Lehecka",
+                "channels": [
+                    {
+                        "channel_name": "LINK 1",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "LINK 2",
+                        "channel_id": "1515"
+                    },
+                    {
+                        "channel_name": "LINK 3",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "LINK 4",
+                        "channel_id": "46"
+                    }
+                ]
+            }
+        ],
+        "WTA - MADRID": [
+            {
+                "time": "13:00",
+                "event": "\ud83c\udde8\ud83c\uddff Karolina Pliskova vs \ud83c\uddf7\ud83c\uddfa Anastasia Potapova",
+                "channels": [
+                    {
+                        "channel_name": "LINK 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "LINK 2",
+                        "channel_id": "1515"
+                    },
+                    {
+                        "channel_name": "LINK 3",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "LINK 4",
+                        "channel_id": "46"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "\ud83c\uddfa\ud83c\udde6 Marta Kostyuk vs \ud83c\udde8\ud83c\uddff Linda Noskova",
+                "channels": [
+                    {
+                        "channel_name": "LINK 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "LINK 2",
+                        "channel_id": "1515"
+                    },
+                    {
+                        "channel_name": "LINK 3",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "LINK 4",
+                        "channel_id": "46"
+                    }
+                ]
             },
             {
                 "time": "13:00",
