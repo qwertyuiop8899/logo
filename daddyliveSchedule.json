@@ -428,6 +428,18 @@
                     {
                         "channel_name": "Sport 4 Israel",
                         "channel_id": "143"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5056"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5057"
                     }
                 ]
             },
@@ -546,6 +558,18 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5054"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5055"
                     }
                 ]
             },
@@ -616,6 +640,14 @@
                     {
                         "channel_name": "beIN Sports MENA 3",
                         "channel_id": "93"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5058"
                     }
                 ]
             },
@@ -702,6 +734,14 @@
                     {
                         "channel_name": "SuperSport Football",
                         "channel_id": "56"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5059"
                     }
                 ]
             },
@@ -1612,6 +1652,10 @@
                     {
                         "channel_name": "MLB Network",
                         "channel_id": "399"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5031"
                     }
                 ]
             },
@@ -1634,6 +1678,10 @@
                     {
                         "channel_name": "beIN Sports 1 France",
                         "channel_id": "116"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5032"
                     }
                 ]
             },
@@ -1648,6 +1696,10 @@
                     {
                         "channel_name": "SportsNet Pittsburgh",
                         "channel_id": "922"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5033"
                     }
                 ]
             },
@@ -1658,6 +1710,14 @@
                     {
                         "channel_name": "MLB league pass",
                         "channel_id": "27"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5035"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4019"
                     }
                 ]
             },
@@ -1676,6 +1736,14 @@
                     {
                         "channel_name": "NBCS Bay Area",
                         "channel_id": "753"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5034"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4017"
                     }
                 ]
             },
@@ -1690,6 +1758,14 @@
                     {
                         "channel_name": "SportsNet New York",
                         "channel_id": "759"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5037"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4020"
                     }
                 ]
             },
@@ -1700,6 +1776,14 @@
                     {
                         "channel_name": "MLB league pass",
                         "channel_id": "30"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5038"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4021"
                     }
                 ]
             },
@@ -1718,6 +1802,14 @@
                     {
                         "channel_name": "NBCS California USA",
                         "channel_id": "755"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5039"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4022"
                     }
                 ]
             },
@@ -1736,6 +1828,14 @@
                     {
                         "channel_name": "Sportsnet One",
                         "channel_id": "411"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5042"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4025"
                     }
                 ]
             }
@@ -2034,7 +2134,9 @@
                         "channel_id": "146"
                     }
                 ]
-            },
+            }
+        ],
+        "WNBA": [
             {
                 "time": "01:00",
                 "event": "WNBA : Dallas Wings vs Indiana Fever",
@@ -2042,9 +2144,15 @@
                     {
                         "channel_name": "ION USA",
                         "channel_id": "325"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5046"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "01:00",
                 "event": "NBA : Atlanta Hawks vs New York Knicks",
@@ -2056,6 +2164,14 @@
                     {
                         "channel_name": "Sportklub 1 Croatia",
                         "channel_id": "101"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5043"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4065"
                     }
                 ]
             },
@@ -2066,6 +2182,14 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "6"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5044"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4066"
                     }
                 ]
             },
@@ -2076,6 +2200,14 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "7"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5043"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4067"
                     }
                 ]
             }
@@ -2578,7 +2710,9 @@
                         "channel_id": "5"
                     }
                 ]
-            },
+            }
+        ],
+        "NHL": [
             {
                 "time": "01:00",
                 "event": "NHL : Minnesota Wild vs Dallas Stars",
@@ -2606,6 +2740,14 @@
                     {
                         "channel_name": "TVP Sport Poland",
                         "channel_id": "128"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5047"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4047"
                     }
                 ]
             },
@@ -2632,6 +2774,14 @@
                     {
                         "channel_name": "TVA Sports",
                         "channel_id": "833"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5048"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4051"
                     }
                 ]
             }
