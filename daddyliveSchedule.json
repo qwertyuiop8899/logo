@@ -1475,19 +1475,15 @@
                 "channels": [
                     {
                         "channel_name": "LINK 1",
-                        "channel_id": "1507"
+                        "channel_id": "40"
                     },
                     {
                         "channel_name": "LINK 2",
-                        "channel_id": "1515"
+                        "channel_id": "46"
                     },
                     {
                         "channel_name": "LINK 3",
-                        "channel_id": "1540"
-                    },
-                    {
-                        "channel_name": "LINK 4",
-                        "channel_id": "1546"
+                        "channel_id": "113"
                     }
                 ]
             },
@@ -1497,19 +1493,15 @@
                 "channels": [
                     {
                         "channel_name": "LINK 1",
-                        "channel_id": "1507"
+                        "channel_id": "40"
                     },
                     {
                         "channel_name": "LINK 2",
-                        "channel_id": "1515"
+                        "channel_id": "46"
                     },
                     {
                         "channel_name": "LINK 3",
-                        "channel_id": "1540"
-                    },
-                    {
-                        "channel_name": "LINK 4",
-                        "channel_id": "1546"
+                        "channel_id": "113"
                     }
                 ]
             }
