@@ -170,6 +170,88 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "00:00",
+                "event": "USAC Larry Rice Classic at Bloomington Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5000"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "Lucas Oil Late Model Dirt Series at Circle City Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5001"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "Mississippi Thunder Speedway in Fountain City",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5002"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "Jacksonville Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5003"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "IMCA Weekly Racing at Marshalltown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5004"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Weekly Racing at Coles County Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5005"
+                    }
+                ]
+            },
+            {
+                "time": "02:15",
+                "event": "NARC 410 Sprints at Watsonville Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5006"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "USAC Avanti Western States Midgets at Plaza Park Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5007"
+                    }
+                ]
+            }
+        ],
         "Ireland Republic": [
             {
                 "time": "20:45",
