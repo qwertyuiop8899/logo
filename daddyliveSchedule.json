@@ -8778,6 +8778,18 @@
                 "event": "IIHF U18 Final : Slovakia U18 vs. Sweden U18",
                 "channels": [
                     {
+                        "channel_name": "NHL Network USA",
+                        "channel_id": "663"
+                    },
+                    {
+                        "channel_name": "TSN1",
+                        "channel_id": "111"
+                    },
+                    {
+                        "channel_name": "RDS 2 CA",
+                        "channel_id": "840"
+                    },
+                    {
                         "channel_name": "Magenta Sport 317",
                         "channel_id": "17"
                     }
