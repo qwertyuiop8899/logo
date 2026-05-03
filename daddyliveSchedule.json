@@ -170,6 +170,38 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "21:30",
+                "event": "Nascar Season Opener Riverhead",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "Community Bank 150 Thunder Road",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Mark Balzano Memorial at WVMS",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "162"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "23:00",
@@ -4339,6 +4371,10 @@
                     },
                     {
                         "channel_name": "Backup Stream",
+                        "channel_id": "5008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
                         "channel_id": "5043"
                     },
                     {
@@ -5418,6 +5454,10 @@
                     {
                         "channel_name": "Fox Sports 1 MX",
                         "channel_id": "929"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000"
                     }
                 ]
             },
@@ -5458,6 +5498,10 @@
                     {
                         "channel_name": "Sportklub 2 Croatia",
                         "channel_id": "102"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5009"
                     }
                 ]
             },
@@ -5556,6 +5600,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3079"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
                     }
                 ]
             },
