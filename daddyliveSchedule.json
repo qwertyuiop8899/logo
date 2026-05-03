@@ -3,6 +3,20 @@
         "Upcoming Events": [
             {
                 "time": "17:00",
+                "event": "Internazionali BNL d\u2019Italia (Rome Masters Tennis), May 5\u201317, 2026",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sport Tennis Italy",
+                        "channel_id": "576"
+                    },
+                    {
+                        "channel_name": "EuroSport 1 Italy",
+                        "channel_id": "878"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
                 "event": "French Open (Roland Garros Tennis Grand Slam), May 25 \u2013 June 8, 2026",
                 "channels": [
                     {
@@ -198,6 +212,10 @@
                     {
                         "channel_name": "FloRacing",
                         "channel_id": "162"
+                    },
+                    {
+                        "channel_name": "FLORacing",
+                        "channel_id": "5010"
                     }
                 ]
             }
