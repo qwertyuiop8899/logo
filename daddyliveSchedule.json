@@ -184,6 +184,18 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "01:15",
+                "event": "World of Outlaws at Lincoln Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "17"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "18:00",
