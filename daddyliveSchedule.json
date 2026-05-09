@@ -1,5 +1,177 @@
 {
     "Saturday 09th May 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "11:00",
+                "event": "Z Fight Night : ZFN 4",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "208"
+                    }
+                ]
+            },
+            {
+                "time": "15:45",
+                "event": "2026 USAC Road Racing at COTA",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "210"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "2026 NASCAR Weekly Racing at Berlin Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "2026 NASCAR Weekly Racing at Riverhead Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "2026 Ohio Wheelman Series at Jennerstown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "201"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2026 Weekly Racing at Fonda Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "202"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2026 Kentucky Battle for the Thrones at US 60 Dragway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "203"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Volusia Speedway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "204"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "World of Outlaws Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "205"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "2026 IRA Sprints at Sycamore Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "208"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Sharon Speedway Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "28"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Land of Legends Raceway Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "29"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Cedar Lake Speedway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "211"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "Lucas Oil Late Models Fairbury",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "212"
+                    }
+                ]
+            },
+            {
+                "time": "00:55",
+                "event": "2026 IMCA Weekly Racing at 141 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "213"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Spring Nationals Lake Cumberland",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "214"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Redneck Brawl 13 : Knoxville",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "215"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "17:00",
@@ -6108,6 +6280,14 @@
                 "event": "FIA WEC | Round 2 | 6 Hours Of Spa-Francorchamps Race",
                 "channels": [
                     {
+                        "channel_name": "Stan Sports",
+                        "channel_id": "215"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000"
+                    },
+                    {
                         "channel_name": "TNT Sports 4 UK",
                         "channel_id": "34"
                     },
@@ -6199,6 +6379,14 @@
                 "time": "13:30",
                 "event": "FIA World Endurance Championship Motor Racing : 6 Hours of Spa-Francorchamps",
                 "channels": [
+                    {
+                        "channel_name": "Stan Sports",
+                        "channel_id": "215"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000"
+                    },
                     {
                         "channel_name": "TNT Sports 4 UK",
                         "channel_id": "34"
@@ -6499,6 +6687,14 @@
                 "time": "18:30",
                 "event": "FIA WEC | 6 Hours of Spa-Francorchamps Course",
                 "channels": [
+                    {
+                        "channel_name": "Stan Sports",
+                        "channel_id": "215"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000"
+                    },
                     {
                         "channel_name": "EuroSport 1 Poland",
                         "channel_id": "57"
