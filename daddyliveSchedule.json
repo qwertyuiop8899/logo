@@ -154,6 +154,18 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "01:00",
+                "event": "Huset's Speedway Opener",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "13"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "02:00",
@@ -4537,7 +4549,7 @@
                     },
                     {
                         "channel_name": "Match! Football 3 Russia",
-                        "channel_id": "1385"
+                        "channel_id": "138"
                     },
                     {
                         "channel_name": "Sportdigital FUSSBALL DE",
@@ -6882,8 +6894,8 @@
                 "event": "World Seniors Championship Snooker : Finals",
                 "channels": [
                     {
-                        "channel_name": "Channel 5 UK",
-                        "channel_id": "355"
+                        "channel_name": "5 Action UK",
+                        "channel_id": "21"
                     }
                 ]
             }
