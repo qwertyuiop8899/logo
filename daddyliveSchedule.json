@@ -950,6 +950,16 @@
                 ]
             },
             {
+                "time": "13:30",
+                "event": "Belgium Pro League : KAA Gent vs RSC Anderlecht",
+                "channels": [
+                    {
+                        "channel_name": "DAZN USA",
+                        "channel_id": "211"
+                    }
+                ]
+            },
+            {
                 "time": "14:00",
                 "event": "Russian Premier League : Zenit vs Sochi",
                 "channels": [
@@ -1382,6 +1392,10 @@
                         "channel_id": "77"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000"
+                    },
+                    {
                         "channel_name": "Sky Sport Select NZ",
                         "channel_id": "587"
                     },
@@ -1500,6 +1514,10 @@
                         "channel_id": "86"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
+                    },
+                    {
                         "channel_name": "Sky Sports F1 UK",
                         "channel_id": "60"
                     },
@@ -1592,6 +1610,10 @@
                     {
                         "channel_name": "Peacock Feed",
                         "channel_id": "105"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
                     },
                     {
                         "channel_name": "USA Network",
