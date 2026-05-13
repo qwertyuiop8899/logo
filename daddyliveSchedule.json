@@ -904,6 +904,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3039"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4007"
                     }
                 ]
             },
@@ -1034,6 +1038,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3076"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -1132,6 +1140,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3071"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4005"
                     }
                 ]
             },
@@ -1600,6 +1612,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5003"
                     }
                 ]
             },
@@ -1678,6 +1698,10 @@
                     {
                         "channel_name": "Sport 4 Israel",
                         "channel_id": "143"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4009"
                     }
                 ]
             },
@@ -1744,6 +1768,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3047"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4009"
                     }
                 ]
             },
@@ -1814,6 +1842,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3039"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4007"
                     }
                 ]
             },
@@ -1978,6 +2010,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3075"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -2052,6 +2088,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4005"
                     }
                 ]
             },
@@ -3376,6 +3416,32 @@
         ],
         "Baseball (MLB)": [
             {
+                "time": "19:05",
+                "event": "MLB : Baltimore Orioles vs New York Yankees",
+                "channels": [
+                    {
+                        "channel_name": "MLB league pass",
+                        "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "MASN USA",
+                        "channel_id": "829"
+                    },
+                    {
+                        "channel_name": "Fox Sports 2 Argentina",
+                        "channel_id": "788"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5034"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4015"
+                    }
+                ]
+            },
+            {
                 "time": "19:10",
                 "event": "MLB : Cleveland Guardians vs Los Angeles Angels",
                 "channels": [
@@ -3406,28 +3472,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5031"
-                    }
-                ]
-            },
-            {
-                "time": "00:35",
-                "event": "MLB : Baltimore Orioles vs New York Yankees",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "2"
-                    },
-                    {
-                        "channel_name": "MASN USA",
-                        "channel_id": "829"
-                    },
-                    {
-                        "channel_name": "Fox Sports 2 Argentina",
-                        "channel_id": "788"
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "5034"
+                        "channel_id": "4016"
                     }
                 ]
             },
@@ -3446,6 +3494,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5035"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4017"
                     }
                 ]
             },
@@ -3464,6 +3516,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5036"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4018"
                     }
                 ]
             },
@@ -3494,6 +3550,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5037"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4019"
                     }
                 ]
             },
@@ -3516,6 +3576,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5039"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4020"
                     }
                 ]
             },
@@ -3534,6 +3598,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5040"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4021"
                     }
                 ]
             },
@@ -3556,6 +3624,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5041"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4022"
                     }
                 ]
             },
@@ -3574,6 +3646,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5042"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4023"
                     }
                 ]
             },
@@ -3588,6 +3664,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5043"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4024"
                     }
                 ]
             },
@@ -3602,6 +3682,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5044"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4025"
                     }
                 ]
             },
@@ -3616,6 +3700,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5048"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4026"
                     }
                 ]
             },
@@ -3634,6 +3722,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5049"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4027"
                     }
                 ]
             },
@@ -3652,6 +3744,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5050"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4028"
                     }
                 ]
             },
@@ -3678,6 +3774,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5052"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4029"
                     }
                 ]
             }
@@ -4018,6 +4118,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5038"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4070"
                     }
                 ]
             },
@@ -4048,6 +4152,24 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4071"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "WNBA : Chicago Sky vs Golden State Valkyries",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4072"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6020"
                     }
                 ]
             },
@@ -4082,6 +4204,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4073"
                     }
                 ]
             }
@@ -4138,6 +4264,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4065"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4067"
                     }
                 ]
             }
@@ -4468,6 +4602,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4050"
                     }
                 ]
             }
@@ -4487,6 +4625,10 @@
                 "time": "17:30",
                 "event": "Finland Liiga : Tappara vs KooKoo",
                 "channels": [
+                    {
+                        "channel_name": "TV4 Hockey",
+                        "channel_id": "700"
+                    },
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "6009"
