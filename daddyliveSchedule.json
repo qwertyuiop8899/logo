@@ -1433,7 +1433,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "5001"
+                        "channel_id": "5004"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -2979,7 +2979,7 @@
                 "channels": [
                     {
                         "channel_name": "DAZN PPV",
-                        "channel_id": "376"
+                        "channel_id": "176"
                     },
                     {
                         "channel_name": "Backup Stream",
