@@ -154,6 +154,158 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "23:30",
+                "event": "2026 Weekly Racing at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "228"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "2026 USAC #LetsRaceTwo at Eldora Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "229"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "World of Outlaws Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "237"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "World of Outlaws Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "238"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "Nascar Season Opener Autodrome",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "239"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Williams Grove Speedway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "240"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Roman 2 Jiu Jitsu",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "241"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "Lucas Oil Late Model Dirt Series Eagle",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "242"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "2026 MARS Late Models at Quincy Raceways",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "243"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "2026 IMCA Weekly Racing at Marshalltown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "244"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "GCW: Guilty Conscience 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "245"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "RING OF HONOR : ROH: Supercard of Honor",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "246"
+                    }
+                ]
+            },
+            {
+                "time": "02:15",
+                "event": "2026 USAC MRA Sprints at Electric City Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "247"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "2026 USAC Avanti CRA Sprints at Central Arizona Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "248"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "New Era Fight Night III : Anthony Garnica vs. Eros Correa",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "249"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "21:00",
