@@ -187,16 +187,6 @@
             },
             {
                 "time": "19:00",
-                "event": "TUNDRA Super Late Models Opener at Wisconsin International Raceway",
-                "channels": [
-                    {
-                        "channel_name": "PPV Event",
-                        "channel_id": "5006"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
                 "event": "Primetime Fight Night Vol. 9 : Ahmad Chauki El Ahmad vs. Tinko Banabakov",
                 "channels": [
                     {
@@ -206,22 +196,146 @@
                 ]
             },
             {
-                "time": "21:00",
-                "event": "NASCAR Xfinity Series : BetRivers 200 at Dover Motor Speedway",
+                "time": "20:30",
+                "event": "BKB 54: Mayhem In Manchester : Rolando Dy vs. Paulie Malignaggi",
                 "channels": [
                     {
-                        "channel_name": "PPV Event",
-                        "channel_id": "5007"
+                        "channel_name": "Event PPV",
+                        "channel_id": "239"
                     }
                 ]
             },
             {
-                "time": "02:00",
-                "event": "7th Annual Gene Maine Memorial at Needmore Speedway",
+                "time": "21:45",
+                "event": "2026 American Flat Track Throttlefest at Budds Creek",
                 "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "240"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2026 USAC #LetsRaceTwo at Eldora Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "241"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2026 Weekly Racing at Fonda Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "242"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2026 IRA Sprints at Plymouth Dirt Track",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "243"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2026 PA Posse Sprints at Port Royal Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "244"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "World of Outlaws Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "245"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "World of Outlaws Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "246"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Sharon Speedway Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "247"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Land of Legends Raceway Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "248"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "ACW : Awesome Championship Wrestling: Reckoning 2026",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "249"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "2026 IMCA CJ Joski Memorial at 141 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "250"
+                    },
                     {
                         "channel_name": "PPV Event",
                         "channel_id": "5008"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "WES 1: Pro sumo - New Era",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "251"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "Knoxville Raceway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "252"
                     }
                 ]
             },
@@ -232,6 +346,16 @@
                     {
                         "channel_name": "PPV Event",
                         "channel_id": "5011"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "GCW: Gateway to the Death 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "253"
                     }
                 ]
             }
@@ -3754,6 +3878,40 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3064"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "Portugal - Primeira Liga : Estoril vs Benfica",
+                "channels": [
+                    {
+                        "channel_name": "Sport TV3 Portugal",
+                        "channel_id": "454"
+                    },
+                    {
+                        "channel_name": "Arena Sport 1 Serbia",
+                        "channel_id": "429"
+                    },
+                    {
+                        "channel_name": "Cytavision Sports 4 Cyprus",
+                        "channel_id": "914"
+                    },
+                    {
+                        "channel_name": "Eleven Sports 2 Poland",
+                        "channel_id": "72"
+                    },
+                    {
+                        "channel_name": "Ziggo Sport 1 NL",
+                        "channel_id": "393"
+                    },
+                    {
+                        "channel_name": "beIN Sports MAX 5 France",
+                        "channel_id": "495"
+                    },
+                    {
+                        "channel_name": "Cosmote Sport 2 Greece",
+                        "channel_id": "623"
                     }
                 ]
             },
