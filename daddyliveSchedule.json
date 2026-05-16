@@ -187,11 +187,51 @@
             },
             {
                 "time": "19:00",
+                "event": "TUNDRA Super Late Models Opener at Wisconsin International Raceway",
+                "channels": [
+                    {
+                        "channel_name": "PPV Event",
+                        "channel_id": "5006"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
                 "event": "Primetime Fight Night Vol. 9 : Ahmad Chauki El Ahmad vs. Tinko Banabakov",
                 "channels": [
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "238"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "NASCAR Xfinity Series : BetRivers 200 at Dover Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "PPV Event",
+                        "channel_id": "5007"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "7th Annual Gene Maine Memorial at Needmore Speedway",
+                "channels": [
+                    {
+                        "channel_name": "PPV Event",
+                        "channel_id": "5008"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "ARCA Menards Series: Owens Corning 200 at Toledo Speedway",
+                "channels": [
+                    {
+                        "channel_name": "PPV Event",
+                        "channel_id": "5011"
                     }
                 ]
             }
@@ -6596,6 +6636,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "6037"
+                    },
+                    {
+                        "channel_name": "Boxing PPV",
+                        "channel_id": "5005"
                     }
                 ]
             },
@@ -6618,6 +6662,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2007"
+                    },
+                    {
+                        "channel_name": "Boxing PPV",
+                        "channel_id": "5012"
                     }
                 ]
             },
@@ -6674,6 +6722,18 @@
                     {
                         "channel_name": "Cosmote Sport 6 Greece",
                         "channel_id": "627"
+                    },
+                    {
+                        "channel_name": "PPV Event 1",
+                        "channel_id": "5013"
+                    },
+                    {
+                        "channel_name": "PPV Event 2",
+                        "channel_id": "5014"
+                    },
+                    {
+                        "channel_name": "PPV Event 3",
+                        "channel_id": "5015"
                     }
                 ]
             },
@@ -6691,11 +6751,19 @@
                     },
                     {
                         "channel_name": "Nova SPORT 2 CZ",
-                        "channel_id": "1027"
+                        "channel_id": "1022"
                     },
                     {
                         "channel_name": "Canal+ Extra 1 Poland",
-                        "channel_id": "993"
+                        "channel_id": "983"
+                    },
+                    {
+                        "channel_name": "PPV Event",
+                        "channel_id": "5010"
+                    },
+                    {
+                        "channel_name": "PPV Event 2",
+                        "channel_id": "5017"
                     }
                 ]
             },
@@ -6799,6 +6867,16 @@
             },
             {
                 "time": "02:00",
+                "event": "UFC Fight Night : MVP MMA 1 Rousey vs Carano",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5016"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
                 "event": "UFC Fight Night Main Card : Arnold Allen vs Melquizael Costa",
                 "channels": [
                     {
@@ -6888,6 +6966,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4048"
+                    },
+                    {
+                        "channel_name": "UFC Fight Pass 1",
+                        "channel_id": "5009"
                     }
                 ]
             }
