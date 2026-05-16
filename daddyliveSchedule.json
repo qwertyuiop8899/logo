@@ -87,7 +87,7 @@
                 "channels": [
                     {
                         "channel_name": "UFC Fight Pass",
-                        "channel_id": "00"
+                        "channel_id": "68"
                     }
                 ]
             },
@@ -202,6 +202,24 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "239"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "Grand Finale of Eurovision",
+                "channels": [
+                    {
+                        "channel_name": "BBC One UK",
+                        "channel_id": "356"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5019"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "6065"
                     }
                 ]
             },
@@ -6939,21 +6957,19 @@
         "UFC Fight Night": [
             {
                 "time": "23:00",
-                "event": "UFC Fight Night Prelims : Nicolle Caliari vs Shauna Bannon",
-                "channels": [
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "3084"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
                 "event": "UFC Fight Night Prelims : Jeremiah Wells vs Nicolas Dalby",
                 "channels": [
                     {
                         "channel_name": "UFC Fight Pass",
                         "channel_id": "68"
+                    },
+                    {
+                        "channel_name": "PPV Feed ES",
+                        "channel_id": "107"
+                    },
+                    {
+                        "channel_name": "PPV Feed PT",
+                        "channel_id": "108"
                     },
                     {
                         "channel_name": "TNT Sports 1 UK",
@@ -6990,6 +7006,20 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3084"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "UFC Fight Night Prelims : Nicolle Caliari vs Shauna Bannon",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3084"
                     }
                 ]
             },
