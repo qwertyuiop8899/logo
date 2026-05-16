@@ -154,6 +154,48 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "17:00",
+                "event": "Mecum Auctions 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "228"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "Finishers Money in the Bank",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "229"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "MotoAmerica Superbikes Barber",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "237"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "Primetime Fight Night Vol. 9 : Ahmad Chauki El Ahmad vs. Tinko Banabakov",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "238"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "22:00",
@@ -2852,6 +2894,16 @@
                 ]
             },
             {
+                "time": "18:00",
+                "event": "World Int. Friendly Games : Ireland vs Grenada",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6050"
+                    }
+                ]
+            },
+            {
                 "time": "18:05",
                 "event": "Saudi Arabia - Pro League : Al Hilal vs NEOM",
                 "channels": [
@@ -5133,6 +5185,16 @@
             }
         ],
         "Tennis ATP \u2013 Rome Doubles (Italy), Clay": [
+            {
+                "time": "15:30",
+                "event": "ATP - SINGLES: Rome  : Jannik Sinner vs Daniil Medvedev Live Coverage",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1586"
+                    }
+                ]
+            },
             {
                 "time": "12:00",
                 "event": "ATP - DOUBLES: Rome : \ud83c\uddfa\ud83c\uddf8 Austin Krajicek / \ud83c\udded\ud83c\uddf7 Nikola Mektic vs \ud83c\uddea\ud83c\uddf8 Marcel Granollers / \ud83c\udde6\ud83c\uddf7 Horacio Zeballos",
