@@ -5106,18 +5106,28 @@
                 "event": "WTA - SINGLES: Rome : \ud83c\uddfa\ud83c\uddf8 Coco Gauff vs \ud83c\uddfa\ud83c\udde6 Elina Svitolina",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "WTA - SINGLES: Rome : \ud83c\uddfa\ud83c\uddf8 Coco Gauff vs \ud83c\uddfa\ud83c\udde6 Elina Svitolina",
-                "channels": [
-                    {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "TSN5",
+                        "channel_id": "115"
+                    },
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Sky Sport Tennis Italy",
+                        "channel_id": "576"
+                    },
+                    {
+                        "channel_name": "Sky Sports Tennis DE",
+                        "channel_id": "884"
+                    },
+                    {
+                        "channel_name": "Sportklub 2 Croatia",
+                        "channel_id": "102"
                     }
                 ]
             }
