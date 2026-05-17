@@ -2202,6 +2202,10 @@
                     {
                         "channel_name": "SONY TEN 2 HD",
                         "channel_id": "886"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5003"
                     }
                 ]
             },
@@ -2450,6 +2454,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5007"
                     }
                 ]
             },
@@ -2540,6 +2548,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5006"
                     }
                 ]
             },
@@ -2654,6 +2666,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5005"
                     }
                 ]
             },
@@ -2768,6 +2784,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5004"
                     }
                 ]
             },
@@ -8786,8 +8806,8 @@
                 "event": "World Championship 2025 : Netherlands vs Greece",
                 "channels": [
                     {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "6017"
+                        "channel_name": "NPO 1 NL",
+                        "channel_id": "198"
                     }
                 ]
             },
