@@ -144,6 +144,88 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "23:00",
+                "event": "Super Dirtcar Series Cornwall",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "IRA Sprints at Angell Park",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "GCW: Ring of Dreams 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2026 SLM Triple Crown at Slinger Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "World of Outlaws Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "2026 MARS Late Models at Coles County Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "Husets Speedway Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "Primos Pro Wrestling: Alpha 9 (2026)",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "170"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "00:00",
