@@ -920,6 +920,16 @@
                 ]
             },
             {
+                "time": "20:15",
+                "event": "Swiss Super League : Aarau vs Grasshopper",
+                "channels": [
+                    {
+                        "channel_name": "Blue Sport D1",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
                 "time": "20:30",
                 "event": "Spain - Segunda Division : Legan\u00e9s vs Huesca",
                 "channels": [
@@ -1035,7 +1045,7 @@
                     },
                     {
                         "channel_name": "ESPN4 Brazil",
-                        "channel_id": "86"
+                        "channel_id": "85"
                     },
                     {
                         "channel_name": "Nova Sports Premier League Greece",
@@ -1124,6 +1134,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
                     }
                 ]
             },
