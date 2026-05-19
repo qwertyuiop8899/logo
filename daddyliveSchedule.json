@@ -4074,6 +4074,46 @@
                         "channel_id": "43"
                     }
                 ]
+            },
+            {
+                "time": "17:00",
+                "event": "PDC Darts Players Championships",
+                "channels": [
+                    {
+                        "channel_name": "PDC Board 1",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "PDC Darts Players Championships",
+                "channels": [
+                    {
+                        "channel_name": "PDC Board 2",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "PDC Darts Players Championships",
+                "channels": [
+                    {
+                        "channel_name": "PDC Board 3",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "PDC Darts Players Championships",
+                "channels": [
+                    {
+                        "channel_name": "PDC Board 4",
+                        "channel_id": "154"
+                    }
+                ]
             }
         ],
         "Futsal": [
