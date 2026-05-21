@@ -286,6 +286,18 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "00:15",
+                "event": "Jacksonville Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5002"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "21:00",
@@ -951,6 +963,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3082"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5004"
                     }
                 ]
             },
@@ -975,36 +991,6 @@
                 ]
             },
             {
-                "time": "20:30",
-                "event": "Belgium - Pro League : Anderlecht vs Sint-Truiden",
-                "channels": [
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "3046"
-                    }
-                ]
-            },
-            {
-                "time": "20:30",
-                "event": "Belgium - Pro League : Gent vs Union Saint-Gilloise",
-                "channels": [
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "3048"
-                    }
-                ]
-            },
-            {
-                "time": "20:30",
-                "event": "Belgium - Pro League : Mechelen vs Club Brugge",
-                "channels": [
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "3049"
-                    }
-                ]
-            },
-            {
                 "time": "20:15",
                 "event": "Switzerland - Super League : Grasshopper vs Aarau",
                 "channels": [
@@ -1015,6 +1001,48 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3020"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "Belgium - Pro League : Anderlecht vs Sint-Truiden",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3046"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6001"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "Belgium - Pro League : Gent vs Union Saint-Gilloise",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3048"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6002"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "Belgium - Pro League : Mechelen vs Club Brugge",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3049"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6003"
                     }
                 ]
             },
@@ -1479,6 +1507,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3030"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5005"
                     }
                 ]
             }
@@ -1937,6 +1969,88 @@
                     {
                         "channel_name": "Sportklub 2 Croatia",
                         "channel_id": "102"
+                    }
+                ]
+            }
+        ],
+        "ROLAND GARROS": [
+            {
+                "time": "11:00",
+                "event": "Roland Garros: Court SUZANNE-LENGLEN",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "Roland Garros: Court 14",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "Roland Garros: Court 7",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "Roland Garros: Court 6",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "Roland Garros: Court 12",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "Roland Garros: Court 13",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "Roland Garros: Draw Ceremony",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "Roland-Garros: Gael & Friends",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
                     }
                 ]
             }
@@ -2629,6 +2743,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5036"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4015"
                     }
                 ]
             },
@@ -2655,6 +2773,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5037"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4016"
                     }
                 ]
             },
@@ -2677,6 +2799,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5038"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4017"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2005"
                     }
                 ]
             },
@@ -2691,6 +2825,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5039"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4018"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2006"
                     }
                 ]
             },
@@ -2725,6 +2871,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5040"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4019"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2007"
                     }
                 ]
             },
@@ -2743,6 +2901,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5041"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4020"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2008"
                     }
                 ]
             },
@@ -2761,6 +2931,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5042"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2009"
                     }
                 ]
             }
@@ -3315,6 +3497,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4071"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2011"
                     }
                 ]
             },
@@ -3329,6 +3519,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5032"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4070"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2010"
                     }
                 ]
             },
@@ -3339,6 +3537,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5034"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4072"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2012"
                     }
                 ]
             }
@@ -3415,6 +3621,22 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4065"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4067"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2013"
                     }
                 ]
             }
@@ -3581,6 +3803,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3014"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -4261,6 +4487,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4050"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2014"
                     }
                 ]
             }
