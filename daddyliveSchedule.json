@@ -286,6 +286,180 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "18:00",
+                "event": "The Chaos Supernationals {PPV}",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "161"
+                    },
+                    {
+                        "channel_name": "FloRacing II",
+                        "channel_id": "5004"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "Little 500 Bump Day FRIDAY at Anderson",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "5002"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "RunningLane Outdoor Championships",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "5006"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "Monaco Ford Light Double Down at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "160"
+                    },
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "5024"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "The Chaos Supernationals {PPV}",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "161"
+                    },
+                    {
+                        "channel_name": "FloRacing II",
+                        "channel_id": "5004"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "NASCAR Season Opener at Autodrome Granby",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "162"
+                    },
+                    {
+                        "channel_name": "FloRacing II",
+                        "channel_id": "5025"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "Weekly Racing at Utica-Rome Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "163"
+                    },
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "5026"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Attica Raceway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "2026 Lucas Oil Show-Me 100 at Lucas Oil Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "House of Glory: Waging War 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "MARS Late Models at Davenport Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "167"
+                    },
+                    {
+                        "channel_name": "FloRacing II",
+                        "channel_id": "5027"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "2026 Corn Belt Clash at Marshalltown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "28"
+                    },
+                    {
+                        "channel_name": "FloRacing II",
+                        "channel_id": "5028"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Weekly Racing at Coles County Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "29"
+                    },
+                    {
+                        "channel_name": "FloRacing II",
+                        "channel_id": "5029"
+                    }
+                ]
+            },
+            {
+                "time": "03:20",
+                "event": "2026 Fair Race at Silver Dollar Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "30"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "21:00",
@@ -2440,16 +2614,6 @@
                 ]
             },
             {
-                "time": "18:00",
-                "event": "The Chaos Supernationals {PPV}",
-                "channels": [
-                    {
-                        "channel_name": "FloRacing",
-                        "channel_id": "5004"
-                    }
-                ]
-            },
-            {
                 "time": "18:30",
                 "event": "Formula 1 : Lenovo Canadian GP - Practice 1",
                 "channels": [
@@ -2594,16 +2758,6 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3077"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "Little 500 Bump Day FRIDAY at Anderson",
-                "channels": [
-                    {
-                        "channel_name": "FloRacing",
-                        "channel_id": "5002"
                     }
                 ]
             },
@@ -3080,6 +3234,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
                     }
                 ]
             }
@@ -3438,6 +3596,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4016"
                     }
                 ]
             },
@@ -3456,6 +3618,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4017"
                     }
                 ]
             },
@@ -3474,6 +3640,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4023"
                     }
                 ]
             },
@@ -3500,6 +3670,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4019"
                     }
                 ]
             },
@@ -3526,6 +3700,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4020"
                     }
                 ]
             },
@@ -3548,6 +3726,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4021"
                     }
                 ]
             },
@@ -3574,6 +3756,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5014"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4022"
                     }
                 ]
             },
@@ -3592,6 +3778,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5015"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4024"
                     }
                 ]
             },
@@ -3618,6 +3808,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5016"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4025"
                     }
                 ]
             },
@@ -3636,6 +3830,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5017"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4026"
                     }
                 ]
             },
@@ -3654,6 +3852,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5018"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4027"
                     }
                 ]
             },
@@ -3676,6 +3878,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5019"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4028"
                     }
                 ]
             },
@@ -3694,6 +3900,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5020"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4029"
                     }
                 ]
             },
@@ -3724,6 +3934,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4030"
                     }
                 ]
             }
@@ -4340,6 +4554,10 @@
                     {
                         "channel_name": "WNBA League Pass",
                         "channel_id": "5041"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4070"
                     }
                 ]
             },
@@ -4358,6 +4576,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5042"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4071"
                     }
                 ]
             },
@@ -4372,6 +4594,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5050"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4072"
                     }
                 ]
             }
@@ -4444,6 +4670,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7014"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4065"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4067"
                     }
                 ]
             }
@@ -4954,6 +5188,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4050"
                     }
                 ]
             }
@@ -5444,6 +5682,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5030"
                     }
                 ]
             },
