@@ -930,6 +930,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3078"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7001"
                     }
                 ]
             },
@@ -1231,6 +1243,16 @@
             },
             {
                 "time": "18:00",
+                "event": "Uruguay Segunda Division : Athens vs Paysandu",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
                 "event": "Italy - Serie A : Bologna vs Internazionale",
                 "channels": [
                     {
@@ -1340,6 +1362,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7004"
                     }
                 ]
             },
@@ -1440,6 +1470,14 @@
                     {
                         "channel_name": "Arena 1 Premium Serbia",
                         "channel_id": "134"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005"
                     }
                 ]
             },
@@ -6808,6 +6846,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
                     }
                 ]
             },
