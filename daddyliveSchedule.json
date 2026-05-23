@@ -1,5 +1,117 @@
 {
     "Saturday 23rd May 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "16:00",
+                "event": "PDRA Mid Atlantic Showdown",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Indian Fight League by APFC iFL 1",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "2026 King of the South at Shadyside Dragway",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "Fight to Win 316 Sao Paulo",
+                "channels": []
+            },
+            {
+                "time": "23:15",
+                "event": "NASCAR Weekly Racing Riverhead",
+                "channels": []
+            },
+            {
+                "time": "23:45",
+                "event": "NASCAR Weekly Racing Jennerstown",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "The Chaos Supernationals",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Weekly Racing Fonda Speedway",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "2026 IRA Sprints at Wilmot Raceway",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "2026 NASCAR Weekly Racing at Berlin Raceway",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "NAPA All Star Sprints Mercer",
+                "channels": []
+            },
+            {
+                "time": "00:15",
+                "event": "2026 USAC MRA Sprints at Valley Speedway",
+                "channels": []
+            },
+            {
+                "time": "00:30",
+                "event": "2026 Lucas Oil Show-Me 100 at Lucas Oil Speedway",
+                "channels": []
+            },
+            {
+                "time": "00:30",
+                "event": "Cedar Lake Speedway Sprints",
+                "channels": []
+            },
+            {
+                "time": "00:45",
+                "event": "2026 MARS Late Models at Fairbury Speedway",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "2026 Spring Nationals at North Georgia Speedway",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "2026 IMCA Nathan Bouche Memorial at 141 Speedway",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Extreme Fight World EFW-5",
+                "channels": []
+            },
+            {
+                "time": "01:15",
+                "event": "World of Outlaws Sprint Cars",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "WWE Saturday Night Main Event",
+                "channels": []
+            },
+            {
+                "time": "03:20",
+                "event": "2026 Fair Race at Silver Dollar Speedway",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "Brandrisk Promotions 14 : Johnny Manziel vs. Bob Menery",
+                "channels": []
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "17:00",
@@ -838,6 +950,14 @@
                     {
                         "channel_name": "Sky Sports Football UK",
                         "channel_id": "35"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5004"
                     },
                     {
                         "channel_name": "Sky Sports Main Event UK",
@@ -3720,6 +3840,14 @@
                         "channel_id": "346"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
+                    },
+                    {
                         "channel_name": "Willow 2 Cricket",
                         "channel_id": "598"
                     },
@@ -4148,6 +4276,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
                     }
                 ]
             }
@@ -4160,6 +4292,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1552"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     }
                 ]
             }
@@ -6860,6 +6996,10 @@
                     {
                         "channel_name": "PDC TV",
                         "channel_id": "43"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
                     },
                     {
                         "channel_name": "Sky Sport 2 NZ",
