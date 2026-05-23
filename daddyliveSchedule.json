@@ -1874,6 +1874,10 @@
                         "channel_id": "451"
                     },
                     {
+                        "channel_name": "Sky Sport 252 IT",
+                        "channel_id": "194"
+                    },
+                    {
                         "channel_name": "Premier Sports 1 Ireland",
                         "channel_id": "771"
                     },
@@ -2124,6 +2128,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4009"
                     }
                 ]
             },
@@ -2288,6 +2300,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7014"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7015"
                     }
                 ]
             },
@@ -2330,6 +2354,30 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3074"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7029"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7030"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7033"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7034"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7035"
                     }
                 ]
             },
@@ -2372,6 +2420,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7049"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7050"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7051"
                     }
                 ]
             },
@@ -2414,6 +2474,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7026"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7027"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7028"
                     }
                 ]
             },
@@ -2456,6 +2528,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2014"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7037"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7038"
                     }
                 ]
             },
@@ -2518,6 +2598,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2015"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7046"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7047"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7048"
                     }
                 ]
             },
@@ -2548,6 +2640,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2016"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7012"
                     }
                 ]
             },
@@ -2646,6 +2746,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7039"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7040"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7041"
                     }
                 ]
             },
@@ -2760,6 +2872,22 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7042"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7043"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7044"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7045"
                     }
                 ]
             },
@@ -2778,6 +2906,16 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3083"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "Segunda - Divisi\u00f3n : Rentistas vs River Plate",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7027"
                     }
                 ]
             },
@@ -3136,6 +3274,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7010"
                     }
                 ]
             },
@@ -5840,6 +5986,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5051"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4015"
                     }
                 ]
             },
@@ -5862,6 +6012,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5052"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4016"
                     }
                 ]
             },
@@ -5900,6 +6054,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5053"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4017"
                     }
                 ]
             },
@@ -5918,6 +6076,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5054"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4018"
                     }
                 ]
             },
@@ -5936,6 +6098,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5055"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4019"
                     }
                 ]
             },
@@ -5958,6 +6124,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5056"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4020"
                     }
                 ]
             },
@@ -5976,6 +6146,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5057"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4021"
                     }
                 ]
             },
@@ -5994,6 +6168,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5058"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4022"
                     }
                 ]
             },
@@ -6008,6 +6186,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5059"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4023"
                     }
                 ]
             },
@@ -6026,6 +6208,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5060"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4024"
                     }
                 ]
             },
@@ -6040,6 +6226,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5061"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4025"
                     }
                 ]
             },
@@ -6070,6 +6260,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5062"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4026"
                     }
                 ]
             },
@@ -6088,6 +6282,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5063"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4027"
                     }
                 ]
             },
@@ -6106,6 +6304,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5064"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4028"
                     }
                 ]
             },
@@ -6120,6 +6322,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5065"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4029"
                     }
                 ]
             }
@@ -6754,6 +6960,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5046"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4070"
                     }
                 ]
             },
@@ -6772,6 +6982,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5047"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2027"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4071"
                     }
                 ]
             },
@@ -6790,6 +7008,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5049"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2028"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4072"
                     }
                 ]
             }
@@ -6886,6 +7112,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2029"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4065"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4067"
                     }
                 ]
             }
