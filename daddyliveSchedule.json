@@ -4,112 +4,222 @@
             {
                 "time": "16:00",
                 "event": "PDRA Mid Atlantic Showdown",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "237"
+                    }
+                ]
             },
             {
                 "time": "17:30",
                 "event": "Indian Fight League by APFC iFL 1",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "238"
+                    }
+                ]
             },
             {
                 "time": "18:00",
                 "event": "2026 King of the South at Shadyside Dragway",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "239"
+                    }
+                ]
             },
             {
                 "time": "21:30",
                 "event": "Fight to Win 316 Sao Paulo",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Flotv",
+                        "channel_id": "110"
+                    }
+                ]
             },
             {
                 "time": "23:15",
                 "event": "NASCAR Weekly Racing Riverhead",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "151"
+                    }
+                ]
             },
             {
                 "time": "23:45",
                 "event": "NASCAR Weekly Racing Jennerstown",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "152"
+                    }
+                ]
             },
             {
                 "time": "00:00",
                 "event": "The Chaos Supernationals",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "153"
+                    }
+                ]
             },
             {
                 "time": "00:00",
                 "event": "Weekly Racing Fonda Speedway",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "154"
+                    }
+                ]
             },
             {
                 "time": "00:00",
                 "event": "2026 IRA Sprints at Wilmot Raceway",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "175"
+                    }
+                ]
             },
             {
                 "time": "00:00",
                 "event": "2026 NASCAR Weekly Racing at Berlin Raceway",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "176"
+                    }
+                ]
             },
             {
                 "time": "00:00",
                 "event": "NAPA All Star Sprints Mercer",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "177"
+                    }
+                ]
             },
             {
                 "time": "00:15",
                 "event": "2026 USAC MRA Sprints at Valley Speedway",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "240"
+                    }
+                ]
             },
             {
                 "time": "00:30",
                 "event": "2026 Lucas Oil Show-Me 100 at Lucas Oil Speedway",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "241"
+                    }
+                ]
             },
             {
                 "time": "00:30",
                 "event": "Cedar Lake Speedway Sprints",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "242"
+                    }
+                ]
             },
             {
                 "time": "00:45",
                 "event": "2026 MARS Late Models at Fairbury Speedway",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "243"
+                    }
+                ]
             },
             {
                 "time": "01:00",
                 "event": "2026 Spring Nationals at North Georgia Speedway",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "244"
+                    }
+                ]
             },
             {
                 "time": "01:00",
                 "event": "2026 IMCA Nathan Bouche Memorial at 141 Speedway",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "245"
+                    }
+                ]
             },
             {
                 "time": "01:00",
                 "event": "Extreme Fight World EFW-5",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "246"
+                    }
+                ]
             },
             {
                 "time": "01:15",
                 "event": "World of Outlaws Sprint Cars",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "247"
+                    }
+                ]
             },
             {
                 "time": "02:00",
                 "event": "WWE Saturday Night Main Event",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "248"
+                    }
+                ]
             },
             {
                 "time": "03:20",
                 "event": "2026 Fair Race at Silver Dollar Speedway",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "249"
+                    }
+                ]
             },
             {
                 "time": "05:00",
                 "event": "Brandrisk Promotions 14 : Johnny Manziel vs. Bob Menery",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "250"
+                    }
+                ]
             }
         ],
         "Upcoming Events": [
@@ -1396,6 +1506,10 @@
                         "channel_id": "428"
                     },
                     {
+                        "channel_name": "Sky Sport 252 IT",
+                        "channel_id": "194"
+                    },
+                    {
                         "channel_name": "Cytavision Sports 4 Cyprus",
                         "channel_id": "914"
                     },
@@ -1412,7 +1526,11 @@
                         "channel_id": "925"
                     },
                     {
-                        "channel_name": "FOX Deportes (CH-643) Match TV Russia",
+                        "channel_name": "FOX Deportes",
+                        "channel_id": "643"
+                    },
+                    {
+                        "channel_name": "Match TV Russia",
                         "channel_id": "127"
                     },
                     {
@@ -1598,6 +1716,16 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7005"
+                    }
+                ]
+            },
+            {
+                "time": "18:10",
+                "event": "Saudi - Arabia First Division : Al Diriyah vs Al Ula",
+                "channels": [
+                    {
+                        "channel_name": "Thmanyah",
+                        "channel_id": "174"
                     }
                 ]
             },
@@ -2006,6 +2134,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3048"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6002"
                     }
                 ]
             },
@@ -2016,6 +2148,20 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3049"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6003"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "Belgium - Pro League : Standard Liege vs Royal Charleroi SC",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6004"
                     }
                 ]
             },
@@ -5096,6 +5242,10 @@
                     {
                         "channel_name": "Ziggo Sport 3 NL",
                         "channel_id": "919"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5010"
                     }
                 ]
             },
@@ -5176,6 +5326,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3037"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5007"
                     }
                 ]
             },
