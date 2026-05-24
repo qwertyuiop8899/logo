@@ -3726,6 +3726,10 @@
                     {
                         "channel_name": "TNT SPORTS Premium HD",
                         "channel_id": "642"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7065"
                     }
                 ]
             },
@@ -3832,6 +3836,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7062"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7063"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7064"
                     }
                 ]
             },
@@ -3842,6 +3858,10 @@
                     {
                         "channel_name": "Premiere BR",
                         "channel_id": "20"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7067"
                     }
                 ]
             },
@@ -3856,6 +3876,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3071"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7066"
                     }
                 ]
             },
@@ -3914,6 +3938,36 @@
                 ]
             },
             {
+                "time": "22:00",
+                "event": "Paraguay - Divisi\u00f3n de Honor, Apertura : Sportivo Ameliano vs Sportivo Trinidense",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7068"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Paraguay - Divisi\u00f3n de Honor, Apertura : Cerro Porte\u00f1o vs Rubio \u00d1\u00fa",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7069"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Paraguay - Divisi\u00f3n de Honor, Apertura : Nacional Asunci\u00f3n vs Libertad",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7070"
+                    }
+                ]
+            },
+            {
                 "time": "22:30",
                 "event": "American footballI nternational : AFLELondon Warriors vs Panthers Wroclaw",
                 "channels": [
@@ -3930,6 +3984,10 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7071"
                     }
                 ]
             },
@@ -3944,6 +4002,16 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3082"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Uruguay - Liga AUF Uruguaya, Intermedio, Serie A : Defensor Sporting vs Pe\u00f1arol",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7073"
                     }
                 ]
             },
@@ -4006,6 +4074,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3019"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7074"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7075"
                     }
                 ]
             },
@@ -4042,6 +4118,10 @@
                     {
                         "channel_name": "Match! Football 3 Russia",
                         "channel_id": "138"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7076"
                     }
                 ]
             },
@@ -4076,6 +4156,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7081"
                     }
                 ]
             }
@@ -4264,6 +4348,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3062"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7072"
                     }
                 ]
             },
@@ -4298,6 +4386,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3087"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7077"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7078"
                     }
                 ]
             },
@@ -4336,6 +4432,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3035"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7082"
                     }
                 ]
             }
@@ -5586,7 +5686,7 @@
                 ]
             },
             {
-                "time": "19:29",
+                "time": "20:03",
                 "event": "FIM MotoJunior World Championship : Circuit de Barcelona-Catalunya: Stock Race",
                 "channels": [
                     {
@@ -5970,6 +6070,10 @@
                         "channel_id": "260"
                     },
                     {
+                        "channel_name": "Fox Sports 1 Argentina",
+                        "channel_id": "787"
+                    },
+                    {
                         "channel_name": "Eleven Sports 1 Poland",
                         "channel_id": "71"
                     },
@@ -6110,6 +6214,10 @@
                     {
                         "channel_name": "Arena Adrenalin",
                         "channel_id": "260"
+                    },
+                    {
+                        "channel_name": "Fox Sports 1 Argentina",
+                        "channel_id": "787"
                     },
                     {
                         "channel_name": "SRF zwei",
@@ -7564,6 +7672,10 @@
                     {
                         "channel_name": "SD Stream",
                         "channel_id": "8004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7080"
                     }
                 ]
             }
@@ -8170,6 +8282,10 @@
                     {
                         "channel_name": "SD Stream",
                         "channel_id": "8005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7079"
                     }
                 ]
             }
