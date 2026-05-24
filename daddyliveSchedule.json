@@ -1,5 +1,121 @@
 {
     "Sunday 24th May 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "15:00",
+                "event": "Professional Fighters League : PFL MENA 9: Pride of Arabia",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "201"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "2026 King of the South at Shadyside Dragway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "198"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Super DIRTcar Series Weedsport",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2026 NAPA All Star Circuit of Champions at Wayne County Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2026 Spring Nationals at Duck River Raceway Park",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2026 Short Track Super Series at Brookfield Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "NASCAR Weekly Racing Jennerstown",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "2026 IRA Sprints at 141 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "00:20",
+                "event": "2026 Weekly Racing at Slinger Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "World of Outlaws Sprint Cars Husets",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "All Elite Wrestling : AEW: Double or Nothing 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV I",
+                        "channel_id": "163"
+                    },
+                    {
+                        "channel_name": "Event PPV II",
+                        "channel_id": "166"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "17:00",
@@ -873,6 +989,16 @@
             },
             {
                 "time": "15:00",
+                "event": "U-17 Africa Cup of Nations : Tanzania U17 1 - 1 Algeria U17",
+                "channels": [
+                    {
+                        "channel_name": "beIN Sports Xtra 4",
+                        "channel_id": "178"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
                 "event": "Sweden - Damallsvenskan : H\u00e4cken vs Norrk\u00f6ping",
                 "channels": [
                     {
@@ -986,6 +1112,18 @@
                     {
                         "channel_name": "SD Stream",
                         "channel_id": "8001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7003"
                     }
                 ]
             },
@@ -996,6 +1134,16 @@
                     {
                         "channel_name": "RTVS Sport Slovakia",
                         "channel_id": "6"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "Norway - Eliteserien : Bod\u00f8 / Glimt 0 - 0 Brann",
+                "channels": [
+                    {
+                        "channel_name": "TV 2 Play",
+                        "channel_id": "202"
                     }
                 ]
             },
@@ -1342,6 +1490,14 @@
                     {
                         "channel_name": "SD Stream",
                         "channel_id": "8008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7009"
                     }
                 ]
             },
@@ -1492,6 +1648,14 @@
                     {
                         "channel_name": "SD Stream",
                         "channel_id": "8003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007"
                     }
                 ]
             },
@@ -1566,6 +1730,14 @@
                     {
                         "channel_name": "SD Stream",
                         "channel_id": "8009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7019"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7020"
                     }
                 ]
             },
@@ -1692,6 +1864,18 @@
                     {
                         "channel_name": "SD Stream",
                         "channel_id": "8011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7012"
                     }
                 ]
             },
@@ -1800,8 +1984,16 @@
                         "channel_id": "3006"
                     },
                     {
-                        "channel_name": "Backup Stream (CH-3079) SD Stream",
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3079"
+                    },
+                    {
+                        "channel_name": "SD Stream",
                         "channel_id": "8006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7021"
                     }
                 ]
             },
@@ -1819,7 +2011,7 @@
                     },
                     {
                         "channel_name": "Sky ONE UK",
-                        "channel_id": "178"
+                        "channel_id": "708"
                     },
                     {
                         "channel_name": "Canal+ Live 10 France",
@@ -1876,6 +2068,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3044"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7017"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7018"
                     }
                 ]
             },
@@ -1942,6 +2142,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3048"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7022"
                     }
                 ]
             },
@@ -2048,6 +2252,14 @@
                     {
                         "channel_name": "SD Stream",
                         "channel_id": "8012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7014"
                     }
                 ]
             },
@@ -2090,6 +2302,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7023"
                     }
                 ]
             },
@@ -2192,6 +2408,14 @@
                     {
                         "channel_name": "SD Stream",
                         "channel_id": "8002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7015"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7016"
                     }
                 ]
             },
@@ -2352,6 +2576,18 @@
                     {
                         "channel_name": "SD Stream",
                         "channel_id": "8013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7024"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7025"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7026"
                     }
                 ]
             },
@@ -3911,7 +4147,7 @@
                     },
                     {
                         "channel_name": "Fox Cricket",
-                        "channel_id": "36"
+                        "channel_id": "369"
                     },
                     {
                         "channel_name": "Sky Sport 1 NZ",
@@ -5138,7 +5374,7 @@
                 ]
             },
             {
-                "time": "12:52",
+                "time": "16:08",
                 "event": "FIM MotoJunior World Championship : Circuit de Barcelona-Catalunya: Stock Race",
                 "channels": [
                     {
@@ -5715,6 +5951,14 @@
                 "time": "00:00",
                 "event": "NASCAR Cup - Charlotte Motor Speedway Coca-Cola 600",
                 "channels": [
+                    {
+                        "channel_name": "Nascar Prime Video",
+                        "channel_id": "168"
+                    },
+                    {
+                        "channel_name": "Prime Video Multiview",
+                        "channel_id": "169"
+                    },
                     {
                         "channel_name": "Viaplay Sports 2 UK",
                         "channel_id": "550"
@@ -7188,8 +7432,8 @@
                         "channel_id": "31"
                     },
                     {
-                        "channel_name": "TNT Sports 4 UK",
-                        "channel_id": "34"
+                        "channel_name": "TNT Sports 3 UK",
+                        "channel_id": "33"
                     },
                     {
                         "channel_name": "trutv USA",
