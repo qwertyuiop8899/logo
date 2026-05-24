@@ -1335,6 +1335,16 @@
             },
             {
                 "time": "17:00",
+                "event": "England - Premier League : MultiView",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "203"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
                 "event": "England - Premier League : Simulcast",
                 "channels": [
                     {
@@ -2642,6 +2652,10 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7027"
                     }
                 ]
             },
@@ -2720,6 +2734,14 @@
                     {
                         "channel_name": "SD Stream",
                         "channel_id": "8019"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7029"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7030"
                     }
                 ]
             },
@@ -2780,6 +2802,10 @@
                     {
                         "channel_name": "Canal+ Sport 4 Afrique",
                         "channel_id": "489"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7034"
                     }
                 ]
             },
@@ -2880,6 +2906,20 @@
                     {
                         "channel_name": "LALIGA TV Hypermotion",
                         "channel_id": "539"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7035"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "Uruguay - Liga AUF Uruguaya, Intermedio, Serie B : Wanderers vs Deportivo Maldonado",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7037"
                     }
                 ]
             },
@@ -2952,6 +2992,10 @@
                     {
                         "channel_name": "TNT SPORTS Premium HD",
                         "channel_id": "642"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7033"
                     }
                 ]
             },
@@ -3106,6 +3150,10 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7038"
                     }
                 ]
             },
@@ -3160,6 +3208,34 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3084"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7039"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7040"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7041"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7042"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7043"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7044"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7045"
                     }
                 ]
             },
@@ -3248,6 +3324,22 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7053"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7054"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7055"
                     }
                 ]
             },
@@ -3294,6 +3386,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7056"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7057"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7058"
                     }
                 ]
             },
@@ -3384,6 +3488,22 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7046"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7047"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7048"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7049"
                     }
                 ]
             },
@@ -3454,6 +3574,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7059"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7060"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7061"
                     }
                 ]
             },
@@ -3548,6 +3680,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7050"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7051"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7052"
                     }
                 ]
             },
@@ -5442,7 +5586,7 @@
                 ]
             },
             {
-                "time": "16:23",
+                "time": "19:29",
                 "event": "FIM MotoJunior World Championship : Circuit de Barcelona-Catalunya: Stock Race",
                 "channels": [
                     {
@@ -5556,6 +5700,10 @@
                     {
                         "channel_name": "EuroSport 2 France",
                         "channel_id": "773"
+                    },
+                    {
+                        "channel_name": "TNT Sports UK",
+                        "channel_id": "197"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -5682,6 +5830,10 @@
                     {
                         "channel_name": "Sport 5 Live Israel",
                         "channel_id": "146"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7028"
                     }
                 ]
             },
@@ -5740,6 +5892,10 @@
                     {
                         "channel_name": "Sport 4 Israel",
                         "channel_id": "143"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7031"
                     }
                 ]
             },
@@ -5764,6 +5920,14 @@
                     {
                         "channel_name": "Sky Sports F1 UK",
                         "channel_id": "60"
+                    },
+                    {
+                        "channel_name": "Sky Sports F1 50 FPS",
+                        "channel_id": "204"
+                    },
+                    {
+                        "channel_name": "Sky Sports F1 50 FPS",
+                        "channel_id": "205"
                     },
                     {
                         "channel_name": "Sky Sport F1 DE",
@@ -5878,6 +6042,14 @@
                     {
                         "channel_name": "Sky Sports F1 UK",
                         "channel_id": "60"
+                    },
+                    {
+                        "channel_name": "Sky Sports F1 50 FPS",
+                        "channel_id": "204"
+                    },
+                    {
+                        "channel_name": "Sky Sports F1 50 FPS",
+                        "channel_id": "205"
                     },
                     {
                         "channel_name": "TSN5",
