@@ -1498,6 +1498,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4004"
                     }
                 ]
             },
@@ -1656,6 +1660,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
                     }
                 ]
             },
@@ -1738,6 +1746,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7020"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -1876,6 +1888,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4005"
                     }
                 ]
             },
@@ -1994,6 +2010,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4007"
                     }
                 ]
             },
@@ -2076,6 +2096,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7018"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4011"
                     }
                 ]
             },
@@ -2146,6 +2170,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4010"
                     }
                 ]
             },
@@ -2260,6 +2288,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7014"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
                     }
                 ]
             },
@@ -2306,6 +2338,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7023"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4008"
                     }
                 ]
             },
@@ -2438,6 +2474,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3051"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
                     }
                 ]
             },
@@ -2588,6 +2628,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7026"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4009"
                     }
                 ]
             },
@@ -3200,6 +3244,10 @@
                     {
                         "channel_name": "SD Stream",
                         "channel_id": "8015"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
                     }
                 ]
             },
@@ -3242,6 +3290,10 @@
                     {
                         "channel_name": "SD Stream",
                         "channel_id": "8017"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4004"
                     }
                 ]
             },
@@ -3328,6 +3380,10 @@
                     {
                         "channel_name": "SD Stream",
                         "channel_id": "8018"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4009"
                     }
                 ]
             },
@@ -3394,6 +3450,10 @@
                     {
                         "channel_name": "SD Stream",
                         "channel_id": "8016"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
                     }
                 ]
             },
@@ -3484,6 +3544,10 @@
                     {
                         "channel_name": "SD Stream",
                         "channel_id": "8014"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
                     }
                 ]
             },
@@ -3620,6 +3684,10 @@
                     {
                         "channel_name": "SD Stream",
                         "channel_id": "8002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -5374,7 +5442,7 @@
                 ]
             },
             {
-                "time": "16:08",
+                "time": "16:23",
                 "event": "FIM MotoJunior World Championship : Circuit de Barcelona-Catalunya: Stock Race",
                 "channels": [
                     {
@@ -5796,6 +5864,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3079"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4049"
                     }
                 ]
             },
@@ -5930,6 +6002,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3079"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4049"
                     }
                 ]
             },
