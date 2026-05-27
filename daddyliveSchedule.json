@@ -996,6 +996,30 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "6002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7052"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7051"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7050"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7054"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7053"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000"
                     }
                 ]
             },
@@ -1782,6 +1806,18 @@
                 ]
             }
         ],
+        "Tennis French Open Multiview": [
+            {
+                "time": "10:30",
+                "event": "Tennis Roland-Garros - French Open Multiview",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "205"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "10:30",
@@ -2014,6 +2050,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "8040"
+                    },
+                    {
+                        "channel_name": "TNT Sport 1 Backup",
+                        "channel_id": "2000"
+                    },
+                    {
+                        "channel_name": "TNT Sport 2 Backup",
+                        "channel_id": "2050"
                     }
                 ]
             }
@@ -3666,6 +3710,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4070"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2004"
                     }
                 ]
             },
@@ -3688,6 +3736,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4071"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2005"
                     }
                 ]
             },
@@ -3714,6 +3766,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4072"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2006"
                     }
                 ]
             },
@@ -3728,6 +3784,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4074"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2007"
                     }
                 ]
             },
@@ -3746,6 +3806,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4073"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2008"
                     }
                 ]
             }
@@ -4136,6 +4200,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5038"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2009"
                     }
                 ]
             }
