@@ -296,6 +296,26 @@
                         "channel_id": "201"
                     }
                 ]
+            },
+            {
+                "time": "22:00",
+                "event": "2026 Shakedown XXIII",
+                "channels": [
+                    {
+                        "channel_name": "FLORacing",
+                        "channel_id": "20"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "World of Outlaws Late Models Wayne",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "14"
+                    }
+                ]
             }
         ],
         "TV Shows": [
@@ -801,6 +821,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "6017"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -883,6 +907,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "6018"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -3461,6 +3489,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000"
                     }
                 ]
             },
@@ -3507,6 +3539,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000"
                     }
                 ]
             }
