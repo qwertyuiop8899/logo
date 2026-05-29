@@ -662,7 +662,7 @@
                 "channels": [
                     {
                         "channel_name": "LOITV",
-                        "channel_id": "110"
+                        "channel_id": "174"
                     }
                 ]
             },
@@ -672,7 +672,7 @@
                 "channels": [
                     {
                         "channel_name": "LOITV",
-                        "channel_id": "151"
+                        "channel_id": "175"
                     }
                 ]
             },
@@ -682,7 +682,7 @@
                 "channels": [
                     {
                         "channel_name": "LOITV",
-                        "channel_id": "152"
+                        "channel_id": "176"
                     }
                 ]
             },
@@ -692,7 +692,7 @@
                 "channels": [
                     {
                         "channel_name": "LOITV",
-                        "channel_id": "153"
+                        "channel_id": "177"
                     }
                 ]
             },
@@ -844,6 +844,46 @@
             },
             {
                 "time": "18:00",
+                "event": "World  Int. Friendly GamesIran vs Gambia",
+                "channels": [
+                    {
+                        "channel_name": "Backup Feed",
+                        "channel_id": "5020"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Europe U17 European Championship : France U17 vs Denmark U17",
+                "channels": [
+                    {
+                        "channel_name": "Backup Feed",
+                        "channel_id": "5021"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "World Int. Friendly Games : Andorra vs Iraq",
+                "channels": [
+                    {
+                        "channel_name": "Backup Feed",
+                        "channel_id": "5022"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "World Int. Friendly Games : South Africa vs Nicaragua",
+                "channels": [
+                    {
+                        "channel_name": "Backup Feed",
+                        "channel_id": "5023"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
                 "event": "World Friendly Games : South Africa vs Nicaragua",
                 "channels": [
                     {
@@ -933,6 +973,26 @@
                     {
                         "channel_name": "Sports Channel",
                         "channel_id": "6015"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "Egyptian Premier League : National Bank of Egypt vs Al-Ittihad Alexandria",
+                "channels": [
+                    {
+                        "channel_name": "Backup Feed",
+                        "channel_id": "5024"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "Egyptian Premier League : Ghazl El Mahalla FC vs Haras El Hodoud",
+                "channels": [
+                    {
+                        "channel_name": "Backup Feed",
+                        "channel_id": "5025"
                     }
                 ]
             },
@@ -3537,6 +3597,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2028"
+                    },
+                    {
+                        "channel_name": "Backup Stream HD",
+                        "channel_id": "5010"
+                    },
+                    {
+                        "channel_name": "Backup Stream SD",
+                        "channel_id": "5011"
                     }
                 ]
             }
