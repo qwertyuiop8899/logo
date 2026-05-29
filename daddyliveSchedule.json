@@ -4353,12 +4353,22 @@
             {
                 "time": "00:30",
                 "event": "Minor League Baseball : St. Lucie Mets vs Bradenton Marauders",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "SportsNet Pittsburgh",
+                        "channel_id": "922"
+                    }
+                ]
             },
             {
                 "time": "01:00",
                 "event": "Minor League Baseball : Altoona Curve vs Hartford Yard Goats",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "NESN USA",
+                        "channel_id": "762"
+                    }
+                ]
             }
         ],
         "High School Baseball": [
