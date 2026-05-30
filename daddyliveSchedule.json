@@ -1100,12 +1100,36 @@
                         "channel_id": "52"
                     },
                     {
+                        "channel_name": "Paramount+ Beckham & Friends",
+                        "channel_id": "173"
+                    },
+                    {
                         "channel_name": "CBSNY USA",
                         "channel_id": "767"
                     },
                     {
                         "channel_name": "DAZN Feed",
                         "channel_id": "171"
+                    },
+                    {
+                        "channel_name": "Paramount+",
+                        "channel_id": "5001"
+                    },
+                    {
+                        "channel_name": "Paramount+ Beckham & Friends",
+                        "channel_id": "5002"
+                    },
+                    {
+                        "channel_name": "DAZN ES",
+                        "channel_id": "5003"
+                    },
+                    {
+                        "channel_name": "TNT Backup",
+                        "channel_id": "5004"
+                    },
+                    {
+                        "channel_name": "Bein Arabic Baclup",
+                        "channel_id": "5030"
                     },
                     {
                         "channel_name": "TNT Sports UK",
@@ -1390,6 +1414,50 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "6002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7050"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7051"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7052"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7053"
                     }
                 ]
             },
