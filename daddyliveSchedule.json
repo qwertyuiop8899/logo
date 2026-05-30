@@ -1,5 +1,197 @@
 {
     "Saturday 30th May 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "15:00",
+                "event": "2026 Shakedown XXIII",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "15:40",
+                "event": "MotoAmerica Superbikes Road America",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "16:45",
+                "event": "2026 AMSOIL Championship Off-Road In Antigo, WI",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "Fight Nation Championship FNC 31: \u0110ani Barbir vs Aleksandar Ili\u0107",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5000"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "AMA Supercross Championship Fox Raceway Pala",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "211"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "2026 ISMA/MSS Supermodifieds at Oswego Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "212"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2026 CARS Tour at Langley Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "213"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Fight Music Show 8: Pop\u00f3 vs Whinderson (em Portuguese)",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "214"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Millbridge Speedway Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "215"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2026 CRSA Sprint Cars at Fonda Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "216"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Khaos in Keokuk : Portland Pringle III vs. Kahlil Smoot",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "217"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "World of Outlaws Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "218"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Sharon Speedway Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "219"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Land of Legends Raceway Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "220"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Cedar Lake Speedway Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "221"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Armored MMA 2026: Medieval Cage Fighting Championship, Portland, ME",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "222"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Real American Freestyle RAF 9: Steveson vs. Romanov",
+                "channels": [
+                    {
+                        "channel_name": "FOX PPV",
+                        "channel_id": "224"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "GCW: Live in Milan 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "225"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "Isle of Man TT Mountain Course 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "201"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "17:00",
@@ -294,18 +486,6 @@
                     {
                         "channel_name": "FIFATV",
                         "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "PPV Events": [
-            {
-                "time": "21:00",
-                "event": "Isle of Man TT Mountain Course 2026",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "201"
                     }
                 ]
             }
@@ -922,6 +1102,14 @@
                     {
                         "channel_name": "CBSNY USA",
                         "channel_id": "767"
+                    },
+                    {
+                        "channel_name": "DAZN Feed",
+                        "channel_id": "171"
+                    },
+                    {
+                        "channel_name": "TNT Sports UK",
+                        "channel_id": "172"
                     },
                     {
                         "channel_name": "Canal+ Foot France",
