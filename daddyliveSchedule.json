@@ -852,6 +852,10 @@
                 "event": "Denmark Betinia Liga : Esbjerg vs Lyngby",
                 "channels": [
                     {
+                        "channel_name": "Viaplay Sports News DK",
+                        "channel_id": "806"
+                    },
+                    {
                         "channel_name": "Backup Stream",
                         "channel_id": "6003"
                     }
@@ -2824,7 +2828,7 @@
         ],
         "ATP - Singles / WTA Singles / ATP Doubles / WTA Doubles French Open - clay": [
             {
-                "time": "13:49",
+                "time": "16:02",
                 "event": "French Open (TNT)",
                 "channels": [
                     {
