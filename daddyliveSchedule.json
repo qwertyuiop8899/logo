@@ -2340,6 +2340,10 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7013"
                     }
                 ]
             },
@@ -2356,6 +2360,10 @@
                         "channel_id": "4"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9003"
+                    },
+                    {
                         "channel_name": "Abu Dhabi Sports 1",
                         "channel_id": "600"
                     },
@@ -2366,6 +2374,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7014"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3026"
                     }
                 ]
             },
@@ -2386,6 +2402,10 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7017"
                     }
                 ]
             },
@@ -2400,6 +2420,10 @@
                     {
                         "channel_name": "Sport TV2 Portugal",
                         "channel_id": "74"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7018"
                     }
                 ]
             },
@@ -2410,6 +2434,24 @@
                     {
                         "channel_name": "TNT SPORTS Premium HD",
                         "channel_id": "642"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7015"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3085"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Uruguay Liga AUF Uruguaya : Deportivo Maldonado vs Nacional",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7016"
                     }
                 ]
             },
@@ -2440,6 +2482,14 @@
                     {
                         "channel_name": "Sport 3 Israel",
                         "channel_id": "142"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7020"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3001"
                     }
                 ]
             },
@@ -2454,6 +2504,10 @@
                     {
                         "channel_name": "Premiere 2 BR",
                         "channel_id": "22"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7019"
                     }
                 ]
             },
@@ -2464,6 +2518,10 @@
                     {
                         "channel_name": "ESPN Brazil",
                         "channel_id": "81"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6031"
                     }
                 ]
             },
@@ -2474,6 +2532,14 @@
                     {
                         "channel_name": "TNT SPORTS Premium HD",
                         "channel_id": "642"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3085"
                     }
                 ]
             }
@@ -2498,6 +2564,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "159"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3032"
                     }
                 ]
             }
@@ -3000,7 +3070,7 @@
         ],
         "ATP - Singles / WTA Singles / ATP Doubles / WTA Doubles French Open - clay": [
             {
-                "time": "19:41",
+                "time": "20:44",
                 "event": "French Open (TNT)",
                 "channels": [
                     {
@@ -4198,6 +4268,10 @@
                     {
                         "channel_name": "Sportklub 2 Croatia",
                         "channel_id": "102"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3035"
                     }
                 ]
             }
@@ -6334,6 +6408,10 @@
                     {
                         "channel_name": "TSN4",
                         "channel_id": "114"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3031"
                     }
                 ]
             }
