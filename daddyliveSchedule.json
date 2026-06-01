@@ -1390,6 +1390,10 @@
                 "event": "Roland-Garros 360 Day 9",
                 "channels": [
                     {
+                        "channel_name": "Roland-Garros Multiview",
+                        "channel_id": "205"
+                    },
+                    {
                         "channel_name": "truTV USA",
                         "channel_id": "341"
                     },
