@@ -828,6 +828,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7001"
                     }
                 ]
             },
@@ -874,6 +878,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3072"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002"
                     }
                 ]
             },
@@ -974,6 +982,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3091"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7003"
                     }
                 ]
             },
@@ -1126,6 +1142,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3082"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7004"
                     }
                 ]
             },
@@ -1154,6 +1178,16 @@
                     {
                         "channel_name": "Arryadia",
                         "channel_id": "3"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "Uruguay Liga AUF Uruguaya : Boston River vs Liverpool",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005"
                     }
                 ]
             },
@@ -1244,6 +1278,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2018"
                     }
                 ]
             },
@@ -1294,6 +1340,10 @@
                         "channel_id": "78"
                     },
                     {
+                        "channel_name": "Caracol TV",
+                        "channel_id": "16"
+                    },
+                    {
                         "channel_name": "Backup Stream",
                         "channel_id": "3010"
                     },
@@ -1308,6 +1358,20 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7008"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Uruguay Liga AUF Uruguaya : Pe\u00f1arol vs Central Espa\u00f1ol",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7009"
                     }
                 ]
             },
@@ -1368,6 +1432,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3082"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2019"
                     }
                 ]
             }
@@ -1954,7 +2026,7 @@
         ],
         "WWE": [
             {
-                "time": "02:00",
+                "time": "20:00",
                 "event": "WWE Monday Night RAW",
                 "channels": [
                     {
@@ -1972,6 +2044,10 @@
                     {
                         "channel_name": "Supersports Action",
                         "channel_id": "420"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2020"
                     }
                 ]
             }
@@ -2020,6 +2096,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5037"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4015"
                     }
                 ]
             },
@@ -2042,6 +2126,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5038"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4016"
                     }
                 ]
             },
@@ -2060,6 +2152,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5039"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4017"
                     }
                 ]
             },
@@ -2078,6 +2178,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5040"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4018"
                     }
                 ]
             },
@@ -2108,6 +2216,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5041"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4019"
                     }
                 ]
             },
@@ -2122,6 +2238,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5042"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4020"
                     }
                 ]
             },
@@ -2136,6 +2260,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5043"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4021"
                     }
                 ]
             },
@@ -2174,6 +2306,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5044"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4022"
                     }
                 ]
             },
@@ -2192,6 +2332,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5045"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4023"
                     }
                 ]
             }
@@ -2477,6 +2625,24 @@
             },
             {
                 "time": "19:00",
+                "event": "S\u00fcper Ligi : Fenerbahce vs Anadolu Efes",
+                "channels": [
+                    {
+                        "channel_name": "Bein Sports 5 Turkey",
+                        "channel_id": "1010"
+                    },
+                    {
+                        "channel_name": "Cosmote Sport 7 Greece",
+                        "channel_id": "628"
+                    },
+                    {
+                        "channel_name": "Sport 4 Israel",
+                        "channel_id": "143"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
                 "event": "France Pro A : Monaco Basket vs Nanterre 9",
                 "channels": [
                     {
@@ -2604,6 +2770,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2014"
                     }
                 ]
             },
@@ -2626,6 +2796,10 @@
                     {
                         "channel_name": "Sky Sport Top Event DE",
                         "channel_id": "556"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2015"
                     }
                 ]
             },
