@@ -476,6 +476,18 @@
                     {
                         "channel_name": "Nova TV Croatia 2",
                         "channel_id": "3070"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5014"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002"
                     }
                 ]
             },
@@ -502,6 +514,14 @@
                     {
                         "channel_name": "Fox Deportes 2",
                         "channel_id": "3087"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7004"
                     }
                 ]
             },
@@ -568,6 +588,14 @@
                     {
                         "channel_name": "Sky Sport 5 NZ",
                         "channel_id": "3035"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5015"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005"
                     }
                 ]
             },
@@ -582,6 +610,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "9003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006"
                     }
                 ]
             },
@@ -724,6 +756,14 @@
                     {
                         "channel_name": "Fox Sports 2 USA 2",
                         "channel_id": "3082"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7008"
                     }
                 ]
             },
@@ -1490,6 +1530,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5037"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5018"
                     }
                 ]
             },
@@ -1520,6 +1564,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5038"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5019"
                     }
                 ]
             },
@@ -1546,6 +1594,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5039"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5020"
                     }
                 ]
             },
@@ -1564,6 +1616,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5040"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5021"
                     }
                 ]
             },
@@ -1598,6 +1654,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5041"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5022"
                     }
                 ]
             },
@@ -1612,6 +1672,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5042"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5023"
                     }
                 ]
             },
@@ -1630,6 +1694,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5043"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5024"
                     }
                 ]
             },
@@ -1648,6 +1716,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5044"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5025"
                     }
                 ]
             },
@@ -1666,6 +1738,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5045"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5026"
                     }
                 ]
             },
@@ -1680,6 +1756,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5046"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5027"
                     }
                 ]
             },
@@ -1706,6 +1786,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5047"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5028"
                     }
                 ]
             },
@@ -1728,6 +1812,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5048"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5029"
                     }
                 ]
             },
@@ -1746,6 +1834,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5049"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5030"
                     }
                 ]
             },
@@ -1776,6 +1868,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5050"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5031"
                     }
                 ]
             },
@@ -1794,6 +1890,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5051"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5032"
                     }
                 ]
             }
@@ -2380,6 +2480,10 @@
                     {
                         "channel_name": "ESPN3 BR",
                         "channel_id": "83"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5017"
                     }
                 ]
             },
