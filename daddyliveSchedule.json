@@ -314,8 +314,22 @@
                 "event": "Dirt Late Model Dream at Eldora Speedway",
                 "channels": [
                     {
-                        "channel_name": "Flowracing",
+                        "channel_name": "Floracing",
+                        "channel_id": "11"
+                    },
+                    {
+                        "channel_name": "Floracing",
                         "channel_id": "5004"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Eye of the Tiger Management : Albert Ramirez vs Lerrone Richards",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "15"
                     }
                 ]
             },
@@ -324,7 +338,11 @@
                 "event": "Weekly Racing at Thunder Road Speedbowl",
                 "channels": [
                     {
-                        "channel_name": "Flowracing",
+                        "channel_name": "Floracing",
+                        "channel_id": "12"
+                    },
+                    {
+                        "channel_name": "Floracing",
                         "channel_id": "5006"
                     }
                 ]
@@ -334,18 +352,36 @@
                 "event": "High Limit Racing at Gondik Law Speedway",
                 "channels": [
                     {
-                        "channel_name": "Flowracing",
+                        "channel_name": "Floracing",
+                        "channel_id": "13"
+                    },
+                    {
+                        "channel_name": "Floracing",
                         "channel_id": "5005"
                     }
                 ]
             },
             {
-                "time": "02:00",
-                "event": "Jackson Motorplex",
+                "time": "01:00",
+                "event": "Jackson Motorplex Sprint Cars",
                 "channels": [
                     {
-                        "channel_name": "Flowracing",
+                        "channel_name": "Event PPV",
+                        "channel_id": "16"
+                    },
+                    {
+                        "channel_name": "Floracing",
                         "channel_id": "5006"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "UFC BJJ 9: Fowler vs. Johnson",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "17"
                     }
                 ]
             }
