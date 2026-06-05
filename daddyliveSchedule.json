@@ -508,6 +508,10 @@
                     {
                         "channel_name": "DAZN DE",
                         "channel_id": "3099"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7004"
                     }
                 ]
             },
@@ -632,6 +636,10 @@
                     {
                         "channel_name": "DAZN DE",
                         "channel_id": "3098"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7001"
                     }
                 ]
             },
@@ -710,6 +718,10 @@
                     {
                         "channel_name": "MTV Urheilu 2",
                         "channel_id": "3072"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002"
                     }
                 ]
             },
@@ -740,6 +752,10 @@
                     {
                         "channel_name": "DAZN1 DE",
                         "channel_id": "3017"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7003"
                     }
                 ]
             },
@@ -902,6 +918,14 @@
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "3083"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
                     }
                 ]
             },
@@ -940,6 +964,10 @@
                     {
                         "channel_name": "DAZN DE",
                         "channel_id": "3097"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006"
                     }
                 ]
             },
@@ -1128,6 +1156,26 @@
                 ]
             },
             {
+                "time": "00:00",
+                "event": "Uruguay Liga AUF Uruguaya : Montevideo Wanderers vs Danubio",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "World Int. Friendly : Paraguay vs Nicaragua",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007"
+                    }
+                ]
+            },
+            {
                 "time": "01:00",
                 "event": "Friendly : Puerto Rico vs Saudi Arabia Sport",
                 "channels": [
@@ -1168,6 +1216,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
                     }
                 ]
             },
@@ -1194,6 +1250,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7009"
                     }
                 ]
             },
