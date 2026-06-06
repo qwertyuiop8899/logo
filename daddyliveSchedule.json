@@ -4098,6 +4098,16 @@
         ],
         "Boxing": [
             {
+                "time": "20:10",
+                "event": "Misfits Boxing vs Fame Fighting",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV Boxing",
+                        "channel_id": "5022"
+                    }
+                ]
+            },
+            {
                 "time": "20:00",
                 "event": "IBF Title Fights : Chris Billam-Smith vs Ryan Rozicki",
                 "channels": [
@@ -5754,7 +5764,7 @@
         ],
         "Sailing / Boating": [
             {
-                "time": "19:38",
+                "time": "21:12",
                 "event": "WSL Tour World Surf League: 2026 WSL Championship Tour: Surf City El Salvador Pro",
                 "channels": [
                     {
