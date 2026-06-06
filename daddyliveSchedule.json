@@ -18,6 +18,10 @@
                     {
                         "channel_name": "Floracing",
                         "channel_id": "108"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5016"
                     }
                 ]
             },
@@ -28,6 +32,10 @@
                     {
                         "channel_name": "Floracing",
                         "channel_id": "109"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5015"
                     }
                 ]
             },
@@ -58,6 +66,10 @@
                     {
                         "channel_name": "Floracing",
                         "channel_id": "152"
+                    },
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5021"
                     }
                 ]
             },
@@ -72,6 +84,16 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5013"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Lernerrville Fab4",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5022"
                     }
                 ]
             },
@@ -102,6 +124,20 @@
                     {
                         "channel_name": "Floracing",
                         "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Albany-Saratoga Speedway",
+                "channels": [
+                    {
+                        "channel_name": "DirtTrackPPV",
+                        "channel_id": "5017"
+                    },
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5024"
                     }
                 ]
             },
@@ -142,6 +178,14 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "160"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5018"
+                    },
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5023"
                     }
                 ]
             },
