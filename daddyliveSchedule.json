@@ -1,5 +1,87 @@
 {
     "Sunday 07th June 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "20:45",
+                "event": "GNCC 2026 Watkins Glen (Round 8) \u2013 Pro Bike Race",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "201"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Game Changer Wrestling GCW : Cage of Survival 5",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "202"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "USAC Silver Crown National Championship WWT Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "211"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Appalachian Mountain Late Model Speedweek Potomac Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "209"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Huset\u2019s Late Model Street Stocks at Brownstown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "205"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "Weekly Racing at Slinger Super Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "206"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "UWC Mexico 58: Leyva vs. Adriel (Ultimate Warrior Challenge Mexico)",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "207"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "World of Outlaws NOS Energy Drink Sprint Car Series Angell Park Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "208"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "17:00",
@@ -802,6 +884,10 @@
                     {
                         "channel_name": "Diema Sport Bulgaria",
                         "channel_id": "3048"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2020"
                     }
                 ]
             },
@@ -838,6 +924,16 @@
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "3083"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "Uruguay Liga AUF Uruguaya : CA Cerro vs Pe\u00f1arol",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7010"
                     }
                 ]
             },
@@ -956,6 +1052,14 @@
                     {
                         "channel_name": "Fox Sports 2 USA",
                         "channel_id": "3082"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7011"
                     }
                 ]
             },
@@ -1018,6 +1122,10 @@
                     {
                         "channel_name": "TV2 Direkte Norway",
                         "channel_id": "3068"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2023"
                     }
                 ]
             },
@@ -1134,6 +1242,18 @@
                     {
                         "channel_name": "RAI 1 IT",
                         "channel_id": "3047"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7012"
                     }
                 ]
             },
@@ -1196,6 +1316,16 @@
                 ]
             },
             {
+                "time": "21:00",
+                "event": "Chile Copa de la Liga : Huachipato vs Colo-Colo",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7013"
+                    }
+                ]
+            },
+            {
                 "time": "22:00",
                 "event": "Friendly : Ecuador vs Guatemala",
                 "channels": [
@@ -1210,6 +1340,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "9003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2024"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7014"
                     }
                 ]
             },
@@ -1220,6 +1362,16 @@
                     {
                         "channel_name": "TyC Sports Argentina",
                         "channel_id": "746"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Uruguay Liga AUF Uruguaya : Defender Sporting vs Boston River",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7015"
                     }
                 ]
             },
@@ -1276,6 +1428,10 @@
                     {
                         "channel_name": "Sport TV1 Portugal",
                         "channel_id": "3021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2025"
                     }
                 ]
             }
@@ -2828,6 +2984,10 @@
                     {
                         "channel_name": "TSN5",
                         "channel_id": "3035"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5008"
                     }
                 ]
             },
@@ -2882,6 +3042,10 @@
                     {
                         "channel_name": "Sky Sport F1 DE",
                         "channel_id": "274"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5009"
                     }
                 ]
             }
@@ -4004,6 +4168,10 @@
                     {
                         "channel_name": "TSN3",
                         "channel_id": "3033"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2026"
                     }
                 ]
             },
@@ -4022,6 +4190,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5054"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2027"
                     }
                 ]
             }
