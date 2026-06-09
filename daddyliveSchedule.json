@@ -1106,6 +1106,10 @@
                 "event": "FIFA Women's World Cup Qualifying : Iceland vs Spain",
                 "channels": [
                     {
+                        "channel_name": "TVE La 2 Spain",
+                        "channel_id": "536"
+                    },
+                    {
                         "channel_name": "Teledeporte Spain (TDP)",
                         "channel_id": "529"
                     },
