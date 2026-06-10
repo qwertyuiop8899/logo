@@ -602,6 +602,84 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "23:00",
+                "event": "Money in the Bank 150 at Berlin Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "211"
+                    },
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5012"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "USAC Indiana Midget Week at Paragon Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "212"
+                    },
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5005"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "Appalachian LM Speedweek Action Track",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "213"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "Millbridge Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "214"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "Summer Nationals Kankakee County Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "215"
+                    },
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5007"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "Shale Crescent Dirt Cup at Muskingum County Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "216"
+                    },
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5013"
+                    }
+                ]
+            }
+        ],
         "Soccer": [
             {
                 "time": "13:30",
@@ -651,7 +729,7 @@
                 "channels": [
                     {
                         "channel_name": "Win Sports Colombia",
-                        "channel_id": "292"
+                        "channel_id": "392"
                     },
                     {
                         "channel_name": "FOX Deportes",
@@ -668,6 +746,10 @@
                     {
                         "channel_name": "Sport TV5 Portugal",
                         "channel_id": "290"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9003"
                     }
                 ]
             },
@@ -816,6 +898,18 @@
                     {
                         "channel_name": "TV4 Sportkanalen",
                         "channel_id": "3075"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7003"
                     }
                 ]
             },
@@ -934,6 +1028,30 @@
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "3083"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006"
                     }
                 ]
             },
@@ -1052,6 +1170,22 @@
                     {
                         "channel_name": "Fox Sports 2 USA",
                         "channel_id": "3082"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7008"
                     }
                 ]
             },
@@ -2406,6 +2540,10 @@
                         "channel_id": "232"
                     },
                     {
+                        "channel_name": "TNT Sports UK",
+                        "channel_id": "205"
+                    },
+                    {
                         "channel_name": "Backup Stream",
                         "channel_id": "2003"
                     }
@@ -2444,8 +2582,16 @@
                         "channel_id": "41"
                     },
                     {
+                        "channel_name": "TNT Sports UK",
+                        "channel_id": "205"
+                    },
+                    {
                         "channel_name": "Backup Stream",
                         "channel_id": "2004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -2480,6 +2626,10 @@
                     {
                         "channel_name": "EuroSport 1 Greece",
                         "channel_id": "41"
+                    },
+                    {
+                        "channel_name": "TNT Sports UK",
+                        "channel_id": "205"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -2678,6 +2828,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5033"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5014"
                     }
                 ]
             },
@@ -2700,6 +2854,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5036"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5015"
                     }
                 ]
             },
@@ -2718,6 +2876,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5037"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5016"
                     }
                 ]
             },
@@ -2732,6 +2894,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5038"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5017"
                     }
                 ]
             },
@@ -2762,6 +2928,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5039"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5018"
                     }
                 ]
             },
@@ -2776,6 +2946,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5040"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5019"
                     }
                 ]
             },
@@ -2806,6 +2980,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5041"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5020"
                     }
                 ]
             },
@@ -2824,6 +3002,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5042"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5021"
                     }
                 ]
             },
@@ -2846,6 +3028,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5043"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5022"
                     }
                 ]
             },
@@ -2860,6 +3046,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5044"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5023"
                     }
                 ]
             },
@@ -2878,6 +3068,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5048"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5024"
                     }
                 ]
             },
@@ -2896,6 +3090,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5049"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5025"
                     }
                 ]
             },
@@ -2914,6 +3112,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5050"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5026"
                     }
                 ]
             }
@@ -3244,6 +3446,26 @@
                     {
                         "channel_name": "ABC USA",
                         "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5011"
                     }
                 ]
             }
