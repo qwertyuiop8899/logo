@@ -2020,8 +2020,8 @@
                 "event": "ATP - Singles : \ud83c\uddfa\ud83c\uddf8 Martin Damm vs \ud83c\udde6\ud83c\uddfa Alex de Minaur",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "1507"
                     }
                 ]
             },
@@ -2030,8 +2030,8 @@
                 "event": "ATP - Singles : \ud83c\uddeb\ud83c\uddf7 Ugo Humbert vs \ud83c\uddeb\ud83c\uddf7 Benjamin Bonzi",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "1507"
                     }
                 ]
             }
@@ -2042,8 +2042,8 @@
                 "event": "ATP - Singles : \ud83c\uddee\ud83c\uddf9 Mattia Bellucci vs \ud83c\udde9\ud83c\uddea Yannick Hanfmann",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "1510"
                     }
                 ]
             },
@@ -2062,8 +2062,8 @@
                 "event": "ATP - Singles : \ud83c\udde9\ud83c\uddea Jan-Lennard Struff vs \ud83c\uddf0\ud83c\uddff Alexander Bublik",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "1510"
                     }
                 ]
             },
@@ -2072,8 +2072,8 @@
                 "event": "ATP - Singles : \ud83c\uddea\ud83c\uddf8 Mart\u00edn Landaluce vs \ud83c\uddfa\ud83c\uddf8 Taylor Fritz",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "1510"
                     }
                 ]
             }
@@ -2086,6 +2086,10 @@
                     {
                         "channel_name": "Temmis Channel",
                         "channel_id": "6006"
+                    },
+                    {
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "1503"
                     }
                 ]
             },
@@ -2096,6 +2100,10 @@
                     {
                         "channel_name": "Temmis Channel",
                         "channel_id": "6007"
+                    },
+                    {
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "1501"
                     }
                 ]
             },
@@ -2106,6 +2114,10 @@
                     {
                         "channel_name": "Temmis Channel",
                         "channel_id": "6008"
+                    },
+                    {
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "1503"
                     }
                 ]
             },
@@ -2114,8 +2126,8 @@
                 "event": "WTA - Singles : \ud83c\udded\ud83c\uddfa Panna Udvardy vs \ud83c\uddfa\ud83c\udde6 Daria Snigur",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "1502"
                     }
                 ]
             },
@@ -2136,8 +2148,12 @@
                 "event": "WTA - Singles : \ud83c\uddfa\ud83c\uddf8 Iva Jovic vs \ud83c\uddf5\ud83c\udded Alexandra Eala",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "1504"
                     }
                 ]
             },
@@ -2146,8 +2162,12 @@
                 "event": "WTA - Singles : \ud83c\udde9\ud83c\uddea Laura Siegemund vs \ud83c\uddfa\ud83c\uddf8 Amanda Anisimova",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "1504"
                     }
                 ]
             },
@@ -2156,8 +2176,12 @@
                 "event": "WTA - Singles : \ud83c\udde8\ud83c\udde6 Victoria Mboko vs \ud83c\udde8\ud83c\uddff Karol\u00edna Pl\u00ed\u0161kov\u00e1",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "1504"
                     }
                 ]
             },
@@ -2166,8 +2190,12 @@
                 "event": "WTA - Singles : \ud83c\udde8\ud83c\uddff Marie Bouzkov\u00e1 vs \ud83c\udded\ud83c\uddf7 Donna Veki\u0107",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "1504"
                     }
                 ]
             }
@@ -2198,8 +2226,8 @@
                 "event": "ATP - Doubles : \ud83c\uddee\ud83c\uddf3 N. Sriram Balaji / \ud83c\uddfa\ud83c\uddf8 Rajeev Ram vs \ud83c\udde7\ud83c\uddea Zizou Bergs / \ud83c\uddf3\ud83c\uddf1 Bart Stevens",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "6011"
                     }
                 ]
             },
@@ -2208,8 +2236,8 @@
                 "event": "ATP - Doubles : \ud83c\uddf3\ud83c\uddf1 Tallon Griekspoor / \ud83c\uddf3\ud83c\uddf1 Mick Veldheer vs \ud83c\uddf3\ud83c\uddf1 Sander Arends / \ud83c\uddf3\ud83c\uddf1 David Pel",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "6012"
                     }
                 ]
             },
@@ -2218,8 +2246,8 @@
                 "event": "ATP - Doubles : \ud83c\udde7\ud83c\uddea Sander Gill\u00e9 / \ud83c\uddf3\ud83c\uddf1 Sem Verbeek vs \ud83c\udde8\ud83c\uddff Adam Pavl\u00e1sek / \ud83c\udde8\ud83c\uddff Patrik Rikl",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "6013"
                     }
                 ]
             }
@@ -2260,8 +2288,8 @@
                 "event": "ATP - Doubles : \ud83c\udde8\ud83c\uddff Ji\u0159\u00ed Lehe\u010dka / \ud83c\uddeb\ud83c\uddf7 Corentin Moutet vs \ud83c\udde9\ud83c\uddea Yannick Hanfmann / \ud83c\udde9\ud83c\uddea Jan-Lennard Struff",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "6014"
                     }
                 ]
             }
@@ -2282,8 +2310,8 @@
                 "event": "WTA - Doubles : \ud83c\udde8\ud83c\udde6 Bianca Andreescu / \ud83c\uddeb\ud83c\uddf7 Lo\u00efs Boisson vs \ud83c\uddf3\ud83c\uddf1 Anouk Koevermans / \ud83c\uddf3\ud83c\uddf1 Suzan Lamens",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "6015"
                     }
                 ]
             },
@@ -2302,8 +2330,8 @@
                 "event": "WTA - Doubles : \ud83c\uddf3\ud83c\uddf1 Eva Vedder Piter / \ud83c\udde8\ud83c\uddff Anna Siskov\u00e1 vs \ud83c\uddef\ud83c\uddf5 Eri Hozumi / \ud83c\uddf9\ud83c\uddfc Fang-Hsien Wu",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Temmis Channel",
+                        "channel_id": "6016"
                     }
                 ]
             }
@@ -3151,7 +3179,7 @@
                 "channels": [
                     {
                         "channel_name": "NBA League Pass",
-                        "channel_id": "41"
+                        "channel_id": "4"
                     },
                     {
                         "channel_name": "ABC USA",
