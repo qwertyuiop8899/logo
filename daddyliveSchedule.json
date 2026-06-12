@@ -4716,56 +4716,48 @@
                         "channel_id": "2001"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ENG)",
                         "channel_id": "5000"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ENG)",
                         "channel_id": "5001"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ENG)",
                         "channel_id": "5002"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ENG)",
                         "channel_id": "5003"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (BIH)",
                         "channel_id": "5004"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ESP)",
                         "channel_id": "5005"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ESP)",
                         "channel_id": "5006"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ENG)",
                         "channel_id": "5007"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (AR)",
                         "channel_id": "5008"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (FR)",
                         "channel_id": "5009"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (PL)",
                         "channel_id": "5010"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5011"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5012"
                     },
                     {
                         "channel_name": "SBS AU",
@@ -4826,6 +4818,66 @@
                     {
                         "channel_name": "TRT Spor TR",
                         "channel_id": "3091"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8002"
                     }
                 ]
             },
