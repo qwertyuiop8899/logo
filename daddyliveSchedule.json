@@ -856,10 +856,6 @@
                     {
                         "channel_name": "SuperSport Variety 4",
                         "channel_id": "419"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5025"
                     }
                 ]
             },
@@ -1182,6 +1178,26 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5023"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5024"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -3219,77 +3235,11 @@
         "MMA (UFC Freedom 250)": [
             {
                 "time": "00:00",
-                "event": "UFC Freedom 250 Prelims",
+                "event": "UFC Freedom 250 Prelims : Topuria vs Gaethje",
                 "channels": [
                     {
                         "channel_name": "UFC Fight Pass",
                         "channel_id": "59"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "2003"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "2003"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5018"
-                    }
-                ]
-            },
-            {
-                "time": "02:00",
-                "event": "UFC Freedom 250 Main Card : Ilia Topuria vs Justin Gaethje",
-                "channels": [
-                    {
-                        "channel_name": "UFC Fight Pass",
-                        "channel_id": "59"
-                    },
-                    {
-                        "channel_name": "TNT Sports 1 UK",
-                        "channel_id": "31"
-                    },
-                    {
-                        "channel_name": "TVA Sports 2",
-                        "channel_id": "834"
-                    },
-                    {
-                        "channel_name": "Sportsnet 360",
-                        "channel_id": "409"
-                    },
-                    {
-                        "channel_name": "Cosmote Sport 6 HD",
-                        "channel_id": "627"
-                    },
-                    {
-                        "channel_name": "SuperSport Action",
-                        "channel_id": "420"
-                    },
-                    {
-                        "channel_name": "Sport TV1 Portugal",
-                        "channel_id": "49"
-                    },
-                    {
-                        "channel_name": "RMC Sport 1 France",
-                        "channel_id": "119"
-                    },
-                    {
-                        "channel_name": "Polsat Sport Premium 1 Poland",
-                        "channel_id": "991"
-                    },
-                    {
-                        "channel_name": "Polsat Sport Poland",
-                        "channel_id": "47"
-                    },
-                    {
-                        "channel_name": "EuroSport 1 Italy",
-                        "channel_id": "878"
-                    },
-                    {
-                        "channel_name": "Eurosport 1 NL",
-                        "channel_id": "233"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -3392,6 +3342,72 @@
                     {
                         "channel_name": "Sport TV1 Portugal",
                         "channel_id": "3021"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "UFC Freedom 250 Main Card : Ilia Topuria vs Justin Gaethje",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "59"
+                    },
+                    {
+                        "channel_name": "TNT Sports 1 UK",
+                        "channel_id": "31"
+                    },
+                    {
+                        "channel_name": "TVA Sports 2",
+                        "channel_id": "834"
+                    },
+                    {
+                        "channel_name": "Sportsnet 360",
+                        "channel_id": "409"
+                    },
+                    {
+                        "channel_name": "Cosmote Sport 6 HD",
+                        "channel_id": "627"
+                    },
+                    {
+                        "channel_name": "SuperSport Action",
+                        "channel_id": "420"
+                    },
+                    {
+                        "channel_name": "Sport TV1 Portugal",
+                        "channel_id": "49"
+                    },
+                    {
+                        "channel_name": "RMC Sport 1 France",
+                        "channel_id": "119"
+                    },
+                    {
+                        "channel_name": "Polsat Sport Premium 1 Poland",
+                        "channel_id": "991"
+                    },
+                    {
+                        "channel_name": "Polsat Sport Poland",
+                        "channel_id": "47"
+                    },
+                    {
+                        "channel_name": "EuroSport 1 Italy",
+                        "channel_id": "878"
+                    },
+                    {
+                        "channel_name": "Eurosport 1 NL",
+                        "channel_id": "233"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5018"
                     }
                 ]
             }
