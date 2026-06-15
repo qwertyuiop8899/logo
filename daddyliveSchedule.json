@@ -512,6 +512,10 @@
                         "channel_id": "739"
                     },
                     {
+                        "channel_name": "RSI LA 2 IT",
+                        "channel_id": "162"
+                    },
+                    {
                         "channel_name": "Sport TV1 Portugal",
                         "channel_id": "49"
                     },
@@ -541,7 +545,7 @@
                     },
                     {
                         "channel_name": "PTV Sports Pakistan",
-                        "channel_id": "650"
+                        "channel_id": "450"
                     },
                     {
                         "channel_name": "Telemundo",
@@ -812,6 +816,10 @@
                         "channel_id": "290"
                     },
                     {
+                        "channel_name": "RSI LA 2 IT",
+                        "channel_id": "162"
+                    },
+                    {
                         "channel_name": "TVP Sport Poland",
                         "channel_id": "128"
                     },
@@ -829,7 +837,7 @@
                     },
                     {
                         "channel_name": "PTV Sports Pakistan",
-                        "channel_id": "650"
+                        "channel_id": "450"
                     },
                     {
                         "channel_name": "DAZN Mundial 1 ESP",
@@ -1094,6 +1102,10 @@
                         "channel_id": "727"
                     },
                     {
+                        "channel_name": "RSI LA 2 IT",
+                        "channel_id": "162"
+                    },
+                    {
                         "channel_name": "Sport TV5 Portugal",
                         "channel_id": "290"
                     },
@@ -1119,7 +1131,7 @@
                     },
                     {
                         "channel_name": "PTV Sports Pakistan",
-                        "channel_id": "650"
+                        "channel_id": "450"
                     },
                     {
                         "channel_name": "NPO 1 NL",
@@ -1368,6 +1380,10 @@
                         "channel_id": "727"
                     },
                     {
+                        "channel_name": "RSI LA 2 IT",
+                        "channel_id": "162"
+                    },
+                    {
                         "channel_name": "Sport TV5 Portugal",
                         "channel_id": "290"
                     },
@@ -1389,7 +1405,7 @@
                     },
                     {
                         "channel_name": "PTV Sports Pakistan",
-                        "channel_id": "650"
+                        "channel_id": "450"
                     },
                     {
                         "channel_name": "NPO 1 NL",
@@ -1522,6 +1538,22 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5013"
                     },
                     {
                         "channel_name": "Backup Stream",
