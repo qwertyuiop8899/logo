@@ -1,5 +1,57 @@
 {
     "Tuesday 16th June 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "23:30",
+                "event": "Summer Shootout at Charlotte",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Super DIRTcar Series Lebanon",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "USAC Eastern Storm at Grandview",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "NAPA OH Speedweek at Eldora",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "Summer Nationals West Liberty",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "153"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "11:30",
@@ -348,6 +400,10 @@
                     {
                         "channel_name": "FOXNY USA",
                         "channel_id": "768"
+                    },
+                    {
+                        "channel_name": "FOX USA (SD Quality)",
+                        "channel_id": "30"
                     },
                     {
                         "channel_name": "RTE 2 Ireland",
@@ -708,6 +764,10 @@
                         "channel_id": "54"
                     },
                     {
+                        "channel_name": "FOX USA (SD Quality)",
+                        "channel_id": "30"
+                    },
+                    {
                         "channel_name": "FOXNY USA",
                         "channel_id": "768"
                     },
@@ -952,6 +1012,34 @@
                         "channel_id": "5013"
                     },
                     {
+                        "channel_name": "Backup Stream (PT)",
+                        "channel_id": "5014"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ENG)",
+                        "channel_id": "5015"
+                    },
+                    {
+                        "channel_name": "Backup Stream (AR)",
+                        "channel_id": "5016"
+                    },
+                    {
+                        "channel_name": "Backup Stream (AR)",
+                        "channel_id": "5017"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ESP)",
+                        "channel_id": "5018"
+                    },
+                    {
+                        "channel_name": "Backup Stream (DE)",
+                        "channel_id": "5019"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ESP)",
+                        "channel_id": "5020"
+                    },
+                    {
                         "channel_name": "Backup Stream",
                         "channel_id": "2001"
                     },
@@ -1034,8 +1122,16 @@
                         "channel_id": "768"
                     },
                     {
+                        "channel_name": "FOX USA (SD Quality)",
+                        "channel_id": "30"
+                    },
+                    {
                         "channel_name": "TyC Sports Argentina",
                         "channel_id": "746"
+                    },
+                    {
+                        "channel_name": "Telefe Argentina",
+                        "channel_id": "239"
                     },
                     {
                         "channel_name": "TSN1",
@@ -1230,64 +1326,84 @@
                         "channel_id": "5048"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ENG)",
                         "channel_id": "5001"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ENG)",
                         "channel_id": "5002"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ENG) (4K Quality)",
                         "channel_id": "5003"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ESP)",
                         "channel_id": "5004"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ESP)",
                         "channel_id": "5005"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (DE) (4K Quality)",
                         "channel_id": "5006"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (DE) (4K Quality)",
                         "channel_id": "5007"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (DE) (4K Quality)",
                         "channel_id": "5008"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ENG) (4K Quality)",
                         "channel_id": "5009"
                     },
                     {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5008"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5009"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (AR)",
                         "channel_id": "5010"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (FR) (4K Quality)",
                         "channel_id": "5011"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (FR)",
                         "channel_id": "5012"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (FR)",
                         "channel_id": "5013"
+                    },
+                    {
+                        "channel_name": "Backup Stream (PT)",
+                        "channel_id": "5014"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ENG)",
+                        "channel_id": "5015"
+                    },
+                    {
+                        "channel_name": "Backup Stream (AR)",
+                        "channel_id": "5016"
+                    },
+                    {
+                        "channel_name": "Backup Stream (AR)",
+                        "channel_id": "5017"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ESP)",
+                        "channel_id": "5018"
+                    },
+                    {
+                        "channel_name": "Backup Stream (DE)",
+                        "channel_id": "5019"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ESP)",
+                        "channel_id": "5020"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -3206,6 +3322,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2020"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3010"
                     }
                 ]
             }
