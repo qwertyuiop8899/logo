@@ -2349,7 +2349,7 @@
             },
             {
                 "time": "01:00",
-                "event": "FIFA World Cup : England vs Croatia",
+                "event": "FIFA World Cup : Ghana vs Panama",
                 "channels": [
                     {
                         "channel_name": "ITV 1 UK",
@@ -2358,6 +2358,10 @@
                     {
                         "channel_name": "Fox Sports 1 USA",
                         "channel_id": "39"
+                    },
+                    {
+                        "channel_name": "RPC Panama",
+                        "channel_id": "19"
                     },
                     {
                         "channel_name": "RTE 2 Ireland",
@@ -4049,7 +4053,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "1501"
+                        "channel_id": "1502"
                     }
                 ]
             },
@@ -4063,7 +4067,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "1501"
+                        "channel_id": "1507"
                     }
                 ]
             },
@@ -4074,10 +4078,6 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1554"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "1501"
                     }
                 ]
             },
@@ -4091,7 +4091,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "1501"
+                        "channel_id": "1505"
                     }
                 ]
             },
@@ -4102,10 +4102,6 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1556"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "1501"
                     }
                 ]
             },
@@ -4119,7 +4115,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "1501"
+                        "channel_id": "1510"
                     }
                 ]
             },
@@ -4130,10 +4126,6 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1558"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "1501"
                     }
                 ]
             },
@@ -4158,10 +4150,6 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1560"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "1501"
                     }
                 ]
             },
@@ -4175,7 +4163,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "1501"
+                        "channel_id": "1507"
                     }
                 ]
             },
@@ -4189,7 +4177,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "1501"
+                        "channel_id": "1508"
                     }
                 ]
             },
@@ -4200,10 +4188,6 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1563"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "1501"
                     }
                 ]
             },
@@ -4217,7 +4201,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "1501"
+                        "channel_id": "1505"
                     }
                 ]
             },
@@ -4228,10 +4212,6 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1565"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "1501"
                     }
                 ]
             },
@@ -4245,7 +4225,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "1501"
+                        "channel_id": "1510"
                     }
                 ]
             },
@@ -4256,10 +4236,6 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1567"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "1501"
                     }
                 ]
             },
@@ -4270,10 +4246,6 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1568"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "1501"
                     }
                 ]
             },
@@ -4287,7 +4259,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "1501"
+                        "channel_id": "1507"
                     }
                 ]
             },
@@ -4301,7 +4273,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "1501"
+                        "channel_id": "1508"
                     }
                 ]
             },
@@ -4312,10 +4284,6 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1571"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "1501"
                     }
                 ]
             },
@@ -4326,10 +4294,6 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1572"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "1501"
                     }
                 ]
             },
@@ -4343,7 +4307,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "1501"
+                        "channel_id": "1510"
                     }
                 ]
             },
@@ -4354,10 +4318,6 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1574"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "1501"
                     }
                 ]
             },
@@ -4368,10 +4328,6 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1575"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "1501"
                     }
                 ]
             },
@@ -4396,10 +4352,6 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1577"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "1501"
                     }
                 ]
             },
@@ -4413,7 +4365,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "1501"
+                        "channel_id": "1504"
                     }
                 ]
             },
@@ -4427,7 +4379,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "1501"
+                        "channel_id": "1507"
                     }
                 ]
             },
@@ -4438,10 +4390,6 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1580"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "1501"
                     }
                 ]
             },
@@ -4455,7 +4403,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "1501"
+                        "channel_id": "1510"
                     }
                 ]
             },
@@ -4466,10 +4414,6 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1582"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "1501"
                     }
                 ]
             },
@@ -4483,7 +4427,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "1501"
+                        "channel_id": "1504"
                     }
                 ]
             },
@@ -4497,7 +4441,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "1501"
+                        "channel_id": "1502"
                     }
                 ]
             }
@@ -5349,6 +5293,22 @@
                 "time": "14:00",
                 "event": "PDC Darts Players Championships 21-22 - Robin Park Leisure Centre, Wigan",
                 "channels": [
+                    {
+                        "channel_name": "Darts borad 1",
+                        "channel_id": "224"
+                    },
+                    {
+                        "channel_name": "Darts borad 2",
+                        "channel_id": "225"
+                    },
+                    {
+                        "channel_name": "Darts borad 3",
+                        "channel_id": "226"
+                    },
+                    {
+                        "channel_name": "Darts borad 4",
+                        "channel_id": "227"
+                    },
                     {
                         "channel_name": "PDC TV",
                         "channel_id": "43"
