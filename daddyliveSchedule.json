@@ -1,5 +1,167 @@
 {
     "Friday 19th June 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "00:00",
+                "event": "2026 NAPA ASCoC Ohio Sprint Speedweek at Fremont Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "2026 Weekly Racing at Utica-Rome Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "World of Outlaws Sprint Cars Husets",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "76"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "NASCAR Weekly Racing Autodrome",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "77"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "2026 IRA Sprints at I-96 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "86"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "2026 USAC Eastern Storm at Williams Grove Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "105"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "2026 Lucas Oil Late Model Dirt Series at Smoky Mountain Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "ROMAN One",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "107"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "DIRTcar Summer Nationals Late Models Farmer City",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "Jacksonville Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "World of Outlaws Late Models 141",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "2026 USAC MRA Sprints at Valley Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "2026 IMCA Weekly Racing at Marshalltown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "NARC Super Dirt Cup Skagit",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "GCW: Race Against Time 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "House of Glory: Inferno 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "166"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "11:30",
