@@ -5148,6 +5148,16 @@
                 ]
             },
             {
+                "time": "14:30",
+                "event": "FIM Speedway GP | Wroc\u0142aw - Kwalifikacje",
+                "channels": [
+                    {
+                        "channel_name": "Eurosport 3 Poland",
+                        "channel_id": "30"
+                    }
+                ]
+            },
+            {
                 "time": "14:45",
                 "event": "MotoGP : Round 9 | Czechia Sprint Race",
                 "channels": [
