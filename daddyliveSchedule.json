@@ -1,5 +1,87 @@
 {
     "Sunday 21st June 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "19:30",
+                "event": "Memorial Day Classic at Thunder Road",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "NASCAR Cup Series Anduril 250",
+                "channels": [
+                    {
+                        "channel_name": "Prime Video",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "NASCAR Feat Drivers Multiview",
+                "channels": [
+                    {
+                        "channel_name": "Prime Video",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2026 Short Track Super Series at Devil's Bowl Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "2026 ASA Stars at Slinger Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "2026 USAC Eastern Storm at Action Track USA",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "DIRTcar Summer Nationals Late Models Lincoln",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "The Love-Alive Charity: Beast Cup Invitational 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "159"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "11:30",
