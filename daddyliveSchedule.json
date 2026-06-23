@@ -3600,1064 +3600,330 @@
                 ]
             }
         ],
-        "Tennis \ud83c\udfbe WTA Wimbledon (United Kingdom) - Qualification, grass": [
+        "ATP - EASTBOURNE": [
             {
                 "time": "12:00",
-                "event": "WTA - Singles : \ud83c\uddee\ud83c\uddf9 Nuria Brancaccio vs \ud83c\uddea\ud83c\uddf8 Alicia Lazaro Garcia",
+                "event": "ATP - EASTBOURNE : Jenson Brooksby \ud83c\uddfa\ud83c\uddf8 vs Aleksandar Vukic \ud83c\udde6\ud83c\uddfa",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
                     }
                 ]
             },
             {
                 "time": "12:00",
-                "event": "WTA - Singles : \ud83c\uddee\ud83c\uddf9 Tyra Caterina Grant vs \ud83c\udde6\ud83c\uddfa Taylah Preston",
+                "event": "ATP - EASTBOURNE : Thiago Agustin Tirante \ud83c\udde6\ud83c\uddf7 vs Jacob Fearnley \ud83c\uddec\ud83c\udde7",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "WTA - Singles : \ud83c\uddf3\ud83c\uddf1 Anouk Koevermans vs \ud83c\uddf9\ud83c\udded Mananchaya Sawangkaew",
-                "channels": [
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "WTA - Singles : \ud83c\udde7\ud83c\udde6 Anastasia Korneeva vs \ud83c\udde7\ud83c\udde6 Anastasiya Shubladze",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "WTA - Singles : \ud83c\uddea\ud83c\uddf8 Guiomar Maristany Zuleta De Reales vs \ud83c\udde6\ud83c\uddf7 Julieta Estable Ortenzi",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "WTA - Singles : \ud83c\udde7\ud83c\uddea Greet Minnen vs \ud83c\uddeb\ud83c\uddf7 Fiona Ferro",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "WTA - Singles : \ud83c\udde8\ud83c\udded Celine Naef vs \ud83c\uddf9\ud83c\uddfc Joanna Garland",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "WTA - Singles : \ud83c\udde9\ud83c\uddea Noma Noha Akugue vs \ud83c\uddee\ud83c\uddf9 Lisa Pigato",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "WTA - Singles : \ud83c\udde7\ud83c\uddf7 Laura Pigossi vs \ud83c\uddeb\ud83c\uddf7 Oceane Dodin",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "WTA - Singles : \ud83c\udde6\ud83c\uddf7 Julia Riera vs \ud83c\uddec\ud83c\udde7 Danielle Britton",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "WTA - Singles : \ud83c\udde8\ud83c\uddff Dominika Salkova vs \ud83c\udde7\ud83c\uddfe Iryna Shymanovich",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "WTA - Singles : \ud83c\udde6\ud83c\uddfa Talia Gibson Sun vs \ud83c\uddf5\ud83c\uddf1 Linda Klimovicova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "WTA - Singles : \ud83c\uddeb\ud83c\uddf7 Harmony Tan vs \ud83c\uddf8\ud83c\uddf0 Michaela Pohankova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "WTA - Singles : \ud83c\uddef\ud83c\uddf5 Moyuka Uchijima vs \ud83c\uddec\ud83c\udde7 Esther Adeshina",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "151"
                     }
                 ]
             },
             {
                 "time": "13:30",
-                "event": "WTA - Singles : \ud83c\udde8\ud83c\udde6 Cadence Brace vs \ud83c\uddfa\ud83c\uddf8 Kayla Day",
+                "event": "ATP - EASTBOURNE : Matteo Arnaldi \ud83c\uddee\ud83c\uddf9 vs Giles Hussey \ud83c\uddec\ud83c\udde7",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "WTA - Singles : \ud83c\uddea\ud83c\uddf8 Angela Fita Boluda vs \ud83c\uddf2\ud83c\uddf0 Lina Gjorcheska",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "WTA - Singles : \ud83c\udde8\ud83c\uddff Linda Fruhvirtova vs \ud83c\udde6\ud83c\uddfa Emerson Jones",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "WTA - Singles : \ud83c\udded\ud83c\uddfa Dalma Galfi vs \ud83c\uddf5\ud83c\uddf9 Francisca Jorge",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "WTA - Singles : \ud83c\udde6\ud83c\uddf7 Luisina Giovannini vs \ud83c\uddee\ud83c\uddf9 Lucrezia Stefanini",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "WTA - Singles : \ud83c\udde6\ud83c\uddfa Maddison Inglis vs \ud83c\uddee\ud83c\uddf9 Lucrezia Bronzetti",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "WTA - Singles : \ud83c\uddf5\ud83c\uddf1 Katarzyna Kawa vs \ud83c\udde8\ud83c\udded Susan Bandecchi",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "WTA - Singles : \ud83c\uddfa\ud83c\uddf8 Varvara Lepchenko vs \ud83c\udde7\ud83c\udde6 Anastasia Gasanova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "WTA - Singles : \ud83c\udde8\ud83c\uddf3 Ye-Xin Ma vs \ud83c\uddf7\ud83c\uddfa Erika Andreeva",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "WTA - Singles : \ud83c\uddf1\ud83c\uddf9 Justina Mikulskyte vs \ud83c\udde8\ud83c\udde6 Carol Zhao",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "WTA - Singles : \ud83c\uddec\ud83c\uddf7 Despina Papamichail vs \ud83c\uddfa\ud83c\uddf8 Claire Liu",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "WTA - Singles : \ud83c\uddea\ud83c\uddf8 Kaitlin Quevedo vs \ud83c\uddef\ud83c\uddf5 Sara Ishii",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "WTA - Singles : \ud83c\uddec\ud83c\udde7 Amarni Banks vs \ud83c\uddf3\ud83c\uddf1 Suzan Lamens",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "WTA - Singles : \ud83c\uddf1\ud83c\uddfb Darja Semenistaja vs \ud83c\udde8\ud83c\uddff Anna Siskova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
             {
                 "time": "15:00",
-                "event": "WTA - Singles : \ud83c\udde8\ud83c\udde6 Bianca Andreescu vs \ud83c\uddf8\ud83c\uddee Polona Hercog",
+                "event": "ATP - EASTBOURNE : Daniel Altmaier \ud83c\udde9\ud83c\uddea vs Aleksandar Kovacevic \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "WTA - Singles : \ud83c\udde8\ud83c\uddf3 Zhuoxuan Bai vs \ud83c\uddf8\ud83c\uddee Tamara Zidansek",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "WTA - Singles : \ud83c\udde9\ud83c\uddea Anna-Lena Friedsam vs \ud83c\uddfa\ud83c\uddf8 Clervie Ngounoue",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "WTA - Singles : \ud83c\uddec\ud83c\uddea Ekaterine Gorgodze vs \ud83c\udde8\ud83c\uddff Vendula Valdmannova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "WTA - Singles : \ud83c\udde6\ud83c\uddfa Storm Hunter vs \ud83c\udde7\ud83c\uddea Sofia Costoulas",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "WTA - Singles : \ud83c\uddf7\ud83c\uddfa Polina Iatcenko vs \ud83c\uddea\ud83c\uddf8 Leyre Romero Gormaz",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "WTA - Singles : \ud83c\uddfa\ud83c\uddf8 Ashlyn Krueger vs \ud83c\udde8\ud83c\uddff Gabriela Knutson",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "WTA - Singles : \ud83c\uddfa\ud83c\uddff Polina Kudermetova vs \ud83c\uddeb\ud83c\uddf7 Jessika Ponchet",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "WTA - Singles : \ud83c\uddfa\ud83c\uddf8 Elizabeth Mandlik vs \ud83c\uddf7\ud83c\uddf4 Ana Bogdan Charaeva",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "WTA - Singles : \ud83c\udde8\ud83c\udded Simona Waltert Masarova vs \ud83c\udde8\ud83c\udded Joanna Teichmann",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "WTA - Singles : \ud83c\uddec\ud83c\udde7 Lily Miyazaki vs \ud83c\udde7\ud83c\uddec Elitsa Yaneva",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "WTA - Singles : \ud83c\udde7\ud83c\uddfe Aliaksandra Sasnovich vs \ud83c\uddec\ud83c\udde7 Katy Dunne",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "WTA - Singles : \ud83c\uddfa\ud83c\uddf8 Katie Volynets vs \ud83c\udde8\ud83c\uddff Linda Samsonova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "WTA - Singles : \ud83c\udde8\ud83c\uddf3 You Xiaodi vs \ud83c\uddeb\ud83c\uddf7 Leolia Jeanjean",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "WTA - Singles : \ud83c\udde9\ud83c\uddea Mona Barthel vs \ud83c\udde8\ud83c\uddf3 Zhu Lin",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "WTA - Singles : \ud83c\udde6\ud83c\uddf7 Maria Lourdes Carle vs \ud83c\udde8\ud83c\uddff Lucie Havlickova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "WTA - Singles : \ud83c\udde6\ud83c\uddf9 Julia Grabher vs \ud83c\uddec\ud83c\uddea Mariam Bolkvadze",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "WTA - Singles : \ud83c\uddf0\ud83c\uddf7 Yeon Woo Ku vs \ud83c\uddf7\ud83c\uddf8 Teodora Kostovic",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "WTA - Singles : \ud83c\uddec\ud83c\udde7 Ella McDonald vs \ud83c\uddfa\ud83c\uddf8 Elvina Kalieva",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "WTA - Singles : \ud83c\uddeb\ud83c\uddf7 Carole Monnet vs \ud83c\udde7\ud83c\udde6 Tea Prozorova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "WTA - Singles : \ud83c\uddf7\ud83c\uddf8 Lola Radivojevic vs \ud83c\uddea\ud83c\uddf8 Marina Bassols Ribera",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "WTA - Singles : \ud83c\uddeb\ud83c\uddf7 Tessah Andrianjafitrimo Rakotomanga Rajaonah vs \ud83c\uddfa\ud83c\uddf8 Clervie Ngounoue Lee",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "WTA - Singles : \ud83c\uddf3\ud83c\uddf1 Arantxa Rus vs \ud83c\uddfa\ud83c\udde6 Veronika Podrez",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "WTA - Singles : \ud83c\uddf8\ud83c\uddf0 Renata Jamrichova Sramkova vs \ud83c\uddf8\ud83c\uddf0 Viktoria Hruncakova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "WTA - Singles : \ud83c\uddf7\ud83c\uddfa Maria Timofeeva vs \ud83c\uddfa\ud83c\uddf8 Whitney Osuigwe",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "WTA - Singles : \ud83c\udde7\ud83c\uddea Jeline Vandromme vs \ud83c\udde8\ud83c\uddf3 Yue Yuan",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "WTA - Singles : \ud83c\udde8\ud83c\uddf3 Xiyu Wang vs \ud83c\udde8\ud83c\uddf3 Hanyu Guo",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "WTA - Singles : \ud83c\uddec\ud83c\udde7 Heather Watson vs \ud83c\uddea\ud83c\uddec Mayar Sherif",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe ATP - Singles : Eastbourne (United Kingdom), Grass": [
-            {
-                "time": "12:00",
-                "event": "ATP - Singles : \ud83c\uddfa\ud83c\uddf8 Jenson Brooksby vs \ud83c\udde6\ud83c\uddfa Aleksandar Vukic",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "ATP - Singles : \ud83c\udde6\ud83c\uddf7 Thiago Agustin Tirante vs \ud83c\uddec\ud83c\udde7 Jacob Fearnley",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "ATP - Singles : \ud83c\uddee\ud83c\uddf9 Matteo Arnaldi vs \ud83c\uddec\ud83c\udde7 Giles Hussey",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "ATP - Singles : \ud83c\udde9\ud83c\uddea Daniel Altmaier vs \ud83c\uddfa\ud83c\uddf8 Aleksandar Kovacevic",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "ATP - Singles : \ud83c\udde6\ud83c\uddf7 Roman Andres Burruchaga vs \ud83c\uddec\ud83c\udde7 Arthur Fery",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "ATP - Singles : \ud83c\uddeb\ud83c\uddf7 Ugo Humbert vs \ud83c\uddee\ud83c\uddf9 Mattia Bellucci",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe ATP - Singles : Mallorca (Spain), Grass": [
-            {
-                "time": "12:00",
-                "event": "ATP - Singles : \ud83c\udde7\ud83c\udde6 Damir Dzumhur vs \ud83c\udde8\ud83c\uddff Vit Kopriva",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "ATP - Singles : \ud83c\udded\ud83c\uddfa Fabian Marozsan vs \ud83c\udde8\ud83c\uddf1 Alejandro Tabilo",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "12:30",
-                "event": "ATP - Singles : \ud83c\udde6\ud83c\uddfa Marc Polmans vs \ud83c\udde7\ud83c\uddec Grigor Dimitrov",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "ATP - Singles : \ud83c\uddee\ud83c\uddf9 Lorenzo Sonego vs \ud83c\uddf7\ud83c\uddf8 Miomir Kecmanovic",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "ATP - Singles : \ud83c\udde9\ud83c\uddea Jan-Lennard Struff vs \ud83c\uddf5\ud83c\uddf9 Nuno Borges",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "ATP - Singles : \ud83c\uddec\ud83c\uddf7 Stefanos Tsitsipas vs \ud83c\uddf5\ud83c\uddea Ignacio Buse",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "17:30",
-                "event": "ATP - Singles : \ud83c\uddee\ud83c\uddf9 Luciano Darderi vs \ud83c\udde9\ud83c\uddea Yannick Hanfmann",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe WTA - Singles : Bad Homburg (Germany), Grass": [
-            {
-                "time": "11:00",
-                "event": "WTA - Singles : \ud83c\udde9\ud83c\uddea Eva Lys vs \ud83c\uddfa\ud83c\uddf8 Emma Navarro",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "11:30",
-                "event": "WTA - Singles : \ud83c\uddfa\ud83c\uddf8 Ann Li vs \ud83c\uddf7\ud83c\uddfa Ekaterina Alexandrova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "11:30",
-                "event": "WTA - Singles : \ud83c\uddf7\ud83c\uddf4 Gabriela Ruse vs \ud83c\udde8\ud83c\uddff Linda Noskova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "12:30",
-                "event": "WTA - Singles : \ud83c\udde8\ud83c\uddf3 Xinyu Wang vs \ud83c\udde8\ud83c\udde6 Leylah Fernandez",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
                     }
                 ]
             },
             {
                 "time": "15:30",
-                "event": "WTA - Singles : \ud83c\uddef\ud83c\uddf5 Naomi Osaka vs \ud83c\udde7\ud83c\uddea Elise Mertens",
+                "event": "ATP - EASTBOURNE : Roman Andres Burruchaga \ud83c\udde6\ud83c\uddf7 vs Arthur Fery \ud83c\uddec\ud83c\udde7",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "ATP - EASTBOURNE : Ugo Humbert \ud83c\uddeb\ud83c\uddf7 vs Mattia Bellucci \ud83c\uddee\ud83c\uddf9",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "ATP - MALLORCA": [
+            {
+                "time": "12:00",
+                "event": "ATP - MALLORCA : Damir Dzumhur \ud83c\udde7\ud83c\udde6 vs Vit Kopriva \ud83c\udde8\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - MALLORCA : Fabian Marozsan \ud83c\udded\ud83c\uddfa vs Alejandro Tabilo \ud83c\udde8\ud83c\uddf1",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - MALLORCA : Marc Polmans \ud83c\udde6\ud83c\uddfa vs Grigor Dimitrov \ud83c\udde7\ud83c\uddec",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - MALLORCA : Lorenzo Sonego \ud83c\uddee\ud83c\uddf9 vs Miomir Kecmanovic \ud83c\uddf7\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1525"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - MALLORCA : Jan-Lennard Struff \ud83c\udde9\ud83c\uddea vs Nuno Borges \ud83c\uddf5\ud83c\uddf9",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1526"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - MALLORCA : Stefanos Tsitsipas \ud83c\uddec\ud83c\uddf7 vs Ignacio Buse \ud83c\uddf5\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1525"
                     }
                 ]
             },
             {
                 "time": "17:30",
-                "event": "WTA - Singles : \ud83c\uddf7\ud83c\uddfa Liudmila Samsonova vs \ud83c\uddfa\ud83c\udde6 Elina Svitolina",
+                "event": "ATP - MALLORCA : Luciano Darderi \ud83c\uddee\ud83c\uddf9 vs Yannick Hanfmann \ud83c\udde9\ud83c\uddea",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
                     }
                 ]
             }
         ],
-        "Tennis \ud83c\udfbe WTA - Singles : Eastbourne (United Kingdom), Grass": [
+        "WTA - EASTBOURNE": [
             {
                 "time": "12:00",
-                "event": "WTA - Singles : \ud83c\uddec\ud83c\udde7 Alastair Dudeney vs \ud83c\uddea\ud83c\uddf8 Jessica Bouzas Maneiro",
+                "event": "WTA - EASTBOURNE : Amelia Rajecki Dudeney \ud83c\uddec\ud83c\udde7 vs Jessica Bouzas Maneiro \ud83c\uddea\ud83c\uddf8",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "WTA - Singles : \ud83c\uddee\ud83c\uddf9 Jasmine Paolini vs \ud83c\udde9\ud83c\uddea Tatjana Maria",
-                "channels": [
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    },
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "153"
                     }
                 ]
             },
             {
                 "time": "12:00",
-                "event": "WTA - Singles : \ud83c\uddfa\ud83c\udde6 Yuliia Starodubtseva vs \ud83c\uddf7\ud83c\uddfa Anastasia Zakharova",
+                "event": "WTA - EASTBOURNE : Jasmine Paolini \ud83c\uddee\ud83c\uddf9 vs Tatjana Maria \ud83c\udde9\ud83c\uddea",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "152"
                     }
                 ]
             },
             {
                 "time": "12:00",
-                "event": "WTA - Singles : \ud83c\uddf3\ud83c\uddf1 Jesika Maleckova Tjen vs \ud83c\uddfa\ud83c\uddf8 Caty McNally",
+                "event": "WTA - EASTBOURNE : Yuliia Starodubtseva \ud83c\uddfa\ud83c\udde6 vs Anastasia Zakharova \ud83c\uddf7\ud83c\uddfa",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "155"
                     }
                 ]
             },
-            {
-                "time": "13:30",
-                "event": "WTA - Singles : \ud83c\udde8\ud83c\uddff Sara Bejlek vs \ud83c\udde9\ud83c\uddea Laura Siegemund",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "WTA - Singles : \ud83c\udde6\ud83c\uddfa Talia Gibson vs \ud83c\uddfa\ud83c\uddf8 Madison Keys",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "WTA - Singles : \ud83c\udded\ud83c\uddfa Panna Udvardy vs \ud83c\udded\ud83c\uddfa Anna Bondar",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "WTA - Singles : \ud83c\uddf9\ud83c\uddf7 Zeynep Sonmez vs \ud83c\uddec\ud83c\udde7 Harriet Dart",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "WTA - Singles : \ud83c\udde6\ud83c\uddfa Kimberly Birrell vs \ud83c\udde8\ud83c\uddff Barbora Krejcikova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe ATP - DOUBLES: Eastbourne (United Kingdom), Grass": [
-            {
-                "time": "13:30",
-                "event": "ATP - Doubles : \ud83c\uddfa\ud83c\uddf8 Rajeev Ram / \ud83c\uddec\ud83c\udde7 Joe Salisbury vs \ud83c\uddeb\ud83c\uddf7 Terence Atmane / \ud83c\uddeb\ud83c\uddf7 Luca Sanchez",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "ATP - Doubles : \ud83c\uddee\ud83c\uddf3 Yuki Bhambri / \ud83c\udde6\ud83c\uddfa Matthew Venus vs \ud83c\udde6\ud83c\uddf7 Tomas Martin Etcheverry / \ud83c\udde6\ud83c\uddf7 Thiago Agustin Tirante",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "ATP - Doubles : \ud83c\uddec\ud83c\udde7 Julian Cash / \ud83c\uddec\ud83c\udde7 Lloyd Glasspool vs \ud83c\udde6\ud83c\uddf7 Juan Manuel Cerundolo / \ud83c\udde6\ud83c\uddf7 Camilo Ugo Carabelli",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "ATP - Doubles : \ud83c\uddeb\ud83c\uddf7 Sadio Doumbia / \ud83c\uddeb\ud83c\uddf7 Fabien Reboul vs \ud83c\uddfa\ud83c\uddf8 Christian Harrison / \ud83c\uddec\ud83c\udde7 Neal Skupski",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe ATP - DOUBLES: Mallorca (Spain), Grass": [
             {
                 "time": "12:00",
-                "event": "ATP - Doubles : \ud83c\uddfa\ud83c\uddf8 Robert Galloway / \ud83c\uddfa\ud83c\uddf8 Vasil Kirkov vs \ud83c\uddfa\ud83c\uddf8 Robert Cash / \ud83c\uddfa\ud83c\uddf8 James Tracy",
+                "event": "WTA - EASTBOURNE : Joanna Tjen \ud83c\uddee\ud83c\udde9 vs Caty McNally \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "154"
                     }
                 ]
             },
             {
                 "time": "13:30",
-                "event": "ATP - Doubles : \ud83c\uddef\ud83c\uddf4 Abdullah Shelbayh / \ud83c\uddea\ud83c\uddf8 Pedro Vives Marcos vs \ud83c\uddf8\ud83c\uddea Andre Goransson / \ud83c\uddfa\ud83c\uddf8 Evan King",
+                "event": "WTA - EASTBOURNE : Sara Bejlek \ud83c\udde8\ud83c\uddff vs Laura Siegemund \ud83c\udde9\ud83c\uddea",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
                     }
                 ]
             },
-            {
-                "time": "15:00",
-                "event": "ATP - Doubles : \ud83c\udde9\ud83c\uddea Jakob Schnaitter / \ud83c\udde9\ud83c\uddea Mark Wallner vs \ud83c\udde8\ud83c\uddff Adam Pavlasek / \ud83c\udde8\ud83c\uddff Petr Rikl",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "ATP - Doubles : \ud83c\uddfa\ud83c\uddf8 Austin Krajicek / \ud83c\udded\ud83c\uddf7 Nikola Mektic vs \ud83c\udde6\ud83c\uddfa Nick Kyrgios / \ud83c\udde6\ud83c\uddfa John-Patrick Smith",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe WTA - DOUBLES: Bad Homburg (Germany), Grass": [
-            {
-                "time": "13:00",
-                "event": "WTA - Doubles : \ud83c\uddf9\ud83c\uddfc Hao-Ching Chan / \ud83c\udde9\ud83c\uddf0 Clara Tauson vs \ud83c\udde6\ud83c\uddfa Ellen Perez / \ud83c\uddf3\ud83c\uddf1 Demi Schuurs",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "14:30",
-                "event": "WTA - Doubles : \ud83c\uddee\ud83c\udde9 Aldila Sutjiadi / \ud83c\udded\ud83c\uddfa Fanny Stollar vs \ud83c\udde7\ud83c\uddea Magali Kempen / \ud83c\uddf7\ud83c\uddfa Alexandra Panova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe WTA - DOUBLES: Eastbourne (United Kingdom), Grass": [
             {
                 "time": "13:30",
-                "event": "WTA - Doubles : \ud83c\uddfa\ud83c\udde6 Lyudmyla Kichenok / \ud83c\uddef\ud83c\uddf5 Makoto Ninomiya vs \ud83c\uddfa\ud83c\uddf8 Sofia Kenin / \ud83c\uddf1\ud83c\uddfb Jelena Ostapenko",
+                "event": "WTA - EASTBOURNE : Talia Gibson \ud83c\udde6\ud83c\uddfa vs Madison Keys \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "WTA - EASTBOURNE : Panna Udvardy \ud83c\udded\ud83c\uddfa vs Anna Bondar \ud83c\udded\ud83c\uddfa",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
                     }
                 ]
             },
             {
                 "time": "15:00",
-                "event": "WTA - Doubles : \ud83c\uddfa\ud83c\uddf8 Asia Muhammad / \ud83c\udded\ud83c\uddfa Fanny Stollar vs \ud83c\uddec\ud83c\udde7 Freya Christie / \ud83c\uddec\ud83c\udde7 Eden Silva",
+                "event": "WTA - EASTBOURNE : Zeynep Sonmez \ud83c\uddf9\ud83c\uddf7 vs Harriet Dart \ud83c\uddec\ud83c\udde7",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
                     }
                 ]
             },
             {
                 "time": "16:30",
-                "event": "WTA - Doubles : \ud83c\udded\ud83c\uddf7 Darija Jurak Schreiber / \ud83c\udded\ud83c\uddf7 Antonia Ru\u017ei\u0107 vs \ud83c\uddee\ud83c\uddf9 Sara Errani / \ud83c\uddee\ud83c\uddf9 Jasmine Paolini",
+                "event": "WTA - EASTBOURNE : Kimberly Birrell \ud83c\udde6\ud83c\uddfa vs Barbora Krejcikova \ud83c\udde8\ud83c\uddff",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "WTA - Doubles : \ud83c\udde7\ud83c\uddf7 Ingrid Martins / \ud83c\uddea\ud83c\uddf8 Sara Sorribes Tormo vs \ud83c\udde8\ud83c\uddff Jesika Male\u010dkov\u00e1 / \ud83c\udde8\ud83c\uddff Miriam \u0160koch",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "WTA - Doubles : \ud83c\uddea\ud83c\uddea Ingrid Neel / \ud83c\uddf2\ud83c\uddfd Giuliana Olmos vs \ud83c\uddef\ud83c\uddf5 Eri Hozumi / \ud83c\uddf9\ud83c\uddfc Fang-Hsien Wu",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "WTA - Doubles : \ud83c\uddf7\ud83c\uddfa Maria Kozyreva / \ud83c\uddf5\ud83c\uddf1 Katarzyna Piter vs \ud83c\uddf3\ud83c\uddf1 Isabelle Haverlag / \ud83c\uddec\ud83c\udde7 Maia Lumsden",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
                     }
                 ]
             }
         ],
-        "Tennis \ud83c\udfbe Exhibition - Men Boodles Challenge": [
+        "WTA - BAD HOMBURG": [
             {
-                "time": "15:00",
-                "event": "Tennis Men : \ud83c\udde8\ud83c\uddff Ji\u0159\u00ed Men\u0161\u00edk vs \ud83c\uddeb\ud83c\uddf7 Arthur Fils",
+                "time": "11:00",
+                "event": "WTA - BAD HOMBURG : Eva Lys \ud83c\udde9\ud83c\uddea vs Emma Navarro \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "108"
                     }
                 ]
             },
             {
-                "time": "16:30",
-                "event": "Tennis Men : \ud83c\uddf7\ud83c\uddfa Andrey Rublev vs \ud83c\uddf0\ud83c\uddff Alexander Shevchenko",
+                "time": "11:30",
+                "event": "WTA - BAD HOMBURG : Ann Li \ud83c\uddfa\ud83c\uddf8 vs Ekaterina Alexandrova \ud83c\uddf7\ud83c\uddfa",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "110"
                     }
                 ]
             },
             {
-                "time": "18:00",
-                "event": "Tennis Men : \ud83c\udde6\ud83c\uddf7 Sebastian Baez vs \ud83c\udde6\ud83c\uddfa Thanasi Kokkinakis",
+                "time": "11:30",
+                "event": "WTA - BAD HOMBURG : Gabriela Ruse \ud83c\uddf7\ud83c\uddf4 vs Linda Noskova \ud83c\udde8\ud83c\uddff",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "109"
                     }
                 ]
-            }
-        ],
-        "Tennis \ud83c\udfbe Exhibition - Men Hurlingham": [
+            },
             {
-                "time": "18:00",
-                "event": "Exhibition Men : \ud83c\uddfa\ud83c\uddf8 Learner Tien vs \ud83c\uddeb\ud83c\uddf7 Giovanni Mpetshi Perricard",
+                "time": "12:30",
+                "event": "WTA - BAD HOMBURG : Wang Xinyu \ud83c\udde8\ud83c\uddf3 vs Leylah Fernandez \ud83c\udde8\ud83c\udde6",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "WTA - BAD HOMBURG : Naomi Osaka \ud83c\uddef\ud83c\uddf5 vs Elise Mertens \ud83c\udde7\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "WTA - BAD HOMBURG : Liudmila Samsonova \ud83c\uddf7\ud83c\uddfa vs Elina Svitolina \ud83c\uddfa\ud83c\udde6",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
                     }
                 ]
             }
