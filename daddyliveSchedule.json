@@ -1,5 +1,77 @@
 {
     "Thursday 25th June 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:00",
+                "event": "PDRA North v South Shootout",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "USAC Hoosier Hundred Lucas Oil",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "Lucas Oil Firecracker 100 Lernerville",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "Double Feature Night Thunder Road",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "DIRTcar Summer Nationals Springfield",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Jackson Motorplex",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "Hoodslam Sunset Riders 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "154"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "11:30",
@@ -1634,6 +1706,14 @@
                         "channel_id": "840"
                     },
                     {
+                        "channel_name": "Backup Stream Arabic",
+                        "channel_id": "9002"
+                    },
+                    {
+                        "channel_name": "Backup Stream Enbglish",
+                        "channel_id": "9009"
+                    },
+                    {
                         "channel_name": "SRF info",
                         "channel_id": "2"
                     },
@@ -1966,6 +2046,14 @@
                     {
                         "channel_name": "TSN4",
                         "channel_id": "114"
+                    },
+                    {
+                        "channel_name": "Backup Stream Arabic",
+                        "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "Backup Stream Enbglish",
+                        "channel_id": "9008"
                     },
                     {
                         "channel_name": "RDS CA",
@@ -2392,6 +2480,14 @@
                         "channel_id": "839"
                     },
                     {
+                        "channel_name": "Backup Stream Arabic",
+                        "channel_id": "9003"
+                    },
+                    {
+                        "channel_name": "Backup Stream Enbglish",
+                        "channel_id": "9010"
+                    },
+                    {
                         "channel_name": "TRT 1 Turkey",
                         "channel_id": "1012"
                     },
@@ -2720,6 +2816,14 @@
                     {
                         "channel_name": "BBC One UK",
                         "channel_id": "356"
+                    },
+                    {
+                        "channel_name": "Backup Stream Arabic",
+                        "channel_id": "9004"
+                    },
+                    {
+                        "channel_name": "Backup Stream Enbglish",
+                        "channel_id": "9011"
                     },
                     {
                         "channel_name": "SVT 1 Sweden",
@@ -3074,6 +3178,14 @@
                         "channel_id": "840"
                     },
                     {
+                        "channel_name": "Backup Stream Arabic",
+                        "channel_id": "9002"
+                    },
+                    {
+                        "channel_name": "Backup Stream Enbglish",
+                        "channel_id": "9009"
+                    },
+                    {
                         "channel_name": "TRT Spor Turkey",
                         "channel_id": "889"
                     },
@@ -3398,6 +3510,14 @@
                     {
                         "channel_name": "RDS CA",
                         "channel_id": "839"
+                    },
+                    {
+                        "channel_name": "Backup Stream Arabic",
+                        "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "Backup Stream Enbglish",
+                        "channel_id": "9008"
                     },
                     {
                         "channel_name": "DAZN Mundial Spain",
