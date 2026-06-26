@@ -1,5 +1,127 @@
 {
     "Friday 26th June 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "21:00",
+                "event": "Thunder Road Harley-Davidson 200 at South Boston Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5070"
+                    }
+                ]
+            },
+            {
+                "time": "21:10",
+                "event": "American Flat Track at Lima Half-Mile",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5071"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "Midstate Firecracker 30 at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5072"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "RallyX at Eldora Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5073"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "Lucas Oil Firecracker 100 at Lernerville Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5074"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "ISMA Supermodified Weekend at Berlin Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5075"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "USAC AMSOIL National Sprint Cars at Millstream Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5076"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "ARCA West at Sonoma Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5077"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "IRA Sprints at Jacksonville Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5078"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "Race of Champions Dirt Modifieds at Ohsweken Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5079"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "IMCA Weekly Racing at Marshalltown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5080"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "High Limit Racing at Big Sky Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5081"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "05:30",
