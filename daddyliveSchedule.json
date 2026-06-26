@@ -2,9 +2,43 @@
     "Friday 26th June 2026 - Schedule Time UK GMT": {
         "PPV Events": [
             {
-                "time": "21:00",
-                "event": "Thunder Road Harley-Davidson 200 at South Boston Speedway",
+                "time": "15:00",
+                "event": "PDRA North v South Shootout",
                 "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "MotoAmerica Superbikes Ridge Motorsports",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Monster Energy Mammoth Motocross",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "Thunder Road Harley Davidson 200 SOBO",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "159"
+                    },
                     {
                         "channel_name": "Floracing",
                         "channel_id": "5070"
@@ -13,8 +47,12 @@
             },
             {
                 "time": "21:10",
-                "event": "American Flat Track at Lima Half-Mile",
+                "event": "American Flat Track Lima Half Mile",
                 "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "160"
+                    },
                     {
                         "channel_name": "Floracing",
                         "channel_id": "5071"
@@ -23,8 +61,12 @@
             },
             {
                 "time": "23:15",
-                "event": "Midstate Firecracker 30 at Stafford Speedway",
+                "event": "Midstate Firecracker 30 Stafford",
                 "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "161"
+                    },
                     {
                         "channel_name": "Floracing",
                         "channel_id": "5072"
@@ -33,8 +75,12 @@
             },
             {
                 "time": "23:15",
-                "event": "RallyX at Eldora Speedway",
+                "event": "RallyX Eldora Speedway",
                 "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "162"
+                    },
                     {
                         "channel_name": "Floracing",
                         "channel_id": "5073"
@@ -43,8 +89,12 @@
             },
             {
                 "time": "23:45",
-                "event": "Lucas Oil Firecracker 100 at Lernerville Speedway",
+                "event": "Lucas Oil Firecracker 100 Lernerville",
                 "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "163"
+                    },
                     {
                         "channel_name": "Floracing",
                         "channel_id": "5074"
@@ -53,18 +103,12 @@
             },
             {
                 "time": "00:00",
-                "event": "ISMA Supermodified Weekend at Berlin Raceway",
+                "event": "USAC National Sprints Millstream",
                 "channels": [
                     {
-                        "channel_name": "Floracing",
-                        "channel_id": "5075"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "USAC AMSOIL National Sprint Cars at Millstream Speedway",
-                "channels": [
+                        "channel_name": "Event PPV",
+                        "channel_id": "164"
+                    },
                     {
                         "channel_name": "Floracing",
                         "channel_id": "5076"
@@ -72,9 +116,37 @@
                 ]
             },
             {
-                "time": "00:15",
-                "event": "ARCA West at Sonoma Raceway",
+                "time": "00:00",
+                "event": "ISMA Supermodified Weekend Berlin",
                 "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "165"
+                    },
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5075"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "Weekly Racing Utica-Rome",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "ARCA West Sonoma",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "167"
+                    },
                     {
                         "channel_name": "Floracing",
                         "channel_id": "5077"
@@ -82,12 +154,56 @@
                 ]
             },
             {
-                "time": "01:15",
-                "event": "IRA Sprints at Jacksonville Speedway",
+                "time": "00:30",
+                "event": "Attica Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Williams Grove Sprint Cars",
                 "channels": [
                     {
                         "channel_name": "Floracing",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "World of Outlaws Sprint Cars Cedar Lake",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "Jacksonville Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "171"
+                    },
+                    {
+                        "channel_name": "Floracing",
                         "channel_id": "5078"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "World of Outlaws Late Models River Cities",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "172"
                     }
                 ]
             },
@@ -1896,6 +2012,14 @@
                         "channel_id": "365"
                     },
                     {
+                        "channel_name": "Backup Arabic Stream",
+                        "channel_id": "9002"
+                    },
+                    {
+                        "channel_name": "Backup English Stream",
+                        "channel_id": "9009"
+                    },
+                    {
                         "channel_name": "NRK1 Norway",
                         "channel_id": "203"
                     },
@@ -2306,6 +2430,14 @@
                         "channel_id": "602"
                     },
                     {
+                        "channel_name": "Backup Arabic Stream",
+                        "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "Backup English Stream",
+                        "channel_id": "9008"
+                    },
+                    {
                         "channel_name": "ORF 1 Austria",
                         "channel_id": "242"
                     },
@@ -2688,6 +2820,14 @@
                     {
                         "channel_name": "RDS CA",
                         "channel_id": "839"
+                    },
+                    {
+                        "channel_name": "Backup Arabic Stream",
+                        "channel_id": "9004"
+                    },
+                    {
+                        "channel_name": "Backup English Stream",
+                        "channel_id": "9011"
                     },
                     {
                         "channel_name": "SRF zwei",
@@ -3076,6 +3216,14 @@
                         "channel_id": "739"
                     },
                     {
+                        "channel_name": "Backup Arabic Stream",
+                        "channel_id": "9003"
+                    },
+                    {
+                        "channel_name": "Backup English Stream",
+                        "channel_id": "9010"
+                    },
+                    {
                         "channel_name": "Sport TV1 Portugal",
                         "channel_id": "49"
                     },
@@ -3424,6 +3572,14 @@
                     {
                         "channel_name": "RDS CA",
                         "channel_id": "839"
+                    },
+                    {
+                        "channel_name": "Backup Arabic Stream",
+                        "channel_id": "9002"
+                    },
+                    {
+                        "channel_name": "Backup English Stream",
+                        "channel_id": "9009"
                     },
                     {
                         "channel_name": "SRF zwei",
@@ -3778,6 +3934,14 @@
                     {
                         "channel_name": "RTE 2 Ireland",
                         "channel_id": "365"
+                    },
+                    {
+                        "channel_name": "Backup Arabic Stream",
+                        "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "Backup English Stream",
+                        "channel_id": "9008"
                     },
                     {
                         "channel_name": "TRT Spor Turkey",
