@@ -1,5 +1,172 @@
 {
     "Saturday 27th June 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "18:00",
+                "event": "\ud83c\udfcd\ufe0f MotoAmerica Superbikes \u2013 Ridge Motorsports Park \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "194"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\ud83c\udfcd\ufe0f Monster Energy Mammoth Motocross 2026 \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "195"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\ud83c\udfc1 Thunder Road Harley-Davidson 200 at South Boston Speedway \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "196"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83c\udfc1 Millbridge Speedway Sprint Cars \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "197"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83c\udfc1 Weekly Racing \u2013 Fonda Speedway \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "198"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "\ud83c\udfc1 Sharon Speedway Late Models \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "199"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "\ud83c\udfc1 Land of Legends Raceway Late Models \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "200"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\ud83e\udd4a PFI 19: The Return of the Masters \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "TrillerTV",
+                        "channel_id": "201"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\ud83e\udd4a XRUMBLE Fighting Championships XCB: \ud83c\uddfa\ud83c\uddf8 Keshon Bolden vs \ud83c\uddfa\ud83c\uddf8 Dave Calabro",
+                "channels": [
+                    {
+                        "channel_name": "TrillerTV",
+                        "channel_id": "202"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "\ud83c\udfc1 World of Outlaws Sprint Cars \u2013 Cedar Lake Speedway \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "211"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "\ud83c\udfc1 Knoxville Raceway Sprint Cars \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "212"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "\ud83e\udd4b Pancrase 363 \ud83c\uddef\ud83c\uddf5",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "205"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "\ud83e\udd4b Fight to Win 319 \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "FloTV",
+                        "channel_id": "206"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "\ud83e\udd4a Urijah Faber's A1 Combat 36: \ud83c\uddfa\ud83c\uddf8 Sandoval vs \ud83c\uddfa\ud83c\uddf8 Seronio",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "207"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "\ud83e\udd4a MMA Mexico 8: Coraz\u00f3n Guerrero \ud83c\uddf2\ud83c\uddfd",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "208"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "\ud83e\udd4a Armored MMA 2026: Medieval Cage Fighting Championship, Portland \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "TrillerTV",
+                        "channel_id": "209"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "\ud83e\udd3c GCW: Amerikaz Most Wanted 2026 \ud83c\uddfa\ud83c\uddf8",
+                "channels": []
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "05:30",
@@ -4850,6 +5017,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "108"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1501"
                     }
                 ]
             },
@@ -4888,6 +5059,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "110"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1504"
                     }
                 ]
             },
@@ -4902,6 +5077,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "152"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1508"
                     }
                 ]
             },
@@ -4916,6 +5095,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "153"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
