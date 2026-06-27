@@ -38,6 +38,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "197"
+                    },
+                    {
+                        "channel_name": "Event PPV 2",
+                        "channel_id": "5072"
                     }
                 ]
             },
@@ -6571,6 +6575,10 @@
                     {
                         "channel_name": "DAZN PPV",
                         "channel_id": "55"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5073"
                     }
                 ]
             },
@@ -6621,6 +6629,10 @@
                     {
                         "channel_name": "Sport Klub 2 Croatia",
                         "channel_id": "102"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5071"
                     }
                 ]
             },
@@ -6791,6 +6803,10 @@
                     {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "3006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5070"
                     }
                 ]
             }
