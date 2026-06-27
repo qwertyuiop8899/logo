@@ -22,12 +22,66 @@
                 ]
             },
             {
+                "time": "22:00",
+                "event": "\ud83c\udfc1 American Flat Track of Lima Half-Mile",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV 2",
+                        "channel_id": "5076"
+                    }
+                ]
+            },
+            {
                 "time": "21:30",
-                "event": "\ud83c\udfc1 Thunder Road Harley-Davidson 200 at South Boston Speedway \ud83c\uddfa\ud83c\uddf8",
+                "event": "\ud83c\udfc1 Thunder Road Harley-Davidson 200 of South Boston Speedway \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
                         "channel_name": "FloRacing",
                         "channel_id": "196"
+                    },
+                    {
+                        "channel_name": "Event PPV 2",
+                        "channel_id": "5077"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\ud83c\udfc1 Lucas Oil Firecracker 100 vs Lernerville Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5079"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\ud83c\udfc1 RallyX of Eldora Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5080"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "\ud83c\udfc1 USAC AMSOIL National Sprint Cars vs Butler Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5081"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83c\udfc1 ISMA Supermodified Weekend of Berlin Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5082"
                     }
                 ]
             },
@@ -41,7 +95,7 @@
                     },
                     {
                         "channel_name": "Event PPV 2",
-                        "channel_id": "5072"
+                        "channel_id": "5074"
                     }
                 ]
             },
@@ -52,6 +106,20 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "198"
+                    },
+                    {
+                        "channel_name": "Event PPV 2",
+                        "channel_id": "5083"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83c\udfc1 Race of Champions Modifieds vs Evans Mills Raceway Park",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5084"
                     }
                 ]
             },
@@ -76,6 +144,16 @@
                 ]
             },
             {
+                "time": "00:55",
+                "event": "\ud83c\udfc1 IMCA Weekly Racing at 141 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV 2",
+                        "channel_id": "5085"
+                    }
+                ]
+            },
+            {
                 "time": "01:00",
                 "event": "\ud83e\udd4a PFI 19: The Return of the Masters \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
@@ -87,7 +165,7 @@
             },
             {
                 "time": "01:00",
-                "event": "\ud83e\udd4a XRUMBLE Fighting Championships XCB: \ud83c\uddfa\ud83c\uddf8 Keshon Bolden vs \ud83c\uddfa\ud83c\uddf8 Dave Calabro",
+                "event": "\ud83e\udd4a XRUMBLE Fighting Championships XCB: \ud83c\uddfa\ud83c\uddf8 Keshon Bolden of \ud83c\uddfa\ud83c\uddf8 Dave Calabro",
                 "channels": [
                     {
                         "channel_name": "TrillerTV",
@@ -126,6 +204,36 @@
                 ]
             },
             {
+                "time": "01:30",
+                "event": "\ud83c\udfc1 IRA Sprints at I-55 Raceway Park",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5087"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "\ud83c\udfc1 NASCAR Sportsman 100 at Bowman Gray Stadium",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5088"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "\ud83c\udfc1 USAC Avanti Western States Midgets at Merced Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5089"
+                    }
+                ]
+            },
+            {
                 "time": "02:00",
                 "event": "\ud83e\udd4b Fight to Win 319 \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
@@ -142,6 +250,26 @@
                     {
                         "channel_name": "UFC Fight Pass",
                         "channel_id": "207"
+                    }
+                ]
+            },
+            {
+                "time": "02:15",
+                "event": "\ud83c\udfc1 High Limit Racing at Big Sky Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5090"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "\ud83c\udfc1 CARS Tour West at Evergreen Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5091"
                     }
                 ]
             },
@@ -168,7 +296,12 @@
             {
                 "time": "05:00",
                 "event": "\ud83e\udd3c GCW: Amerikaz Most Wanted 2026 \ud83c\uddfa\ud83c\uddf8",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "TrillerTV",
+                        "channel_id": "210"
+                    }
+                ]
             }
         ],
         "Upcoming Events": [
@@ -1991,6 +2124,66 @@
                 ]
             },
             {
+                "time": "22:00",
+                "event": "World - Club Friendly : UNAM Pumas vs Puebla",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6040"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Peru - Copa de La Liga : Comerciantes vs Estudiantil CNI",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6041"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Peru - Copa de La Liga : Sporting Cristal vs Union Comercio",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6042"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Chile - Copa Chile : Deportes Limache vs Deportes Iquique",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6043"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Chile - Copa Chile : Deportes Santa Cruz vs Palestino",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6044"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "FIFA World Cup : Group L Simulcast",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6045"
+                    }
+                ]
+            },
+            {
                 "time": "23:00",
                 "event": "FIFA World Cup : Multiview",
                 "channels": [
@@ -2174,59 +2367,51 @@
                     },
                     {
                         "channel_name": "Backup Stream (ENG)",
-                        "channel_id": "5001"
-                    },
-                    {
-                        "channel_name": "Backup Stream (4K)",
-                        "channel_id": "5002"
-                    },
-                    {
-                        "channel_name": "Backup Stream (ENG)",
-                        "channel_id": "5003"
-                    },
-                    {
-                        "channel_name": "Backup Stream (ENG)",
-                        "channel_id": "5004"
-                    },
-                    {
-                        "channel_name": "Backup Stream (TSN 4K)",
-                        "channel_id": "5005"
-                    },
-                    {
-                        "channel_name": "Backup Stream (Bein AR)",
-                        "channel_id": "5006"
-                    },
-                    {
-                        "channel_name": "Backup Stream (AR) (Bein Arabic 4K)",
-                        "channel_id": "5007"
-                    },
-                    {
-                        "channel_name": "Backup Stream (EN) (Tlemundo)",
                         "channel_id": "5008"
                     },
                     {
-                        "channel_name": "Backup Stream (ENG) (Fussbolltv 4K)",
+                        "channel_name": "Backup Stream (4K)",
                         "channel_id": "5009"
                     },
                     {
-                        "channel_name": "Backup Stream (FS1)",
-                        "channel_id": "5065"
+                        "channel_name": "Backup Stream (4K)",
+                        "channel_id": "5010"
                     },
                     {
-                        "channel_name": "Backup Stream (FS1 4K)",
+                        "channel_name": "Backup Stream (ENG)",
+                        "channel_id": "5011"
+                    },
+                    {
+                        "channel_name": "Backup Stream (AR)",
+                        "channel_id": "5012"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ENG)",
+                        "channel_id": "5013"
+                    },
+                    {
+                        "channel_name": "Backup Stream (FS1)",
                         "channel_id": "5066"
                     },
                     {
-                        "channel_name": "Backup Stream (NBC UNIVERSO 4K)",
+                        "channel_name": "Backup Stream (FS1 4K)",
                         "channel_id": "5067"
                     },
                     {
-                        "channel_name": "Backup Stream (Bein Max Arabic)",
+                        "channel_name": "Backup Stream (NBC UNIVERSO)",
                         "channel_id": "5068"
                     },
                     {
-                        "channel_name": "Backup Stream (FusballTV2)",
+                        "channel_name": "Backup Stream (TSN2)",
                         "channel_id": "5069"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Bein MAX 2 Arabic )",
+                        "channel_id": "5070"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Fussballtv2)",
+                        "channel_id": "5071"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -2331,6 +2516,14 @@
                     {
                         "channel_name": "Backup Stream (Fussbaltv 4K)",
                         "channel_id": "5028"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
                     }
                 ]
             },
@@ -2551,7 +2744,7 @@
                         "channel_id": "5001"
                     },
                     {
-                        "channel_name": "Backup Stream (4K Quality)",
+                        "channel_name": "Backup Stream (4K)",
                         "channel_id": "5002"
                     },
                     {
@@ -2563,7 +2756,7 @@
                         "channel_id": "5004"
                     },
                     {
-                        "channel_name": "Backup Stream (TSN 4K Quality)",
+                        "channel_name": "Backup Stream (TSN 4K)",
                         "channel_id": "5005"
                     },
                     {
@@ -2571,16 +2764,8 @@
                         "channel_id": "5006"
                     },
                     {
-                        "channel_name": "Backup Stream (AR) (Bein Arabic 4K Quality)",
+                        "channel_name": "Backup Stream (ESP)",
                         "channel_id": "5007"
-                    },
-                    {
-                        "channel_name": "Backup Stream (EN) (Tlemundo)",
-                        "channel_id": "5008"
-                    },
-                    {
-                        "channel_name": "Backup Stream (ENG) (Fussbolltv 4K)",
-                        "channel_id": "5009"
                     },
                     {
                         "channel_name": "Backup Stream (Fox USA)",
@@ -2591,16 +2776,20 @@
                         "channel_id": "5061"
                     },
                     {
-                        "channel_name": "Backup Stream (Spanish 4K)",
+                        "channel_name": "Backup Stream (Telemundo)",
                         "channel_id": "5062"
                     },
                     {
-                        "channel_name": "Backup Stream (Bein Max AR)",
+                        "channel_name": "Backup Stream (TSN1)",
                         "channel_id": "5063"
                     },
                     {
-                        "channel_name": "(Fusball TV 1)",
+                        "channel_name": "(Bein Max Arabic)",
                         "channel_id": "5064"
+                    },
+                    {
+                        "channel_name": "Backup Stream (FusballTV1)",
+                        "channel_id": "5065"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -2705,6 +2894,34 @@
                     {
                         "channel_name": "Backup Stream (Fussbaltv 4K)",
                         "channel_id": "5028"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4004"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Chile - Copa Chile, Group G : Audax Italiano vs Magallanes",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6046"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": ": Canada - Northern Super League : Calgary Wild FC W vs Halifax Tides FC W",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6047"
                     }
                 ]
             },
@@ -2868,7 +3085,11 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "5033"
+                        "channel_id": "5036"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5037"
                     },
                     {
                         "channel_name": "Backup Stream (ENG)",
@@ -3029,6 +3250,14 @@
                     {
                         "channel_name": "Backup Stream (Fussbaltv 4K)",
                         "channel_id": "5028"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
                     }
                 ]
             },
@@ -3250,11 +3479,11 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "5034"
+                        "channel_id": "5038"
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "5035"
+                        "channel_id": "5039"
                     },
                     {
                         "channel_name": "Backup Stream (ENG)",
@@ -3419,12 +3648,60 @@
                 ]
             },
             {
+                "time": "01:30",
+                "event": "Peru - Copa de La Liga : Sport Boys vs AD Cantolao",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6048"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Chile Copa Chile : Universidad Catolica vs San Luis",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6049"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "World - Club Friendly : Juarez vs Atlante",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6050"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "FIFA World Cup : Group J Simulcast",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6051"
+                    }
+                ]
+            },
+            {
                 "time": "04:00",
                 "event": "FIFA World Cup : Multiview",
                 "channels": [
                     {
                         "channel_name": "Fussball.TV 3",
                         "channel_id": "938"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4004"
                     }
                 ]
             },
@@ -3630,11 +3907,11 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "5034"
+                        "channel_id": "5040"
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "5035"
+                        "channel_id": "5041"
                     },
                     {
                         "channel_name": "Backup Stream (ENG)",
@@ -3795,6 +4072,14 @@
                     {
                         "channel_name": "Backup Stream (Fussbaltv 4K)",
                         "channel_id": "5028"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4004"
                     }
                 ]
             },
@@ -3952,7 +4237,11 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "5033"
+                        "channel_id": "5042"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5043"
                     },
                     {
                         "channel_name": "Backup Stream (ENG)",
@@ -4113,6 +4402,14 @@
                     {
                         "channel_name": "Backup Stream (Fussbaltv 4K)",
                         "channel_id": "5028"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
                     }
                 ]
             }
@@ -6505,6 +6802,10 @@
                     {
                         "channel_name": "Ziggo Sport 2 NL",
                         "channel_id": "398"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5078"
                     }
                 ]
             },
@@ -6539,6 +6840,10 @@
                     {
                         "channel_name": "TVA Sports 2",
                         "channel_id": "834"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5086"
                     }
                 ]
             },
@@ -6578,7 +6883,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "5073"
+                        "channel_id": "5075"
                     }
                 ]
             },
@@ -6632,7 +6937,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "5071"
+                        "channel_id": "5073"
                     }
                 ]
             },
@@ -6657,6 +6962,10 @@
                     {
                         "channel_name": "RMC Sport 1 France",
                         "channel_id": "119"
+                    },
+                    {
+                        "channel_name": "RMC Sport 1 France",
+                        "channel_id": "3050"
                     }
                 ]
             },
@@ -6715,6 +7024,18 @@
                     {
                         "channel_name": "SuperSport Action",
                         "channel_id": "420"
+                    },
+                    {
+                        "channel_name": "ESPN Deportes",
+                        "channel_id": "3075"
+                    },
+                    {
+                        "channel_name": "RMC Sport 1 France",
+                        "channel_id": "3050"
+                    },
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "3003"
                     }
                 ]
             },
@@ -6806,7 +7127,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "5070"
+                        "channel_id": "5072"
                     }
                 ]
             }
@@ -6817,8 +7138,20 @@
                 "event": "Countdown to Night of Champions 2026 Live",
                 "channels": [
                     {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "211"
+                    },
+                    {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "212"
+                    },
+                    {
                         "channel_name": "ESPN USA",
                         "channel_id": "44"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5092"
                     }
                 ]
             },
@@ -6826,6 +7159,14 @@
                 "time": "19:00",
                 "event": "WWE Night of Champions Live",
                 "channels": [
+                    {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "211"
+                    },
+                    {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "212"
+                    },
                     {
                         "channel_name": "ESPN USA",
                         "channel_id": "44"
@@ -7867,6 +8208,10 @@
                     {
                         "channel_name": "TSN3",
                         "channel_id": "113"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2021"
                     }
                 ]
             },
@@ -7881,6 +8226,32 @@
                     {
                         "channel_name": "CBSNY USA",
                         "channel_id": "767"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4071"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "WNBA : Atlanta Dream vs. Seattle Storm",
+                "channels": [
+                    {
+                        "channel_name": "WNBA League Pass",
+                        "channel_id": "28"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2023"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4072"
                     }
                 ]
             }
