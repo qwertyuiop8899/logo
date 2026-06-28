@@ -1,5 +1,87 @@
 {
     "Sunday 28th June 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "18:00",
+                "event": "Monster Energy Mammoth Motorcross",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "MotoAmerica Superbikes Ridge Motorsports",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "TNA Slammiversary",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "DIRTcar Summer Nationals Late Models Windy Hollow",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "AEW Forbidden Door",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "Weekly Racing Slinger",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "World of Outlaws Late Models Nodak",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "GCW Life of Crime",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "160"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "05:30",
@@ -1032,6 +1114,18 @@
                         "channel_id": "839"
                     },
                     {
+                        "channel_name": "Backup Stream English",
+                        "channel_id": "9008"
+                    },
+                    {
+                        "channel_name": "Backup Stream Arabic",
+                        "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "Backup Stream Arabic",
+                        "channel_id": "9002"
+                    },
+                    {
                         "channel_name": "SuperSport Grandstand",
                         "channel_id": "412"
                     },
@@ -1464,6 +1558,86 @@
                 ]
             },
             {
+                "time": "21:00",
+                "event": "Chile - Copa Chile : Curico Unido vs Universidad de Concepcion",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6025"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Peru - Copa de La Liga : Los Chankas vs Santos",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6026"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "World Club Friendly : America De Cali vs Racing Montevideo",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6027"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Chile - Copa Chile : O'Higgins vs Deportes Recoleta",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6028"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Chile - Copa Chile : Rangers de Talca vs Nublense",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6029"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Brazil - Serie B : Fortaleza vs Sport",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6030"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Brazil - Serie B : Nautico vs Goias",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6031"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Chile - Copa Chile : Universidad de Chile vs Union San Felipe",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6032"
+                    }
+                ]
+            },
+            {
                 "time": "01:00",
                 "event": "Canada - Canadian Premier League : Cavalry vs Supra du Quebec",
                 "channels": [
@@ -1474,6 +1648,26 @@
                     {
                         "channel_name": "TVA Sports CA",
                         "channel_id": "833"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Peru - Copa de La Liga : Cusco vs Cienciano",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6033"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Chile - Copa Chile : Puerto Montt vs Deportes Concepcion",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6034"
                     }
                 ]
             }
@@ -3189,7 +3383,7 @@
                     },
                     {
                         "channel_name": "CW PIX 11 USA",
-                        "channel_id": "208"
+                        "channel_id": "280"
                     }
                 ]
             }
