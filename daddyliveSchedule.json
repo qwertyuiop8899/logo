@@ -1832,12 +1832,26 @@
         ],
         "Tennis \ud83c\udfbe WTA - DOUBLES: Eastbourne (United Kingdom), Grass": [
             {
-                "time": "12:00",
-                "event": "WTA - Doubles : \ud83c\udde8\ud83c\udde6 Gabriela Dabrowski / \ud83c\udde7\ud83c\uddf7 Luisa Stefani vs \ud83c\udde8\ud83c\uddff Jesika Male\u010dkov\u00e1 / \ud83c\udde8\ud83c\uddff Kate\u0159ina Skoch",
+                "time": "12:05",
+                "event": "ATP Eastbourne: \ud83c\udde7\ud83c\uddeaZizouBergs vs \ud83c\uddeb\ud83c\uddf7UgoHumbert",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "12:10",
+                "event": "WTA Eastbourne: \ud83c\udde8\ud83c\udde6GabrielaDabrowski/\ud83c\udde7\ud83c\uddf7LuisaStefani vs \ud83c\udde8\ud83c\uddffJesikaMale\u010dkov\u00e1/\ud83c\udde8\ud83c\uddffMiriam\u0160koch",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552"
                     }
                 ]
             }
