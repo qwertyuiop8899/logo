@@ -1818,6 +1818,18 @@
                         "channel_id": "839"
                     },
                     {
+                        "channel_name": "Backup Arabic Stream",
+                        "channel_id": "9002"
+                    },
+                    {
+                        "channel_name": "Backup Arabic Stream",
+                        "channel_id": "9004"
+                    },
+                    {
+                        "channel_name": "Backup English Stream",
+                        "channel_id": "9009"
+                    },
+                    {
                         "channel_name": "SRF zwei",
                         "channel_id": "258"
                     },
@@ -2254,6 +2266,18 @@
                     {
                         "channel_name": "RDS CA",
                         "channel_id": "839"
+                    },
+                    {
+                        "channel_name": "Backup Arabic Stream",
+                        "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "Backup Arabic Stream",
+                        "channel_id": "9003"
+                    },
+                    {
+                        "channel_name": "Backup English Stream",
+                        "channel_id": "9008"
                     },
                     {
                         "channel_name": "SRF zwei",
