@@ -1,5 +1,17 @@
 {
     "Thursday 02nd July 2026 - Schedule Time UK GMT": {
+        "Poker 2026 (WSOP)": [
+            {
+                "time": "02:00",
+                "event": "World Series of Poker 2026 (WSOP) Main Event",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "30"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "05:30",
@@ -2910,7 +2922,7 @@
         ],
         "\ud83c\udfbe ATP - Singles: Wimbledon / \ud83c\udfbe WTA - Singles: Wimbledon / \ud83c\udfbe ATP - Doubles / \ud83c\udfbe WTA - Doubles": [
             {
-                "time": "21:35",
+                "time": "22:59",
                 "event": "Wimbledon Open",
                 "channels": [
                     {
