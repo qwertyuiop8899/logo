@@ -1,5 +1,97 @@
 {
     "Friday 03rd July 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "23:15",
+                "event": "2026 Lincoln Tech Night at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "2026 Lucas Oil Late Model Dirt Series at Mansfield Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "2026 USAC Sprintacular at Lincoln Park Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "2026 37th Mira Vision Challenge at Granby",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Attica Raceway Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Williams Grove Speedway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "2026 NASCAR Weekly Racing at Riverhead Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "DIRTcar Summer Nationals Late Models Red Hill",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Budo Sento Championship 35",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "173"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "05:30",
@@ -3230,7 +3322,7 @@
         ],
         "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 \u2013 Court-wise Listing": [
             {
-                "time": "19:26",
+                "time": "20:24",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Center Court \u25c6",
                 "channels": [
                     {
@@ -3240,7 +3332,7 @@
                 ]
             },
             {
-                "time": "19:26",
+                "time": "20:24",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Center Court 4K \u25c6",
                 "channels": [
                     {
@@ -3250,7 +3342,7 @@
                 ]
             },
             {
-                "time": "19:26",
+                "time": "20:24",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.1 \u25c6",
                 "channels": [
                     {
@@ -3260,7 +3352,7 @@
                 ]
             },
             {
-                "time": "19:26",
+                "time": "20:24",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.2 \u25c6",
                 "channels": [
                     {
@@ -3270,7 +3362,7 @@
                 ]
             },
             {
-                "time": "19:26",
+                "time": "20:24",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.3 \u25c6",
                 "channels": [
                     {
@@ -3280,7 +3372,7 @@
                 ]
             },
             {
-                "time": "19:26",
+                "time": "20:24",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.4 \u25c6",
                 "channels": [
                     {
@@ -3290,7 +3382,7 @@
                 ]
             },
             {
-                "time": "19:26",
+                "time": "20:24",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.5 \u25c6",
                 "channels": [
                     {
@@ -3300,7 +3392,7 @@
                 ]
             },
             {
-                "time": "19:26",
+                "time": "20:24",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.6 \u25c6",
                 "channels": [
                     {
@@ -3310,7 +3402,7 @@
                 ]
             },
             {
-                "time": "19:26",
+                "time": "20:24",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.7 \u25c6",
                 "channels": [
                     {
@@ -3320,7 +3412,7 @@
                 ]
             },
             {
-                "time": "19:26",
+                "time": "20:24",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.8 \u25c6",
                 "channels": [
                     {
@@ -3330,7 +3422,7 @@
                 ]
             },
             {
-                "time": "19:26",
+                "time": "20:24",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.9 \u25c6",
                 "channels": [
                     {
@@ -3340,7 +3432,7 @@
                 ]
             },
             {
-                "time": "19:26",
+                "time": "20:24",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.10 \u25c6",
                 "channels": [
                     {
@@ -3350,7 +3442,7 @@
                 ]
             },
             {
-                "time": "19:26",
+                "time": "20:24",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.11 \u25c6",
                 "channels": [
                     {
@@ -3360,7 +3452,7 @@
                 ]
             },
             {
-                "time": "19:26",
+                "time": "20:24",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.12 \u25c6",
                 "channels": [
                     {
@@ -3370,7 +3462,7 @@
                 ]
             },
             {
-                "time": "19:26",
+                "time": "20:24",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.13 \u25c6",
                 "channels": [
                     {
@@ -3380,7 +3472,7 @@
                 ]
             },
             {
-                "time": "19:26",
+                "time": "20:24",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.14 \u25c6",
                 "channels": [
                     {
@@ -3390,7 +3482,7 @@
                 ]
             },
             {
-                "time": "19:26",
+                "time": "20:24",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.15 \u25c6",
                 "channels": [
                     {
@@ -3400,7 +3492,7 @@
                 ]
             },
             {
-                "time": "19:26",
+                "time": "20:24",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.16 \u25c6",
                 "channels": [
                     {
@@ -3410,7 +3502,7 @@
                 ]
             },
             {
-                "time": "19:26",
+                "time": "20:24",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.17 \u25c6",
                 "channels": [
                     {
@@ -3420,7 +3512,7 @@
                 ]
             },
             {
-                "time": "19:26",
+                "time": "20:24",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.18 \u25c6",
                 "channels": [
                     {
