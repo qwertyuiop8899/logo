@@ -1,5 +1,137 @@
 {
     "Saturday 04th July 2026 - Schedule Time UK GMT": {
+        "\ud83c\udfc1 PPV EVENTS \ud83c\udfc1": [
+            {
+                "time": "14:44",
+                "event": "\ud83d\udd52 03:00 \ud83c\udfce\ufe0f 2026 SMART Modified Tour at Caraway Speedway \ud83c\udfc1",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udcfa FloRacing",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "14:44",
+                "event": "\ud83d\udd5e 03:30 \ud83c\udfc1 2026 NASCAR Weekly Racing at Berlin Raceway \ud83c\udfce\ufe0f",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udcfa FloRacing",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "14:44",
+                "event": "\ud83d\udd5e 03:30 \ud83c\udfce\ufe0f 2026 PA Speedweek \u2013 Greg Hodnett Classic at Port Royal Speedway \ud83c\udfc1",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udcfa FloRacing",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "14:44",
+                "event": "\ud83d\udd5e 03:30 \ud83c\udfce\ufe0f 2026 Ohio Wheelman Series at Jennerstown Speedway \ud83c\udfc1",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udcfa FloRacing",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "14:44",
+                "event": "\ud83d\udd5e 03:30 \ud83e\udd3c GCW: Bash at the Ballpark 2026 \ud83d\udca5",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udcfa TrillerTV",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "14:44",
+                "event": "\ud83d\udd52 03:45 \ud83c\udfc1 2026 Lucas Oil Late Model Dirt Series at Muskingum County Speedway \ud83c\udfce\ufe0f",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udcfa FloRacing",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "14:44",
+                "event": "\ud83d\udd52 03:45 \ud83c\udf86 2026 Independence Day Spectacular at Oswego Speedway \ud83c\udfc1",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udcfa FloRacing",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "14:44",
+                "event": "\ud83d\udd52 03:45 \ud83c\udfce\ufe0f 2026 USAC Sprintacular at Lincoln Park Speedway \ud83c\udfc1",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udcfa FloRacing",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "14:44",
+                "event": "\ud83d\udd53 04:00 \ud83c\udfc1 Land of Legends Raceway \u2013 Late Models \ud83d\ude97",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udcfa Event PPV",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "14:44",
+                "event": "\ud83d\udd5f 04:15 \ud83c\udfc1 DIRTcar Summer Nationals \u2013 Late Models (Highland Speedway) \ud83d\ude97",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udcfa DIRTVision",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "14:44",
+                "event": "\ud83d\udd5f 04:30 \ud83c\udfce\ufe0f 2026 Virginia Sprint Cars at Langley Speedway \ud83c\udfc1",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udcfa FloRacing",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "14:44",
+                "event": "\ud83d\udd54 05:00 \ud83c\udfce\ufe0f 2026 USAC Avanti CRA / Western States Midgets at Santa Maria Speedway \ud83c\udfc1",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udcfa FloRacing",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "14:44",
+                "event": "\ud83d\udd54 05:00 \ud83c\udfc1 Knoxville Raceway Sprint Cars \ud83d\ude97",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udcfa Event PPV",
+                        "channel_id": "171"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "05:30",
@@ -2556,7 +2688,7 @@
         ],
         "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 \u2013 Court-wise Listing": [
             {
-                "time": "11:49",
+                "time": "14:44",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Center Court \u25c6",
                 "channels": [
                     {
@@ -2566,7 +2698,7 @@
                 ]
             },
             {
-                "time": "11:49",
+                "time": "14:44",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Center Court 4K \u25c6",
                 "channels": [
                     {
@@ -2576,7 +2708,7 @@
                 ]
             },
             {
-                "time": "11:49",
+                "time": "14:44",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.1 \u25c6",
                 "channels": [
                     {
@@ -2586,7 +2718,7 @@
                 ]
             },
             {
-                "time": "11:49",
+                "time": "14:44",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.2 \u25c6",
                 "channels": [
                     {
@@ -2596,7 +2728,7 @@
                 ]
             },
             {
-                "time": "11:49",
+                "time": "14:44",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.3 \u25c6",
                 "channels": [
                     {
@@ -2606,7 +2738,7 @@
                 ]
             },
             {
-                "time": "11:49",
+                "time": "14:44",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.4 \u25c6",
                 "channels": [
                     {
@@ -2616,7 +2748,7 @@
                 ]
             },
             {
-                "time": "11:49",
+                "time": "14:44",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.5 \u25c6",
                 "channels": [
                     {
@@ -2626,7 +2758,7 @@
                 ]
             },
             {
-                "time": "11:49",
+                "time": "14:44",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.6 \u25c6",
                 "channels": [
                     {
@@ -2636,7 +2768,7 @@
                 ]
             },
             {
-                "time": "11:49",
+                "time": "14:44",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.7 \u25c6",
                 "channels": [
                     {
@@ -2646,7 +2778,7 @@
                 ]
             },
             {
-                "time": "11:49",
+                "time": "14:44",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.8 \u25c6",
                 "channels": [
                     {
@@ -2656,7 +2788,7 @@
                 ]
             },
             {
-                "time": "11:49",
+                "time": "14:44",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.9 \u25c6",
                 "channels": [
                     {
@@ -2666,7 +2798,7 @@
                 ]
             },
             {
-                "time": "11:49",
+                "time": "14:44",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.10 \u25c6",
                 "channels": [
                     {
@@ -2676,7 +2808,7 @@
                 ]
             },
             {
-                "time": "11:49",
+                "time": "14:44",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.11 \u25c6",
                 "channels": [
                     {
@@ -2686,7 +2818,7 @@
                 ]
             },
             {
-                "time": "11:49",
+                "time": "14:44",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.12 \u25c6",
                 "channels": [
                     {
@@ -2696,7 +2828,7 @@
                 ]
             },
             {
-                "time": "11:49",
+                "time": "14:44",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.13 \u25c6",
                 "channels": [
                     {
@@ -2706,7 +2838,7 @@
                 ]
             },
             {
-                "time": "11:49",
+                "time": "14:44",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.14 \u25c6",
                 "channels": [
                     {
@@ -2716,7 +2848,7 @@
                 ]
             },
             {
-                "time": "11:49",
+                "time": "14:44",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.15 \u25c6",
                 "channels": [
                     {
@@ -2726,7 +2858,7 @@
                 ]
             },
             {
-                "time": "11:49",
+                "time": "14:44",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.16 \u25c6",
                 "channels": [
                     {
@@ -2736,7 +2868,7 @@
                 ]
             },
             {
-                "time": "11:49",
+                "time": "14:44",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.17 \u25c6",
                 "channels": [
                     {
@@ -2746,7 +2878,7 @@
                 ]
             },
             {
-                "time": "11:49",
+                "time": "14:44",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.18 \u25c6",
                 "channels": [
                     {
@@ -4561,6 +4693,10 @@
                 "time": "01:00",
                 "event": "Boxing : Abdullah Mason vs Albert Bell",
                 "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "26"
+                    },
                     {
                         "channel_name": "TNT USA",
                         "channel_id": "338"
