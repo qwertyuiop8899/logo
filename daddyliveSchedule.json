@@ -1,5 +1,67 @@
 {
     "Tuesday 07th July 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "23:45",
+                "event": "Super DIRTcar Series Cornwall",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "DIRTcar Summer Nationals Montpelier",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Summer Shootout Charlotte",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "Millbridge Youth Divisions",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "USAC National Sweet Springs",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "Country Box Where Music Meets Boxing",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "157"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "05:30",
@@ -1974,8 +2036,8 @@
                         "channel_id": "739"
                     },
                     {
-                        "channel_name": "Servus TV Austria",
-                        "channel_id": "23"
+                        "channel_name": "ORF 1 Austria",
+                        "channel_id": "242"
                     },
                     {
                         "channel_name": "Sport TV5 Portugal",
