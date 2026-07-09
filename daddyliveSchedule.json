@@ -1,5 +1,77 @@
 {
     "Thursday 09th July 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "23:45",
+                "event": "DIRTcar Summer Nationals Butler",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Summer Shootout at Charlotte",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "World of Outlaws Sprints Hartford",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "USAC National at Sweet Springs",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Short Track Super Series Outlaw",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "Lucas Oil Late Models 34 Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Jackson Motorplex",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "157"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "05:30",
@@ -1464,6 +1536,18 @@
                     {
                         "channel_name": "RDS CA",
                         "channel_id": "839"
+                    },
+                    {
+                        "channel_name": "BAckup Stream Arabic",
+                        "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "BAckup Stream Arabic",
+                        "channel_id": "9003"
+                    },
+                    {
+                        "channel_name": "BAckup Stream English",
+                        "channel_id": "9008"
                     },
                     {
                         "channel_name": "TVE La 1 Spain",
