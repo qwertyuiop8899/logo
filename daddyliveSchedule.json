@@ -1,5 +1,207 @@
 {
     "Saturday 11th July 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "16:00",
+                "event": "\ud83c\uddfa\ud83c\uddf8 AMA Supercross Championship: Southwick National",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\ud83e\udd4a IBA Pro 19: \ud83c\uddf7\ud83c\uddfa Murat Gassiev vs \ud83c\udde9\ud83c\uddea Peter Kadiru",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "16:45",
+                "event": "\ud83c\uddfa\ud83c\uddf8 AMSOIL Championship Off-Road: Elk River, Minnesota",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\ud83c\uddec\ud83c\uddea Real American Freestyle (RAF): Tbilisi, Georgia",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "\ud83c\uddfa\ud83c\uddf8 MotoAmerica Superbikes: Speedfest at Monterey",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\ud83c\uddfa\ud83c\uddf8 American Flat Track: Williams Grove Half-Mile",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "215"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\ud83c\uddfa\ud83c\uddf8 Millbridge Speedway Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "216"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "\ud83c\uddfa\ud83c\uddf8 DIRTcar Summer Nationals: Late Models \u2013 Oakshade Raceway",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "217"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83c\uddfa\ud83c\uddf8 Modified Twin 20s: Fonda Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "218"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83c\uddfa\ud83c\uddf8 Volusia Speedway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "219"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83c\uddfa\ud83c\uddf8 Land of Legends Raceway Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "220"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83c\uddfa\ud83c\uddf8 Cedar Lake Speedway Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "221"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "\ud83c\uddfa\ud83c\uddf8 World of Outlaws Late Models: Sharon Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "222"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\ud83c\uddfa\ud83c\uddf8 Fight to Win: Battle of the Badge 8",
+                "channels": [
+                    {
+                        "channel_name": "FloTV",
+                        "channel_id": "224"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\ud83c\uddfa\ud83c\uddf8 IMCA Stock Cars: 141 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "225"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "\ud83c\uddfa\ud83c\uddf8 World of Outlaws Sprint Cars: Wilmot Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "226"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "\ud83c\uddfa\ud83c\uddf8 American Sprint Car Series: Texarkana 67 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "227"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "\ud83c\uddfa\ud83c\uddf8 Knoxville Raceway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "228"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "\ud83c\uddfa\ud83c\uddf8 GCW: You Only Die Once 2026",
+                "channels": [
+                    {
+                        "channel_name": "TrillerTV",
+                        "channel_id": "229"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "\ud83c\uddfa\ud83c\uddf8 House of Pain: War in the Empire 2",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "237"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "05:30",
@@ -4394,6 +4596,14 @@
                     {
                         "channel_name": "UFC Fight Pass",
                         "channel_id": "59"
+                    },
+                    {
+                        "channel_name": "UFC Spanish Feed",
+                        "channel_id": "214"
+                    },
+                    {
+                        "channel_name": "UFC Portugese Feed",
+                        "channel_id": "238"
                     }
                 ]
             },
@@ -4412,6 +4622,14 @@
                     {
                         "channel_name": "UFC Fight Pass",
                         "channel_id": "59"
+                    },
+                    {
+                        "channel_name": "UFC Spanish Feed",
+                        "channel_id": "214"
+                    },
+                    {
+                        "channel_name": "UFC Portugese Feed",
+                        "channel_id": "238"
                     },
                     {
                         "channel_name": "TNT Sports 1 UK",
@@ -4466,6 +4684,14 @@
                     {
                         "channel_name": "UFC Fight Pass",
                         "channel_id": "59"
+                    },
+                    {
+                        "channel_name": "UFC Spanish Feed",
+                        "channel_id": "214"
+                    },
+                    {
+                        "channel_name": "UFC Portugese Feed",
+                        "channel_id": "238"
                     },
                     {
                         "channel_name": "TNT Sports 1 UK",
