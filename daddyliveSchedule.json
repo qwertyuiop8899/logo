@@ -3054,6 +3054,10 @@
                         "channel_id": "341"
                     },
                     {
+                        "channel_name": "Stan Sport",
+                        "channel_id": "151"
+                    },
+                    {
                         "channel_name": "TNT Sports 4 UK",
                         "channel_id": "34"
                     },
@@ -3660,7 +3664,7 @@
         ],
         "All-Star Game \u26be": [
             {
-                "time": "11:33",
+                "time": "16:09",
                 "event": "\u26be 21:30 All-Star Futures Game: American League All-Stars vs National League All-Stars",
                 "channels": [
                     {
