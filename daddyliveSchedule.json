@@ -2879,6 +2879,16 @@
         "WNBA \ud83c\udfc0": [
             {
                 "time": "19:00",
+                "event": "\ud83c\udfc0 WNBA: \ud83c\uddfa\ud83c\uddf8 Chicago Sky W vs \ud83c\uddfa\ud83c\uddf8 Seattle Storm W",
+                "channels": [
+                    {
+                        "channel_name": "WNBA League Pass",
+                        "channel_id": "22"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
                 "event": "\ud83c\udfc0 WNBA: \ud83c\uddfa\ud83c\uddf8 Minnesota Lynx vs \ud83c\uddfa\ud83c\uddf8 Los Angeles Sparks",
                 "channels": [
                     {
@@ -2888,6 +2898,20 @@
                     {
                         "channel_name": "Spectrum SportsNet USA",
                         "channel_id": "982"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\ud83c\udfc0 WNBA : 2026 WNBA All-Star Draft",
+                "channels": [
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44"
+                    },
+                    {
+                        "channel_name": "TSN2",
+                        "channel_id": "112"
                     }
                 ]
             },
