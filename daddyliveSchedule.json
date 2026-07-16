@@ -1147,6 +1147,20 @@
         "UEFA Conference League \u26bd": [
             {
                 "time": "17:00",
+                "event": "\u26bd UEFA Conference League: FC Inter Turku vs FK Sarajevo",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6002"
+                    },
+                    {
+                        "channel_name": "Moja TV",
+                        "channel_id": "3069"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
                 "event": "\u26bd UEFA Conference League: \ud83c\uddf0\ud83c\uddff Astana vs \ud83c\udde6\ud83c\uddf1 Dinamo City",
                 "channels": [
                     {
