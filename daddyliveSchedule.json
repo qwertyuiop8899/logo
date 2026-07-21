@@ -648,6 +648,16 @@
                 ]
             },
             {
+                "time": "20:00",
+                "event": "\u26bd Club Friendly : Gillingham vs Millwall",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6040"
+                    }
+                ]
+            },
+            {
                 "time": "19:00",
                 "event": "\u26bd Club Friendly : \ud83c\uddff\ud83c\udde6 Orlando Pirates vs \ud83c\uddf8\ud83c\udde6 Al-Ittihad",
                 "channels": [
@@ -668,6 +678,26 @@
                     {
                         "channel_name": "Esport 3 Spain",
                         "channel_id": "3026"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "\u26bd Club Friendly : Boreham Wood vs Tottenham U21",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6021"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "\u26bd Club Friendly : Walsall vs Aston Villa",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6022"
                     }
                 ]
             },
@@ -774,6 +804,166 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4105"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "\u26bd UEFA Champions League : KI Klaksvik vs Kauno Zalgiris",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6023"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "\u26bd Scotland League Cup : Alloa Athletic vs Falkirk",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6024"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "\u26bd Scotland League Cup : Arbroath vs Montrose",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6025"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "\u26bd Scotland League Cup : Clyde vs Annan Athletic",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6026"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "\u26bd Scotland League Cup : Dundee United vs Spartans FC",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6027"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "\u26bd Scotland League Cup : Dunfermline Athletic vs Cove Rangers",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6028"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "\u26bd Scotland League Cup : East Fife vs Linlithgow Rose",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6029"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "\u26bd Scotland League Cup : Inverness Caledonian Thistle vs St Johnstone",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6030"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "\u26bd Scotland League Cup : Kelty Hearts vs Brora Rangers",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6031"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "\u26bd Scotland League Cup : Kilmarnock vs Hamilton Academical",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6032"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "\u26bd Scotland League Cup : Livingston vs Forfar Athletic",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6033"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "\u26bd Scotland League Cup : Partick Thistle vs Stenhousemuir",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6034"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "\u26bd Scotland League Cup : Raith Rovers vs Peterhead",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6035"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "\u26bd Scotland League Cup : Ross County vs Dundee",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6036"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "\u26bd Scotland League Cup : St Mirren vs East Kilbride",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6037"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "\u26bd Scotland League Cup : Stranraer vs Edinburgh City",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6038"
                     }
                 ]
             },
@@ -908,6 +1098,28 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4115"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7051"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7052"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7053"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\u26bd Brazil Serie B : America MG vs Goias",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6039"
                     }
                 ]
             },
@@ -944,6 +1156,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4112"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7054"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7055"
                     }
                 ]
             },
@@ -1018,6 +1238,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4118"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7056"
                     }
                 ]
             },
@@ -1038,6 +1262,14 @@
                     {
                         "channel_name": "TUDN USA",
                         "channel_id": "66"
+                    },
+                    {
+                        "channel_name": "TUDN USA",
+                        "channel_id": "3030"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7057"
                     }
                 ]
             },
@@ -1052,6 +1284,18 @@
                     {
                         "channel_name": "TUDN USA",
                         "channel_id": "66"
+                    },
+                    {
+                        "channel_name": "TUDN USA",
+                        "channel_id": "3030"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7058"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7059"
                     }
                 ]
             }
@@ -2273,6 +2517,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4016"
                     }
                 ]
             },
@@ -2287,6 +2535,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4015"
                     }
                 ]
             },
@@ -2313,6 +2565,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4017"
                     }
                 ]
             },
@@ -2339,6 +2595,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4018"
                     }
                 ]
             },
@@ -2361,6 +2621,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4019"
                     }
                 ]
             },
@@ -2387,6 +2651,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4020"
                     }
                 ]
             },
@@ -2405,6 +2673,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4021"
                     }
                 ]
             },
@@ -2423,6 +2695,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4022"
                     }
                 ]
             },
@@ -2441,6 +2717,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4023"
                     }
                 ]
             },
@@ -2471,6 +2751,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4024"
                     }
                 ]
             },
@@ -2489,6 +2773,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4025"
                     }
                 ]
             },
@@ -2503,6 +2791,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4026"
                     }
                 ]
             },
@@ -2521,6 +2813,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4027"
                     }
                 ]
             },
@@ -2539,6 +2835,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2014"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4029"
                     }
                 ]
             },
@@ -2569,6 +2869,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2015"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4028"
                     }
                 ]
             }
@@ -2815,6 +3119,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4101"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
                     }
                 ]
             }
