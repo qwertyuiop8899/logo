@@ -3164,6 +3164,10 @@
                 "event": "\ud83c\udfc0 WNBA : Minnesota Lynx vs Seattle Storm",
                 "channels": [
                     {
+                        "channel_name": "WNBA Pass",
+                        "channel_id": "30"
+                    },
+                    {
                         "channel_name": "Backup Stream",
                         "channel_id": "4071"
                     }
