@@ -2,7 +2,7 @@
     "Thursday 13th Aug 2026 - Schedule Time UK GMT": {
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
-                "time": "20:30",
+                "time": "02:00",
                 "event": "\ud83d\udcfa Big Brother \ud83d\udc41\ufe0f 28 Live Feeds Cam 1",
                 "channels": [
                     {
@@ -12,7 +12,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "02:00",
                 "event": "\ud83d\udcfa Big Brother \ud83d\udc41\ufe0f 28 Live Feeds Cam 2",
                 "channels": [
                     {
@@ -22,7 +22,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "02:00",
                 "event": "\ud83d\udcfa Big Brother \ud83d\udc41\ufe0f 28 Live Feeds Cam 3",
                 "channels": [
                     {
@@ -32,7 +32,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "02:00",
                 "event": "\ud83d\udcfa Big Brother \ud83d\udc41\ufe0f 28 Live Feeds Cam 4",
                 "channels": [
                     {
@@ -42,7 +42,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "02:00",
                 "event": "\ud83d\udcfa Big Brother \ud83d\udc41\ufe0f 28 Live Feeds Quadview",
                 "channels": [
                     {
@@ -54,7 +54,7 @@
         ],
         "Upcoming Events": [
             {
-                "time": "08:00",
+                "time": "13:30",
                 "event": "\ud83c\udfce\ufe0f\ud83c\uddf3\ud83c\uddf1 Formula 1 Dutch Grand Prix | Zandvoort, Netherlands | 21\u201323 August 2026",
                 "channels": [
                     {
@@ -64,7 +64,7 @@
                 ]
             },
             {
-                "time": "09:00",
+                "time": "14:30",
                 "event": "\u26bd\ud83c\udff4 Start of 2026 | 27 Premier League Season UK | 22 August 2026",
                 "channels": [
                     {
@@ -82,7 +82,7 @@
                 ]
             },
             {
-                "time": "13:30",
+                "time": "19:00",
                 "event": "\ud83c\udfbe\ud83c\uddfa\ud83c\uddf8 US Open | New York, USA | 23 August\u201313 September 2026",
                 "channels": [
                     {
@@ -100,7 +100,7 @@
                 ]
             },
             {
-                "time": "14:30",
+                "time": "20:00",
                 "event": "\ud83c\udfc3\ud83c\udde8\ud83c\udded Lausanne Diamond League | Lausanne, Switzerland | 21 August 2026",
                 "channels": [
                     {
@@ -110,7 +110,7 @@
                 ]
             },
             {
-                "time": "14:30",
+                "time": "20:00",
                 "event": "\u26bd\ud83c\uddf2\ud83c\udde6 Africa Women Cup of Nations | Morocco | 26 July\u201316 August 2026",
                 "channels": [
                     {
@@ -124,7 +124,7 @@
                 ]
             },
             {
-                "time": "19:00",
+                "time": "00:30",
                 "event": "\ud83c\udfbe\ud83c\udde8\ud83c\udde6 National Bank Open Montreal (ATP) | Montreal, Canada | 1\u201313 August 2026",
                 "channels": [
                     {
@@ -134,7 +134,7 @@
                 ]
             },
             {
-                "time": "19:00",
+                "time": "00:30",
                 "event": "\ud83c\udfbe\ud83c\udde8\ud83c\udde6 National Bank Open Toronto (WTA) | Toronto, Canada | 1\u201313 August 2026",
                 "channels": [
                     {
@@ -144,7 +144,7 @@
                 ]
             },
             {
-                "time": "19:00",
+                "time": "00:30",
                 "event": "\ud83c\udfbe\ud83c\uddfa\ud83c\uddf8 Cincinnati Open (Tennis) | Cincinnati, OH, USA | 11\u201323 August 2026",
                 "channels": [
                     {
@@ -154,7 +154,7 @@
                 ]
             },
             {
-                "time": "05:30",
+                "time": "11:00",
                 "event": "\ud83e\udd38\ud83c\udde9\ud83c\uddea FIG Rhythmic Gymnastics World Championships | Frankfurt, Germany | 12\u201316 August 2026",
                 "channels": [
                     {
@@ -168,7 +168,7 @@
                 ]
             },
             {
-                "time": "05:30",
+                "time": "11:00",
                 "event": "\ud83d\udcfa\ud83c\uddfa\ud83c\uddf8 Saturday Night Live (SNL USA)",
                 "channels": [
                     {
@@ -188,7 +188,7 @@
         ],
         "TV Shows \ud83d\udcfa": [
             {
-                "time": "21:00",
+                "time": "02:30",
                 "event": "\ud83d\udcfa General Hospital Season 63, Episode 234",
                 "channels": [
                     {
@@ -198,7 +198,7 @@
                 ]
             },
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\ud83d\udcfa Top Chef VIP Season 5, Episode 3",
                 "channels": [
                     {
@@ -208,7 +208,7 @@
                 ]
             },
             {
-                "time": "02:00",
+                "time": "07:30",
                 "event": "\ud83d\udcfa Big Brother Season 28, Episode 19 \u2022 Live",
                 "channels": [
                     {
@@ -222,7 +222,7 @@
                 ]
             },
             {
-                "time": "02:00",
+                "time": "07:30",
                 "event": "\ud83d\udcfa The Americas Season 1, Episode 20 \u2022 Finale",
                 "channels": [
                     {
@@ -236,7 +236,7 @@
                 ]
             },
             {
-                "time": "02:00",
+                "time": "07:30",
                 "event": "\ud83d\udcfa Celebrity Family Feud Season 12, Episode 6",
                 "channels": [
                     {
@@ -246,7 +246,7 @@
                 ]
             },
             {
-                "time": "02:00",
+                "time": "07:30",
                 "event": "\ud83d\udcfa 90 Day: The Last Resort Season 3",
                 "channels": [
                     {
@@ -256,7 +256,7 @@
                 ]
             },
             {
-                "time": "02:00",
+                "time": "07:30",
                 "event": "\ud83d\udcfa Jersey Shore Family Vacation Season 8, Episode 33",
                 "channels": [
                     {
@@ -266,7 +266,7 @@
                 ]
             },
             {
-                "time": "02:00",
+                "time": "07:30",
                 "event": "\ud83d\udcfa Mecum Full Throttle Season 3, Episode 3",
                 "channels": [
                     {
@@ -276,7 +276,7 @@
                 ]
             },
             {
-                "time": "02:00",
+                "time": "07:30",
                 "event": "\ud83d\udcfa Restaurant Impossible: Last Call Season 1, Episode 4",
                 "channels": [
                     {
@@ -286,7 +286,7 @@
                 ]
             },
             {
-                "time": "02:00",
+                "time": "07:30",
                 "event": "\ud83d\udcfa The Real Housewives of Orange County Season 20, Episode 6",
                 "channels": [
                     {
@@ -296,27 +296,27 @@
                 ]
             },
             {
-                "time": "02:00",
+                "time": "07:30",
                 "event": "\ud83d\udcfa The First 48 Season 30, Episode 5",
                 "channels": [
                     {
-                        "channel_name": "A&amp;E TV USA",
+                        "channel_name": "A&E TV USA",
                         "channel_id": "302"
                     }
                 ]
             },
             {
-                "time": "03:00",
+                "time": "08:30",
                 "event": "\ud83d\udcfa Accused: Guilty or Innocent? Season 8, Episode 6",
                 "channels": [
                     {
-                        "channel_name": "A&amp;E TV USA",
+                        "channel_name": "A&E TV USA",
                         "channel_id": "302"
                     }
                 ]
             },
             {
-                "time": "03:00",
+                "time": "08:30",
                 "event": "\ud83d\udcfa Monsters of God Season 1, Episode 2",
                 "channels": [
                     {
@@ -326,7 +326,7 @@
                 ]
             },
             {
-                "time": "03:00",
+                "time": "08:30",
                 "event": "\ud83d\udcfa OVW Wrestling New",
                 "channels": [
                     {
@@ -336,7 +336,7 @@
                 ]
             },
             {
-                "time": "03:00",
+                "time": "08:30",
                 "event": "\ud83d\udcfa Little Singles Season 1",
                 "channels": [
                     {
@@ -346,7 +346,7 @@
                 ]
             },
             {
-                "time": "03:00",
+                "time": "08:30",
                 "event": "\ud83d\udcfa Secrets Declassified With David Duchovny Season 2, Episode 19",
                 "channels": [
                     {
@@ -356,7 +356,7 @@
                 ]
             },
             {
-                "time": "03:00",
+                "time": "08:30",
                 "event": "\ud83d\udcfa Gordon Ramsay's Secret Service Season 1, Episode 7",
                 "channels": [
                     {
@@ -366,7 +366,7 @@
                 ]
             },
             {
-                "time": "03:00",
+                "time": "08:30",
                 "event": "\ud83d\udcfa The 2026 Patriot Games New",
                 "channels": [
                     {
@@ -376,7 +376,7 @@
                 ]
             },
             {
-                "time": "04:00",
+                "time": "09:30",
                 "event": "\ud83d\udcfa Press Your Luck Season 7, Episode 6",
                 "channels": [
                     {
@@ -386,7 +386,7 @@
                 ]
             },
             {
-                "time": "04:00",
+                "time": "09:30",
                 "event": "\ud83d\udcfa Engineering from Above Season 1, Episode 1 \u2022 Premiere",
                 "channels": [
                     {
@@ -396,7 +396,7 @@
                 ]
             },
             {
-                "time": "04:00",
+                "time": "09:30",
                 "event": "\ud83d\udcfa Project Runway Season 22, Episode 6",
                 "channels": [
                     {
@@ -406,7 +406,7 @@
                 ]
             },
             {
-                "time": "05:00",
+                "time": "10:30",
                 "event": "\ud83d\udcfa Impractical Jokers: Inside Jokes Season 11, Episode 13",
                 "channels": [
                     {
@@ -416,7 +416,7 @@
                 ]
             },
             {
-                "time": "05:30",
+                "time": "11:00",
                 "event": "\ud83d\udcfa Jimmy Kimmel Live! Season 24, Episode 149",
                 "channels": [
                     {
@@ -426,7 +426,7 @@
                 ]
             },
             {
-                "time": "06:00",
+                "time": "11:30",
                 "event": "\ud83d\udcfa WOW - Women Of Wrestling Season 4, Episode 35",
                 "channels": [
                     {
@@ -438,7 +438,7 @@
         ],
         "Leagues Cup \u26bd": [
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 North America - Leagues Cup: Philadelphia Union \ud83c\uddfa\ud83c\uddf8 vs Santos Laguna \ud83c\uddf2\ud83c\uddfd",
                 "channels": [
                     {
@@ -448,7 +448,7 @@
                 ]
             },
             {
-                "time": "01:30",
+                "time": "07:00",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 North America - Leagues Cup: New York City FC \ud83c\uddfa\ud83c\uddf8 vs Necaxa \ud83c\uddf2\ud83c\uddfd",
                 "channels": [
                     {
@@ -458,7 +458,7 @@
                 ]
             },
             {
-                "time": "02:30",
+                "time": "08:00",
                 "event": "\u26bd \ud83c\uddf2\ud83c\uddfd North America - Leagues Cup: Club Am\u00e9rica \ud83c\uddf2\ud83c\uddfd vs Austin FC \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -468,7 +468,7 @@
                 ]
             },
             {
-                "time": "03:00",
+                "time": "08:30",
                 "event": "\u26bd \ud83c\uddf2\ud83c\uddfd North America - Leagues Cup: Cruz Azul \ud83c\uddf2\ud83c\uddfd vs Chicago Fire \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -478,7 +478,7 @@
                 ]
             },
             {
-                "time": "04:30",
+                "time": "10:00",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 North America - Leagues Cup: Portland Timbers \ud83c\uddfa\ud83c\uddf8 vs Tijuana \ud83c\uddf2\ud83c\uddfd",
                 "channels": [
                     {
@@ -502,7 +502,7 @@
         ],
         "UEFA Europa League \u26bd": [
             {
-                "time": "19:00",
+                "time": "00:30",
                 "event": "\u26bd \ud83c\udde8\ud83c\uddfe Europe - UEFA Europa League: Pafos \ud83c\udde8\ud83c\uddfe vs Salzburg \ud83c\udde6\ud83c\uddf9",
                 "channels": [
                     {
@@ -540,7 +540,7 @@
                 ]
             },
             {
-                "time": "19:00",
+                "time": "00:30",
                 "event": "\u26bd \ud83c\uddf5\ud83c\uddf1 Europe - UEFA Europa League: G\u00f3rnik Zabrze \ud83c\uddf5\ud83c\uddf1 vs Ferencv\u00e1ros \ud83c\udded\ud83c\uddfa",
                 "channels": [
                     {
@@ -574,7 +574,7 @@
                 ]
             },
             {
-                "time": "19:00",
+                "time": "00:30",
                 "event": "\u26bd \ud83c\uddf9\ud83c\uddf7 Europe - UEFA Europa League: Be\u015fikta\u015f \ud83c\uddf9\ud83c\uddf7 vs Hradec Kr\u00e1lov\u00e9 \ud83c\udde8\ud83c\uddff",
                 "channels": [
                     {
@@ -604,7 +604,7 @@
                 ]
             },
             {
-                "time": "19:00",
+                "time": "00:30",
                 "event": "\u26bd \ud83c\uddf7\ud83c\uddf4 Europe - UEFA Europa League: Hammarby vs Rak\u00f3w Cz\u0119stochowa",
                 "channels": [
                     {
@@ -614,7 +614,7 @@
                 ]
             },
             {
-                "time": "19:00",
+                "time": "00:30",
                 "event": "\u26bd \ud83c\uddf7\ud83c\uddf4 Europe - UEFA Europa League: CSU Craiova \ud83c\uddf7\ud83c\uddf4 vs KuPS \ud83c\uddeb\ud83c\uddee",
                 "channels": [
                     {
@@ -636,7 +636,7 @@
                 ]
             },
             {
-                "time": "19:00",
+                "time": "00:30",
                 "event": "\u26bd \ud83c\udde8\ud83c\uddfe Europe - UEFA Europa League: Omonia Nicosia \ud83c\udde8\ud83c\uddfe vs Lincoln Red Imps \ud83c\uddec\ud83c\uddee",
                 "channels": [
                     {
@@ -650,7 +650,7 @@
                 ]
             },
             {
-                "time": "19:30",
+                "time": "01:00",
                 "event": "\u26bd \ud83c\uddee\ud83c\uddf8 Europe - UEFA Europa League: V\u00edkingur Reykjav\u00edk \ud83c\uddee\ud83c\uddf8 vs Thun \ud83c\udde8\ud83c\udded",
                 "channels": [
                     {
@@ -664,7 +664,7 @@
                 ]
             },
             {
-                "time": "19:30",
+                "time": "01:00",
                 "event": "\u26bd \ud83c\uddeb\ud83c\uddf4 Europe - UEFA Europa League: K\u00cd \ud83c\uddeb\ud83c\uddf4 vs Lech Pozna\u0144 \ud83c\uddf5\ud83c\uddf1",
                 "channels": [
                     {
@@ -686,7 +686,7 @@
                 ]
             },
             {
-                "time": "20:00",
+                "time": "01:30",
                 "event": "\u26bd \ud83c\udde7\ud83c\uddec Europe - UEFA Europa League: CSKA Sofia \ud83c\udde7\ud83c\uddec vs Maccabi Tel Aviv \ud83c\uddee\ud83c\uddf1",
                 "channels": [
                     {
@@ -704,7 +704,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "02:00",
                 "event": "\u26bd \ud83c\udde7\ud83c\uddea Europe - UEFA Europa League: Anderlecht \ud83c\udde7\ud83c\uddea vs PAOK \ud83c\uddec\ud83c\uddf7",
                 "channels": [
                     {
@@ -754,7 +754,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "02:00",
                 "event": "\u26bd \ud83c\uddec\ud83c\udde7 Europe - UEFA Europa League: Rangers \ud83c\uddec\ud83c\udde7 vs Jagiellonia Bia\u0142ystok \ud83c\uddf5\ud83c\uddf1",
                 "channels": [
                     {
@@ -776,7 +776,7 @@
                 ]
             },
             {
-                "time": "20:45",
+                "time": "02:15",
                 "event": "\u26bd \ud83c\uddec\ud83c\udde7 Europe - UEFA Europa League: Hearts \ud83c\uddec\ud83c\udde7 vs Benfica \ud83c\uddf5\ud83c\uddf9",
                 "channels": [
                     {
@@ -806,7 +806,7 @@
                 ]
             },
             {
-                "time": "21:00",
+                "time": "02:30",
                 "event": "\u26bd \ud83c\udde6\ud83c\uddf1 Europe - UEFA Europa League: Egnatia Rrogozhin\u00eb \ud83c\udde6\ud83c\uddf1 vs Shamrock Rovers \ud83c\uddee\ud83c\uddea",
                 "channels": [
                     {
@@ -818,7 +818,7 @@
         ],
         "UEFA Conference League \u26bd": [
             {
-                "time": "17:00",
+                "time": "22:30",
                 "event": "\u26bd \ud83c\uddf0\ud83c\uddff Europe - UEFA Conference League: Tobol \ud83c\uddf0\ud83c\uddff vs Partizan \ud83c\uddf7\ud83c\uddf8",
                 "channels": [
                     {
@@ -840,7 +840,7 @@
                 ]
             },
             {
-                "time": "18:00",
+                "time": "23:30",
                 "event": "\u26bd \ud83c\udde6\ud83c\uddff Europe - UEFA Conference League: Qaraba\u011f \ud83c\udde6\ud83c\uddff vs Dynamo Kyiv \ud83c\uddfa\ud83c\udde6",
                 "channels": [
                     {
@@ -862,7 +862,7 @@
                 ]
             },
             {
-                "time": "18:00",
+                "time": "23:30",
                 "event": "\u26bd \ud83c\uddeb\ud83c\uddee Europe - UEFA Conference League: Ilves \ud83c\uddeb\ud83c\uddee vs Rijeka \ud83c\udded\ud83c\uddf7",
                 "channels": [
                     {
@@ -880,7 +880,7 @@
                 ]
             },
             {
-                "time": "18:30",
+                "time": "00:00",
                 "event": "\u26bd \ud83c\uddf1\ud83c\uddfb Europe - UEFA Conference League: R\u012bgas FS \ud83c\uddf1\ud83c\uddfb vs Jablonec \ud83c\udde8\ud83c\uddff",
                 "channels": [
                     {
@@ -902,7 +902,7 @@
                 ]
             },
             {
-                "time": "19:00",
+                "time": "00:30",
                 "event": "\u26bd \ud83c\uddf3\ud83c\uddf4 Europe - UEFA Conference League: Troms\u00f8 \ud83c\uddf3\ud83c\uddf4 vs CFR Cluj \ud83c\uddf7\ud83c\uddf4",
                 "channels": [
                     {
@@ -912,7 +912,7 @@
                 ]
             },
             {
-                "time": "19:00",
+                "time": "00:30",
                 "event": "\u26bd \ud83c\udde7\ud83c\uddfe Europe - UEFA Conference League: Dinamo Minsk \ud83c\udde7\ud83c\uddfe vs Sporting Braga \ud83c\uddf5\ud83c\uddf9",
                 "channels": [
                     {
@@ -926,7 +926,7 @@
                 ]
             },
             {
-                "time": "19:00",
+                "time": "00:30",
                 "event": "\u26bd \ud83c\uddf8\ud83c\uddf0 Europe - UEFA Conference League: DAC \ud83c\uddf8\ud83c\uddf0 vs Twente \ud83c\uddf3\ud83c\uddf1",
                 "channels": [
                     {
@@ -948,7 +948,7 @@
                 ]
             },
             {
-                "time": "19:00",
+                "time": "00:30",
                 "event": "\u26bd \ud83c\udde7\ud83c\uddfe Europe - UEFA Conference League: ML Rogachev \ud83c\udde7\ud83c\uddfe vs Borac Banja Luka \ud83c\udde7\ud83c\udde6",
                 "channels": [
                     {
@@ -962,7 +962,7 @@
                 ]
             },
             {
-                "time": "19:00",
+                "time": "00:30",
                 "event": "\u26bd \ud83c\udde9\ud83c\uddf0 Europe - UEFA Conference League: Midtjylland \ud83c\udde9\ud83c\uddf0 vs Bohemians \ud83c\udde8\ud83c\uddff",
                 "channels": [
                     {
@@ -976,7 +976,7 @@
                 ]
             },
             {
-                "time": "19:30",
+                "time": "01:00",
                 "event": "\u26bd \ud83c\udde9\ud83c\uddf0 Europe - UEFA Conference League: NS\u00cd vs Lugano",
                 "channels": [
                     {
@@ -986,7 +986,7 @@
                 ]
             },
             {
-                "time": "20:00",
+                "time": "01:30",
                 "event": "\u26bd \ud83c\uddf2\ud83c\uddf0 Europe - UEFA Conference League: \u0160kendija 79 \ud83c\uddf2\ud83c\uddf0 vs Hibernian \ud83c\udff4",
                 "channels": [
                     {
@@ -1000,7 +1000,7 @@
                 ]
             },
             {
-                "time": "20:00",
+                "time": "01:30",
                 "event": "\u26bd \ud83c\udded\ud83c\uddfa Europe - UEFA Conference League: Gy\u0151ri ETO \ud83c\udded\ud83c\uddfa vs Riga FC \ud83c\uddf1\ud83c\uddfb",
                 "channels": [
                     {
@@ -1014,7 +1014,7 @@
                 ]
             },
             {
-                "time": "20:00",
+                "time": "01:30",
                 "event": "\u26bd \ud83c\uddfd\ud83c\uddf0 Europe - UEFA Conference League: Drita \ud83c\uddfd\ud83c\uddf0 vs Tre Fiori \ud83c\uddf8\ud83c\uddf2",
                 "channels": [
                     {
@@ -1028,7 +1028,7 @@
                 ]
             },
             {
-                "time": "20:15",
+                "time": "01:45",
                 "event": "\u26bd \ud83c\udde8\ud83c\udded Europe - UEFA Conference League: Sion \ud83c\udde8\ud83c\udded vs Noah \ud83c\udde6\ud83c\uddf2",
                 "channels": [
                     {
@@ -1042,7 +1042,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "02:00",
                 "event": "\u26bd \ud83c\udde6\ud83c\uddf9 Europe - UEFA Conference League: Austria Wien \ud83c\udde6\ud83c\uddf9 vs Beitar Jerusalem \ud83c\uddee\ud83c\uddf1",
                 "channels": [
                     {
@@ -1064,7 +1064,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "02:00",
                 "event": "\u26bd \ud83c\udde7\ud83c\uddea Europe - UEFA Conference League: Gent \ud83c\udde7\ud83c\uddea vs IFK G\u00f6teborg \ud83c\uddf8\ud83c\uddea",
                 "channels": [
                     {
@@ -1078,7 +1078,7 @@
                 ]
             },
             {
-                "time": "20:45",
+                "time": "02:15",
                 "event": "\u26bd \ud83c\uddee\ud83c\uddea Europe - UEFA Conference League: Shelbourne \ud83c\uddee\ud83c\uddea vs Ajax \ud83c\uddf3\ud83c\uddf1",
                 "channels": [
                     {
@@ -1120,7 +1120,7 @@
                 ]
             },
             {
-                "time": "21:00",
+                "time": "02:30",
                 "event": "\u26bd \ud83c\udded\ud83c\uddf7 Europe - UEFA Conference League: Hajduk Split \ud83c\udded\ud83c\uddf7 vs \u017dalgiris \ud83c\uddf1\ud83c\uddf9",
                 "channels": [
                     {
@@ -1138,7 +1138,7 @@
                 ]
             },
             {
-                "time": "21:00",
+                "time": "02:30",
                 "event": "\u26bd \ud83c\udde6\ud83c\uddf1 Europe - UEFA Conference League: Dinamo City \ud83c\udde6\ud83c\uddf1 vs Auda \ud83c\uddf1\ud83c\uddfb",
                 "channels": [
                     {
@@ -1154,7 +1154,7 @@
         ],
         "All Soccer Events \u26bd": [
             {
-                "time": "16:00",
+                "time": "21:30",
                 "event": "\u26bd \ud83c\uddf7\ud83c\uddfa Russia - Russian Cup: Spartak Nal'chik \ud83c\uddf7\ud83c\uddfa vs Spartak Vladikavkaz \ud83c\uddf7\ud83c\uddfa",
                 "channels": [
                     {
@@ -1168,7 +1168,7 @@
                 ]
             },
             {
-                "time": "18:15",
+                "time": "23:45",
                 "event": "\u26bd \ud83c\uddf8\ud83c\udde6 Saudi Arabia - Pro League: Abha \ud83c\uddf8\ud83c\udde6 vs Al Hazm \ud83c\uddf8\ud83c\udde6",
                 "channels": [
                     {
@@ -1178,7 +1178,7 @@
                 ]
             },
             {
-                "time": "18:30",
+                "time": "00:00",
                 "event": "\u26bd \ud83c\uddf7\ud83c\uddfa Russia - Russian Cup: Dinamo Vologda \ud83c\uddf7\ud83c\uddfa vs Tver \ud83c\uddf7\ud83c\uddfa",
                 "channels": [
                     {
@@ -1188,7 +1188,7 @@
                 ]
             },
             {
-                "time": "19:00",
+                "time": "00:30",
                 "event": "\u26bd \ud83c\udde8\ud83c\uddee Women's Africa Cup of Nations: C\u00f4te d'Ivoire \ud83c\udde8\ud83c\uddee vs Ghana \ud83c\uddec\ud83c\udded",
                 "channels": [
                     {
@@ -1218,7 +1218,7 @@
                 ]
             },
             {
-                "time": "20:00",
+                "time": "01:30",
                 "event": "\u26bd \ud83c\uddf8\ud83c\udde6 Saudi Arabia - Pro League: Diriyah \ud83c\uddf8\ud83c\udde6 vs Al-Ahli \ud83c\uddf8\ud83c\udde6",
                 "channels": [
                     {
@@ -1272,7 +1272,7 @@
                 ]
             },
             {
-                "time": "20:00",
+                "time": "01:30",
                 "event": "\u26bd \ud83c\uddf8\ud83c\udde6 Saudi Arabia - Pro League: Al Shabab \ud83c\uddf8\ud83c\udde6 vs Al Qadsiah \ud83c\uddf8\ud83c\udde6",
                 "channels": [
                     {
@@ -1302,7 +1302,7 @@
                 ]
             },
             {
-                "time": "20:00",
+                "time": "01:30",
                 "event": "\u26bd \ud83c\udde6\ud83c\uddf7 Argentina - Reserve League: Argentinos Juniors Res. \ud83c\udde6\ud83c\uddf7 vs Gimnasia La Plata Res. \ud83c\udde6\ud83c\uddf7",
                 "channels": [
                     {
@@ -1312,7 +1312,7 @@
                 ]
             },
             {
-                "time": "22:00",
+                "time": "03:30",
                 "event": "\u26bd \ud83c\udde6\ud83c\uddf7 Argentina - Reserve League: Central C\u00f3rdoba SdE Res. \ud83c\udde6\ud83c\uddf7 vs Independiente Res. \ud83c\udde6\ud83c\uddf7",
                 "channels": [
                     {
@@ -1322,7 +1322,7 @@
                 ]
             },
             {
-                "time": "22:00",
+                "time": "03:30",
                 "event": "\u26bd \ud83c\uddff\ud83c\udde6 Women's Africa Cup of Nations: South Africa \ud83c\uddff\ud83c\udde6 vs Nigeria \ud83c\uddf3\ud83c\uddec",
                 "channels": [
                     {
@@ -1348,7 +1348,7 @@
                 ]
             },
             {
-                "time": "00:00",
+                "time": "05:30",
                 "event": "\u26bd \ud83c\udde7\ud83c\uddf7 South America - Copa Sudamericana: Vasco da Gama \ud83c\udde7\ud83c\uddf7 vs Olimpia \ud83c\uddf5\ud83c\uddfe",
                 "channels": [
                     {
@@ -1374,7 +1374,7 @@
                 ]
             },
             {
-                "time": "00:00",
+                "time": "05:30",
                 "event": "\u26bd \ud83c\udde7\ud83c\uddf7 South America - Copa Sudamericana: Santos \ud83c\udde7\ud83c\uddf7 vs Macar\u00e1 \ud83c\uddea\ud83c\udde8",
                 "channels": [
                     {
@@ -1416,7 +1416,7 @@
                 ]
             },
             {
-                "time": "00:00",
+                "time": "05:30",
                 "event": "\u26bd \ud83c\udde7\ud83c\uddf7 South America - Copa Libertadores: Mirassol \ud83c\udde7\ud83c\uddf7 vs LDU Quito \ud83c\uddea\ud83c\udde8",
                 "channels": [
                     {
@@ -1462,7 +1462,7 @@
                 ]
             },
             {
-                "time": "00:00",
+                "time": "05:30",
                 "event": "\u26bd \ud83c\udde8\ud83c\uddf1 Chile - Primera B: San Luis \ud83c\udde8\ud83c\uddf1 vs Deportes Temuco \ud83c\udde8\ud83c\uddf1",
                 "channels": [
                     {
@@ -1472,7 +1472,7 @@
                 ]
             },
             {
-                "time": "02:00",
+                "time": "07:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 United States - NCAA Women's Soccer: Wisconsin \ud83c\uddfa\ud83c\uddf8 vs TCU \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1482,7 +1482,7 @@
                 ]
             },
             {
-                "time": "02:00",
+                "time": "07:30",
                 "event": "\u26bd \ud83c\uddf8\ud83c\uddfb CONCACAF Central American Cup: Alianza \ud83c\uddf8\ud83c\uddfb vs UMECIT \ud83c\uddf5\ud83c\udde6",
                 "channels": [
                     {
@@ -1492,7 +1492,7 @@
                 ]
             },
             {
-                "time": "02:30",
+                "time": "08:00",
                 "event": "\u26bd \ud83c\uddf5\ud83c\uddea South America - Copa Sudamericana: Cienciano \ud83c\uddf5\ud83c\uddea vs Botafogo \ud83c\udde7\ud83c\uddf7",
                 "channels": [
                     {
@@ -1530,7 +1530,7 @@
                 ]
             },
             {
-                "time": "02:30",
+                "time": "08:00",
                 "event": "\u26bd \ud83c\udde6\ud83c\uddf7 South America - Copa Libertadores: Rosario Central \ud83c\udde6\ud83c\uddf7 vs Corinthians \ud83c\udde7\ud83c\uddf7",
                 "channels": [
                     {
@@ -1588,7 +1588,7 @@
                 ]
             },
             {
-                "time": "02:30",
+                "time": "08:00",
                 "event": "\u26bd \ud83c\udde8\ud83c\uddf1 Chile - Primera B: Deportes Iquique \ud83c\udde8\ud83c\uddf1 vs Copiap\u00f3 \ud83c\udde8\ud83c\uddf1",
                 "channels": [
                     {
@@ -1598,7 +1598,7 @@
                 ]
             },
             {
-                "time": "03:00",
+                "time": "08:30",
                 "event": "\u26bd \ud83c\uddf2\ud83c\uddfd Mexico - Liga de Expansi\u00f3n MX: Alebrijes de Oaxaca \ud83c\uddf2\ud83c\uddfd vs Tepatitl\u00e1n \ud83c\uddf2\ud83c\uddfd",
                 "channels": [
                     {
@@ -1608,7 +1608,7 @@
                 ]
             },
             {
-                "time": "04:00",
+                "time": "09:30",
                 "event": "\u26bd \ud83c\uddec\ud83c\uddf9 CONCACAF Central American Cup: Antigua GFC \ud83c\uddec\ud83c\uddf9 vs Marath\u00f3n \ud83c\udded\ud83c\uddf3",
                 "channels": [
                     {
@@ -1620,7 +1620,7 @@
         ],
         "Women's College Soccer \u26bd": [
             {
-                "time": "21:00",
+                "time": "02:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer: Duquesne \ud83c\uddfa\ud83c\uddf8 vs Lafayette \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1630,7 +1630,7 @@
                 ]
             },
             {
-                "time": "22:00",
+                "time": "03:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Eastern Illinois \ud83c\uddfa\ud83c\uddf8 vs Valparaiso \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1640,7 +1640,7 @@
                 ]
             },
             {
-                "time": "00:00",
+                "time": "05:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Virginia Tech \ud83c\uddfa\ud83c\uddf8 vs Old Dominion \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1650,7 +1650,7 @@
                 ]
             },
             {
-                "time": "00:00",
+                "time": "05:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Boston University \ud83c\uddfa\ud83c\uddf8 vs Northeastern \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1660,7 +1660,7 @@
                 ]
             },
             {
-                "time": "00:00",
+                "time": "05:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Western Carolina \ud83c\uddfa\ud83c\uddf8 vs Winthrop \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1670,7 +1670,7 @@
                 ]
             },
             {
-                "time": "00:00",
+                "time": "05:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Pepperdine \ud83c\uddfa\ud83c\uddf8 vs Colgate \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1680,7 +1680,7 @@
                 ]
             },
             {
-                "time": "00:00",
+                "time": "05:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Appalachian State \ud83c\uddfa\ud83c\uddf8 vs UNC Wilmington \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1690,7 +1690,7 @@
                 ]
             },
             {
-                "time": "00:00",
+                "time": "05:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Coastal Carolina \ud83c\uddfa\ud83c\uddf8 vs Charleston Southern \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1700,7 +1700,7 @@
                 ]
             },
             {
-                "time": "00:00",
+                "time": "05:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Longwood \ud83c\uddfa\ud83c\uddf8 vs Campbell \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1710,7 +1710,7 @@
                 ]
             },
             {
-                "time": "00:00",
+                "time": "05:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Liberty \ud83c\uddfa\ud83c\uddf8 vs East Carolina \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1720,7 +1720,7 @@
                 ]
             },
             {
-                "time": "00:07",
+                "time": "05:37",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Binghamton \ud83c\uddfa\ud83c\uddf8 vs Lehigh \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1730,7 +1730,7 @@
                 ]
             },
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Purdue \ud83c\uddfa\ud83c\uddf8 vs Evansville \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1740,7 +1740,7 @@
                 ]
             },
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Illinois \ud83c\uddfa\ud83c\uddf8 vs Georgia \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1750,7 +1750,7 @@
                 ]
             },
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Syracuse \ud83c\uddfa\ud83c\uddf8 vs Villanova \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1760,7 +1760,7 @@
                 ]
             },
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Charlotte \ud83c\uddfa\ud83c\uddf8 vs Furman \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1770,7 +1770,7 @@
                 ]
             },
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: George Mason \ud83c\uddfa\ud83c\uddf8 vs VMI \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1780,7 +1780,7 @@
                 ]
             },
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Tennessee \ud83c\uddfa\ud83c\uddf8 vs Rutgers \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1790,7 +1790,7 @@
                 ]
             },
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: UMBC \ud83c\uddfa\ud83c\uddf8 vs Mount St. Mary's \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1800,7 +1800,7 @@
                 ]
             },
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Stetson \ud83c\uddfa\ud83c\uddf8 vs Florida State \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1810,7 +1810,7 @@
                 ]
             },
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: UCF \ud83c\uddfa\ud83c\uddf8 vs Florida \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1820,7 +1820,7 @@
                 ]
             },
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: West Virginia \ud83c\uddfa\ud83c\uddf8 vs Dayton \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1830,7 +1830,7 @@
                 ]
             },
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Southeast Missouri State \ud83c\uddfa\ud83c\uddf8 vs Southern Illinois \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1840,7 +1840,7 @@
                 ]
             },
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Little Rock \ud83c\uddfa\ud83c\uddf8 vs UL Monroe \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1850,7 +1850,7 @@
                 ]
             },
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Marshall \ud83c\uddfa\ud83c\uddf8 vs Morehead State \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1860,7 +1860,7 @@
                 ]
             },
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: High Point \ud83c\uddfa\ud83c\uddf8 vs UNC Greensboro \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1870,7 +1870,7 @@
                 ]
             },
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Radford \ud83c\uddfa\ud83c\uddf8 vs Concord \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1880,7 +1880,7 @@
                 ]
             },
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: St. John's (NY) \ud83c\uddfa\ud83c\uddf8 vs UMass Amherst \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1890,7 +1890,7 @@
                 ]
             },
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Montana \ud83c\uddfa\ud83c\uddf8 vs Bucknell \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1900,7 +1900,7 @@
                 ]
             },
             {
-                "time": "01:30",
+                "time": "07:00",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Georgetown \ud83c\uddfa\ud83c\uddf8 vs Fordham \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1910,7 +1910,7 @@
                 ]
             },
             {
-                "time": "01:30",
+                "time": "07:00",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: UT Rio Grande Valley \ud83c\uddfa\ud83c\uddf8 vs Texas Southern \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1920,7 +1920,7 @@
                 ]
             },
             {
-                "time": "02:00",
+                "time": "07:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Minnesota \ud83c\uddfa\ud83c\uddf8 vs North Dakota \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1930,7 +1930,7 @@
                 ]
             },
             {
-                "time": "02:00",
+                "time": "07:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Southern Indiana \ud83c\uddfa\ud83c\uddf8 vs Wright State \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1940,7 +1940,7 @@
                 ]
             },
             {
-                "time": "02:00",
+                "time": "07:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Louisiana Tech \ud83c\uddfa\ud83c\uddf8 vs Nicholls \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1950,7 +1950,7 @@
                 ]
             },
             {
-                "time": "02:00",
+                "time": "07:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Sacramento State \ud83c\uddfa\ud83c\uddf8 vs Pacific \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1960,7 +1960,7 @@
                 ]
             },
             {
-                "time": "02:00",
+                "time": "07:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Western Kentucky \ud83c\uddfa\ud83c\uddf8 vs Missouri \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1970,7 +1970,7 @@
                 ]
             },
             {
-                "time": "02:00",
+                "time": "07:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: SE Louisiana \ud83c\uddfa\ud83c\uddf8 vs Louisiana \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1980,7 +1980,7 @@
                 ]
             },
             {
-                "time": "03:00",
+                "time": "08:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: San Francisco \ud83c\uddfa\ud83c\uddf8 vs CSU Bakersfield \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -1990,7 +1990,7 @@
                 ]
             },
             {
-                "time": "03:00",
+                "time": "08:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Utah Valley \ud83c\uddfa\ud83c\uddf8 vs Michigan \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -2000,7 +2000,7 @@
                 ]
             },
             {
-                "time": "03:00",
+                "time": "08:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer: Northern Colorado \ud83c\uddfa\ud83c\uddf8 vs Denver \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -2012,7 +2012,7 @@
         ],
         "Cricket \ud83c\udfcf": [
             {
-                "time": "01:30",
+                "time": "07:00",
                 "event": "\ud83c\udfcf \ud83c\uddef\ud83c\uddf2 Caribbean Premier League: Jamaica Kingsmen \ud83c\uddef\ud83c\uddf2 vs Guyana Amazon Warriors \ud83c\uddec\ud83c\uddfe",
                 "channels": [
                     {
@@ -2030,7 +2030,7 @@
                 ]
             },
             {
-                "time": "02:30",
+                "time": "08:00",
                 "event": "\ud83c\udfcf \ud83c\udde6\ud83c\uddfa 1st Test \u2013 Day 2: Australia \ud83c\udde6\ud83c\uddfa vs Bangladesh \ud83c\udde7\ud83c\udde9",
                 "channels": [
                     {
@@ -2058,7 +2058,7 @@
         ],
         "Tennis \ud83c\udfbe ATP Montreal (Canada)": [
             {
-                "time": "17:00",
+                "time": "22:30",
                 "event": "Tennis \ud83c\udfbe ATP Montreal Center Court",
                 "channels": [
                     {
@@ -2070,7 +2070,7 @@
         ],
         "Tennis \ud83c\udfbe WTA Toronto (Canada)": [
             {
-                "time": "17:00",
+                "time": "22:30",
                 "event": "Tennis \ud83c\udfbe WTA Toronto Centre Court",
                 "channels": [
                     {
@@ -2082,7 +2082,7 @@
         ],
         "Tennis \ud83c\udfbe": [
             {
-                "time": "17:00",
+                "time": "22:30",
                 "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 ATP/WTA Cincinnati Open \u2013 Lindner Family Tennis Center \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -2276,7 +2276,7 @@
                 ]
             },
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\ud83c\udfbe \ud83c\udde8\ud83c\udde6 ATP Montreal | ATP National Bank Open | WTA 1000 Toronto \u2013 Final \ud83c\udde8\ud83c\udde6",
                 "channels": [
                     {
@@ -2466,7 +2466,7 @@
                 ]
             },
             {
-                "time": "03:30",
+                "time": "09:00",
                 "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 ATP/WTA 1st Round 2026 Cincinnati Open \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -2660,8 +2660,8 @@
                 ]
             },
             {
-                "time": "17:00",
-                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 ATP Masters &amp; WTA 1000 Cincinnati \ud83c\uddfa\ud83c\uddf8",
+                "time": "22:30",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 ATP Masters & WTA 1000 Cincinnati \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
                         "channel_name": "Sportklub 5 Croatia",
@@ -2670,8 +2670,8 @@
                 ]
             },
             {
-                "time": "17:00",
-                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 WTA 1000 &amp; ATP Masters Cincinnati \ud83c\uddfa\ud83c\uddf8",
+                "time": "22:30",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 WTA 1000 & ATP Masters Cincinnati \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
                         "channel_name": "Sportklub 7 Croatia",
@@ -2680,8 +2680,8 @@
                 ]
             },
             {
-                "time": "17:00",
-                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 WTA 1000 &amp; ATP Masters Cincinnati \ud83c\uddfa\ud83c\uddf8",
+                "time": "22:30",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 WTA 1000 & ATP Masters Cincinnati \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
                         "channel_name": "Sportklub 8 Croatia",
@@ -2690,8 +2690,8 @@
                 ]
             },
             {
-                "time": "17:00",
-                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 ATP Masters &amp; WTA 1000 Cincinnati \ud83c\uddfa\ud83c\uddf8",
+                "time": "22:30",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 ATP Masters & WTA 1000 Cincinnati \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
                         "channel_name": "Sportklub 9 Croatia",
@@ -2700,8 +2700,8 @@
                 ]
             },
             {
-                "time": "17:00",
-                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 ATP Masters &amp; WTA 1000 Cincinnati \ud83c\uddfa\ud83c\uddf8",
+                "time": "22:30",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 ATP Masters & WTA 1000 Cincinnati \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
                         "channel_name": "Sportklub 10 Croatia",
@@ -2710,8 +2710,8 @@
                 ]
             },
             {
-                "time": "17:00",
-                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 ATP Masters &amp; WTA 1000 Cincinnati \ud83c\uddfa\ud83c\uddf8",
+                "time": "22:30",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 ATP Masters & WTA 1000 Cincinnati \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
                         "channel_name": "Sportklub 2 Croatia",
@@ -2720,7 +2720,7 @@
                 ]
             },
             {
-                "time": "21:30",
+                "time": "03:00",
                 "event": "\ud83c\udfbe \ud83c\udde8\ud83c\udde6 WTA 1000 Toronto: (Pairs) Final \ud83c\udde8\ud83c\udde6",
                 "channels": [
                     {
@@ -2730,8 +2730,8 @@
                 ]
             },
             {
-                "time": "23:15",
-                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 ATP Masters &amp; WTA 1000 Cincinnati (Inclusion) \ud83c\uddfa\ud83c\uddf8",
+                "time": "04:45",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 ATP Masters & WTA 1000 Cincinnati (Inclusion) \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
                         "channel_name": "Sportklub 2 Croatia",
@@ -2740,7 +2740,7 @@
                 ]
             },
             {
-                "time": "23:30",
+                "time": "05:00",
                 "event": "\ud83c\udfbe \ud83c\udde8\ud83c\udde6 ATP Masters Montreal: (Couples) Final \ud83c\udde8\ud83c\udde6",
                 "channels": [
                     {
@@ -2750,7 +2750,7 @@
                 ]
             },
             {
-                "time": "00:00",
+                "time": "05:30",
                 "event": "\ud83c\udfbe \ud83c\udde8\ud83c\udde6 WTA 1000 Toronto: Final \ud83c\udde8\ud83c\udde6",
                 "channels": [
                     {
@@ -2760,7 +2760,7 @@
                 ]
             },
             {
-                "time": "02:00",
+                "time": "07:30",
                 "event": "\ud83c\udfbe \ud83c\udde8\ud83c\udde6 ATP Masters Montreal: Final \ud83c\udde8\ud83c\udde6",
                 "channels": [
                     {
@@ -2770,383 +2770,331 @@
                 ]
             }
         ],
-        "Tennis \ud83c\udfbe ATP - Singles: Montreal (Canada), Hard": [
-            {
-                "time": "02:00",
-                "event": "ATP - Singles: \ud83c\uddfa\ud83c\uddf8 Ben Shelton vs \ud83c\uddfa\ud83c\uddf8 Brandon Nakashima",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
         "Tennis \ud83c\udfbe ATP - Singles: Cincinnati (USA), Hard": [
             {
-                "time": "17:00",
-                "event": "ATP - Singles: \ud83c\uddea\ud83c\uddf8 Mart\u00edn Landaluce vs \ud83c\uddec\ud83c\udde7 Jack Draper",
+                "time": "22:30",
+                "event": "\ud83c\udfbe ATP Cincinnati: \ud83c\uddea\ud83c\uddf8 Martin Landaluce vs \ud83c\uddec\ud83c\udde7 Jack Draper",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
                     }
                 ]
             },
             {
-                "time": "18:30",
-                "event": "ATP - Singles: \ud83c\uddec\ud83c\udde7 Cameron Norrie vs \ud83c\udded\ud83c\uddf7 Dino Prizmic",
+                "time": "22:30",
+                "event": "\ud83c\udfbe WTA Cincinnati: \ud83c\uddf7\ud83c\uddfa Kamilla Rakhimova vs \ud83c\udde6\ud83c\uddfa Kimberly Birrell",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552"
                     }
                 ]
             },
             {
-                "time": "20:00",
-                "event": "ATP - Singles: \ud83c\udde6\ud83c\uddf7 Rom\u00e1n Andr\u00e9s Burruchaga vs \ud83c\udde9\ud83c\uddea Jan-Lennard Struff",
+                "time": "22:30",
+                "event": "\ud83c\udfbe WTA Cincinnati: \ud83c\uddf7\ud83c\uddfa Daria Kasatkina vs \ud83c\uddf9\ud83c\uddf7 Zeynep Sonmez",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1553"
                     }
                 ]
             },
             {
-                "time": "20:00",
-                "event": "ATP - Singles: \ud83c\udde8\ud83c\udde6 Denis Shapovalov vs \ud83c\uddeb\ud83c\uddf7 Adrian Mannarino",
+                "time": "22:30",
+                "event": "\ud83c\udfbe WTA Cincinnati: \ud83c\udde8\ud83c\udded Simona Waltert vs \ud83c\udded\ud83c\uddf7 Petra Marcinko",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1554"
                     }
                 ]
             },
             {
-                "time": "20:00",
-                "event": "ATP - Singles: \ud83c\udde6\ud83c\uddf7 Thiago Agust\u00edn Tirante vs \ud83c\uddec\ud83c\udde7 Jay Clarke",
+                "time": "22:30",
+                "event": "\ud83c\udfbe WTA Cincinnati: \ud83c\udde8\ud83c\uddff Darja Vidmanova vs \ud83c\uddfa\ud83c\udde6 Anhelina Kalinina",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1555"
                     }
                 ]
             },
             {
-                "time": "20:00",
-                "event": "ATP - Singles: \ud83c\udde6\ud83c\uddf7 Camilo Ugo Carabelli vs \ud83c\uddf7\ud83c\uddf8 Miomir Kecmanovi\u0107",
+                "time": "22:30",
+                "event": "\ud83c\udfbe WTA Cincinnati: \ud83c\uddfa\ud83c\uddf8 Taylor Townsend vs \ud83c\udde8\ud83c\uddf4 Camila Osorio",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1556"
                     }
                 ]
             },
             {
-                "time": "21:30",
-                "event": "ATP - Singles: \ud83c\udded\ud83c\uddfa M\u00e1rton Fucsovics vs \ud83c\uddeb\ud83c\uddf7 Terence Atmane",
+                "time": "22:30",
+                "event": "\ud83c\udfbe WTA Cincinnati: \ud83c\udde7\ud83c\uddea Hanne Vandewinkel vs \ud83c\uddf8\ud83c\uddf0 Rebecca Sramkova",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
                     }
                 ]
             },
             {
-                "time": "22:00",
-                "event": "ATP - Singles: \ud83c\udde6\ud83c\uddf7 Mariano Navone vs \ud83c\udde7\ud83c\uddea Raphael Collignon",
+                "time": "00:00",
+                "event": "\ud83c\udfbe ATP Cincinnati: \ud83c\uddec\ud83c\udde7 Cameron Norrie vs \ud83c\udded\ud83c\uddf7 Dino Prizmic",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1558"
                     }
                 ]
             },
             {
-                "time": "01:00",
-                "event": "ATP - Singles: \ud83c\udde6\ud83c\uddfa Rinky Hijikata vs \ud83c\uddeb\ud83c\uddf7 Ga\u00ebl Monfils",
+                "time": "00:00",
+                "event": "\ud83c\udfbe ATP Cincinnati: \ud83c\udde6\ud83c\uddfa Aleksandar Vukic vs \ud83c\uddea\ud83c\uddea Mark Lajal",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1559"
                     }
                 ]
             },
             {
-                "time": "02:30",
-                "event": "ATP - Singles: \ud83c\uddfa\ud83c\uddf8 Zachary Svajda vs \ud83c\uddee\ud83c\uddf9 Mattia Bellucci",
+                "time": "00:00",
+                "event": "\ud83c\udfbe ATP Cincinnati: \ud83c\uddf5\ud83c\uddf9 Henrique Rocha vs \ud83c\udde8\ud83c\uddf4 Nicolas Mejia",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1560"
                     }
                 ]
-            }
-        ],
-        "Tennis \ud83c\udfbe ATP - Singles: Cincinnati (USA) - Qualification, Hard": [
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83c\udfbe WTA Cincinnati: \ud83c\uddf7\ud83c\uddf4 Elena-Gabriela Ruse vs \ud83c\uddf5\ud83c\uddf1 Magda Linette",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1561"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83c\udfbe WTA Cincinnati: \ud83c\udded\ud83c\uddf7 Antonia Ruzic vs \ud83c\uddf5\ud83c\uddf1 Magdalena Frech",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1562"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83c\udfbe WTA Cincinnati: \ud83c\uddfa\ud83c\uddf8 Ashlyn Krueger vs \ud83c\uddeb\ud83c\uddf7 Lois Boisson",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1563"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83c\udfbe WTA Cincinnati: \ud83c\udde8\ud83c\uddf4 Emiliana Arango vs \ud83c\udde6\ud83c\uddf7 Nadia Podoroska",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1564"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83c\udfbe WTA Cincinnati: \ud83c\udde8\ud83c\uddf3 Wang Xiyu vs \ud83c\uddf7\ud83c\uddfa Polina Kudermetova",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1565"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "\ud83c\udfbe ATP Cincinnati: \ud83c\udde8\ud83c\udde6 Denis Shapovalov vs \ud83c\uddeb\ud83c\uddf7 Adrian Mannarino",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1566"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "\ud83c\udfbe ATP Cincinnati: \ud83c\udde6\ud83c\uddf7 Thiago Agustin Tirante vs \ud83c\udde9\ud83c\uddea Jan Choinski",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1567"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "\ud83c\udfbe ATP Cincinnati: \ud83c\udde6\ud83c\uddf7 Camilo Ugo Carabelli vs \ud83c\uddf7\ud83c\uddf8 Miomir Kecmanovic",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1568"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "\ud83c\udfbe ATP Cincinnati: \ud83c\udde6\ud83c\uddf7 Roman Andres Burruchaga vs \ud83c\udde9\ud83c\uddea Jan-Lennard Struff",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1569"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "\ud83c\udfbe WTA Cincinnati: \ud83c\uddeb\ud83c\uddf7 Diane Parry vs \ud83c\uddfa\ud83c\uddf8 Caroline Dolehide",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1570"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "\ud83c\udfbe WTA Cincinnati: \ud83c\uddea\ud83c\uddf8 Cristina Buc\u0219a vs \ud83c\udded\ud83c\uddfa Panna Udvardy",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1571"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "\ud83c\udfbe WTA Cincinnati: \ud83c\udde9\ud83c\uddea Tatjana Maria vs \ud83c\uddfa\ud83c\udde6 Dayana Yastremska",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1572"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "\ud83c\udfbe WTA Toronto: \ud83c\udde8\ud83c\uddff Katerina Siniakova/\ud83c\udde8\ud83c\uddf3 Zhang Shuai vs \ud83c\uddee\ud83c\uddf9 Sara Errani/\ud83c\uddfa\ud83c\uddf8 Nicole Melichar-Martinez",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1573"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "\ud83c\udfbe ATP Cincinnati: \ud83c\udded\ud83c\uddfa Marton Fucsovics vs \ud83c\uddeb\ud83c\uddf7 Terence Atmane",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "\ud83c\udfbe ATP Cincinnati: \ud83c\udde6\ud83c\uddf7 Mariano Navone vs \ud83c\udde7\ud83c\uddea Raphael Collignon",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1575"
+                    }
+                ]
+            },
             {
                 "time": "05:00",
-                "event": "ATP - Singles: \ud83c\uddf3\ud83c\uddf4 Nicolai Budkov Kjaer vs \ud83c\uddeb\ud83c\uddf7 Kyrian Jacquet",
+                "event": "\ud83c\udfbe ATP Montreal: \ud83c\udde7\ud83c\uddf7 Orlando Luz/\ud83c\udde7\ud83c\uddf7 Rafael Matos vs \ud83c\uddf8\ud83c\uddfb Marcelo Arevalo/\ud83c\udded\ud83c\uddf7 Mate Pavic",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "05:00",
-                "event": "ATP - Singles: \ud83c\uddeb\ud83c\uddf7 Quentin Halys vs \ud83c\udde8\ud83c\uddf3 Bu Yunchaokete",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "05:15",
-                "event": "ATP - Singles: \ud83c\uddec\ud83c\uddf7 Stefanos Sakellaridis vs \ud83c\uddeb\ud83c\uddf7 Titouan Droguet",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1576"
                     }
                 ]
             },
             {
                 "time": "05:30",
-                "event": "ATP - Singles: \ud83c\uddef\ud83c\uddf5 Sho Shimabukuro vs \ud83c\uddfa\ud83c\uddf8 J.J. Wolf",
+                "event": "\ud83c\udfbe WTA Toronto: \ud83c\uddf5\ud83c\uddf1 Iga Swiatek vs \ud83c\uddf0\ud83c\uddff Elena Rybakina",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1577"
                     }
                 ]
             },
             {
-                "time": "18:30",
-                "event": "ATP - Singles: \ud83c\uddf5\ud83c\uddf9 Henrique Rocha vs \ud83c\udde8\ud83c\uddf4 Nicol\u00e1s Mej\u00eda",
+                "time": "06:30",
+                "event": "\ud83c\udfbe ATP Cincinnati: \ud83c\udde6\ud83c\uddfa Rinky Hijikata vs \ud83c\uddeb\ud83c\uddf7 Gael Monfils",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1578"
                     }
                 ]
             },
             {
-                "time": "18:30",
-                "event": "ATP - Singles: \ud83c\udde6\ud83c\uddfa Aleksandar Vukic vs \ud83c\uddea\ud83c\uddea Mark Lajal",
+                "time": "06:30",
+                "event": "\ud83c\udfbe WTA Cincinnati: \ud83c\uddec\ud83c\udde7 Katie Boulter vs \ud83c\uddfa\ud83c\uddf8 Katie Volynets",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe WTA - Singles: Cincinnati (USA), Hard": [
-            {
-                "time": "17:00",
-                "event": "WTA - Singles: \ud83c\uddf7\ud83c\uddfa Daria Kasatkina vs \ud83c\uddf9\ud83c\uddf7 Zeynep S\u00f6nmez",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1579"
                     }
                 ]
             },
             {
-                "time": "17:00",
-                "event": "WTA - Singles: \ud83c\uddfa\ud83c\uddff Kamilla Rakhimova vs \ud83c\udde6\ud83c\uddfa Kimberly Birrell",
+                "time": "07:30",
+                "event": "\ud83c\udfbe ATP Montreal: \ud83c\uddfa\ud83c\uddf8 Ben Shelton vs \ud83c\uddfa\ud83c\uddf8 Brandon Nakashima",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1580"
                     }
                 ]
             },
             {
-                "time": "17:00",
-                "event": "WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Taylor Townsend vs \ud83c\udde8\ud83c\uddf4 Camila Osorio",
+                "time": "08:00",
+                "event": "\ud83c\udfbe ATP Cincinnati: \ud83c\uddfa\ud83c\uddf8 Zachary Svajda vs \ud83c\uddee\ud83c\uddf9 Mattia Bellucci",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1581"
                     }
                 ]
             },
             {
-                "time": "17:00",
-                "event": "WTA - Singles: \ud83c\udde8\ud83c\uddff Darja Vidmanova vs \ud83c\uddfa\ud83c\udde6 Anhelina Kalinina",
+                "time": "08:00",
+                "event": "\ud83c\udfbe WTA Cincinnati: \ud83c\uddfa\ud83c\uddf8 Caty McNally vs \ud83c\uddfa\ud83c\uddf8 McCartney Kessler",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "WTA - Singles: \ud83c\udde8\ud83c\udded Simona Waltert vs \ud83c\udded\ud83c\uddf7 Petra Mar\u010dinko",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Ashlyn Krueger vs \ud83c\uddeb\ud83c\uddf7 Lo\u00efs Boisson",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "WTA - Singles: \ud83c\uddf7\ud83c\uddf4 Gabriela Ruse vs \ud83c\uddf5\ud83c\uddf1 Magda Linette",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "WTA - Singles: \ud83c\udded\ud83c\uddf7 Antonia Ru\u017ei\u0107 vs \ud83c\uddf5\ud83c\uddf1 Magdalena Fr\u0119ch",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "WTA - Singles: \ud83c\uddea\ud83c\uddf8 Cristina Buc\u0219a vs \ud83c\udded\ud83c\uddfa Panna Udvardy",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "WTA - Singles: \ud83c\uddeb\ud83c\uddf7 Diane Parry vs \ud83c\uddfa\ud83c\uddf8 Caroline Dolehide",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "20:30",
-                "event": "WTA - Singles: \ud83c\udde9\ud83c\uddea Tatjana Maria vs \ud83c\uddfa\ud83c\udde6 Dayana Yastremska",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "WTA - Singles: \ud83c\uddec\ud83c\udde7 Katie Boulter vs \ud83c\uddfa\ud83c\uddf8 Katie Volynets",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "02:30",
-                "event": "WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Caty McNally vs \ud83c\uddfa\ud83c\uddf8 McCartney Kessler",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe WTA - Singles: Cincinnati (USA) - Qualification, Hard": [
-            {
-                "time": "05:00",
-                "event": "WTA - Singles: \ud83c\udde9\ud83c\uddea Eva Lys vs \ud83c\uddf7\ud83c\uddfa Anna Blinkova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "WTA - Singles: \ud83c\udde7\ud83c\uddea Hanne Vandewinkel vs \ud83c\uddf8\ud83c\uddf0 Rebecca \u0160ramkov\u00e1",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "WTA - Singles: \ud83c\udde8\ud83c\uddf4 Emiliana Arango vs \ud83c\udde6\ud83c\uddf7 Nadia Podoroska",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "WTA - Singles: \ud83c\udde8\ud83c\uddf3 Wang Xiyu vs \ud83c\uddfa\ud83c\uddff Polina Kudermetova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe ATP - Doubles: Montreal (Canada), Hard": [
-            {
-                "time": "23:30",
-                "event": "ATP - Doubles: \ud83c\udde7\ud83c\uddf7 Orlando Luz / \ud83c\udde7\ud83c\uddf7 Rafael Matos vs \ud83c\uddf8\ud83c\uddfb Marcelo Ar\u00e9valo / \ud83c\udded\ud83c\uddf7 Mate Pavi\u0107",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe WTA - Doubles: Toronto (Canada), Hard": [
-            {
-                "time": "21:30",
-                "event": "WTA - Doubles: \ud83c\udde8\ud83c\uddff Kate\u0159ina Siniakov\u00e1 / \ud83c\udde8\ud83c\uddf3 Shuai Zhang vs \ud83c\uddee\ud83c\uddf9 Sara Errani / \ud83c\uddfa\ud83c\uddf8 Nicole Melichar-Martinez",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1582"
                     }
                 ]
             }
         ],
         "Motorsport \ud83c\udfce\ufe0f\ud83c\udfc1": [
             {
-                "time": "17:30",
+                "time": "23:00",
                 "event": "\ud83c\udfcd\ufe0f \ud83c\uddf5\ud83c\uddf1 Speedway: Metalkas 2. Ekstraliga: Moonfin Magnus Ostr\u00f3w Wlkp. \ud83c\uddf5\ud83c\uddf1 vs H. Skrzydlewska Orze\u0142 \u0141\u00f3d\u017a \ud83c\uddf5\ud83c\uddf1",
                 "channels": [
                     {
@@ -3156,7 +3104,7 @@
                 ]
             },
             {
-                "time": "20:00",
+                "time": "01:30",
                 "event": "\ud83c\udfcd\ufe0f \ud83c\uddf5\ud83c\uddf1 Speedway: Metalkas 2. Ekstraliga: Cellfast Wilki Krosno \ud83c\uddf5\ud83c\uddf1 vs INNPRO ROW Rybnik \ud83c\uddf5\ud83c\uddf1",
                 "channels": [
                     {
@@ -3168,7 +3116,7 @@
         ],
         "Wrestling (TNA) \ud83e\udd3c": [
             {
-                "time": "03:00",
+                "time": "08:30",
                 "event": "\ud83e\udd3c \ud83c\uddfa\ud83c\uddf8 TNA iMPACT! \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -3184,7 +3132,7 @@
         ],
         "Golf \u26f3": [
             {
-                "time": "13:00",
+                "time": "18:30",
                 "event": "\u26f3 \ud83c\udde9\ud83c\uddf0 DP World Tour: Danish Golf Championship \ud83c\udde9\ud83c\uddf0",
                 "channels": [
                     {
@@ -3250,7 +3198,7 @@
                 ]
             },
             {
-                "time": "15:00",
+                "time": "20:30",
                 "event": "\u26f3 \ud83c\uddfa\ud83c\uddf8 PGA Tour: FedEx St. Jude Championship \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -3260,7 +3208,7 @@
                 ]
             },
             {
-                "time": "15:30",
+                "time": "21:00",
                 "event": "\u26f3 \ud83c\udde8\ud83c\udded Ladies European Tour: VP Bank Swiss Ladies Open \u2013 Day 1 \ud83c\udde8\ud83c\udded",
                 "channels": [
                     {
@@ -3274,7 +3222,7 @@
                 ]
             },
             {
-                "time": "16:00",
+                "time": "21:30",
                 "event": "\u26f3 \ud83c\udde9\ud83c\uddf0 DP World Tour: Danish Golf Championship \u2013 Round 1, Part 2 \ud83c\udde9\ud83c\uddf0",
                 "channels": [
                     {
@@ -3340,7 +3288,7 @@
                 ]
             },
             {
-                "time": "18:00",
+                "time": "23:30",
                 "event": "\u26f3 \ud83c\uddfa\ud83c\uddf8 FedEx Playoffs: St. Jude Championship \u2013 Day 1 \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -3410,7 +3358,7 @@
                 ]
             },
             {
-                "time": "20:00",
+                "time": "01:30",
                 "event": "\u26f3 \ud83c\uddfa\ud83c\uddf8 PGA Tour: FedEx Playoffs \u2013 St. Jude Championship \u2013 Day 1 \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -3480,8 +3428,8 @@
                 ]
             },
             {
-                "time": "21:00",
-                "event": "\u26f3 \ud83c\uddfa\ud83c\uddf8 2026 U.S. Amateur \u2013 Round of 32 &amp; 16 \ud83c\uddfa\ud83c\uddf8",
+                "time": "02:30",
+                "event": "\u26f3 \ud83c\uddfa\ud83c\uddf8 2026 U.S. Amateur \u2013 Round of 32 & 16 \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
                         "channel_name": "Sky Sport 3 NZ",
@@ -3494,7 +3442,7 @@
                 ]
             },
             {
-                "time": "00:00",
+                "time": "05:30",
                 "event": "\u26f3 \ud83c\uddfa\ud83c\uddf8 LPGA Tour: Portland Classic \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -3509,40 +3457,6 @@
             }
         ],
         "Snooker \ud83c\udfb1": [
-            {
-                "time": "08:00",
-                "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 China Open: Round 2 \ud83c\udde8\ud83c\uddf3",
-                "channels": [
-                    {
-                        "channel_name": "TNT Sports 1 UK",
-                        "channel_id": "31"
-                    },
-                    {
-                        "channel_name": "EuroSport 1 Poland",
-                        "channel_id": "57"
-                    },
-                    {
-                        "channel_name": "EuroSport 1 Spain",
-                        "channel_id": "524"
-                    },
-                    {
-                        "channel_name": "EuroSport 1 France",
-                        "channel_id": "772"
-                    },
-                    {
-                        "channel_name": "Eurosport 1 SE",
-                        "channel_id": "231"
-                    },
-                    {
-                        "channel_name": "EuroSport 1 Italy",
-                        "channel_id": "878"
-                    },
-                    {
-                        "channel_name": "EuroSport 1 Greece",
-                        "channel_id": "41"
-                    }
-                ]
-            },
             {
                 "time": "13:30",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 China Open: Round 2 \ud83c\udde8\ud83c\uddf3",
@@ -3578,7 +3492,41 @@
                 ]
             },
             {
-                "time": "22:00",
+                "time": "19:00",
+                "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 China Open: Round 2 \ud83c\udde8\ud83c\uddf3",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports 1 UK",
+                        "channel_id": "31"
+                    },
+                    {
+                        "channel_name": "EuroSport 1 Poland",
+                        "channel_id": "57"
+                    },
+                    {
+                        "channel_name": "EuroSport 1 Spain",
+                        "channel_id": "524"
+                    },
+                    {
+                        "channel_name": "EuroSport 1 France",
+                        "channel_id": "772"
+                    },
+                    {
+                        "channel_name": "Eurosport 1 SE",
+                        "channel_id": "231"
+                    },
+                    {
+                        "channel_name": "EuroSport 1 Italy",
+                        "channel_id": "878"
+                    },
+                    {
+                        "channel_name": "EuroSport 1 Greece",
+                        "channel_id": "41"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
                 "event": "\ud83c\udfb1 \ud83c\uddfa\ud83c\uddf8 Arizona Open Pool Championship: Day 1 \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -3590,7 +3538,7 @@
         ],
         "Am. Football \ud83c\udfc8": [
             {
-                "time": "03:00",
+                "time": "08:30",
                 "event": "\ud83c\udfc8 \ud83c\udde8\ud83c\udde6 CFL: Calgary Stampeders \ud83c\udde8\ud83c\udde6 vs BC Lions \ud83c\udde8\ud83c\udde6",
                 "channels": [
                     {
@@ -3618,7 +3566,7 @@
         ],
         "Am. Football (NFL) \ud83c\udfc8": [
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\ud83c\udfc8 \ud83c\uddfa\ud83c\uddf8 NFL: Cincinnati Bengals \ud83c\uddfa\ud83c\uddf8 vs Detroit Lions \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -3636,7 +3584,7 @@
                 ]
             },
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\ud83c\udfc8 \ud83c\uddfa\ud83c\uddf8 NFL: Pittsburgh Steelers \ud83c\uddfa\ud83c\uddf8 vs Green Bay Packers \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -3654,7 +3602,7 @@
                 ]
             },
             {
-                "time": "01:30",
+                "time": "07:00",
                 "event": "\ud83c\udfc8 \ud83c\uddfa\ud83c\uddf8 NFL: New England Patriots \ud83c\uddfa\ud83c\uddf8 vs Indianapolis Colts \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -3664,7 +3612,7 @@
                 ]
             },
             {
-                "time": "02:00",
+                "time": "07:30",
                 "event": "\ud83c\udfc8 \ud83c\uddfa\ud83c\uddf8 NFL: Las Vegas Raiders \ud83c\uddfa\ud83c\uddf8 vs Arizona Cardinals \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -3674,7 +3622,7 @@
                 ]
             },
             {
-                "time": "02:00",
+                "time": "07:30",
                 "event": "\ud83c\udfc8 \ud83c\uddfa\ud83c\uddf8 NFL: Houston Texans \ud83c\uddfa\ud83c\uddf8 vs Los Angeles Chargers \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -3684,7 +3632,7 @@
                 ]
             },
             {
-                "time": "03:00",
+                "time": "08:30",
                 "event": "\ud83c\udfc8 \ud83c\uddfa\ud83c\uddf8 NFL: San Francisco 49ers \ud83c\uddfa\ud83c\uddf8 vs Tennessee Titans \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -3704,7 +3652,7 @@
         ],
         "Athletics \ud83c\udfc3": [
             {
-                "time": "11:30",
+                "time": "17:00",
                 "event": "\ud83c\udfc3 \ud83c\uddec\ud83c\udde7 European Championship Birmingham | Day 4 \ud83c\uddec\ud83c\udde7",
                 "channels": [
                     {
@@ -3758,7 +3706,7 @@
                 ]
             },
             {
-                "time": "19:10",
+                "time": "00:40",
                 "event": "\ud83c\udfc3 \ud83c\uddec\ud83c\udde7 European Championship Birmingham | Day 4 \ud83c\uddec\ud83c\udde7",
                 "channels": [
                     {
@@ -3818,7 +3766,7 @@
         ],
         "Aussie rules (AFL) \ud83c\udfc9": [
             {
-                "time": "11:00",
+                "time": "16:30",
                 "event": "\ud83c\udfc9 \ud83c\udde6\ud83c\uddfa AFL Women: Hawthorn Hawks W \ud83c\udde6\ud83c\uddfa vs Melbourne Demons W \ud83c\udde6\ud83c\uddfa",
                 "channels": [
                     {
@@ -3838,7 +3786,7 @@
         ],
         "Little League Baseball \u26be": [
             {
-                "time": "19:00",
+                "time": "00:30",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 Little League Baseball Midwest Regional: Wisconsin \ud83c\uddfa\ud83c\uddf8 vs TBA",
                 "channels": [
                     {
@@ -3848,7 +3796,7 @@
                 ]
             },
             {
-                "time": "21:00",
+                "time": "02:30",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 Little League Baseball New England Regional: Massachusetts \ud83c\uddfa\ud83c\uddf8 vs TBA",
                 "channels": [
                     {
@@ -3858,7 +3806,7 @@
                 ]
             },
             {
-                "time": "23:00",
+                "time": "04:30",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 Little League Baseball Mountain Regional: Montana \ud83c\uddfa\ud83c\uddf8 vs Utah \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -3868,7 +3816,7 @@
                 ]
             },
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 Little League Baseball New England Regional: Massachusetts \ud83c\uddfa\ud83c\uddf8 vs TBA",
                 "channels": [
                     {
@@ -3878,7 +3826,7 @@
                 ]
             },
             {
-                "time": "03:00",
+                "time": "08:30",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 Little League Baseball West Regional: Southern California \ud83c\uddfa\ud83c\uddf8 vs TBA",
                 "channels": [
                     {
@@ -3890,7 +3838,7 @@
         ],
         "NPB Baseball \u26be": [
             {
-                "time": "11:00",
+                "time": "16:30",
                 "event": "\u26be \ud83c\uddef\ud83c\uddf5 NPB: Hokkaido Nippon-Ham Fighters \ud83c\uddef\ud83c\uddf5 vs Saitama Seibu Lions \ud83c\uddef\ud83c\uddf5",
                 "channels": [
                     {
@@ -3902,7 +3850,7 @@
         ],
         "Minor League Baseball \u26be": [
             {
-                "time": "16:00",
+                "time": "21:30",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 Minor League Baseball: Gwinnett Stripers \ud83c\uddfa\ud83c\uddf8 vs Norfolk Tides \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -3912,7 +3860,7 @@
                 ]
             },
             {
-                "time": "00:00",
+                "time": "05:30",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 Minor League Baseball: Akron RubberDucks \ud83c\uddfa\ud83c\uddf8 vs Altoona Curve \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -3922,7 +3870,7 @@
                 ]
             },
             {
-                "time": "00:30",
+                "time": "06:00",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 Minor League Baseball: New Hampshire Fisher Cats \ud83c\uddfa\ud83c\uddf8 vs Somerset Patriots \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -3932,7 +3880,7 @@
                 ]
             },
             {
-                "time": "00:30",
+                "time": "06:00",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 Minor League Baseball: Wilmington Blue Rocks \ud83c\uddfa\ud83c\uddf8 vs Hudson Valley Renegades \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -3942,7 +3890,7 @@
                 ]
             },
             {
-                "time": "00:30",
+                "time": "06:00",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 Minor League Baseball: Jersey Shore BlueClaws \ud83c\uddfa\ud83c\uddf8 vs Brooklyn Cyclones \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -3954,7 +3902,7 @@
         ],
         "High School Baseball \u26be": [
             {
-                "time": "16:00",
+                "time": "21:30",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 High School Baseball: Great Lakes \ud83c\uddfa\ud83c\uddf8 vs Northeast \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -3964,7 +3912,7 @@
                 ]
             },
             {
-                "time": "19:00",
+                "time": "00:30",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 High School Baseball: Central Plains \ud83c\uddfa\ud83c\uddf8 vs Western \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -3974,7 +3922,7 @@
                 ]
             },
             {
-                "time": "22:00",
+                "time": "03:30",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 High School Baseball: Northwest \ud83c\uddfa\ud83c\uddf8 vs Southeast \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -3984,7 +3932,7 @@
                 ]
             },
             {
-                "time": "01:30",
+                "time": "07:00",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 High School Baseball: Mid-Atlantic \ud83c\uddfa\ud83c\uddf8 vs Mid-South \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -3996,7 +3944,7 @@
         ],
         "AAPB Baseball \u26be": [
             {
-                "time": "01:30",
+                "time": "07:00",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 AAPB: Kane County Cougars \ud83c\uddfa\ud83c\uddf8 vs Lincoln Saltdogs \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -4008,7 +3956,7 @@
         ],
         "Women's Pro Baseball League \u26be": [
             {
-                "time": "01:30",
+                "time": "07:00",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 Women's Pro Baseball League: New York Heights \ud83c\uddfa\ud83c\uddf8 vs Boston Hunters \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -4020,7 +3968,7 @@
         ],
         "Baseball (MLB) \u26be": [
             {
-                "time": "19:10",
+                "time": "00:40",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 MLB: Detroit Tigers \ud83c\uddfa\ud83c\uddf8 vs Cleveland Guardians \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -4038,7 +3986,7 @@
                 ]
             },
             {
-                "time": "19:10",
+                "time": "00:40",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 MLB: Miami Marlins \ud83c\uddfa\ud83c\uddf8 vs Pittsburgh Pirates \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -4052,7 +4000,7 @@
                 ]
             },
             {
-                "time": "19:35",
+                "time": "01:05",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 MLB: New York Yankees \ud83c\uddfa\ud83c\uddf8 vs Seattle Mariners \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -4070,7 +4018,7 @@
                 ]
             },
             {
-                "time": "20:10",
+                "time": "01:40",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 MLB: Chicago White Sox \ud83c\uddfa\ud83c\uddf8 vs Cincinnati Reds \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -4088,7 +4036,7 @@
                 ]
             },
             {
-                "time": "21:07",
+                "time": "02:37",
                 "event": "\u26be \ud83c\udde8\ud83c\udde6 MLB: Toronto Blue Jays \ud83c\udde8\ud83c\udde6 vs Boston Red Sox \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -4110,7 +4058,7 @@
                 ]
             },
             {
-                "time": "22:05",
+                "time": "03:35",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 MLB: Washington Nationals \ud83c\uddfa\ud83c\uddf8 vs Chicago Cubs \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -4124,7 +4072,7 @@
                 ]
             },
             {
-                "time": "01:30",
+                "time": "07:00",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 MLB: Minnesota Twins \ud83c\uddfa\ud83c\uddf8 vs Philadelphia Phillies \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -4138,7 +4086,7 @@
                 ]
             },
             {
-                "time": "04:07",
+                "time": "09:37",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 MLB: Los Angeles Angels \ud83c\uddfa\ud83c\uddf8 vs Texas Rangers \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -4152,7 +4100,7 @@
                 ]
             },
             {
-                "time": "04:10",
+                "time": "09:40",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 MLB: Los Angeles Dodgers \ud83c\uddfa\ud83c\uddf8 vs Milwaukee Brewers \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -4172,7 +4120,7 @@
         ],
         "Basketball (WNBA)": [
             {
-                "time": "01:00",
+                "time": "06:30",
                 "event": "\ud83c\udfc0 \ud83c\uddfa\ud83c\uddf8 WNBA: Connecticut Sun W \ud83c\uddfa\ud83c\uddf8 vs Atlanta Dream W \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -4182,7 +4130,7 @@
                 ]
             },
             {
-                "time": "02:00",
+                "time": "07:30",
                 "event": "\ud83c\udfc0 \ud83c\uddfa\ud83c\uddf8 WNBA: New York Liberty W \ud83c\uddfa\ud83c\uddf8 vs Los Angeles Sparks W \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -4192,7 +4140,7 @@
                 ]
             },
             {
-                "time": "04:00",
+                "time": "09:30",
                 "event": "\ud83c\udfc0 \ud83c\uddfa\ud83c\uddf8 WNBA: Las Vegas Aces W \ud83c\uddfa\ud83c\uddf8 vs Washington Mystics W \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -4204,7 +4152,7 @@
         ],
         "Beach Soccer \u26bd\ud83c\udfd6": [
             {
-                "time": "17:00",
+                "time": "22:30",
                 "event": "\u26bd\ud83c\udfd6\ufe0f \ud83c\uddf5\ud83c\uddf9 Preparatory Match: Portugal \ud83c\uddf5\ud83c\uddf9 vs Japan \ud83c\uddef\ud83c\uddf5",
                 "channels": [
                     {
@@ -4216,7 +4164,7 @@
         ],
         "Cycling \ud83d\udeb4": [
             {
-                "time": "15:00",
+                "time": "20:30",
                 "event": "\ud83d\udeb4 \ud83c\udde8\ud83c\uddff Czech Tour | Stage 1 Men | Prague \u2013 Karlovy Vary (163.21 km) \ud83c\udde8\ud83c\uddff",
                 "channels": [
                     {
@@ -4266,7 +4214,7 @@
                 ]
             },
             {
-                "time": "16:15",
+                "time": "21:45",
                 "event": "\ud83d\udeb4 \ud83c\uddf3\ud83c\uddf4 Arctic Race of Norway | Stage 1 Men | Evenes \u2013 Myre (181.7 km) \ud83c\uddf3\ud83c\uddf4",
                 "channels": [
                     {
@@ -4312,7 +4260,7 @@
                 ]
             },
             {
-                "time": "16:30",
+                "time": "22:00",
                 "event": "\ud83d\udeb4 \ud83c\uddf5\ud83c\uddf9 Tour of Portugal | Stage 7 Men | Vieira do Minho \u2013 Ger\u00eas (147 km) \ud83c\uddf5\ud83c\uddf9",
                 "channels": [
                     {
@@ -4324,7 +4272,7 @@
         ],
         "Table Tennis \ud83c\udfd3": [
             {
-                "time": "15:00",
+                "time": "20:30",
                 "event": "\ud83c\udfd3 \ud83c\uddf8\ud83c\uddea First Phase \u2013 Malm\u00f6, Sweden \ud83c\uddf8\ud83c\uddea",
                 "channels": [
                     {
@@ -4336,7 +4284,7 @@
         ],
         "Gymnastics \ud83e\udd38": [
             {
-                "time": "11:00",
+                "time": "16:30",
                 "event": "\ud83e\udd38 \ud83c\uddeb\ud83c\uddf7 World Rhythmic Gymnastics Championships 2026 \u2013 Qualifying \ud83c\uddeb\ud83c\uddf7",
                 "channels": [
                     {
@@ -4348,7 +4296,7 @@
         ],
         "Handball \ud83e\udd3e": [
             {
-                "time": "17:45",
+                "time": "23:15",
                 "event": "\ud83e\udd3e \ud83c\udded\ud83c\uddfa Fresh Corner Cup (Semi-final): MOL Tatab\u00e1nya \ud83c\udded\ud83c\uddfa vs RK Zagreb \ud83c\udded\ud83c\uddf7",
                 "channels": [
                     {
@@ -4358,7 +4306,7 @@
                 ]
             },
             {
-                "time": "19:45",
+                "time": "01:15",
                 "event": "\ud83e\udd3e \ud83c\uddf5\ud83c\uddf1 Fresh Corner Cup (Semi-final): Kielce \ud83c\uddf5\ud83c\uddf1 vs Celje \ud83c\uddf8\ud83c\uddee",
                 "channels": [
                     {
@@ -4368,7 +4316,7 @@
                 ]
             },
             {
-                "time": "18:20",
+                "time": "23:50",
                 "event": "\ud83e\udd3e \ud83c\udde7\ud83c\udde6 Doboj 2026: Sporting \ud83c\uddf5\ud83c\uddf9 vs Qatar \ud83c\uddf6\ud83c\udde6",
                 "channels": [
                     {
@@ -4378,7 +4326,7 @@
                 ]
             },
             {
-                "time": "20:20",
+                "time": "01:50",
                 "event": "\ud83e\udd3e \ud83c\udde9\ud83c\uddea Doboj 2026: Melsungen \ud83c\udde9\ud83c\uddea vs Al Ahly \ud83c\uddea\ud83c\uddec",
                 "channels": [
                     {
@@ -4390,7 +4338,7 @@
         ],
         "Horse Racing \ud83c\udfc7": [
             {
-                "time": "14:00",
+                "time": "19:30",
                 "event": "\ud83c\udfc7 \ud83c\uddec\ud83c\udde7 Live Racing from Around the UK \ud83c\uddec\ud83c\udde7",
                 "channels": [
                     {
@@ -4400,7 +4348,7 @@
                 ]
             },
             {
-                "time": "15:00",
+                "time": "20:30",
                 "event": "\ud83c\udfc7 \ud83c\uddec\ud83c\udde7 Live Racing from Salisbury, Beverley, Kempton and Gowran \ud83c\uddec\ud83c\udde7",
                 "channels": [
                     {
@@ -4410,7 +4358,7 @@
                 ]
             },
             {
-                "time": "19:00",
+                "time": "00:30",
                 "event": "\ud83c\udfc7 \ud83c\uddfa\ud83c\uddf8 Saratoga Live \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -4420,7 +4368,7 @@
                 ]
             },
             {
-                "time": "23:30",
+                "time": "05:00",
                 "event": "\ud83c\udfc7 \ud83c\uddea\ud83c\uddf8 Turf (T2026): San Sebasti\u00e1n Racecourse \ud83c\uddea\ud83c\uddf8",
                 "channels": [
                     {
@@ -4432,7 +4380,7 @@
         ],
         "Ice Hockey \ud83c\udfd2": [
             {
-                "time": "18:00",
+                "time": "23:30",
                 "event": "\ud83c\udfd2 \ud83c\uddf8\ud83c\uddea Club Friendly: F\u00e4rjestad BK \ud83c\uddf8\ud83c\uddea vs Link\u00f6ping HC \ud83c\uddf8\ud83c\uddea",
                 "channels": [
                     {
@@ -4446,7 +4394,7 @@
                 ]
             },
             {
-                "time": "18:00",
+                "time": "23:30",
                 "event": "\ud83c\udfd2 \ud83c\uddf8\ud83c\uddea Club Friendly: HV71 \ud83c\uddf8\ud83c\uddea vs Fr\u00f6lunda HC \ud83c\uddf8\ud83c\uddea",
                 "channels": [
                     {
@@ -4460,7 +4408,7 @@
                 ]
             },
             {
-                "time": "18:00",
+                "time": "23:30",
                 "event": "\ud83c\udfd2 \ud83c\uddf8\ud83c\uddea Club Friendly: Nybro Vikings IF vs Karlskrona HK",
                 "channels": [
                     {
@@ -4470,7 +4418,7 @@
                 ]
             },
             {
-                "time": "19:00",
+                "time": "00:30",
                 "event": "\ud83c\udfd2 Training Match Preseason : Bryn\u00e4s IF vs Modo Hockey",
                 "channels": [
                     {
@@ -4480,7 +4428,7 @@
                 ]
             },
             {
-                "time": "19:00",
+                "time": "00:30",
                 "event": "\ud83c\udfd2 Training Match Preseason : V\u00e4ster\u00e5s IK vs Almtuna IS",
                 "channels": [
                     {
@@ -4492,7 +4440,7 @@
         ],
         "Rugby League \ud83c\udfc9": [
             {
-                "time": "12:00",
+                "time": "17:30",
                 "event": "\ud83c\udfc9 \ud83c\udde6\ud83c\uddfa National Rugby League: Sydney Roosters vs Penrith Panthers",
                 "channels": [
                     {
@@ -4502,7 +4450,7 @@
                 ]
             },
             {
-                "time": "13:50",
+                "time": "19:20",
                 "event": "\ud83c\udfc9 \ud83c\udde6\ud83c\uddfa National Rugby League: Penrith Panthers \ud83c\udde6\ud83c\uddfa vs Sydney Roosters \ud83c\udde6\ud83c\uddfa",
                 "channels": [
                     {
@@ -4528,7 +4476,7 @@
                 ]
             },
             {
-                "time": "21:00",
+                "time": "02:30",
                 "event": "\ud83c\udfc9 \ud83c\uddec\ud83c\udde7 Super League Rugby: Leeds Rhinos \ud83c\uddec\ud83c\udde7 vs Leigh Leopards \ud83c\uddec\ud83c\udde7",
                 "channels": [
                     {
@@ -4548,7 +4496,7 @@
         ],
         "Rugby Union \ud83c\udfc9": [
             {
-                "time": "09:00",
+                "time": "14:30",
                 "event": "\ud83c\udfc9 \ud83c\uddf3\ud83c\uddff Bunnings NPC: Wellington \ud83c\uddf3\ud83c\uddff vs North Harbour \ud83c\uddf3\ud83c\uddff",
                 "channels": [
                     {
@@ -4560,7 +4508,7 @@
         ],
         "Volleyball \ud83c\udfd0": [
             {
-                "time": "17:30",
+                "time": "23:00",
                 "event": "\ud83c\udfd0 \ud83c\uddf5\ud83c\uddf1 Women's Volleyball: Agata Mr\u00f3z-Olszewska Memorial \u2013 Poland \ud83c\uddf5\ud83c\uddf1 vs Italy \ud83c\uddee\ud83c\uddf9",
                 "channels": [
                     {
@@ -4574,7 +4522,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "02:00",
                 "event": "\ud83c\udfd0 \ud83c\uddf5\ud83c\uddf1 Women's Volleyball: Agata Mr\u00f3z-Olszewska Memorial \u2013 France \ud83c\uddeb\ud83c\uddf7 vs Ukraine \ud83c\uddfa\ud83c\udde6",
                 "channels": [
                     {
@@ -4590,7 +4538,7 @@
         ],
         "Beach Volleyball \ud83c\udfd6\ufe0f\ud83c\udfd0": [
             {
-                "time": "09:00",
+                "time": "14:30",
                 "event": "\ud83c\udfd6\ufe0f \ud83c\uddf5\ud83c\uddf1 Beach Volleyball: Stare Jablonki \u2013 Women's Group Match \ud83c\uddf5\ud83c\uddf1",
                 "channels": [
                     {
@@ -4600,7 +4548,7 @@
                 ]
             },
             {
-                "time": "10:00",
+                "time": "15:30",
                 "event": "\ud83c\udfd6\ufe0f \ud83c\uddf5\ud83c\uddf1 Beach Volleyball: Stare Jablonki \u2013 Women's Group Match \ud83c\uddf5\ud83c\uddf1",
                 "channels": [
                     {
@@ -4610,7 +4558,7 @@
                 ]
             },
             {
-                "time": "11:00",
+                "time": "16:30",
                 "event": "\ud83c\udfd6\ufe0f \ud83c\uddf5\ud83c\uddf1 Beach Volleyball: Stare Jablonki \u2013 Women's Group Match \ud83c\uddf5\ud83c\uddf1",
                 "channels": [
                     {
@@ -4620,7 +4568,7 @@
                 ]
             },
             {
-                "time": "12:00",
+                "time": "17:30",
                 "event": "\ud83c\udfd6\ufe0f \ud83c\uddf5\ud83c\uddf1 Beach Volleyball: Stare Jablonki \u2013 Women's Group Match \ud83c\uddf5\ud83c\uddf1",
                 "channels": [
                     {
@@ -4630,7 +4578,7 @@
                 ]
             },
             {
-                "time": "13:00",
+                "time": "18:30",
                 "event": "\ud83c\udfd6\ufe0f \ud83c\uddf5\ud83c\uddf1 Beach Volleyball: Stare Jablonki \u2013 Women's Group Match \ud83c\uddf5\ud83c\uddf1",
                 "channels": [
                     {
@@ -4640,7 +4588,7 @@
                 ]
             },
             {
-                "time": "14:00",
+                "time": "19:30",
                 "event": "\ud83c\udfd6\ufe0f \ud83c\uddf5\ud83c\uddf1 Beach Volleyball: Stare Jablonki \u2013 Women's Group Match \ud83c\uddf5\ud83c\uddf1",
                 "channels": [
                     {
@@ -4650,7 +4598,7 @@
                 ]
             },
             {
-                "time": "15:00",
+                "time": "20:30",
                 "event": "\ud83c\udfd6\ufe0f \ud83c\uddf5\ud83c\uddf1 Beach Volleyball: Stare Jablonki \u2013 Women's Group Match \ud83c\uddf5\ud83c\uddf1",
                 "channels": [
                     {
@@ -4660,7 +4608,7 @@
                 ]
             },
             {
-                "time": "16:00",
+                "time": "21:30",
                 "event": "\ud83c\udfd6\ufe0f \ud83c\uddf5\ud83c\uddf1 Beach Volleyball: Stare Jablonki \u2013 Women's Group Match \ud83c\uddf5\ud83c\uddf1",
                 "channels": [
                     {
@@ -4670,7 +4618,7 @@
                 ]
             },
             {
-                "time": "17:00",
+                "time": "22:30",
                 "event": "\ud83c\udfd6\ufe0f \ud83c\uddf5\ud83c\uddf1 Beach Volleyball: Stare Jablonki \u2013 Women's Group Match \ud83c\uddf5\ud83c\uddf1",
                 "channels": [
                     {
@@ -4682,7 +4630,7 @@
         ],
         "Water Sports \ud83c\udfca": [
             {
-                "time": "09:25",
+                "time": "14:55",
                 "event": "\ud83c\udfca \ud83c\uddeb\ud83c\uddf7 Swimming: European Championships \u2013 Day 4 \ud83c\uddeb\ud83c\uddf7",
                 "channels": [
                     {
@@ -4696,7 +4644,7 @@
                 ]
             },
             {
-                "time": "14:00",
+                "time": "19:30",
                 "event": "\ud83c\udfca \ud83c\uddeb\ud83c\uddf7 Paris 2026 Swimming Pool Semifinals and Finals \ud83c\uddeb\ud83c\uddf7",
                 "channels": [
                     {
@@ -4706,7 +4654,7 @@
                 ]
             },
             {
-                "time": "17:00",
+                "time": "22:30",
                 "event": "\ud83c\udfca \ud83c\uddeb\ud83c\uddf7 European Swimming Championships \u2013 European Aquatics Paris 2026 \ud83c\uddeb\ud83c\uddf7",
                 "channels": [
                     {
@@ -4720,7 +4668,7 @@
                 ]
             },
             {
-                "time": "19:25",
+                "time": "00:55",
                 "event": "\ud83c\udfca \ud83c\uddeb\ud83c\uddf7 Swimming: European Championships \u2013 Various Events \ud83c\uddeb\ud83c\uddf7",
                 "channels": [
                     {
@@ -4734,7 +4682,7 @@
                 ]
             },
             {
-                "time": "21:00",
+                "time": "02:30",
                 "event": "\ud83c\udfca \ud83c\uddeb\ud83c\uddf7 European Swimming Championships \u2013 European Aquatics Paris 2026 \u2013 Artistic Swimming Acrobatic \ud83c\uddeb\ud83c\uddf7",
                 "channels": [
                     {
@@ -4744,7 +4692,7 @@
                 ]
             },
             {
-                "time": "22:00",
+                "time": "03:30",
                 "event": "\ud83c\udfca \ud83c\uddeb\ud83c\uddf7 Paris 2026 Swimming Pool Semifinals and Finals \ud83c\uddeb\ud83c\uddf7",
                 "channels": [
                     {
@@ -4758,7 +4706,7 @@
                 ]
             },
             {
-                "time": "04:00",
+                "time": "09:30",
                 "event": "\ud83c\udfca \ud83c\udf0f Other Swimming Events: Pan Pacific Swimming Championships \ud83c\udf0f",
                 "channels": [
                     {
