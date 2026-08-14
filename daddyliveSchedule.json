@@ -1,5 +1,177 @@
 {
     "Friday 14th Aug 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "23:00",
+                "event": "\ud83c\udfce\ufe0f Hasty Bake High Limit Room: Knoxville",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "\ud83c\udfce\ufe0f Weekly Racing: Stafford",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83c\udfce\ufe0f Knoxville Nationals: NOS Energy",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "\ud83c\udfce\ufe0f Weekly Racing: Utica-Rome",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "\ud83c\udfce\ufe0f NASCAR Weekly Racing: Autodrome Granby",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "\ud83c\udfce\ufe0f KKM Challenge Series: Greenwood Valley",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "\ud83c\udfce\ufe0f USAC National Midgets: Coles County",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\ud83c\udfce\ufe0f Captain of the Creek: 141 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "\ud83c\udfce\ufe0f RoC Sportsman: Spencer",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "\ud83c\udfce\ufe0f NASCAR Weekly Racing: Riverhead",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "\ud83c\udfce\ufe0f Great Lakes Pro Am Series: Lake Erie",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "\ud83c\udfce\ufe0f Summer Showdown: Evergreen",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "\ud83e\udd4a Cage Fury Fighting Championships 159",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "02:15",
+                "event": "\ud83c\udfce\ufe0f Lucas Oil Topless 100: Batesville",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "\ud83e\udd4a ONE Fight Night 46: Hemetsberger vs Diachkova",
+                "channels": [
+                    {
+                        "channel_name": "Prime Video",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "\ud83e\udd4a Fury Fighting Championship 123",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "\ud83e\udd4a LUX Fight League 062",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "171"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "20:30",
@@ -2414,6 +2586,30 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7025"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\ud83c\uddf5\ud83c\uddfe Paraguay Primera Divisi\u00f3n, Clausura : Recoleta FC \ud83c\uddf5\ud83c\uddfe vs CS 2 de Mayo \ud83c\uddf5\ud83c\uddfe",
+                "channels": [
+                    {
+                        "channel_name": "Soccer Stream",
+                        "channel_id": "7034"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83c\uddfa\ud83c\uddfe Uruguay Liga AUF Uruguaya, Clausura : \ud83c\uddfa\ud83c\uddfe Boston River vs \ud83c\uddfa\ud83c\uddfe Danubio",
+                "channels": [
+                    {
+                        "channel_name": "Soccer Stream",
+                        "channel_id": "7035"
                     }
                 ]
             },
@@ -2424,6 +2620,10 @@
                     {
                         "channel_name": "ESPN Brazil",
                         "channel_id": "81"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7026"
                     }
                 ]
             },
@@ -2438,6 +2638,10 @@
                     {
                         "channel_name": "SporTV BR",
                         "channel_id": "78"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7027"
                     }
                 ]
             },
@@ -2448,6 +2652,10 @@
                     {
                         "channel_name": "TNT SPORTS Premium Chile",
                         "channel_id": "642"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7028"
                     }
                 ]
             },
@@ -2462,6 +2670,10 @@
                     {
                         "channel_name": "FOX Deportes",
                         "channel_id": "643"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7029"
                     }
                 ]
             },
@@ -2472,6 +2684,10 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7030"
                     }
                 ]
             },
@@ -2486,6 +2702,10 @@
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "3084"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7031"
                     }
                 ]
             },
@@ -2496,6 +2716,10 @@
                     {
                         "channel_name": "AYM Sports Mexico",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7032"
                     }
                 ]
             },
@@ -2506,6 +2730,10 @@
                     {
                         "channel_name": "AYM Sports Mexico",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7033"
                     }
                 ]
             }
@@ -4422,6 +4650,10 @@
                     {
                         "channel_name": "beIN Sports 5 Max France",
                         "channel_id": "495"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7015"
                     }
                 ]
             },
@@ -4444,6 +4676,10 @@
                     {
                         "channel_name": "SportsNet Pittsburgh",
                         "channel_id": "922"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7016"
                     }
                 ]
             },
@@ -4458,6 +4694,10 @@
                     {
                         "channel_name": "Chicago Sports Network",
                         "channel_id": "776"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7017"
                     }
                 ]
             },
