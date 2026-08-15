@@ -1,5 +1,17 @@
 {
     "Saturday 15th Aug 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "18:30",
+                "event": "Knoxville Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5001"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "20:30",
@@ -1371,21 +1383,21 @@
             },
             {
                 "time": "15:30",
-                "event": "\u26bd \ud83c\udf0d Club Friendly : Union Berlin \ud83c\udde9\ud83c\uddea vs Ipswich Town \ud83c\udff4",
+                "event": "\u26bd \ud83c\udf0d Club Friendly : 1. FSV Mainz 05 vs Bournemouth",
                 "channels": [
                     {
                         "channel_name": "Event Stream",
-                        "channel_id": "7002"
+                        "channel_id": "7000"
                     }
                 ]
             },
             {
                 "time": "15:30",
-                "event": "\u26bd \ud83c\udde9\ud83c\uddea Friendly : 1. FSV Mainz 05 \ud83c\udde9\ud83c\uddea vs AFC Bournemouth \ud83c\udff4",
+                "event": "\u26bd \ud83c\udf0d Club Friendly : Union Berlin \ud83c\udde9\ud83c\uddea vs Ipswich Town \ud83c\udff4",
                 "channels": [
                     {
                         "channel_name": "Event Stream",
-                        "channel_id": "7000"
+                        "channel_id": "7002"
                     }
                 ]
             },
@@ -1604,7 +1616,7 @@
                 ]
             },
             {
-                "time": "16:38",
+                "time": "18:38",
                 "event": "9:30 \u26bd \ud83c\udf0d Friendly : Leeds United \ud83c\udff4 vs Augsburg \ud83c\udde9\ud83c\uddea",
                 "channels": [
                     {
@@ -2996,10 +3008,6 @@
                     {
                         "channel_name": "M4 Sports Hungary",
                         "channel_id": "265"
-                    },
-                    {
-                        "channel_name": "Event Stream",
-                        "channel_id": "7056"
                     }
                 ]
             },
@@ -3041,15 +3049,21 @@
             },
             {
                 "time": "16:30",
+                "event": "\u26bd Hungary NB 1 : Ujpest vs MTK Budapest",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7056"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
                 "event": "\u26bd \ud83c\udde9\ud83c\uddea Germany - 3. Liga : Verl \ud83c\udde9\ud83c\uddea vs MSV Duisburg \ud83c\udde9\ud83c\uddea",
                 "channels": [
                     {
                         "channel_name": "Magenta Sport 307",
                         "channel_id": "23"
-                    },
-                    {
-                        "channel_name": "Event Stream",
-                        "channel_id": "7058"
                     },
                     {
                         "channel_name": "Sportklub 1 Croatia",
@@ -3058,6 +3072,10 @@
                     {
                         "channel_name": "Magenta Sport 307",
                         "channel_id": "3099"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7058"
                     }
                 ]
             },
@@ -5592,8 +5610,12 @@
                 "event": "ATP - Singles: \ud83c\udde7\ud83c\uddea Alexander Blockx vs \ud83c\udde6\ud83c\uddf7 Mariano Navone",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
                     }
                 ]
             },
@@ -5602,8 +5624,12 @@
                 "event": "ATP - Singles: \ud83c\uddf7\ud83c\uddf8 Miomir Kecmanovi\u0107 vs \ud83c\uddee\ud83c\uddf9 Flavio Cobolli",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
                     }
                 ]
             },
@@ -5612,8 +5638,12 @@
                 "event": "ATP - Singles: \ud83c\uddea\ud83c\uddf8 Mart\u00edn Landaluce vs \ud83c\uddee\ud83c\uddf9 Matteo Arnaldi",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1553"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
                     }
                 ]
             },
@@ -5622,8 +5652,12 @@
                 "event": "ATP - Singles: \ud83c\uddee\ud83c\uddf9 Mattia Bellucci vs \ud83c\udde8\ud83c\uddff Ji\u0159\u00ed Men\u0161\u00edk",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1570"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
                     }
                 ]
             },
@@ -5632,8 +5666,12 @@
                 "event": "ATP - Singles: \ud83c\uddf7\ud83c\uddf8 Novak Djokovic vs \ud83c\udde6\ud83c\uddf7 Thiago Agust\u00edn Tirante",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1558"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
@@ -5642,8 +5680,12 @@
                 "event": "ATP - Singles: \ud83c\udde8\ud83c\uddf1 Diego Vallejo vs \ud83c\uddf5\ud83c\uddf1 Vacherot V.",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1563"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
                     }
                 ]
             },
@@ -5652,8 +5694,12 @@
                 "event": "ATP - Singles: \ud83c\uddee\ud83c\uddf9 Luciano Darderi vs \ud83c\udde6\ud83c\uddfa Rinky Hijikata",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1565"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
                     }
                 ]
             },
@@ -5662,8 +5708,12 @@
                 "event": "ATP - Singles: \ud83c\uddec\ud83c\udde7 Arthur Fery vs \ud83c\udde6\ud83c\uddfa James Duckworth",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1566"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
                     }
                 ]
             },
@@ -5672,8 +5722,12 @@
                 "event": "ATP - Singles: \ud83c\uddeb\ud83c\uddf7 Quentin Halys vs \ud83c\udde6\ud83c\uddfa Alex de Minaur",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1567"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
                     }
                 ]
             },
@@ -5682,8 +5736,12 @@
                 "event": "ATP - Singles: \ud83c\uddfa\ud83c\uddf8 Tommy Paul vs \ud83c\uddf5\ud83c\uddf1 Hubert Hurkacz",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1568"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
@@ -5754,8 +5812,12 @@
                 "event": "WTA - Singles: \ud83c\uddea\ud83c\uddf8 Cristina Buc\u0219a vs \ud83c\uddf5\ud83c\uddf1 Maja Chwali\u0144ska",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1554"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1514"
                     }
                 ]
             },
@@ -5764,8 +5826,12 @@
                 "event": "WTA - Singles: \ud83c\uddf5\ud83c\udded Alexandra Eala vs \ud83c\uddf7\ud83c\uddf4 Gabriela Ruse",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1555"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
                     }
                 ]
             },
@@ -5774,8 +5840,12 @@
                 "event": "WTA - Singles: \ud83c\uddf9\ud83c\uddf7 Zeynep S\u00f6nmez vs \ud83c\uddfa\ud83c\uddf8 Amanda Anisimova",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
                     }
                 ]
             },
@@ -5784,8 +5854,12 @@
                 "event": "WTA - Singles: \ud83c\udde8\ud83c\uddf3 Zhang Shuai vs \ud83c\uddfa\ud83c\uddf8 Kayla Day",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1556"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
                     }
                 ]
             },
@@ -5794,8 +5868,12 @@
                 "event": "WTA - Singles: \ud83c\uddf7\ud83c\uddf4 Sorana C\u00eerstea vs \ud83c\udde8\ud83c\uddff Nikola Bart\u016f\u0148kov\u00e1",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1559"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
                     }
                 ]
             },
@@ -5804,8 +5882,12 @@
                 "event": "WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Caty McNally vs \ud83c\uddfa\ud83c\udde6 Anhelina Kalinina",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1561"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
                     }
                 ]
             },
@@ -5814,8 +5896,12 @@
                 "event": "WTA - Singles: \ud83c\uddf1\ud83c\uddfb Je\u013cena Ostapenko vs \ud83c\uddf5\ud83c\uddf1 Magdalena Fr\u0119ch",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1560"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
                     }
                 ]
             },
@@ -5824,8 +5910,12 @@
                 "event": "WTA - Singles: \ud83c\uddf7\ud83c\uddfa Diana Shnaider vs \ud83c\udde9\ud83c\uddea Tatjana Maria",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1562"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1514"
                     }
                 ]
             },
@@ -5834,8 +5924,12 @@
                 "event": "WTA - Singles: \ud83c\udde8\ud83c\uddff Linda Noskov\u00e1 vs \ud83c\uddec\ud83c\udde7 Katie Boulter",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1564"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
                     }
                 ]
             },
@@ -5844,8 +5938,12 @@
                 "event": "WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Emma Navarro vs \ud83c\uddfa\ud83c\udde6 Anhelina Kalinina",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1571"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
                     }
                 ]
             },
@@ -7092,6 +7190,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -7114,6 +7216,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5003"
                     }
                 ]
             },
@@ -7140,6 +7246,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5004"
                     }
                 ]
             },
