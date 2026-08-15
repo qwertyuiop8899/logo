@@ -1828,7 +1828,7 @@
                 ]
             },
             {
-                "time": "20:59",
+                "time": "22:45",
                 "event": "9:30 \u26bd \ud83c\udf0d Friendly : Leeds United \ud83c\udff4 vs Augsburg \ud83c\udde9\ud83c\uddea",
                 "channels": [
                     {
@@ -4684,6 +4684,10 @@
                     {
                         "channel_name": "ESPN 1 NL",
                         "channel_id": "3088"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7025"
                     }
                 ]
             },
@@ -4694,6 +4698,30 @@
                     {
                         "channel_name": "ESPN Brazil",
                         "channel_id": "81"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7023"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brazil - Serie B : Atletico GO vs Vila Nova FC",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7021"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brazil - Serie B : Ceara vs Cuiaba",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7022"
                     }
                 ]
             },
@@ -4708,6 +4736,10 @@
                     {
                         "channel_name": "MAX Sport 1 Croatia",
                         "channel_id": "3070"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7020"
                     }
                 ]
             },
@@ -4718,6 +4750,10 @@
                     {
                         "channel_name": "Arena 5 Premium Serbia",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7024"
                     }
                 ]
             },
@@ -4728,6 +4764,36 @@
                     {
                         "channel_name": "Arena Sport 10 Serbia",
                         "channel_id": "945"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\u26bd Bolivia Divisi\u00f3n Profesional : Real Oruro vs Oriente Petrolero",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7017"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\u26bd Ecuador Liga Pro Serie A : Manta vs Leones del Norte",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7018"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\u26bd Paraguay Primera Divisi\u00f3n : Guarani vs Rubio Nu",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7019"
                     }
                 ]
             },
@@ -4774,6 +4840,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4107"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7027"
                     }
                 ]
             },
@@ -4836,6 +4906,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4118"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7031"
                     }
                 ]
             },
@@ -4942,6 +5016,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4118"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7033"
                     }
                 ]
             },
@@ -4992,6 +5070,10 @@
                     {
                         "channel_name": "#Vamos ES",
                         "channel_id": "3030"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7030"
                     }
                 ]
             },
@@ -5014,6 +5096,20 @@
                     {
                         "channel_name": "LALIGA TV Hypermotion",
                         "channel_id": "3026"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7032"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\u26bd Uruguay Liga AUF Uruguaya Clausura : Racing Montevideo vs Nacional",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7029"
                     }
                 ]
             },
@@ -5040,6 +5136,10 @@
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "3084"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7034"
                     }
                 ]
             },
@@ -5060,6 +5160,10 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7035"
                     }
                 ]
             },
@@ -5078,6 +5182,40 @@
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "3083"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7040"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "\u26bd Bolivia Divisi\u00f3n Profesional Guabir\u00e1 vs The Strongest",
+                "channels": [
+                    {
+                        "channel_name": "Soccer Stream",
+                        "channel_id": "7041"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\u26bd Ecuador LigaPro Serie A, Primera Etapa : Guayaquil City vs Libertad",
+                "channels": [
+                    {
+                        "channel_name": "Soccer Stream",
+                        "channel_id": "7042"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\u26bd Paraguay Primera Divisi\u00f3n, Clausura : Sportivo Trinidense vs Nacional Asunci\u00f3n",
+                "channels": [
+                    {
+                        "channel_name": "Soccer Stream",
+                        "channel_id": "7043"
                     }
                 ]
             },
@@ -5100,6 +5238,10 @@
                     {
                         "channel_name": "Sportdigital FUSSBALL DE",
                         "channel_id": "3019"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7046"
                     }
                 ]
             },
@@ -5114,6 +5256,20 @@
                     {
                         "channel_name": "TNT SPORTS Premium HD Chile",
                         "channel_id": "3010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7044"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\u26bd Brazil Brasileir\u00e3o S\u00e9rie B : Juventude vs Fortaleza",
+                "channels": [
+                    {
+                        "channel_name": "Soccer Stream",
+                        "channel_id": "7045"
                     }
                 ]
             },
@@ -6772,6 +6928,26 @@
                     {
                         "channel_name": "UFC Fight Pass",
                         "channel_id": "59"
+                    },
+                    {
+                        "channel_name": "UFC Stream",
+                        "channel_id": "7036"
+                    },
+                    {
+                        "channel_name": "UFC Stream",
+                        "channel_id": "7037"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5030"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5040"
                     }
                 ]
             },
@@ -6810,6 +6986,26 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4101"
+                    },
+                    {
+                        "channel_name": "UFC Stream",
+                        "channel_id": "7036"
+                    },
+                    {
+                        "channel_name": "UFC Stream",
+                        "channel_id": "7037"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5030"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5040"
                     }
                 ]
             },
@@ -6900,6 +7096,26 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5006"
+                    },
+                    {
+                        "channel_name": "UFC Stream",
+                        "channel_id": "7036"
+                    },
+                    {
+                        "channel_name": "UFC Stream",
+                        "channel_id": "7037"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5030"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5040"
                     }
                 ]
             }
@@ -7570,6 +7786,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4034"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7039"
                     }
                 ]
             },
@@ -7592,6 +7812,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4033"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7038"
                     }
                 ]
             },
@@ -9206,6 +9430,10 @@
                     {
                         "channel_name": "Sportsnet World",
                         "channel_id": "410"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7026"
                     }
                 ]
             }
