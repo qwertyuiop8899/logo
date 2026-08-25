@@ -598,6 +598,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "55"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "196"
                     }
                 ]
             }
@@ -648,6 +652,10 @@
                     {
                         "channel_name": "beIN Sports MAX 4 France",
                         "channel_id": "3054"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "175"
                     }
                 ]
             },
@@ -666,6 +674,20 @@
                     {
                         "channel_name": "beIN Sports MAX 10 France",
                         "channel_id": "3055"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "176"
+                    }
+                ]
+            },
+            {
+                "time": "20:45",
+                "event": "\u26bd \ud83c\uddec\ud83c\udde7 England - League Cup : The Golazo Show",
+                "channels": [
+                    {
+                        "channel_name": "Soccer Stream",
+                        "channel_id": "7051"
                     }
                 ]
             },
@@ -676,6 +698,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "69"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "189"
                     }
                 ]
             },
@@ -694,6 +720,10 @@
                     {
                         "channel_name": "beIN Sports MAX 8 France",
                         "channel_id": "3058"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "177"
                     }
                 ]
             },
@@ -704,6 +734,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "77"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "178"
                     }
                 ]
             },
@@ -726,6 +760,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4104"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "179"
                     }
                 ]
             },
@@ -748,6 +786,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4108"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "182"
                     }
                 ]
             },
@@ -766,6 +808,10 @@
                     {
                         "channel_name": "beIN Sports MENA 9",
                         "channel_id": "99"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "183"
                     }
                 ]
             },
@@ -776,6 +822,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "107"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "185"
                     }
                 ]
             },
@@ -794,6 +844,10 @@
                     {
                         "channel_name": "beIN Sports MAX 6 France",
                         "channel_id": "3056"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "188"
                     }
                 ]
             },
@@ -804,6 +858,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "109"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "180"
                     }
                 ]
             },
@@ -862,6 +920,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4119"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "181"
                     }
                 ]
             },
@@ -892,6 +954,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4109"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "184"
                     }
                 ]
             },
@@ -910,6 +976,10 @@
                     {
                         "channel_name": "beIN Sports MAX 7 France",
                         "channel_id": "3057"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "186"
                     }
                 ]
             },
@@ -920,6 +990,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "153"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "187"
                     }
                 ]
             },
@@ -954,6 +1028,10 @@
                     {
                         "channel_name": "V Sport 2",
                         "channel_id": "3067"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "194"
                     }
                 ]
             },
@@ -1032,6 +1110,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4113"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "193"
                     }
                 ]
             }
@@ -1426,6 +1508,50 @@
                     {
                         "channel_name": "SuperSport PSL",
                         "channel_id": "413"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "\u26bd Tanzania Premier League : Dodoma Jiji vs Polisi Tanzania",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "\u26bd South Africa Premiership : Kruger United vs Durban City",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "\u26bd South Africa Premiership : Marumo Gallants vs TS Galaxy",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "\u26bd South Africa Premiership : Siwelele vs Chippa Utd",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "171"
                     }
                 ]
             },
@@ -1436,6 +1562,10 @@
                     {
                         "channel_name": "Thmanyah",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "174"
                     }
                 ]
             },
@@ -1510,6 +1640,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4112"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "173"
                     }
                 ]
             },
@@ -1518,7 +1652,7 @@
                 "event": "\u26bd \ud83c\uddea\ud83c\uddfa Europe - UEFA Champions League : Simulcast",
                 "channels": [
                     {
-                        "channel_name": "Paramoint+",
+                        "channel_name": "Paramount+",
                         "channel_id": "162"
                     },
                     {
@@ -1532,7 +1666,7 @@
                 "event": "\u26bd \ud83c\udde6\ud83c\uddf9 Europe - UEFA Champions League : LASK Linz \ud83c\udde6\ud83c\uddf9 vs Celtic \ud83c\uddec\ud83c\udde7",
                 "channels": [
                     {
-                        "channel_name": "Paramoint+",
+                        "channel_name": "Paramount+",
                         "channel_id": "161"
                     },
                     {
@@ -1674,6 +1808,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4122"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "190"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
                     }
                 ]
             },
@@ -1682,7 +1824,7 @@
                 "event": "\u26bd \ud83c\uddf3\ud83c\uddf4 Europe - UEFA Champions League : Bod\u00f8/Glimt \ud83c\uddf3\ud83c\uddf4 vs NEC Nijmegen \ud83c\uddf3\ud83c\uddf1",
                 "channels": [
                     {
-                        "channel_name": "Paramoint+",
+                        "channel_name": "Paramount+",
                         "channel_id": "163"
                     },
                     {
@@ -1808,6 +1950,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4115"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "191"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
                     }
                 ]
             },
@@ -1922,6 +2072,28 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4106"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "192"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4004"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddf4 Bolivia - Divisi\u00f3n Profesional : GV San Jos\u00e9 \ud83c\udde7\ud83c\uddf4 vs Oriente Petrolero \ud83c\udde7\ud83c\uddf4",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "195"
                     }
                 ]
             },
@@ -3592,7 +3764,7 @@
         ],
         "Snooker \ud83c\udfb1": [
             {
-                "time": "19:06",
+                "time": "20:49",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 1 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3602,7 +3774,7 @@
                 ]
             },
             {
-                "time": "19:06",
+                "time": "20:49",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 2 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3612,7 +3784,7 @@
                 ]
             },
             {
-                "time": "19:06",
+                "time": "20:49",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 3 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3622,7 +3794,7 @@
                 ]
             },
             {
-                "time": "19:06",
+                "time": "20:49",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 4 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3632,7 +3804,7 @@
                 ]
             },
             {
-                "time": "19:06",
+                "time": "20:49",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 5 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3642,7 +3814,7 @@
                 ]
             },
             {
-                "time": "19:06",
+                "time": "20:49",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 6 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
