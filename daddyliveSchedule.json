@@ -1218,6 +1218,10 @@
                 "event": "\u26bd \ud83c\uddea\ud83c\uddfa Europe - UEFA Champions League : Sabah FC \ud83c\udde6\ud83c\uddff vs Hapoel Be'er Sheva \ud83c\uddee\ud83c\uddf1",
                 "channels": [
                     {
+                        "channel_name": "Paramoint+",
+                        "channel_id": "160"
+                    },
+                    {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "31"
                     },
@@ -1464,6 +1468,10 @@
                 "event": "\u26bd \ud83c\uddea\ud83c\uddfa Europe - UEFA Champions League : Simulcast",
                 "channels": [
                     {
+                        "channel_name": "Paramoint+",
+                        "channel_id": "162"
+                    },
+                    {
                         "channel_name": "Canal+ Extra 3 Poland",
                         "channel_id": "985"
                     }
@@ -1473,6 +1481,10 @@
                 "time": "21:00",
                 "event": "\u26bd \ud83c\udde6\ud83c\uddf9 Europe - UEFA Champions League : LASK Linz \ud83c\udde6\ud83c\uddf9 vs Celtic \ud83c\uddec\ud83c\udde7",
                 "channels": [
+                    {
+                        "channel_name": "Paramoint+",
+                        "channel_id": "161"
+                    },
                     {
                         "channel_name": "Sky Sport Austria 1",
                         "channel_id": "559"
@@ -1619,6 +1631,10 @@
                 "time": "21:00",
                 "event": "\u26bd \ud83c\uddf3\ud83c\uddf4 Europe - UEFA Champions League : Bod\u00f8/Glimt \ud83c\uddf3\ud83c\uddf4 vs NEC Nijmegen \ud83c\uddf3\ud83c\uddf1",
                 "channels": [
+                    {
+                        "channel_name": "Paramoint+",
+                        "channel_id": "163"
+                    },
                     {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "31"
@@ -3336,7 +3352,7 @@
         ],
         "Snooker \ud83c\udfb1": [
             {
-                "time": "12:10",
+                "time": "15:21",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 1 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3346,7 +3362,7 @@
                 ]
             },
             {
-                "time": "12:10",
+                "time": "15:21",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 2 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3356,7 +3372,7 @@
                 ]
             },
             {
-                "time": "12:10",
+                "time": "15:21",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 3 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3366,7 +3382,7 @@
                 ]
             },
             {
-                "time": "12:10",
+                "time": "15:21",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 4 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3376,7 +3392,7 @@
                 ]
             },
             {
-                "time": "12:10",
+                "time": "15:21",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 5 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3386,7 +3402,7 @@
                 ]
             },
             {
-                "time": "12:10",
+                "time": "15:21",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 6 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
