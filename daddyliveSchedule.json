@@ -687,7 +687,7 @@
                 "channels": [
                     {
                         "channel_name": "Event SD Stream",
-                        "channel_id": "151"
+                        "channel_id": "1101"
                     }
                 ]
             },
@@ -725,7 +725,7 @@
                 "channels": [
                     {
                         "channel_name": "Event SD Stream",
-                        "channel_id": "154"
+                        "channel_id": "1102"
                     }
                 ]
             },
@@ -855,7 +855,7 @@
                 "channels": [
                     {
                         "channel_name": "Event SD Stream",
-                        "channel_id": "165"
+                        "channel_id": "1105"
                     }
                 ]
             },
@@ -869,7 +869,7 @@
                     },
                     {
                         "channel_name": "Event SD Stream",
-                        "channel_id": "166"
+                        "channel_id": "1103"
                     }
                 ]
             },
@@ -883,17 +883,31 @@
                     },
                     {
                         "channel_name": "Event SD Stream",
-                        "channel_id": "167"
+                        "channel_id": "1104"
                     }
                 ]
             },
             {
                 "time": "20:00",
-                "event": "\u26bd \ud83c\uddf8\ud83c\udde6 Diriyah vs \ud83c\uddf8\ud83c\udde6 Al Kholood",
+                "event": "\u26bd \ud83c\uddf8\ud83c\udde6 Saudi Pro League : Diriyah vs \ud83c\uddf8\ud83c\udde6 Al Kholood",
                 "channels": [
                     {
                         "channel_name": "Thmanyah",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\udde6 Saudi Pro League : Al Ahli SC vs Auckland FC",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "169"
                     }
                 ]
             },
@@ -2872,6 +2886,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1071"
                     }
                 ]
             },
@@ -3120,6 +3138,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1072"
                     }
                 ]
             },
@@ -3380,6 +3402,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1076"
                     }
                 ]
             },
@@ -3390,6 +3416,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1079"
                     }
                 ]
             },
@@ -3404,6 +3434,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1073"
                     }
                 ]
             },
@@ -3414,6 +3448,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1074"
                     }
                 ]
             },
@@ -3424,6 +3462,20 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1075"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "\ud83c\udfbe Mixed Doubles: \ud83c\uddf0\ud83c\uddff Anna Sergeyevna Danilina vs \ud83c\uddf7\ud83c\uddfa Maria Aleksandrovna Kozyreva",
+                "channels": [
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1077"
                     }
                 ]
             },
@@ -3434,6 +3486,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1081"
                     }
                 ]
             },
@@ -3444,6 +3500,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1082"
                     }
                 ]
             },
@@ -3517,11 +3577,31 @@
         "Tennis \ud83c\udfbe Mixed Doubles: US Open (USA)": [
             {
                 "time": "01:00",
+                "event": "\ud83c\udfbe Mixed Doubles: \ud83c\udde6\ud83c\uddfa Maya Joint / \ud83c\udde8\ud83c\uddf3 Xu Yifan vs \ud83c\uddf5\ud83c\uddf1 Katarzyna Piter / \ud83c\uddee\ud83c\udde9 Janice Tjen",
+                "channels": [
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1078"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
                 "event": "\ud83c\udfbe Mixed Doubles: \ud83c\uddfa\ud83c\udde6 Elina Svitolina & \ud83c\uddeb\ud83c\uddf7 Ga\u00ebl Monfils vs \ud83c\udde8\ud83c\udded Belinda Bencic & \ud83c\uddee\ud83c\uddf9 Flavio Cobolli",
                 "channels": [
                     {
                         "channel_name": "Channel Not Listed #JustAsk",
                         "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "\ud83c\udfbe \ud83c\uddea\ud83c\uddf8 Cristina Buc\u0219a / \ud83c\uddfa\ud83c\uddf8 Nicole Melichar-Martinez vs \ud83c\uddf3\ud83c\uddf4 Ulrikke Eikeri / \ud83c\uddfa\ud83c\uddf8 Quinn Gleason",
+                "channels": [
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1080"
                     }
                 ]
             },
@@ -3608,7 +3688,7 @@
         ],
         "Snooker \ud83c\udfb1": [
             {
-                "time": "17:56",
+                "time": "20:14",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open Table 1",
                 "channels": [
                     {
@@ -3618,7 +3698,7 @@
                 ]
             },
             {
-                "time": "17:56",
+                "time": "20:14",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open Table 2",
                 "channels": [
                     {
@@ -3628,7 +3708,7 @@
                 ]
             },
             {
-                "time": "17:56",
+                "time": "20:14",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open Table 3",
                 "channels": [
                     {
@@ -3638,7 +3718,7 @@
                 ]
             },
             {
-                "time": "17:56",
+                "time": "20:14",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open Table 4",
                 "channels": [
                     {
@@ -3648,7 +3728,7 @@
                 ]
             },
             {
-                "time": "17:56",
+                "time": "20:14",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open Table 5",
                 "channels": [
                     {
@@ -3658,7 +3738,7 @@
                 ]
             },
             {
-                "time": "17:56",
+                "time": "20:14",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open Table 6",
                 "channels": [
                     {
@@ -4270,6 +4350,10 @@
                     {
                         "channel_name": "PDC TV",
                         "channel_id": "43"
+                    },
+                    {
+                        "channel_name": "PDC Board 2",
+                        "channel_id": "2020"
                     },
                     {
                         "channel_name": "Backup Stream",
