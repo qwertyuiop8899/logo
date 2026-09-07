@@ -2098,12 +2098,26 @@
                 ]
             },
             {
+                "time": "23:30",
+                "event": "Paraguay Primera Division : Cerro Porteno vs Nacional Asuncion",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
                 "time": "00:00",
                 "event": "\u26bd \ud83c\udde6\ud83c\uddf7 Argentina - Primera Divisi\u00f3n : Barracas Central \ud83c\udde6\ud83c\uddf7 vs Argentinos Juniors \ud83c\udde6\ud83c\uddf7",
                 "channels": [
                     {
                         "channel_name": "ESPN Argentina",
                         "channel_id": "149"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "169"
                     },
                     {
                         "channel_name": "ESPN Premium Argentina",
@@ -2350,7 +2364,7 @@
         ],
         "Tennis US OPEN [All Court \ud83c\udfdf\ufe0f] \ud83c\udfbe": [
             {
-                "time": "20:45",
+                "time": "22:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f RED Zone | Multi Feed",
                 "channels": [
                     {
@@ -2364,7 +2378,7 @@
                 ]
             },
             {
-                "time": "20:45",
+                "time": "22:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Arthur Ashe Stadium",
                 "channels": [
                     {
@@ -2382,7 +2396,7 @@
                 ]
             },
             {
-                "time": "20:45",
+                "time": "22:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Louis Armstrong Stadium",
                 "channels": [
                     {
@@ -2396,7 +2410,7 @@
                 ]
             },
             {
-                "time": "20:45",
+                "time": "22:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Grandstand",
                 "channels": [
                     {
@@ -2410,7 +2424,7 @@
                 ]
             },
             {
-                "time": "20:45",
+                "time": "22:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Stadium 17",
                 "channels": [
                     {
@@ -2420,7 +2434,7 @@
                 ]
             },
             {
-                "time": "20:45",
+                "time": "22:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 4",
                 "channels": [
                     {
@@ -2430,7 +2444,7 @@
                 ]
             },
             {
-                "time": "20:45",
+                "time": "22:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 5",
                 "channels": [
                     {
@@ -2440,7 +2454,7 @@
                 ]
             },
             {
-                "time": "20:45",
+                "time": "22:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 6",
                 "channels": [
                     {
@@ -2450,7 +2464,7 @@
                 ]
             },
             {
-                "time": "20:45",
+                "time": "22:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 7",
                 "channels": [
                     {
@@ -2460,7 +2474,7 @@
                 ]
             },
             {
-                "time": "20:45",
+                "time": "22:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 8",
                 "channels": [
                     {
@@ -2470,7 +2484,7 @@
                 ]
             },
             {
-                "time": "20:45",
+                "time": "22:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 9",
                 "channels": [
                     {
@@ -2480,7 +2494,7 @@
                 ]
             },
             {
-                "time": "20:45",
+                "time": "22:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 10",
                 "channels": [
                     {
@@ -2490,7 +2504,7 @@
                 ]
             },
             {
-                "time": "20:45",
+                "time": "22:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 11",
                 "channels": [
                     {
@@ -2500,7 +2514,7 @@
                 ]
             },
             {
-                "time": "20:45",
+                "time": "22:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 12",
                 "channels": [
                     {
@@ -2510,7 +2524,7 @@
                 ]
             },
             {
-                "time": "20:45",
+                "time": "22:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 13",
                 "channels": [
                     {
@@ -2520,7 +2534,7 @@
                 ]
             },
             {
-                "time": "20:45",
+                "time": "22:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 14",
                 "channels": [
                     {
@@ -2530,7 +2544,7 @@
                 ]
             },
             {
-                "time": "20:45",
+                "time": "22:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 15",
                 "channels": [
                     {
@@ -3488,6 +3502,10 @@
                         "channel_id": "308"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "168"
+                    },
+                    {
                         "channel_name": "TSN4",
                         "channel_id": "114"
                     },
@@ -3628,6 +3646,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "166"
                     },
                     {
                         "channel_name": "TNT Sports 1 UK",
