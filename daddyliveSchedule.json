@@ -5622,6 +5622,10 @@
                         "channel_id": "107"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1070"
+                    },
+                    {
                         "channel_name": "DAZN Pro League 2 Belgium",
                         "channel_id": "3050"
                     }
@@ -5634,6 +5638,10 @@
                     {
                         "channel_name": "DAZN Pro League 1 Belgium",
                         "channel_id": "108"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1069"
                     },
                     {
                         "channel_name": "DAZN Pro League 1 Belgium",
@@ -6056,6 +6064,18 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "1651"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5035"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5036"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5037"
                     }
                 ]
             },
@@ -6250,6 +6270,18 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "1657"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5039"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5040"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5041"
                     }
                 ]
             },
@@ -9574,6 +9606,10 @@
                     {
                         "channel_name": "DAZN PPV",
                         "channel_id": "151"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5038"
                     }
                 ]
             },
@@ -9694,6 +9730,10 @@
                     {
                         "channel_name": "TVP Sport Poland",
                         "channel_id": "128"
+                    },
+                    {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -10876,6 +10916,10 @@
                     {
                         "channel_name": "BTN USA",
                         "channel_id": "397"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5149"
                     }
                 ]
             },
@@ -10884,7 +10928,7 @@
                 "event": "\ud83c\udfc8 College Football : Rice \ud83c\uddfa\ud83c\uddf8 vs Notre Dame \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
-                        "channel_name": "Peacock, NBC USA",
+                        "channel_name": "NBC USA",
                         "channel_id": "53"
                     },
                     {
@@ -10968,6 +11012,10 @@
                     {
                         "channel_name": "ESPNU USA",
                         "channel_id": "316"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5138"
                     }
                 ]
             },
@@ -10998,6 +11046,10 @@
                     {
                         "channel_name": "SEC Network USA",
                         "channel_id": "385"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5139"
                     }
                 ]
             },
@@ -11148,6 +11200,10 @@
                     {
                         "channel_name": "ESPN USA",
                         "channel_id": "44"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5136"
                     }
                 ]
             },
@@ -11158,6 +11214,10 @@
                     {
                         "channel_name": "FOX Sports 1 USA",
                         "channel_id": "39"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5145"
                     }
                 ]
             },
@@ -11168,6 +11228,10 @@
                     {
                         "channel_name": "CBS Sports Network",
                         "channel_id": "308"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5147"
                     }
                 ]
             },
@@ -11348,6 +11412,10 @@
                     {
                         "channel_name": "BTN USA",
                         "channel_id": "397"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5149"
                     }
                 ]
             },
@@ -11394,6 +11462,10 @@
                     {
                         "channel_name": "CBSNY USA",
                         "channel_id": "767"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5132"
                     }
                 ]
             },
@@ -11408,6 +11480,10 @@
                     {
                         "channel_name": "NBCNY USA",
                         "channel_id": "769"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5134"
                     }
                 ]
             },
@@ -11418,6 +11494,10 @@
                     {
                         "channel_name": "ACC Network USA",
                         "channel_id": "664"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5140"
                     }
                 ]
             },
@@ -11428,6 +11508,10 @@
                     {
                         "channel_name": "ESPNU USA",
                         "channel_id": "316"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5138"
                     }
                 ]
             },
@@ -11448,6 +11532,10 @@
                     {
                         "channel_name": "SEC Network USA",
                         "channel_id": "385"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5139"
                     }
                 ]
             },
@@ -11458,6 +11546,10 @@
                     {
                         "channel_name": "ESPN2 USA",
                         "channel_id": "45"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5137"
                     }
                 ]
             },
@@ -11508,6 +11600,10 @@
                     {
                         "channel_name": "FOX Sports 1 USA",
                         "channel_id": "39"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5145"
                     }
                 ]
             },
@@ -11528,6 +11624,10 @@
                     {
                         "channel_name": "ESPN USA",
                         "channel_id": "44"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5136"
                     }
                 ]
             },
@@ -11538,6 +11638,10 @@
                     {
                         "channel_name": "CBS Sports Network",
                         "channel_id": "308"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5147"
                     }
                 ]
             },
@@ -11548,6 +11652,10 @@
                     {
                         "channel_name": "CW USA",
                         "channel_id": "300"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5135"
                     }
                 ]
             },
@@ -11558,6 +11666,10 @@
                     {
                         "channel_name": "BTN USA",
                         "channel_id": "397"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5149"
                     }
                 ]
             }
