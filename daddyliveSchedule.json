@@ -8220,6 +8220,10 @@
                         "channel_id": "667"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "201"
+                    },
+                    {
                         "channel_name": "Sky Sports Mix UK",
                         "channel_id": "449"
                     },
@@ -8538,6 +8542,10 @@
                         "channel_id": "7"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "109"
+                    },
+                    {
                         "channel_name": "NFL Sunday Ticket",
                         "channel_id": "8082"
                     },
@@ -8558,6 +8566,10 @@
                     {
                         "channel_name": "NFL Sunday Ticket",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "107"
                     },
                     {
                         "channel_name": "NFL Sunday Ticket",
@@ -8642,6 +8654,10 @@
                         "channel_id": "11"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "106"
+                    },
+                    {
                         "channel_name": "NFL Sunday Ticket",
                         "channel_id": "8083"
                     },
@@ -8694,6 +8710,10 @@
                     {
                         "channel_name": "NFL Sunday Ticket",
                         "channel_id": "14"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "108"
                     },
                     {
                         "channel_name": "NFL Sunday Ticket",
