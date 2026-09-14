@@ -1,5 +1,63 @@
 {
     "Monday 14th Sep 2026 - Schedule Time UK GMT": {
+        "78th Emmy Awards 2026 \u2728": [
+            {
+                "time": "00:00",
+                "event": "\u2728 E! Live From the Red Carpet: Emmys 2026, Episode 8 \u2022 Live",
+                "channels": [
+                    {
+                        "channel_name": "E! Entertainment Television",
+                        "channel_id": "315"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "\u2728 78th Emmy Awards \u2022 Live \ud83d\udcfa",
+                "channels": [
+                    {
+                        "channel_name": "NBCNY USA",
+                        "channel_id": "769"
+                    },
+                    {
+                        "channel_name": "NBC USA",
+                        "channel_id": "53"
+                    },
+                    {
+                        "channel_name": "Award Stream",
+                        "channel_id": "5004"
+                    },
+                    {
+                        "channel_name": "Backup Awards Stream",
+                        "channel_id": "5002"
+                    },
+                    {
+                        "channel_name": "Backup Awards Stream",
+                        "channel_id": "5008"
+                    },
+                    {
+                        "channel_name": "Backup Awards Stream",
+                        "channel_id": "5009"
+                    }
+                ]
+            }
+        ],
+        "PPV Events": [
+            {
+                "time": "02:15",
+                "event": "World of Outlaws Sprints El Paso",
+                "channels": [
+                    {
+                        "channel_name": "FLORacing PPV",
+                        "channel_id": "30"
+                    },
+                    {
+                        "channel_name": "FLORacing PPV",
+                        "channel_id": "5000"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "20:30",
@@ -212,36 +270,12 @@
                 ]
             },
             {
-                "time": "00:00",
-                "event": "\ud83d\udcfa E! Live From the Red Carpet: Emmys 2026, Episode 8 \u2022 Live",
-                "channels": [
-                    {
-                        "channel_name": "E! Entertainment Television",
-                        "channel_id": "315"
-                    }
-                ]
-            },
-            {
                 "time": "01:00",
                 "event": "\ud83d\udcfa Jeopardy! S43, E1 \u2022 Premiere",
                 "channels": [
                     {
                         "channel_name": "ABC NY USA",
                         "channel_id": "766"
-                    }
-                ]
-            },
-            {
-                "time": "02:00",
-                "event": "\ud83d\udcfa 78th Emmy Awards \u2022 Live",
-                "channels": [
-                    {
-                        "channel_name": "NBCNY USA",
-                        "channel_id": "769"
-                    },
-                    {
-                        "channel_name": "NBC USA",
-                        "channel_id": "53"
                     }
                 ]
             },
@@ -2450,6 +2484,10 @@
                     {
                         "channel_name": "RAW Netflix PPV",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Netflix PPV",
+                        "channel_id": "5010"
                     },
                     {
                         "channel_name": "SuperSport Variety 4",
