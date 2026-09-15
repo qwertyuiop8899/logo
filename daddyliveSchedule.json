@@ -2484,6 +2484,10 @@
                         "channel_id": "372"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "86"
+                    },
+                    {
                         "channel_name": "Sport TV1 Portugal",
                         "channel_id": "49"
                     },
@@ -2530,6 +2534,10 @@
                         "channel_id": "425"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "105"
+                    },
+                    {
                         "channel_name": "Sport TV2 Portugal",
                         "channel_id": "74"
                     },
@@ -2558,6 +2566,20 @@
                     {
                         "channel_name": "SporTV BR",
                         "channel_id": "78"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brazil - Serie B : Londrina vs Ponte Preta",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "107"
                     }
                 ]
             },
@@ -3676,6 +3698,10 @@
                         "channel_id": "1"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "108"
+                    },
+                    {
                         "channel_name": "NBCS California USA",
                         "channel_id": "755"
                     }
@@ -3688,6 +3714,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "109"
                     },
                     {
                         "channel_name": "Chicago Sports Network",
@@ -3704,6 +3734,10 @@
                         "channel_id": "3"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "151"
+                    },
+                    {
                         "channel_name": "Spectrum SportsNet LA",
                         "channel_id": "764"
                     }
@@ -3716,6 +3750,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "110"
                     },
                     {
                         "channel_name": "beIN Sports 4 Max France",
@@ -3734,6 +3772,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "152"
                     },
                     {
                         "channel_name": "NBCS Philadelphia USA",
