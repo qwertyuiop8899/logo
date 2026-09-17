@@ -1,5 +1,57 @@
 {
     "Thursday 17th Sep 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:30",
+                "event": "\ud83c\udfac PDRA Brian Olson World Finals",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing PPV",
+                        "channel_id": "195"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "\ud83c\udfc1 STSS Fonda 200",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing PPV",
+                        "channel_id": "196"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "\ud83c\udfc1 Legendary 100 Cedar Lake",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision PPV",
+                        "channel_id": "197"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\ud83c\udfce\ufe0f High Limit Racing Lucas Oil Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing PPV",
+                        "channel_id": "198"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "\ud83d\udc4a Power Slap 23",
+                "channels": [
+                    {
+                        "channel_name": "YouTube PPV",
+                        "channel_id": "199"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "20:30",
@@ -2714,6 +2766,16 @@
                 ]
             },
             {
+                "time": "00:30",
+                "event": "\u26bd Bolivia Divisi\u00f3n Profesional : CD Real Tomayapo vs Oriente Petrolero",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "181"
+                    }
+                ]
+            },
+            {
                 "time": "01:00",
                 "event": "\u26bd \ud83c\udde8\ud83c\uddf4 Colombia - Primera A : Atl\u00e9tico Bucaramanga \ud83c\udde8\ud83c\uddf4 vs Medell\u00edn \ud83c\udde8\ud83c\uddf4",
                 "channels": [
@@ -3982,7 +4044,7 @@
         ],
         "Snooker \ud83c\udfb1": [
             {
-                "time": "21:20",
+                "time": "00:17",
                 "event": "\ud83c\udfb1 \ud83c\uddec\ud83c\udde7 Snooker Northern Ireland Open \u2014 Table 1",
                 "channels": [
                     {
@@ -3992,7 +4054,7 @@
                 ]
             },
             {
-                "time": "21:20",
+                "time": "00:17",
                 "event": "\ud83c\udfb1 \ud83c\uddec\ud83c\udde7 Snooker Northern Ireland Open \u2014 Table 2",
                 "channels": [
                     {
@@ -4002,7 +4064,7 @@
                 ]
             },
             {
-                "time": "21:20",
+                "time": "00:17",
                 "event": "\ud83c\udfb1 \ud83c\uddec\ud83c\udde7 Snooker Northern Ireland Open \u2014 Table 3",
                 "channels": [
                     {
@@ -4012,7 +4074,7 @@
                 ]
             },
             {
-                "time": "21:20",
+                "time": "00:17",
                 "event": "\ud83c\udfb1 \ud83c\uddec\ud83c\udde7 Snooker Northern Ireland Open \u2014 Table 4",
                 "channels": [
                     {
