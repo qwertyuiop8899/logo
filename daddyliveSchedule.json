@@ -1200,6 +1200,60 @@
                     {
                         "channel_name": "TNT SPORTS Premium HD Chile",
                         "channel_id": "642"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf4 Colombia Primera B : Real Santander vs Orsomarso",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf4 Colombia Primera B : Ind Valle del Cauca vs Inter Palmira",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf4 Colombia Primera B : Atletico FC vs Tigres",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\u26bd Paraguay Copa : 2 de Mayo vs Sol de America",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brazil Serie B : Criciuma vs Operario-PR",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
                     }
                 ]
             },
@@ -2888,7 +2942,7 @@
                 ]
             },
             {
-                "time": "20:28",
+                "time": "00:54",
                 "event": "\ud83c\udfb1 Snooker Scottish Open \u2014 Table 1",
                 "channels": [
                     {
@@ -2898,7 +2952,7 @@
                 ]
             },
             {
-                "time": "20:28",
+                "time": "00:54",
                 "event": "\ud83c\udfb1 Snooker Scottish Open \u2014 Table 2",
                 "channels": [
                     {
@@ -2908,7 +2962,7 @@
                 ]
             },
             {
-                "time": "20:28",
+                "time": "00:54",
                 "event": "\ud83c\udfb1 Snooker Scottish Open \u2014 Table 3",
                 "channels": [
                     {
@@ -2918,7 +2972,7 @@
                 ]
             },
             {
-                "time": "20:28",
+                "time": "00:54",
                 "event": "\ud83c\udfb1 Snooker Scottish Open \u2014 Table 4",
                 "channels": [
                     {
@@ -2980,6 +3034,10 @@
                         "channel_id": "1"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
+                    },
+                    {
                         "channel_name": "MASN USA",
                         "channel_id": "829"
                     },
@@ -3002,6 +3060,10 @@
                         "channel_id": "2"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
+                    },
+                    {
                         "channel_name": "NBCS Philadelphia USA",
                         "channel_id": "777"
                     }
@@ -3016,6 +3078,10 @@
                         "channel_id": "3"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
+                    },
+                    {
                         "channel_name": "SportsNet Pittsburgh",
                         "channel_id": "922"
                     }
@@ -3028,6 +3094,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
                     }
                 ]
             },
@@ -3038,6 +3108,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
                     },
                     {
                         "channel_name": "NESN USA",
@@ -3084,6 +3158,10 @@
                     {
                         "channel_name": "Fox Sports 3 Argentina",
                         "channel_id": "789"
+                    },
+                    {
+                        "channel_name": "MLB League Pass",
+                        "channel_id": "4021"
                     }
                 ]
             },
@@ -3094,6 +3172,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "7"
+                    },
+                    {
+                        "channel_name": "MLB League Pass",
+                        "channel_id": "4022"
                     }
                 ]
             },
@@ -3108,6 +3190,10 @@
                     {
                         "channel_name": "Chicago Sports Network",
                         "channel_id": "776"
+                    },
+                    {
+                        "channel_name": "MLB League Pass",
+                        "channel_id": "4023"
                     }
                 ]
             },
@@ -3122,6 +3208,10 @@
                     {
                         "channel_name": "Marquee Sports Network USA",
                         "channel_id": "770"
+                    },
+                    {
+                        "channel_name": "MLB League Pass",
+                        "channel_id": "4024"
                     }
                 ]
             },
@@ -3136,6 +3226,10 @@
                     {
                         "channel_name": "SportsNet New York USA",
                         "channel_id": "759"
+                    },
+                    {
+                        "channel_name": "MLB League Pass",
+                        "channel_id": "4025"
                     }
                 ]
             },
@@ -3146,6 +3240,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "11"
+                    },
+                    {
+                        "channel_name": "MLB League Pass",
+                        "channel_id": "4026"
                     }
                 ]
             },
@@ -3160,6 +3258,10 @@
                     {
                         "channel_name": "NBCS California USA",
                         "channel_id": "755"
+                    },
+                    {
+                        "channel_name": "MLB League Pass",
+                        "channel_id": "4027"
                     }
                 ]
             },
@@ -3174,6 +3276,10 @@
                     {
                         "channel_name": "Space City Home Network",
                         "channel_id": "921"
+                    },
+                    {
+                        "channel_name": "MLB League Pass",
+                        "channel_id": "4028"
                     }
                 ]
             },
@@ -3188,6 +3294,10 @@
                     {
                         "channel_name": "NBCS Bay Area USA",
                         "channel_id": "753"
+                    },
+                    {
+                        "channel_name": "MLB League Pass",
+                        "channel_id": "4029"
                     }
                 ]
             },
@@ -3226,6 +3336,10 @@
                     {
                         "channel_name": "Arena 2 Premium Serbia",
                         "channel_id": "135"
+                    },
+                    {
+                        "channel_name": "MLB League Pass",
+                        "channel_id": "4030"
                     }
                 ]
             }
@@ -3342,6 +3456,10 @@
                     {
                         "channel_name": "NBCS Boston USA",
                         "channel_id": "754"
+                    },
+                    {
+                        "channel_name": "WNBA League Pass",
+                        "channel_id": "4070"
                     }
                 ]
             },
@@ -3360,6 +3478,10 @@
                     {
                         "channel_name": "TSN5",
                         "channel_id": "115"
+                    },
+                    {
+                        "channel_name": "WNBA League Pass",
+                        "channel_id": "4072"
                     }
                 ]
             },
@@ -3382,6 +3504,10 @@
                     {
                         "channel_name": "ESPN2 Brazil",
                         "channel_id": "82"
+                    },
+                    {
+                        "channel_name": "WNBA League Pass",
+                        "channel_id": "4071"
                     }
                 ]
             },
@@ -3412,6 +3538,10 @@
                     {
                         "channel_name": "ESPN2 Argentina",
                         "channel_id": "150"
+                    },
+                    {
+                        "channel_name": "WNBA League Pass",
+                        "channel_id": "4073"
                     }
                 ]
             },
@@ -3422,6 +3552,10 @@
                     {
                         "channel_name": "WNBA League Pass",
                         "channel_id": "59"
+                    },
+                    {
+                        "channel_name": "WNBA League Pass",
+                        "channel_id": "4074"
                     }
                 ]
             }
@@ -3574,7 +3708,7 @@
         ],
         "Darts \ud83c\udfaf": [
             {
-                "time": "20:28",
+                "time": "00:54",
                 "event": "\ud83c\udfaf Darts : Board 1",
                 "channels": [
                     {
@@ -3584,7 +3718,7 @@
                 ]
             },
             {
-                "time": "20:28",
+                "time": "00:54",
                 "event": "\ud83c\udfaf Darts : Board 2",
                 "channels": [
                     {
@@ -3594,7 +3728,7 @@
                 ]
             },
             {
-                "time": "20:28",
+                "time": "00:54",
                 "event": "\ud83c\udfaf Darts : Board 3",
                 "channels": [
                     {
@@ -3604,7 +3738,7 @@
                 ]
             },
             {
-                "time": "20:28",
+                "time": "00:54",
                 "event": "\ud83c\udfaf Darts : Board 4",
                 "channels": [
                     {
@@ -3938,6 +4072,10 @@
                     {
                         "channel_name": "NESN USA",
                         "channel_id": "762"
+                    },
+                    {
+                        "channel_name": "NHL Game Pass",
+                        "channel_id": "4060"
                     }
                 ]
             },
@@ -3956,6 +4094,10 @@
                     {
                         "channel_name": "MAX Sport 2 Bulgaria",
                         "channel_id": "473"
+                    },
+                    {
+                        "channel_name": "NHL Game Pass",
+                        "channel_id": "4064"
                     }
                 ]
             },
@@ -3970,6 +4112,10 @@
                     {
                         "channel_name": "SportsNet Pittsburgh",
                         "channel_id": "922"
+                    },
+                    {
+                        "channel_name": "NHL Game Pass",
+                        "channel_id": "4061"
                     }
                 ]
             },
@@ -3980,6 +4126,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "19"
+                    },
+                    {
+                        "channel_name": "NHL Game Pass",
+                        "channel_id": "4062"
                     }
                 ]
             },
@@ -3994,6 +4144,10 @@
                     {
                         "channel_name": "MSG USA",
                         "channel_id": "765"
+                    },
+                    {
+                        "channel_name": "NHL Game Pass",
+                        "channel_id": "4063"
                     }
                 ]
             },
@@ -4004,6 +4158,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "21"
+                    },
+                    {
+                        "channel_name": "NHL Game Pass",
+                        "channel_id": "4066"
                     }
                 ]
             },
@@ -4018,6 +4176,10 @@
                     {
                         "channel_name": "TSN3",
                         "channel_id": "113"
+                    },
+                    {
+                        "channel_name": "NHL Game Pass",
+                        "channel_id": "4065"
                     }
                 ]
             },
@@ -4032,6 +4194,10 @@
                     {
                         "channel_name": "Sportsnet One",
                         "channel_id": "411"
+                    },
+                    {
+                        "channel_name": "NHL Game Pass",
+                        "channel_id": "4067"
                     }
                 ]
             },
@@ -4046,6 +4212,10 @@
                     {
                         "channel_name": "NHL Network USA",
                         "channel_id": "663"
+                    },
+                    {
+                        "channel_name": "NHL Game Pass",
+                        "channel_id": "4069"
                     }
                 ]
             },
@@ -4056,6 +4226,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "24"
+                    },
+                    {
+                        "channel_name": "NHL Game Pass",
+                        "channel_id": "4068"
                     }
                 ]
             }
