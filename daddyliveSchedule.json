@@ -8,6 +8,10 @@
                     {
                         "channel_name": "DIRTVision PPV",
                         "channel_id": "20"
+                    },
+                    {
+                        "channel_name": "DIRTVision PPV",
+                        "channel_id": "5010"
                     }
                 ]
             }
@@ -812,12 +816,66 @@
                 ]
             },
             {
+                "time": "23:00",
+                "event": "\u26bd Colombia Primera B : Leones vs Barranquilla",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\u26bd Bolivia Copa : GV San Jose vs Independiente",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\u26bd Chile Copa : Antofagasta vs U De Chile",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\u26bd Chile Copa : Coquimbo vs Cobreloa",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\u26bd Colombia Primera B : Boca Juniors vs U Magdalena",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
+                    }
+                ]
+            },
+            {
                 "time": "00:30",
                 "event": "\u26bd Brazil - Brasileir\u00e3o : RB Bragantino \ud83c\udde7\ud83c\uddf7 vs Mirassol \ud83c\udde7\ud83c\uddf7",
                 "channels": [
                     {
                         "channel_name": "\ud83d\udcfa Premiere 5 BR",
                         "channel_id": "14"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
                     }
                 ]
             },
@@ -828,6 +886,10 @@
                     {
                         "channel_name": "\ud83d\udcfa Premiere 2 BR",
                         "channel_id": "15"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
                     },
                     {
                         "channel_name": "Movistar Liga de Campeones",
@@ -858,6 +920,30 @@
                     {
                         "channel_name": "\ud83d\udcfa Premiere 4 BR",
                         "channel_id": "16"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "\u26bd Brazil Serie A : Operario-PR vs Botafogo SP",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "\u26bd Brazil Serie A : Avai vs Londrina",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     }
                 ]
             },
@@ -870,8 +956,42 @@
                         "channel_id": "758"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
+                    },
+                    {
                         "channel_name": "TSN1",
                         "channel_id": "111"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\u26bd Uruguay Liga AUF : Plaza Colonia vs Juventud",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "\u26bd Brazil Serie B : Vila Nova FC vs Cuiaba",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1223"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "\u26bd Brazil Serie B : CRB vs Atletico GO",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1224"
                     }
                 ]
             },
@@ -882,6 +1002,10 @@
                     {
                         "channel_name": "\ud83d\udcfa Premiere 3 BR",
                         "channel_id": "17"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     }
                 ]
             },
@@ -892,6 +1016,10 @@
                     {
                         "channel_name": "\ud83d\udcfa ESPN Brazil",
                         "channel_id": "81"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1225"
                     }
                 ]
             },
@@ -902,6 +1030,10 @@
                     {
                         "channel_name": "\ud83d\udcfa Canal 11 Portugal",
                         "channel_id": "540"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1222"
                     }
                 ]
             },
@@ -2236,6 +2368,14 @@
                     {
                         "channel_name": "CBS Sports Network",
                         "channel_id": "308"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4030"
                     }
                 ]
             },
@@ -2248,8 +2388,16 @@
                         "channel_id": "45"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
+                    },
+                    {
                         "channel_name": "TSN2",
                         "channel_id": "112"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4031"
                     }
                 ]
             }
@@ -2262,6 +2410,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "8"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
                     },
                     {
                         "channel_name": "TNT Sports 1 UK",
@@ -2308,6 +2460,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "7"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
                     },
                     {
                         "channel_name": "TNT Sports 2 UK",
@@ -2366,6 +2522,14 @@
                     {
                         "channel_name": "ESPN2 Brazil",
                         "channel_id": "82"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4017"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5020"
                     }
                 ]
             },
@@ -2396,6 +2560,10 @@
                     {
                         "channel_name": "ESPN4 Brazil",
                         "channel_id": "85"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4018"
                     }
                 ]
             }
@@ -2802,6 +2970,10 @@
                         "channel_id": "44"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
+                    },
+                    {
                         "channel_name": "ESPN Deportes",
                         "channel_id": "355"
                     },
@@ -2828,6 +3000,10 @@
                     {
                         "channel_name": "Sport 5 Plus Israel",
                         "channel_id": "145"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4070"
                     }
                 ]
             },
@@ -2846,6 +3022,10 @@
                     {
                         "channel_name": "Sport 5 Plus Israel",
                         "channel_id": "145"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4071"
                     }
                 ]
             }
@@ -2860,12 +3040,20 @@
                         "channel_id": "9"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    },
+                    {
                         "channel_name": "NBA TV USA",
                         "channel_id": "404"
                     },
                     {
                         "channel_name": "beIN Sports 5 Max France",
                         "channel_id": "495"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4065"
                     }
                 ]
             },
@@ -2880,6 +3068,10 @@
                     {
                         "channel_name": "Chicago Sports Network",
                         "channel_id": "776"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4068"
                     }
                 ]
             },
@@ -2890,6 +3082,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "11"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4066"
                     }
                 ]
             },
@@ -2904,6 +3100,10 @@
                     {
                         "channel_name": "Sport 5 Stars Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4067"
                     }
                 ]
             },
@@ -2926,6 +3126,10 @@
                     {
                         "channel_name": "Sport 5 Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4069"
                     }
                 ]
             }
@@ -3466,12 +3670,20 @@
                         "channel_id": "2"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
+                    },
+                    {
                         "channel_name": "Altitude USA",
                         "channel_id": "923"
                     },
                     {
                         "channel_name": "Viasat Vinter",
                         "channel_id": "18"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4051"
                     }
                 ]
             },
@@ -3482,6 +3694,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
                     },
                     {
                         "channel_name": "Viaplay Sports 2 UK",
@@ -3502,6 +3718,10 @@
                     {
                         "channel_name": "V Sport Extra Sweden",
                         "channel_id": "19"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4050"
                     }
                 ]
             },
@@ -3528,6 +3748,10 @@
                     {
                         "channel_name": "V Sport Premium",
                         "channel_id": "572"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4052"
                     }
                 ]
             }
