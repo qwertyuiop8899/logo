@@ -38,10 +38,11 @@ jobs:
         run: |
           rm -f daddyliveSchedule.json
           rm -f 247.html
-         
-      # ===== ESTRAZIONE SCHEDULE CON FLARESOLVERR =====
+          
+      # ===== ESTRAZIONE SCHEDULE CON WORKER =====
       - name: "Extract Schedule from DaddyLive"
         env:
+          WORKER_URL: ${{ secrets.WORKER_URL }}
           FLARESOLVERR_URL: ${{ secrets.FLARESOLVERR_URL }}
         run: |
           echo "=== Starting Schedule extraction ==="
