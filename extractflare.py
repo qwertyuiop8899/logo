@@ -8,14 +8,21 @@ from bs4 import BeautifulSoup
 # ==========================================
 # Configurazione
 # ==========================================
-DLHD_BASE = "https://dlive.sx/"
-DLHD_247_URL = DLHD_BASE + "24-7-channels.php"
+# Legge WORKER_URL (o FLARESOLVERR_URL per retrocompatibilità se non cambi nome al secret)
+WORKER_URL = (os.getenv("WORKER_URL") or os.getenv("FLARESOLVERR_URL") or "").rstrip("/")
+
+DLHD_BASE = f"{WORKER_URL}/"
+DLHD_247_URL = f"{WORKER_URL}/24-7-channels.php"
 OUTPUT_247_HTML = "247.html"
 OUTPUT_SCHEDULE_JSON = "daddyliveSchedule.json"
 RETRIES = int(os.getenv("DLHD_RETRIES", "3"))
-# FlareSolverr per bypassare Cloudflare
-FLARESOLVERR_URL = os.getenv("FLARESOLVERR_URL")
-# anna.mosene@gmail.com su huggingface
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7"
+}
+
 # ==========================================
 # Parsing schedule -> JSON
 # ==========================================
@@ -24,13 +31,6 @@ def html_to_json(html_content):
     """Converte il contenuto HTML della programmazione in formato JSON organizzato per giorno / categoria / eventi."""
     soup = BeautifulSoup(html_content, 'html.parser')
     result = {}
-
-    # ATTENZIONE MANUTENZIONE:
-    # La prima versione di questo script aveva la regex dei link canale scritta come r'/watch\\.php\\?id=\\d+'.
-    # Essendo una raw string con backslash doppi, il pattern realizzato cercava letteralmente le sequenze "\\." e "\\?"
-    # e NON trovava i link reali "/watch.php?id=123" -> risultato: channels[] sempre vuoto.
-    # Ora il pattern corretto (usato più sotto) è r'/watch\.php\?id=\d+' (singolo livello di escape) così i channel_id vengono estratti.
-    # Se in futuro cambia la struttura degli href (es. query string diversa), aggiornare di conseguenza.
 
     schedule_div = soup.find('div', id='schedule')
     if not schedule_div:
@@ -68,15 +68,13 @@ def html_to_json(html_content):
                 }
                 channels_div = event_div.find('div', class_='schedule__channels')
                 if channels_div:
-                    # NOTE: la regex precedente era doppiamente escape (r'/watch\\.php\\?id=\\d+') e non matchava l'href reale.
-                    # Corretto pattern: /watch\.php?id=123  (usando raw string singolo livello)
                     for link in channels_div.find_all('a', href=re.compile(r'/watch\.php\?id=\d+')):
                         href = link.get('href', '')
                         channel_id_match = re.search(r'id=(\d+)', href)
                         if channel_id_match:
                             channel_id = channel_id_match.group(1)
                             channel_name = link.text.strip()
-                            channel_name = re.sub(r'\\s*CH-\\d+$', '', channel_name).strip()
+                            channel_name = re.sub(r'\s*CH-\d+$', '', channel_name).strip()
                             event_data["channels"].append({
                                 "channel_name": channel_name,
                                 "channel_id": channel_id
@@ -88,51 +86,40 @@ def html_to_json(html_content):
 def modify_json_file(json_file_path):
     with open(json_file_path, "r", encoding="utf-8") as f:
         data = json.load(f)
-    # Se servissero modifiche future alle chiavi data si possono inserire qui
     with open(json_file_path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4)
     print(f"File JSON normalizzato salvato in {json_file_path}")
 
 # ==========================================
-# FlareSolverr
+# Richiesta tramite Cloudflare Worker
 # ==========================================
 
-def fetch_with_flaresolverr(url, max_timeout=60000):
-    """Usa FlareSolverr per bypassare Cloudflare e ottenere l'HTML."""
-    print(f"[FLARE] Richiesta a FlareSolverr per: {url}")
-    
-    payload = {
-        "cmd": "request.get",
-        "url": url,
-        "maxTimeout": max_timeout
-    }
-    
+def fetch_via_worker(url):
+    """Effettua una richiesta GET diretta passando dal Cloudflare Worker."""
+    if not WORKER_URL:
+        print("[WORKER] ✗ Errore: Variabile segreta WORKER_URL / FLARESOLVERR_URL non impostata!")
+        return None
+
+    print(f"[WORKER] Richiesta GET a: {url}")
     try:
-        response = requests.post(FLARESOLVERR_URL, json=payload, timeout=120)
+        response = requests.get(url, headers=HEADERS, timeout=60)
         response.raise_for_status()
-        data = response.json()
-        
-        if data.get("status") == "ok":
-            solution = data.get("solution", {})
-            html_content = solution.get("response")
-            print(f"[FLARE] ✓ Successo! HTML ricevuto ({len(html_content)} bytes)")
-            return html_content
-        else:
-            print(f"[FLARE] ✗ Errore: {data.get('message', 'Unknown error')}")
-            return None
+        html_content = response.text
+        print(f"[WORKER] ✓ Successo! HTML ricevuto ({len(html_content)} bytes)")
+        return html_content
     except Exception as e:
-        print(f"[FLARE] ✗ Eccezione: {e}")
+        print(f"[WORKER] ✗ Eccezione: {e}")
         return None
 
 
 def fetch_247_channels_html():
-    """Usa FlareSolverr per scaricare la pagina dei canali 24/7."""
+    """Usa il Worker per scaricare la pagina dei canali 24/7."""
     print(f"[24/7] Download pagina: {DLHD_247_URL}")
     
     for attempt in range(1, RETRIES + 1):
         try:
             print(f"[24/7] Tentativo {attempt}/{RETRIES}...")
-            html_content = fetch_with_flaresolverr(DLHD_247_URL)
+            html_content = fetch_via_worker(DLHD_247_URL)
             
             if not html_content or len(html_content) < 500:
                 raise ValueError(f"Contenuto troppo corto: {len(html_content) if html_content else 0} bytes")
@@ -147,19 +134,19 @@ def fetch_247_channels_html():
             if attempt < RETRIES:
                 print("[24/7] Retry...")
     
-    print(f"[24/7] FALLITO definitivamente")
+    print("[24/7] FALLITO definitivamente")
     return False
 
 
 def extract_schedule_container():
-    """Usa FlareSolverr per ottenere lo schedule dalla homepage."""
+    """Usa il Worker per ottenere lo schedule dalla homepage."""
     url = DLHD_BASE
-    print(f"[SCHEDULE] Accesso alla pagina {url} tramite FlareSolverr...")
+    print(f"[SCHEDULE] Accesso alla pagina {url} tramite Worker...")
     
     for attempt in range(1, RETRIES + 1):
         try:
             print(f"[SCHEDULE] Tentativo {attempt}/{RETRIES}...")
-            schedule_content = fetch_with_flaresolverr(url)
+            schedule_content = fetch_via_worker(url)
             
             if not schedule_content or len(schedule_content) < 1000:
                 raise ValueError(f"HTML troppo corto: {len(schedule_content) if schedule_content else 0} bytes")
@@ -177,7 +164,7 @@ def extract_schedule_container():
             if attempt < RETRIES:
                 print("[SCHEDULE] Retry...")
     
-    print(f"[SCHEDULE] FALLITO definitivamente")
+    print("[SCHEDULE] FALLITO definitivamente")
     return False
 
 # ==========================================
